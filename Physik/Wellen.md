@@ -58,6 +58,16 @@ Unter Phasenbeziehung versteht man den Unterschied zwischen den einzelnen Phasen
 
 Eine Phasenbeziehung kann auch zwischen harmonischen Wellen bestehen. Dabei sucht man sich einen Träger und rechnet die Differenz der Phasen der beiden Schwingungen in dem Träger aus.
 
+### Kohärenz
+
+In der Physik beschreibt die Kohärenz die Eigenschaft von Wellen, **einem gemeinsamen Verlauf zu folgen**.
+
+Zwei Wellenlängen sind dann kohärent, wenn ihre Phasenverschiebung die ganze Zeit konstant bleibt.
+
+Schallwellen können quasi unendlich lange Kohärent sein, da sie sich im selben Muster bewegen. Licht hingegen besteht aus vielen unterschiedlichen Wellenlängen (auch wenn z. B. beim Laser fast monofrequent). Das führt dazu, dass kohärenz nicht auf lange Zeit haltbar ist.
+
+Wellen haben eine **Kohärenzlänge** dies ist die Distanz, bis wo die Wellen kohärent bzw. nahezu kohärent sind. Die Kohärenzlänge hängt von dem Erreger ab - z. B. haben Laser im Vergleich zu Glühbirnen eine lange Kohärenzlänge.
+
 ### Schwingungsdauer / Frequenz
 
 Zeit, die jeder einzelne Träger der harmonischen Welle für eine volle Schwingung benötigt.
@@ -83,6 +93,8 @@ Transversalwellen sind Wellen, wo die **Schwingungsrichtung senkrecht zur Ausbre
 ## Polarisation
 
 Transversalwellen können Schwingungsrichtungen in unterschiedliche Richtungen haben. Das liegt daran, dass es viele Möglichkeiten für die Schwingungsrichtung gibt, wenn diese nur senkrecht zur Ausbreitungsrichtung sein muss. Besonders bei Licht (Transversalwelle) ist dies oft der Fall.
+
+Von Lichtquellen wie der Sonne oder einer Lampe gehen meist divergent (auseinanderlaufende) Lichtbündel aus. Dabei stören sich die einzelnen "Lichtwellen" nicht gegenseitig.
 
 1. Um Licht zu polarisieren müssen die Wellen, die nicht in die gewünschte Richtung ausgerichtet sind ausgelöscht werden.
 2. Dazu wird ein Polarisationsfilter benutzt.
@@ -132,6 +144,22 @@ An einem offenen Ende (z. B. lose befestigtes Seil) kehrt die Welle ohne Phasenu
 
 - Ein Wellenbauch entsteht an der Barriere.
 
+## Transmission von Wellen (Übergang in ein anderes Medium)
+
+<https://www.leifiphysik.de/mechanik/mechanische-wellen/grundwissen/transmission-und-reflexion>
+
+### dünneres zum dichteren Medium
+
+- Beim Übergang einer Welle vom dünneren zum dichteren Medium läuft die ursprüngliche Welle mit kleinerer Amplitude und kleinerer Wellenlänge weiter.
+- Zusätzlich läuft eine zweite Welle entgegen der ursprünglichen Ausbreitungsrichtung mit kleinerer Amplitude, aber gleicher Wellenlänge zurück.
+- Dabei wird ein Wellenberg zu einem Wellental und ein Wellental zu einem Wellenberg (Reflexion am festen Ende, Phasensprung von $\pi$).
+
+### dichteres zum dünneren Medium
+
+- Beim Übergang einer Welle vom dichteren zum dünneren Medium läuft die ursprüngliche Welle mit veränderter Amplitude und größerer Wellenlänge weiter.
+- Zusätzlich läuft eine zweite Welle entgegen der ursprünglichen Ausbreitungsrichtung mit kleinerer Amplitude, aber gleicher Wellenlänge zurück.
+- Dabei bleibt ein Wellenberg ein Wellenberg und ein Wellental ein Wellental (Reflexion am losen Ende, kein Phasensprung).
+
 ## Huygens'sches Prinzip (Reflektion, Brechung, Beugung)
 
 Das Huygens'sche Prinzip lässt sich der Ausbreitungsmechanismus von Wellen verstehen. Das Prinzip lässt auch eine sehr einfache Deutung der Reflexion, Brechung und Beugung von Wellen zu.
@@ -144,6 +172,10 @@ Das Huygens'sche Prinzip besagt, dass jeder Punkt einer Welle als neue Quelle de
 
 ## Interferenz
 
-### Interferenz am Doppelspalt
+### konstruktive Interferenz
 
-### Interferenz am Gitter
+### destruktive Interferenz
+
+## Interferenz am Doppelspalt
+
+## Interferenz am Gitter
