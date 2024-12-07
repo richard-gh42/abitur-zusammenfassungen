@@ -11,7 +11,7 @@ Eine Welle ist eine räumliche und zeitliche Zustandsänderung physikalischer Gr
 - Die Ausbreitung einer Welle ist ein **Energie- und Impulstransport**, aber kein Materialtransport.
 - Die Träger der Welle erhalten also Energie und Impuls, aber verbleiben in der Regel am gleichen Ort.
   - Die Menschen bei der La Ola Welle bleiben an ihrem Platz stehen, trotz der Welle.
-- Die Träger kann man sich als ein Element der Welle, welches mit der Welle _mitschwingt_ - also besteht eine Welle aus vielen kleinen **schwingenden Trägern**.
+- Die Träger der Welle sind einzelne Punkte der Welle. Die kann man sich wie ein Oszillator, der mit der Welle _mitschwingt_ vorstellen - also besteht eine Welle aus vielen kleinen **schwingenden Trägern**.
 
 ## Ausbreitung einer Welle
 
