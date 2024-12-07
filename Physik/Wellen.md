@@ -38,13 +38,15 @@ Sehr häufig wird der von außen angeregte Träger (Quelle) zu einer Sinusschwin
 
 ### Wellenberg / -tal
 
+Der Wellenberg bzw. -tal ist der Ort höchster bzw. niedrigster Ausrichtung.
+
 ### Amplitude
 
 Maximale Auslenkung der schwingenden Träger einer Welle aus ihrer Ruhelage. Also die Auslenkung des Wellenbergs bzw. Wellentals.
 
-### volle Schwingung
+### vollständige Schwingung
 
-Eine volle Schwingung ist dann beendet, wenn sich der Träger in dem exakt gleichen Zustand befindet (gleiche Höhe und gleiche Bewegungsrichtung).
+Eine vollständige Schwingung ist dann beendet, wenn sich der Träger in dem exakt gleichen Zustand befindet (gleiche Höhe und gleiche Bewegungsrichtung).
 
 ### Phase
 
@@ -68,25 +70,77 @@ Die Ausbreitungsgeschwindigkeit beschreibt die Geschwindigkeit mit der sich die 
 
 Die Wellenlänge ist der Abstand zwischen zwei Trägern, die um eine volle Schwingung verschoben sind - also z. B. zwei nebeneinanderliegenden Wellenbergen.
 
-## Die Wellenfunktion
-
 ## Wellenarten
 
 ### Longitudinalwellen
 
+Longitudinalwellen sind Wellen, wo die **Schwingungsrichtung gleich der Ausbreitungsrichtung** ist. Ein Beispiel währe eine Schallwelle.
+
 ### Transversalwellen (polarisierbar)
 
-#### Polarisation
+Transversalwellen sind Wellen, wo die **Schwingungsrichtung senkrecht zur Ausbreitungsrichtung** ist. Beispiele sind die La Ola Welle.
+
+## Polarisation
+
+Transversalwellen können Schwingungsrichtungen in unterschiedliche Richtungen haben. Das liegt daran, dass es viele Möglichkeiten für die Schwingungsrichtung gibt, wenn diese nur senkrecht zur Ausbreitungsrichtung sein muss. Besonders bei Licht (Transversalwelle) ist dies oft der Fall.
+
+1. Um Licht zu polarisieren müssen die Wellen, die nicht in die gewünschte Richtung ausgerichtet sind ausgelöscht werden.
+2. Dazu wird ein Polarisationsfilter benutzt.
+3. Diesen kann man sich als Gitter, welches mit allen Wellen, die nicht mit den Gitterspalten ausgerichtet sind, wechselwirkt und auslöscht.
+4. Auf der anderen Seite kommt fast vollständiges polarisiertes Licht heraus.
+
+Wenn man 2 Polerisationsfilter mit 90° Drehung hintereinander hält kommt kein Licht mehr durch.
 
 ## Reflexion von Wellen
 
-### loses Ende
+Trifft eine Welle auf ein Hindernis wird diese Reflektiert. Dabei entschedet man zwischen einem losen und festen Ende:
 
 ### festes Ende
 
+Eine Welle wird an einem festen Ende mit einem **Phasensprung** reflektiert. Das bedeutet das aus jedem Wellenberg ein Wellental und Wellental ein Wellenberg wird.
+
+### loses Ende
+
+Eine Welle wird an einem losen Ende ohne einem Phasensprung reflektiert.
+
 ## Stehende Wellen
 
-## Beugung
+Stehende Wellen können bei Überlagerung von zwei Wellen gleicher Frequenz und gleicher Amplitude (identisch) entstehen.
+
+Die resultierende Welle scheint zu "stehen", weil ihre Form zeitlich konstant bleibt, auch wenn Energie zwischen Knotenpunkten (keine Auslenkung) und Bäuchen (Orten maximaler Auslenkung) schwingt.
+
+Der Abstand zwischen zwei Knoten bzw. Bäuchen beträgt $\frac{\lambda}{2}$ der sich überlagernden Wellen.
+
+<https://www.leifiphysik.de/mechanik/mechanische-wellen/grundwissen/stehende-wellen-entstehung>
+
+### Stehende Wellen durch Reflektion
+
+1. Eine Welle breitet sich in einem Medium aus, z. B. entlang eines Seils oder in einem akustischen Rohr.
+2. Wenn diese Welle auf eine Barriere trifft, wird sie reflektiert.
+3. Die hinlaufende und reflektierte Welle überlagern sich.
+4. Durch konstruktive Interferenz an bestimmten Punkten (Bäuche) und destruktive Interferenz an anderen Punkten (Knoten) entsteht eine stehende Welle.
+
+#### Reflexionstypen
+
+An einer festen Barriere (z. B. festgebundenes Seilende) kehrt die reflektierte Welle mit umgekehrter Phase zurück.
+
+- Der Knoten entsteht genau an der Barriere.
+
+---
+
+An einem offenen Ende (z. B. lose befestigtes Seil) kehrt die Welle ohne Phasenumkehr zurück.
+
+- Ein Wellenbauch entsteht an der Barriere.
+
+## Huygens'sches Prinzip (Reflektion, Brechung, Beugung)
+
+Das Huygens'sche Prinzip lässt sich der Ausbreitungsmechanismus von Wellen verstehen. Das Prinzip lässt auch eine sehr einfache Deutung der Reflexion, Brechung und Beugung von Wellen zu.
+
+Das Huygens'sche Prinzip besagt, dass jeder Punkt einer Welle als neue Quelle der Welle gesehen werden kann.
+
+### Reflektion, Brechung, Beugung
+
+<https://www.leifiphysik.de/mechanik/mechanische-wellen/ausblick/huygenssches-prinzip-zur-beschreibung-von-mechanischen-wellen>
 
 ## Interferenz
 
