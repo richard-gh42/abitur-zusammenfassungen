@@ -4,7 +4,7 @@
 Eine Welle ist eine räumliche und zeitliche Zustandsänderung physikalischer Größen, die meist nach bestimmten periodischen Gesetzmäßigkeiten erfolgt.
 ```
 
-- Wellen benötigen ein **Medium**.
+- Wellen benötigen im Regelfall ein **Medium** (z. B. nicht elektromagnitische Wellen).
   - Im Fall einer La Ola Welle die gesamten Menschen, die bei La Ola Welle mitmachen.
 - Das Medium besteht aus den **Trägern der Welle**.
   - Bei einer La Ola Welle währe jeder Mensch ein Träger.
