@@ -30,9 +30,9 @@ Die Geschwindigkeit mit der sich die Welle durch das Medium bewegt nennt man die
 
 ## Harmonische Wellen
 
-Sehr häufig wird der von außen angeregte Träger (Quelle) zu einer Sinusschwingung angeregt. Man bezeichnet die daraufhin entstehende Welle als harmonische Welle.
+Sehr häufig wird der von außen angeregte Träger (Quelle) zu einer Sinus- oder Cosinusschwingung angeregt. Man bezeichnet die daraufhin entstehende Welle als harmonische Welle.
 
-- Eine harmonische Welle kann mit einer Sinusfunktion beschrieben werden.
+- Eine harmonische Welle kann mit einer Sinus- oder Cosinusfunktion beschrieben werden.
 
 ## Begriffe zum Beschreiben von Wellen
 
@@ -82,17 +82,17 @@ Die Wellenlänge ist der Abstand zwischen zwei Trägern, die um eine volle Schwi
 
 ## Wellenarten
 
-### Longitudinalwellen
+### Longitudinalwellen / Längswellen
 
-Longitudinalwellen sind Wellen, wo die **Schwingungsrichtung gleich der Ausbreitungsrichtung** ist. Ein Beispiel währe eine Schallwelle.
+Longitudinalwellen sind Wellen, wo die **Schwingungsrichtung gleich der Ausbreitungsrichtung** ist. Ein Beispiel währe eine Schallwelle. Alle Longitudinalwellen sind polarisiert.
 
-### Transversalwellen (polarisierbar)
+### Transversalwellen / Querwellen
 
-Transversalwellen sind Wellen, wo die **Schwingungsrichtung senkrecht zur Ausbreitungsrichtung** ist. Beispiele sind die La Ola Welle.
+Transversalwellen sind Wellen, wo die **Schwingungsrichtung senkrecht zur Ausbreitungsrichtung** ist. Beispiele sind die La Ola Welle. Transversalwellen sind nicht zwingend polarisiert, können aber polarisiert werden.
 
 ## Polarisation
 
-Transversalwellen können Schwingungsrichtungen in unterschiedliche Richtungen haben. Das liegt daran, dass es viele Möglichkeiten für die Schwingungsrichtung gibt, wenn diese nur senkrecht zur Ausbreitungsrichtung sein muss. Besonders bei Licht (Transversalwelle) ist dies oft der Fall.
+Transversalwellen können Schwingungsrichtungen in unendlich viele unterschiedliche Richtungen haben. Das liegt daran, dass es unendlich Möglichkeiten für die Schwingungsrichtung gibt, wenn diese für eine Transversalwelle senkrecht zur Ausbreitungsrichtung sein muss. Besonders bei Licht (Transversalwelle) ist dies oft der Fall.
 
 Von Lichtquellen wie der Sonne oder einer Lampe gehen meist divergent (auseinanderlaufende) Lichtbündel aus. Dabei stören sich die einzelnen "Lichtwellen" nicht gegenseitig.
 
@@ -105,7 +105,9 @@ Wenn man 2 Polerisationsfilter mit 90° Drehung hintereinander hält kommt kein 
 
 ## Reflexion von Wellen
 
-Trifft eine Welle auf ein Hindernis wird diese Reflektiert. Dabei entschedet man zwischen einem losen und festen Ende:
+Trifft eine Welle auf ein Hindernis wird diese Reflektiert. Es gilt Einfallswinkel = Ausfallswinkel.
+
+Man entschedet zwischen Reflektion an einem losen und festen Ende:
 
 ### festes Ende
 
@@ -117,7 +119,7 @@ Eine Welle wird an einem losen Ende ohne einem Phasensprung reflektiert.
 
 ## Stehende Wellen
 
-Stehende Wellen können bei Überlagerung von zwei Wellen gleicher Frequenz und gleicher Amplitude (identisch) entstehen.
+Stehende Wellen können bei Überlagerung von zwei entgegengesetzten Wellen gleicher Frequenz und gleicher Amplitude (identisch) entstehen.
 
 Die resultierende Welle scheint zu "stehen", weil ihre Form zeitlich konstant bleibt, auch wenn Energie zwischen Knotenpunkten (keine Auslenkung) und Bäuchen (Orten maximaler Auslenkung) schwingt.
 
@@ -130,9 +132,14 @@ Der Abstand zwischen zwei Knoten bzw. Bäuchen beträgt $\frac{\lambda}{2}$ der 
 1. Eine Welle breitet sich in einem Medium aus, z. B. entlang eines Seils oder in einem akustischen Rohr.
 2. Wenn diese Welle auf eine Barriere trifft, wird sie reflektiert.
 3. Die hinlaufende und reflektierte Welle überlagern sich.
-4. Durch konstruktive Interferenz an bestimmten Punkten (Bäuche) und destruktive Interferenz an anderen Punkten (Knoten) entsteht eine stehende Welle.
+4. Beide Wellen interferieren. Bei einer Interferenz werden an jedem Punkt beide Ausrichtungen der Wellen summiert und das Ergebnis ergibt die "neue" Welle.
+5. Durch konstruktive Interferenz an bestimmten Punkten (Bäuche) und destruktive Interferenz an anderen Punkten (Knoten) entsteht eine stehende Welle.
 
-#### Reflexionstypen
+#### Eigenschaften Stehender Wellen
+
+Stehende Wellen sind eigentlich keine richtigen Wellen mehr, da sie keine Energie transportieren sondern nur noch Impuls.
+
+#### Reflexionstypen bei der Stehenden Welle
 
 An einer festen Barriere (z. B. festgebundenes Seilende) kehrt die reflektierte Welle mit umgekehrter Phase zurück.
 
@@ -166,16 +173,87 @@ Das Huygens'sche Prinzip lässt sich der Ausbreitungsmechanismus von Wellen vers
 
 Das Huygens'sche Prinzip besagt, dass jeder Punkt einer Welle als neue Quelle der Welle gesehen werden kann.
 
-### Reflektion, Brechung, Beugung
+Dieser Link beschreibt das Huygens'sche Prinzip sehr anschaulich: <https://www.leifiphysik.de/mechanik/mechanische-wellen/ausblick/huygenssches-prinzip-zur-beschreibung-von-mechanischen-wellen>
 
-<https://www.leifiphysik.de/mechanik/mechanische-wellen/ausblick/huygenssches-prinzip-zur-beschreibung-von-mechanischen-wellen>
+### Reflektion von Wellen (Huygens'sches Prinzip)
+
+- Einfallswinkel = Ausfallswinkel
+
+### Brechung von Wellen (Huygens'sches Prinzip)
+
+- Transmission der Welle von einem Medium in ein anderes
+  - Veränderung der Ausbreitungsgeschwindigkeit der Welle
+- Reflektion der Welle an dem Übergang zum anderen Medium
+- Weiterlaufen der neuen Welle mit einem anderen Winkel
+  - Der Winkel kann über die Elementarwellen herausgefunden werden
+
+### Beugung von Wellen (Huygens'sches Prinzip)
+
+- Eine Welle geht an einem Hindernis vorbei / durch einen Spalt in einem Hindernis
+- Bedingung: Wellenlänge muss in der Größenordnung der Lücke sein
+  - Grund für Schall um die Ecke und Licht nicht
+
+## Huygens-Fresnelsches Prinzip
+
+Der Schwingzustand in einem Punkt eines Raumes wird bestimmt durch die Summe aller Elementarwellen, die von Wellenfronten ausgehen und die in diesem Punkt zusammentreffen.
 
 ## Interferenz
 
+Interferenz ist die Überlagerung von Wellen.
+
+Bedingungen für ein "schönes" Interferenzmuster:
+
+- identische Wellen
+  - die Amplitude kann bei konstruktiver Interferenz unterschiedlich sein, macht jedoch destruktive Interferenz unmöglich
+- eine konstante Phasenbeziehung / Kohärenz der Wellen
+  - Daher sind Laser geeigneter für ein Interferenzmuster als Sonnenlicht, da es eine längere Kohärenzlänge hat (siehe Kohörenz).
+
 ### konstruktive Interferenz
+
+Konstruktive Interferenz liegt vor, wenn an einem Ort beide Wellen in der gleichen Phase sind. So ergänzen sich die beiden Schwingungen des Trägers und bilden ein ähnliches Phänomen wie die Bäuche einer Stehenden Welle.
+
+Für eine gleiche Phase beider Wellen muss der Gangunterschied der Wellen in dem Punkt ein ganzzahliges Vielfaches der Wellenlänge sein.
 
 ### destruktive Interferenz
 
-## Interferenz am Doppelspalt
+Destruktive Interferenz liegt vor, wenn an einem Ort beide Wellen um eine halbe Phase (wenn Welle 1 Berg, dann Welle 2 Tal / umgekehrt) verschoben sind. So löschen sich die beiden Schwingungen des Trägers aus und bilden ein ähnliches Phänomen wie die Knoten einer Stehenden Welle - es findet keine Schwingung im Träger statt.
 
-## Interferenz am Gitter
+Für eine Phasenverschiebung um 180° bzw. eine halbe Phase muss der Gangunterschied der Wellen in dem Punkt ein halbzahliges ($\frac{1}{2},1+\frac{1}{2},2+\frac{1}{2},\dots$) Vielfaches der Wellenlänge sein.
+
+## Interferenz am Doppelspalt (Licht)
+
+### Aufbau des Doppelspaltexperimentes
+
+1. Lichtquelle: vorzugsweise Laser (da Kohärenzlänge sehr lang)
+2. Wenn kein Laser: Kondensator / Farbfilter und Spalt für die Erzeugung von kohärentem Licht
+3. Doppelspalt: die Spalten sollten in der Größenordnung der Wellenlänge sein, um Beugung zu ermöglichen
+4. Schirm um das Ergebnis zu visualisieren
+
+### Beobachtung beim Doppelspalt
+
+Das Schirmbild hinter zeigt Beugungs- und Interferenzerscheinungen. Es bildetn sich Zwischen den beiden Spalten ein sogenanntes 0. Maximum. Mit gleichem Abstand befinden sich in beide Richtungen weitere Maxima. Es gibt teilweise unschärfe Maxima und Licht an anderen Stellen als den Maxima, dies wird jedoch im Rahmen der Messgenauigkeit vernachlässigt.
+
+### Erklärung des Doppelspalts
+
+- An den Spalten beugt sich das Licht nach dem Huygens'schen Prinzip.
+- Es entstehten zwei identische Wellen, die interferieren.
+- Bei gleicher Phase entsteht ein konstruktives und bei um $\frac{1}{2}$ verschobener Phase ein destruktives Maximum.
+- Am Schirm finden sich Maxima und erzeugen das Interferenzmuster.
+
+### Parameter beim Doppelspalt
+
+- Spaltabstand
+  - höherer Spaltabstand => Abstand zwischen Maxima wird kleiner
+- Wellenlänge
+  - kleinere Wellenlänge => schärfere Maxima / kleinerer Abstand der Maxima
+- Spaltbreite
+  - Einfluss auf die Intensität der Maxima, jedoch nicht auf das Interferenzmuster
+
+## Interferenz am Gitter (Licht)
+
+- mehr Spalte => kein Einfluss auf den Abstand der Hauptmaxima
+- Die Hauptmaxima werden schärfer.
+- Es entstehen Nebenmaxima zwischen den Hauptmaxima.
+  - Die Anzahl der Nebenmaxima entspricht der Anzahl der Spalte minus 2.
+
+Ein Gitter wird genutz um schärfere Maxima zu erhalten, ohne die Position der Maxima zu verändern.
