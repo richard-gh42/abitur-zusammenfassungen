@@ -47,12 +47,14 @@ Bei einem Wehneltzylinder handelt es sich um einen Metallkörper, der die Glühe
 - Wenn man einen Magneten neben den Elektronenstrahl hält, wird dieser abgelenkt und man findet keine Leuchterscheinung auf dem Schirm.
 - Da Elektronen von einem Magnetfeld abgelenkt werden, handelt es sich bei der Ursache des Interferenzmuster um die Interferenz von Elektronen.
 
-## De-Broglie-Wellenlänge
+## De-BROGLIE-Wellenlänge
 
-Die De-Broglie-Wellenlänge besagt, dass jedes Objekt mit Masse und Geschwindigkeit auch eine Wellenlänge hat.
+Die De-BROGLIE-Wellenlänge besagt, dass jedes Objekt mit Masse und Geschwindigkeit auch eine Wellenlänge hat.
+
+Es werden die Eigenschaften von Photonen auf Objekte mit Ruhemasse, z.B. Elektronen übertragen.
 
 ## plancksche Konstante h
 
-## De-Broglie-Wellenlänge bei makroskopischen Objekten
+## De-BROGLIE-Wellenlänge bei makroskopischen Objekten
 
-## De-Broglie-Beziehung
+## De-BROGLIE-Beziehung
