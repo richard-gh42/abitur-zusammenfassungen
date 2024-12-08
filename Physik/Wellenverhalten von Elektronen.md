@@ -49,6 +49,10 @@ Bei einem Wehneltzylinder handelt es sich um einen Metallkörper, der die Glühe
 
 ## De-Broglie-Wellenlänge
 
+Die De-Broglie-Wellenlänge besagt, dass jedes Objekt mit Masse und Geschwindigkeit auch eine Wellenlänge hat.
+
 ## plancksche Konstante h
+
+## De-Broglie-Wellenlänge bei makroskopischen Objekten
 
 ## De-Broglie-Beziehung
