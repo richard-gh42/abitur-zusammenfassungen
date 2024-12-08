@@ -44,9 +44,9 @@ Der Wellenberg bzw. -tal ist der Ort höchster bzw. niedrigster Ausrichtung.
 
 Maximale Auslenkung der schwingenden Träger einer Welle aus ihrer Ruhelage. Also die Auslenkung des Wellenbergs bzw. Wellentals.
 
-### vollständige Schwingung
+### vollständige Periode
 
-Eine vollständige Schwingung ist dann beendet, wenn sich der Träger in dem exakt gleichen Zustand befindet (gleiche Höhe und gleiche Bewegungsrichtung).
+Eine vollständige Periode ist dann beendet, wenn sich der Träger in dem exakt gleichen Zustand befindet (gleiche Höhe und gleiche Bewegungsrichtung).
 
 ### Phase
 
@@ -68,9 +68,9 @@ Schallwellen können quasi unendlich lange Kohärent sein, da sie sich im selben
 
 Wellen haben eine **Kohärenzlänge** dies ist die Distanz, bis wo die Wellen kohärent bzw. nahezu kohärent sind. Die Kohärenzlänge hängt von dem Erreger ab - z. B. haben Laser im Vergleich zu Glühbirnen eine lange Kohärenzlänge.
 
-### Schwingungsdauer / Frequenz
+### Periodendauer / Frequenz
 
-Zeit, die jeder einzelne Träger der harmonischen Welle für eine volle Schwingung benötigt.
+Zeit, die jeder einzelne Träger der harmonischen Welle für eine volle Periode benötigt.
 
 ### Ausbreitungsgeschwindigkeit
 
