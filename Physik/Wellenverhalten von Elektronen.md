@@ -57,4 +57,6 @@ Es werden die Eigenschaften von Photonen auf Objekte mit Ruhemasse, z.B. Elektro
 
 ## De-BROGLIE-Wellenlänge bei makroskopischen Objekten
 
+Die De-BROGLIE-Wellenlänge hängt von der Masse und Geschwindigkeit ab. Wenn die Masse so groß wie bei einem makroskopischen Objekt ist, muss die Geschwindigkeit unglaublich langsam sein, um eine Wellenlänge wie beispielsweise eines Elektrons zu haben. Daher ist die De-BROGLIE-Wellenlänge bei makroskopischen Objekten praktisch nicht erkennbar.
+
 ## De-BROGLIE-Beziehung
