@@ -2,6 +2,9 @@
 
 ## Licht als Photon
 
+- Entweder gesamte Energie abgeben oder keine (elastischer Stoß)
+- Welleneigenschaften und Teilcheneigenschaften
+
 ## Statistische Vorhersagbarkeit
 
 - Die Bahn eines einzelnen Photons beim Doppelspaltexperiment kann grundsätzlich nicht genau vorhergesagt werden.

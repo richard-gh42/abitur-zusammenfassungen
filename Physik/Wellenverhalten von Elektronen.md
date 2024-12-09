@@ -37,7 +37,7 @@ Bei einem Wehneltzylinder handelt es sich um einen Metallkörper, der die Glühe
 ### Folie aus polykristallinem Graphit
 
 - besteht aus vielen Einzelkristallen, die in zufälligen Richtungen zueinander liegen
-- Die Elektronen treffen auf diese Kristalle und werden gebeugt.
+- fungiert als Gitter, an welchem Beugungserscheinungen bei durchtretenden Elektronen erscheinen
 - Dabei kann man sich das Interferenzmuster (Kreise) wie bei einem rotierenden Gitter vorgestellt werden.
   - Bei einem Gitter entstehen Puntke als Maxima, welche zu Kreisen durch Rotation werden.
   - Bei der Folie sind die Kristalle zufällig ausgerichtet, was mit dem Rotierten Gitter verglichen werden kann.
@@ -58,5 +58,3 @@ Es werden die Eigenschaften von Photonen auf Objekte mit Ruhemasse, z.B. Elektro
 ## De-BROGLIE-Wellenlänge bei makroskopischen Objekten
 
 Die De-BROGLIE-Wellenlänge hängt von der Masse und Geschwindigkeit ab. Wenn die Masse so groß wie bei einem makroskopischen Objekt ist, muss die Geschwindigkeit unglaublich langsam sein, um eine Wellenlänge wie beispielsweise eines Elektrons zu haben. Daher ist die De-BROGLIE-Wellenlänge bei makroskopischen Objekten praktisch nicht erkennbar.
-
-## De-BROGLIE-Beziehung
