@@ -34,4 +34,4 @@
 - Integration der auseinanderstrebenden modernen Gesellschaft etwa
   durch neuartige staatliche Maßnahmen.
 
-## Krisen
+## Krisen als "Sprungbrett" für Modernisierung?
