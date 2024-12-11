@@ -26,6 +26,10 @@ Außerdem stellt man fest, dass bei höherer Beschleunigugsspannung das Muster n
 
 ### Wehneltzylinder (Elektronenbündelung)
 
+### Glühelektrischer Effekt
+
+Der Glühelektrische Effekt besagt, dass eine durch Hitze in einem Leiter Elektronen ausgelöst werden und sich aus dem Leiter lösen.
+
 Bei einem Wehneltzylinder handelt es sich um einen Metallkörper, der die Glühelektrode umgibt. Seine Aufgabe ist es, die freien Elektronen zu einem **Elektronenstrahl** zu bündeln.
 
 - Dafür wird an ihm eine, bezüglich der Glühelektrode, negative Spannung angelegt.
