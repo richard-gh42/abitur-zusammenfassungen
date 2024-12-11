@@ -7,7 +7,7 @@ Ein Axiom ist eine Aussage, die weder belegbar noch wiederlegbar ist.
 1. Man kann nicht nicht kommunizieren
 2. Jede Kommunikation hat einen Inhalts- und einen Beziehungsaspekt
 3. Kommunikation ist immer Ursache und Wirkung
-4. Menschliche Kommunikation bedient sich analoger (Beziehungsaspekt einer Nachricht) und digitaler (Inhaltsaspekt einer Nachricht, es wird komplexes Wissen übermittelt. Logische Verknüpfungen und Negationen lassen sich ausdrücken) Modalitäten
+4. Menschliche Kommunikation bedient sich analoger (nonverbaler) und digitaler (verbaler) Modalitäten
 5. Kommunikation ist symmetrisch (auf Augenhöhe) oder komplementär (z. B. Schüler - Lehrer)
 
 ## Die 4 Seiten der Kommunikation nach Schulz von Thun
