@@ -1,5 +1,11 @@
 # Kommunikation
 
+## Grundmodell der Kommunikation nach Watzlawick
+
+```plaintext
+Sender -> Medium (Sprache, Zeichen) -> Empfänger
+```
+
 ## 5 Axiome von Watzlawick
 
 Ein Axiom ist eine Aussage, die weder belegbar noch wiederlegbar ist.
