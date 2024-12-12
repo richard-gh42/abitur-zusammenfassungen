@@ -58,6 +58,11 @@
 - Vor dem Framing war die Zustimmung groß
 - Die Reform wurde stark gekürzt
 
+#### Beispiel Empathie als Frame (Obama, Harris)
+
+- Besinnung zur Empathie wurde als Frame genutzt
+- Die Familie soll einen höheren Stellenwert bekommen
+
 ### Inzenierung (Das Image ist sehr wichtig)
 
 - Über u. a. Framing inszenieren sich Politiker
