@@ -10,6 +10,7 @@
 - Wahrheit (z. B. Fake-News)
 - Das Gehirn denkt gerne konkret und überträgt die Politik auf konkrete Themen wie die Familie
   - Familienwerte sehr wichtig in der Politik (auch auf andere Themen bezogen)
+- Fake-News / Darstellung von anderen Meinungen als Fake-News (als Framing)
 
 ## Störungen der Politischen Kommunikation (Sebastian Callis)
 
