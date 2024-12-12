@@ -29,5 +29,25 @@
 
 ## Strategien in der politischen Kommunikation (S. Callis, Girnth, Wehling)
 
-- Politisches Framing (u. a. Semantik (Satzbau))
-- Inzenierung (Das Image ist sehr wichtig)
+### Politisches Framing (u. a. Semantik (Satzbau))
+
+- Verwenden von bestimmten Wörtern (kommuniker Klimawandel, Flüchtlingswelle, ...)
+- Vernetzen von Wörten mit Assoziationen
+
+#### Der Mensch kann nicht rein Faktisch denken
+
+- Framing gibt den Fakten erst ihre Bedeutung
+
+#### Beispiel Gesundheitsreform Obama
+
+- Obama hat kaum Framing benutzt
+- Die Republikaner framten die Reform als "Verweichlichung" und "Schaden" für die Gesellschaft
+- Framing Obamas als Eingreifer in die Freiheit
+- Vor dem Framing war die Zustimmung groß
+- Die Reform wurde stark gekürzt
+
+### Inzenierung (Das Image ist sehr wichtig)
+
+## Lösungen für die Herausforderungen der politischen Kommunikation
+
+Abschiednahme von der Annahmen man könne faktisch Denken und Entscheiden
