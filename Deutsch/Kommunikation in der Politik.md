@@ -10,6 +10,7 @@
 - Verfügbarkeit
 - Meinungswettkampf
 - Wahrheit (z. B. Fake-News)
+- Das Gehirn denkt gerne konkret und überträgt die Politik auf konkrete Themen wie die Familie
 
 ## Störungen der Politischen Kommunikation (Sebastian Callis)
 
@@ -33,6 +34,7 @@
 
 - Verwenden von bestimmten Wörtern (kommuniker Klimawandel, Flüchtlingswelle, ...)
 - Vernetzen von Wörten mit Assoziationen
+- Framing von politischen Themen auf die Familie, da diese den Menschen wichtig ist
 
 #### Der Mensch kann nicht rein Faktisch denken
 
