@@ -11,6 +11,7 @@
 - Das Gehirn denkt gerne konkret und überträgt die Politik auf konkrete Themen wie die Familie
   - Familienwerte sehr wichtig in der Politik (auch auf andere Themen bezogen)
 - Fake-News / Darstellung von anderen Meinungen als Fake-News (als Framing)
+- Absprechen von Legitimation (Harris / Obama Herkunft Frame)
 
 ## Störungen der Politischen Kommunikation (Sebastian Callis)
 
@@ -62,6 +63,13 @@
 
 - Besinnung zur Empathie wurde als Frame genutzt
 - Die Familie soll einen höheren Stellenwert bekommen
+
+#### Beispiel Trump Frame "ekel"
+
+- Republikaner sind tendentiell eher anfällig für "ekel"
+- Trump stellt sich als "sauber" dar (kein Händeschütteln, usw.)
+- Trump stellt seine politischen Gegner als "ekelhaft" dar
+- "Ausländer essen Hunde und Katzen" Frame zur Empathie und Ekel
 
 ### Inzenierung (Das Image ist sehr wichtig)
 
