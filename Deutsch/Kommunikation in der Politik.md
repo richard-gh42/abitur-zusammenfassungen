@@ -1,8 +1,6 @@
 # Kommunikation in der Politik
 
-```plaintext
-"Was einmal gesagt wurde kann nicht mehr zurück genommen werden" (Die Physiker)
-```
+    "Was einmal gesagt wurde kann nicht mehr zurück genommen werden" (Die Physiker)
 
 ## Herausforderungen der Politischen Kommunikation
 
@@ -11,6 +9,7 @@
 - Meinungswettkampf
 - Wahrheit (z. B. Fake-News)
 - Das Gehirn denkt gerne konkret und überträgt die Politik auf konkrete Themen wie die Familie
+  - Familienwerte sehr wichtig in der Politik (auch auf andere Themen bezogen)
 
 ## Störungen der Politischen Kommunikation (Sebastian Callis)
 
@@ -34,11 +33,14 @@
 
 - Verwenden von bestimmten Wörtern (kommuniker Klimawandel, Flüchtlingswelle, ...)
 - Vernetzen von Wörten mit Assoziationen
-- Framing von politischen Themen auf die Familie, da diese den Menschen wichtig ist
+- Framing von politischen Themen auf die **Familie**, da diese den Menschen wichtig ist
+- Wenn jemand nicht framing nutzt, gibt das Möglichkeiten für die politischen Gegner
 
 #### Der Mensch kann nicht rein Faktisch denken
 
 - Framing gibt den Fakten erst ihre Bedeutung
+- Frames bedingen direkt wie wir uns verhalten / wählen
+- Man kann nicht nicht denken / Frames entkommen
 
 #### Beispiel Gesundheitsreform Obama
 
@@ -49,6 +51,13 @@
 - Die Reform wurde stark gekürzt
 
 ### Inzenierung (Das Image ist sehr wichtig)
+
+- Über u. a. Framing inszenieren sich Politiker
+
+#### Beispiel Trump Selbstinszenierung / Framing
+
+- Trump inszeniert sich als "Familienvater" und nutzt Framing als Möglichkeit der Selbstinszenierung
+- Fakten überzeugen Wähler weniger als Framing
 
 ## Lösungen für die Herausforderungen der politischen Kommunikation
 
