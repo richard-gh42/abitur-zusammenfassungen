@@ -28,7 +28,14 @@
   - Jeder möchte sich als Wahrheit darstellen. Das führt dazu, dass diese vielen “Transparenzen” zu unübersichtlichkeit und konträren “Wahrheiten” führen. So weiß man als Empfänger nicht, wer die Wahrheit sagt und wer Lügt.
 - **Kommunikationsfehler:** Die Kodierung von Nachrichten ist nicht nachvollziehbar und daher schwierig zu dekodieren.
 
-## Strategien in der politischen Kommunikation (S. Callis, Girnth, Wehling)
+## Strategien in der politischen Kommunikation
+
+    Beispiele von Frau Wehling
+
+### Bewegung der politischen Mitte
+
+- Die Extremen sind weniger überzeugbar
+- Die politische Mitte wird stark von Frames, wie Assoziationen mit der Familie
 
 ### Politisches Framing (u. a. Semantik (Satzbau))
 
@@ -37,7 +44,7 @@
 - Framing von politischen Themen auf die **Familie**, da diese den Menschen wichtig ist
 - Wenn jemand nicht framing nutzt, gibt das Möglichkeiten für die politischen Gegner
 
-#### Der Mensch kann nicht rein Faktisch denken
+#### Der Mensch kann nicht rein faktisch denken
 
 - Framing gibt den Fakten erst ihre Bedeutung
 - Frames bedingen direkt wie wir uns verhalten / wählen
