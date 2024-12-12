@@ -39,6 +39,29 @@
   2. Gemeinsamer Ausschuss
   3. Bundespräsident
 
+### Entscheidungsprozess bei Auslandeinsätzen
+
+#### Auslöser
+
+- UN-Sicherheitsrat Resulution (authorisation)
+- Vereinte Nationen
+- NATO
+- Europäische Union
+
+#### Ablauf
+
+1. Bundesregierung
+2. Bundeskanzleramt / Auswärtiges Amt / Bundesministerium der Verteidigung
+3. Mandatsentwurf
+4. Kabinettsbeschluss
+5. Bundestag
+6. Verteidigungsausschuss
+7. Verteidigungsausschuss / Auswärtiger Ausschuss
+8. Abstimmung im Plenum
+9. lehnt ab / stimmt zu (50 + 1: absolute Mehrheit)
+10. Bundesregierung
+11. Entsendung in zum Konflikt
+
 ## deutsche und europäische Sicherheitspolitik und die Rolle der Bundeswehr in transnationalen und internationalen Zusammenhängen
 
 ### Die Rolle der Bundeswehr
