@@ -112,3 +112,28 @@ Stromstärke in Abhängigkeit von der Beschleunigungsspannung
 - Um nahezu monochromatisches Licht, mit passender Frequenz, zu erhalten wird an einem der Spiegel eine Beschichtung, die fast nur die richtige Frequenz reflektiert verwendet.
 
 ## LEDs
+
+### Vorteile von LEDs
+
+### Aufbau von LEDs
+
+1. ine LED ist eine Diode, die nur in eine Richtung Strom durchlässt.
+2. Die LED besteht aus zwei Halbleitern: dem p-Halbleiter (positiv) und n-Halbleiter (negativ).
+3. Diese Halbleiter sind mit Atomen dotiert. Auf der p-Halbleiter mit Akzeptoren (ein Valenzelektron weniger) und auf der n-Halbleiter Donatoren (ein Valenzelektron mehr).
+4. Zwischen den Halbleiterplatten befindet sich die Sperrzone, wo sich die Akzeptoren und Donatoren gegenseitig durch die Übertragung von Elektronen ausgleichen
+5. An die Enden der Halbleiter wird eine Spannungsquelle angeschlossen.
+
+### Funktionsweise von LEDs
+
+#### Sperrrichtung
+
+1. An die n-Platte ist das positive Ende der Spannungsquelle angeschlossen und an die p-Platte das negative.
+2. Die Akzeptoren werden von dem negativen Ende angezogen und die Donatoren von dem positiven Ende.
+3. Die Akzeptoren und Donatoren entfernen sich und die Sperrzone wird größer.
+
+#### Durchlassrichtung
+
+1. An die n-Platte ist das negative Ende der Spannungsquelle angeschlossen und an die p-Platte das positive.
+2. Die Donatoren werden von dem negativen Ende abgestoßen und die Akzeptoren von dem positiven Ende.
+3. Die Akzeptoren und Donatoren nähen sich an und die Sperrzone wird kleiner oder verschwinded ganz.
+4. Donatoren treffen auf Akzeptoren und übergeben ein Eleketron. Dabei geht etwas Energie verloren, die als Licht ausgestrahlt wird.
