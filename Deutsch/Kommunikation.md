@@ -8,7 +8,7 @@ Sender -> Medium (Sprache, Zeichen) -> Empfänger
 
 ## 5 Axiome von Watzlawick
 
-Ein Axiom ist eine Aussage, die weder belegbar noch wiederlegbar ist.
+Ein Axiom ist eine Aussage, die weder belegbar noch widerlegbar ist.
 
 1. Man kann nicht nicht kommunizieren
 2. Jede Kommunikation hat einen Inhalts- und einen Beziehungsaspekt
@@ -34,7 +34,7 @@ Der Sender und Empfänger haben "4 Ohren und Münder"
 
 ### Kodierung von Nachrichten
 
-Sender geben eine kodierung von Nachrichten ein und Empfänger dekodieren diese
+Sender geben eine Kodierung von Nachrichten ein und Empfänger dekodieren diese
 
 - Ironie kann falsch verstanden werden
 - Man kann von Ironie "zurückrudern" und sagen, dass das nicht so gemeint war

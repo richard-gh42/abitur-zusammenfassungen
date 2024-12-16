@@ -27,7 +27,7 @@
   - Verfassungsbedingte Rechte wie Meinungs- und Kunstfreiheit
 - **Freizeitbschäftigungen:**
   - Kino oder Radio als Freizeitbeschäftigung
-  - Zugang zu Freizeitbschäftigungen spalten die Gesellschaft weiter in Reich und Arm, sowie in Land und Stadt
+  - Zugang zu Freizeitbeschäftigungen spalten die Gesellschaft weiter in Reich und Arm, sowie in Land und Stadt
 - **Kritik an der jungen Demokratie:**
   - Teile der Künstler und Intellektuellen übten heftige Kritik an der Weimarer Republik
   - Einfluss konservativer, antirepublikanischer und kulturpessimistischer Ideen
@@ -35,7 +35,7 @@
   - Aufschwung nach den Erfahrungen des Ersten Weltkriegs
   - Ermöglicht durch die Meinungs- und Kunstfreiheit der Weimarer Verfassung
 - **Frauen in den “Goldenen Zwanziger”:**
-  - Vor der Verfassungs gleichberechtigt
+  - Vor der Verfassung gleichberechtigt
   - Praktisch oft vom Mann abhängig
 - **Internationale Parallelen:**
   - **USA:** „Roaring Twenties“
@@ -58,8 +58,8 @@
   - Etablierung als eigenständige Kunstform.
   - Hervorragend geeignet, die Aspekte der Industriewelt zu erfassen.
 - **Literarische Neuerungen:**
-  - Einführung neuer Ausdrucksformen:\*\*
-  - Reportage, Reisebericht, kurze Notizen.
+  - **Einführung neuer Ausdrucksformen:**
+    - Reportage, Reisebericht, kurze Notizen.
   - Präzise und einfühlsame Darstellung von Industrie, Technik und Großstadtleben.
 
 ## Epochenbezeichnung „Goldene Zwanziger“
@@ -67,7 +67,7 @@
 - Bezieht sich auf die künstlerische Kreativität und Vielfalt der Zeit
 - Mehr als ein Mythos, zeigt die Hinwendung zur Moderne
 - Steht für außergewöhnliche schöpferische Kraft und Experimentierfreude
-- “Gold” steht für Wohlstand und wirschaftlicher Aufschwung
+- “Gold” steht für Wohlstand und wirtschaftlicher Aufschwung
 
 ## die „zwei Kulturen“ der Weimarer Republik
 
@@ -82,7 +82,7 @@ Polarisierung der Kulturszene in zwei Lager:
 
 **_Optimistisch und Fortschrittsorientiert_**
 
-- Aufbruchsstimmung nach Erstem Weltkrieg und Kaiserreich
+- Aufbruchstimmung nach Erstem Weltkrieg und Kaiserreich
 - Hoffnung auf eine friedliche, bessere Zukunft
 - Expressionismus -> Neue Sachlichkeit
 - experimentell, innovativ

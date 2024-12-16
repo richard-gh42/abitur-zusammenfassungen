@@ -16,7 +16,7 @@ Dafür wird eine **Elektronenbeugungsröhre** verwendet. Die Elektronenbeugungsr
 
 1. Die Elektronen schießen gebündelt aus dem Wehneltzylinder heraus
 2. Die Elektronen gehen durch die Folie aus polykristallinem Graphit hindurch
-3. Die Folie sorgt dafür, dass die Elektronen, wegen ihrem Wellenverhalten, mehrere "neue" koherente Wellen bilden
+3. Die Folie sorgt dafür, dass die Elektronen, wegen ihrem Wellenverhalten, mehrere "neue" kohärente Wellen bilden
 4. Diese Wellen interferieren
 5. Zuletzt treffen die Elektronen auf den Fluoreszenzschirm
 6. Es lassen sich Kreise beobachten
@@ -35,15 +35,15 @@ Bei einem Wehneltzylinder handelt es sich um einen Metallkörper, der die Glühe
 - Dafür wird an ihm eine, bezüglich der Glühelektrode, negative Spannung angelegt.
 - Die freigewordenen Elektronen werden daher von den Wänden des Metallkörpers abgestoßen und in der Mitte des Wehneltzylinders gebündelt.
 - Je größer die an ihm angelegte negative Spannung, desto stärker werden die Elektronen gebündelt und desto heller wird der spätere Punkt auf dem Bildschirm.
-- Durch Anderung der Spannung kann also die Intensität des Elektronenstrahls gesteuert werden.
+- Durch Änderung der Spannung kann also die Intensität des Elektronenstrahls gesteuert werden.
 - Außerdem besitzt der Zylinder ein Loch, durch welches die Elektronen ihn verlassen können.
 
 ### Folie aus polykristallinem Graphit
 
 - besteht aus vielen Einzelkristallen, die in zufälligen Richtungen zueinander liegen
-- fungiert als Gitter, an welchem Beugungserscheinungen bei durchtretenden Elektronen erscheinen
+- fungiert als Gitter, an welchem Beugungserscheinungen bei durchschreiten Elektronen erscheinen
 - Dabei kann man sich das Interferenzmuster (Kreise) wie bei einem rotierenden Gitter vorgestellt werden.
-  - Bei einem Gitter entstehen Puntke als Maxima, welche zu Kreisen durch Rotation werden.
+  - Bei einem Gitter entstehen Punkte als Maxima, welche zu Kreisen durch Rotation werden.
   - Bei der Folie sind die Kristalle zufällig ausgerichtet, was mit dem Rotierten Gitter verglichen werden kann.
 
 ### Nachweis, dass es sich um Elektronen, die interferieren, handelt

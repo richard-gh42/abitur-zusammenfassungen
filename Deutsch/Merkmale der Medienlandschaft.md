@@ -19,5 +19,5 @@
 - **Öffentliche Beobachtung:** Fehltritte oder kontroverse Aussagen
 - **Unübersichtlichkeit:** Mehr Informationen führen nicht zu mehr Klarheit, sondern zu Orientierungslosigkeit und Verunsicherung.
   - “Die Folgen dieser Transparenz sind aber keineswegs Klarheit, sondern Orientierungslosigkeit und Verunsicherung.”
-  - Jeder möchte sich als Wahrheit darstellen. Das führt dazu, dass diese vielen “Transparenzen” zu unübersichtlichkeit und konträren “Wahrheiten” führen. So weiß man als Empfänger nicht, wer die Wahrheit sagt und wer Lügt.
+  - Jeder möchte sich als Wahrheit darstellen. Das führt dazu, dass diese vielen “Transparenzen” zu Unübersichtlichkeit und konträren “Wahrheiten” führen. So weiß man als Empfänger nicht, wer die Wahrheit sagt und wer Lügt.
 - **Kommunikationsfehler:** Die Kodierung von Nachrichten ist nicht nachvollziehbar und daher schwierig zu dekodieren.

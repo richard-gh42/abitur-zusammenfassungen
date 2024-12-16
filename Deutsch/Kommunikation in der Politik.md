@@ -17,7 +17,7 @@
 
 - **Informationsflut:** Milliarden von Informationen werden ständig produziert, interpretiert und kommentiert.
 - **Duale Wahrheit:** Informationen können gleichzeitig wahr und falsch sein.
-- **Schnelligkeit der Infos:** Durch die Schnelligkeit der Informationen müssen gegenüberliegende Parteien sofort reagieren und sind dabei zu hektik verleitet.
+- **Schnelligkeit der Infos:** Durch die Schnelligkeit der Informationen müssen gegenüberliegende Parteien sofort reagieren und sind dabei zu Hektik verleitet.
 - **Individualisierte Meinungsbildung:** Einzelpersonen können öffentliche Meinungen prägen, nicht nur große Medienhäuser.
 - **Manipulative Kommunikation:** Meinungsmacher nutzen Empörung, Angst, Ausgrenzung und Verführung, um ihre Ziele zu erreichen.
   - “US-Präsident Donald Trump verwandelte die Politik in den USA in eine Realityshow [...]”
@@ -26,7 +26,7 @@
 - **Öffentliche Bewertung:** Verhalten und Äußerungen werden permanent bewertet und können weitreichende Konsequenzen haben.
 - **Unübersichtlichkeit:** Mehr Informationen führen nicht zu mehr Klarheit, sondern zu Orientierungslosigkeit und Verunsicherung.
   - “Die Folgen dieser Transparenz sind aber keineswegs Klarheit, sondern Orientierungslosigkeit und Verunsicherung.”
-  - Jeder möchte sich als Wahrheit darstellen. Das führt dazu, dass diese vielen “Transparenzen” zu unübersichtlichkeit und konträren “Wahrheiten” führen. So weiß man als Empfänger nicht, wer die Wahrheit sagt und wer Lügt.
+  - Jeder möchte sich als Wahrheit darstellen. Das führt dazu, dass diese vielen “Transparenzen” zu Unübersichtlichkeit und konträren “Wahrheiten” führen. So weiß man als Empfänger nicht, wer die Wahrheit sagt und wer Lügt.
 - **Kommunikationsfehler:** Die Kodierung von Nachrichten ist nicht nachvollziehbar und daher schwierig zu dekodieren.
 
 ## Strategien in der politischen Kommunikation
@@ -40,8 +40,8 @@
 
 ### Politisches Framing (u. a. Semantik (Satzbau))
 
-- Verwenden von bestimmten Wörtern (kommuniker Klimawandel, Flüchtlingswelle, ...)
-- Vernetzen von Wörten mit Assoziationen
+- Verwenden von bestimmten Wörtern (Flüchtlingswelle, ...)
+- Vernetzen von Wörtern mit Assoziationen
 - Framing von politischen Themen auf die **Familie**, da diese den Menschen wichtig ist
 - Wenn jemand nicht framing nutzt, gibt das Möglichkeiten für die politischen Gegner
 
@@ -66,12 +66,12 @@
 
 #### Beispiel Trump Frame "ekel"
 
-- Republikaner sind tendentiell eher anfällig für "ekel"
+- Republikaner sind tendenziell eher anfällig für "ekel"
 - Trump stellt sich als "sauber" dar (kein Händeschütteln, usw.)
 - Trump stellt seine politischen Gegner als "ekelhaft" dar
 - "Ausländer essen Hunde und Katzen" Frame zur Empathie und Ekel
 
-### Inzenierung (Das Image ist sehr wichtig)
+### Inszenierung (Das Image ist sehr wichtig)
 
 - Über u. a. Framing inszenieren sich Politiker
 
@@ -82,4 +82,4 @@
 
 ## Lösungen für die Herausforderungen der politischen Kommunikation
 
-Abschiednahme von der Annahmen man könne faktisch Denken und Entscheiden
+- Abschied nehmen von der Annahme, man könne faktisch Denken und Entscheiden

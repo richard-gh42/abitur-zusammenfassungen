@@ -4,10 +4,10 @@
 Eine Welle ist eine räumliche und zeitliche Zustandsänderung physikalischer Größen, die meist nach bestimmten periodischen Gesetzmäßigkeiten erfolgt.
 ```
 
-- Wellen benötigen im Regelfall ein **Medium** (z. B. nicht elektromagnitische Wellen).
+- Wellen benötigen im Regelfall ein **Medium** (z. B. nicht elektromagnetische Wellen).
   - Im Fall einer La Ola Welle die gesamten Menschen, die bei La Ola Welle mitmachen.
 - Das Medium besteht aus den **Trägern der Welle**.
-  - Bei einer La Ola Welle währe jeder Mensch ein Träger.
+  - Bei einer La Ola Welle wäre jeder Mensch ein Träger.
 - Die Ausbreitung einer Welle ist ein **Energie- und Impulstransport**, aber kein Materialtransport.
 - Die Träger der Welle erhalten also Energie und Impuls, aber verbleiben in der Regel am gleichen Ort.
   - Die Menschen bei der La Ola Welle bleiben an ihrem Platz stehen, trotz der Welle.
@@ -64,7 +64,7 @@ In der Physik beschreibt die Kohärenz die Eigenschaft von Wellen, **einem gemei
 
 Zwei Wellenlängen sind dann kohärent, wenn ihre Phasenverschiebung die ganze Zeit konstant bleibt.
 
-Schallwellen können quasi unendlich lange Kohärent sein, da sie sich im selben Muster bewegen. Licht hingegen besteht aus vielen unterschiedlichen Wellenlängen (auch wenn z. B. beim Laser fast monofrequent). Das führt dazu, dass kohärenz nicht auf lange Zeit haltbar ist.
+Schallwellen können quasi unendlich lange Kohärent sein, da sie sich im selben Muster bewegen. Licht hingegen besteht aus vielen unterschiedlichen Wellenlängen (auch wenn z. B. beim Laser fast monofrequent). Das führt dazu, dass Kohärenz nicht auf lange Zeit haltbar ist.
 
 Wellen haben eine **Kohärenzlänge** dies ist die Distanz, bis wo die Wellen kohärent bzw. nahezu kohärent sind. Die Kohärenzlänge hängt von dem Erreger ab - z. B. haben Laser im Vergleich zu Glühbirnen eine lange Kohärenzlänge.
 
@@ -74,7 +74,7 @@ Zeit, die jeder einzelne Träger der harmonischen Welle für eine volle Periode 
 
 ### Ausbreitungsgeschwindigkeit
 
-Die Ausbreitungsgeschwindigkeit beschreibt die Geschwindigkeit mit der sich die **Wellenfronten** in Richtung der Wellennormalen bewegen. Die Ausbreitungsgeschwindikeit is **ausschließlich** von dem **Medium abhängig**.
+Die Ausbreitungsgeschwindigkeit beschreibt die Geschwindigkeit mit der sich die **Wellenfronten** in Richtung der Wellennormalen bewegen. Die Ausbreitungsgeschwindigkeit is **ausschließlich** von dem **Medium abhängig**.
 
 ### Wellenlänge
 
@@ -101,13 +101,13 @@ Von Lichtquellen wie der Sonne oder einer Lampe gehen meist divergent (auseinand
 3. Diesen kann man sich als Gitter, welches mit allen Wellen, die nicht mit den Gitterspalten ausgerichtet sind, wechselwirkt und auslöscht.
 4. Auf der anderen Seite kommt fast vollständiges polarisiertes Licht heraus.
 
-Wenn man 2 Polerisationsfilter mit 90° Drehung hintereinander hält kommt kein Licht mehr durch.
+Wenn man 2 Polarisationsfilter mit 90° Drehung hintereinander hält kommt kein Licht mehr durch.
 
 ## Reflexion von Wellen
 
 Trifft eine Welle auf ein Hindernis wird diese Reflektiert. Es gilt Einfallswinkel = Ausfallswinkel.
 
-Man entschedet zwischen Reflektion an einem losen und festen Ende:
+Man entscheidet zwischen Reflexion an einem losen und festen Ende:
 
 ### festes Ende
 
@@ -131,7 +131,7 @@ Der Abstand zwischen zwei Knoten bzw. Bäuchen beträgt $\frac{\lambda}{2}$ der 
 
 1. Eine Welle breitet sich in einem Medium aus, z. B. entlang eines Seils oder in einem akustischen Rohr.
 2. Wenn diese Welle auf eine Barriere trifft, wird sie reflektiert.
-3. Die hinlaufende und reflektierte Welle überlagern sich.
+3. Die ausgangs und reflektierte Welle überlagern sich.
 4. Beide Wellen interferieren. Bei einer Interferenz werden an jedem Punkt beide Ausrichtungen der Wellen summiert und das Ergebnis ergibt die "neue" Welle.
 5. Durch konstruktive Interferenz an bestimmten Punkten (Bäuche) und destruktive Interferenz an anderen Punkten (Knoten) entsteht eine stehende Welle.
 
@@ -167,27 +167,27 @@ An einem offenen Ende (z. B. lose befestigtes Seil) kehrt die Welle ohne Phasenu
 - Zusätzlich läuft eine zweite Welle entgegen der ursprünglichen Ausbreitungsrichtung mit kleinerer Amplitude, aber gleicher Wellenlänge zurück.
 - Dabei bleibt ein Wellenberg ein Wellenberg und ein Wellental ein Wellental (Reflexion am losen Ende, kein Phasensprung).
 
-## Huygens'sches Prinzip (Reflektion, Brechung, Beugung)
+## Huygenssches Prinzip (Reflexion, Brechung, Beugung)
 
-Das Huygens'sche Prinzip lässt sich der Ausbreitungsmechanismus von Wellen verstehen. Das Prinzip lässt auch eine sehr einfache Deutung der Reflexion, Brechung und Beugung von Wellen zu.
+Das Huygenssche Prinzip lässt sich der Ausbreitungsmechanismus von Wellen verstehen. Das Prinzip lässt auch eine sehr einfache Deutung der Reflexion, Brechung und Beugung von Wellen zu.
 
-Das Huygens'sche Prinzip besagt, dass jeder Punkt einer Welle als neue Quelle der Welle gesehen werden kann.
+Das Huygenssche Prinzip besagt, dass jeder Punkt einer Welle als neue Quelle der Welle gesehen werden kann.
 
-Dieser Link beschreibt das Huygens'sche Prinzip sehr anschaulich: <https://www.leifiphysik.de/mechanik/mechanische-wellen/ausblick/huygenssches-prinzip-zur-beschreibung-von-mechanischen-wellen>
+Dieser Link beschreibt das Huygenssche Prinzip sehr anschaulich: <https://www.leifiphysik.de/mechanik/mechanische-wellen/ausblick/huygenssches-prinzip-zur-beschreibung-von-mechanischen-wellen>
 
-### Reflektion von Wellen (Huygens'sches Prinzip)
+### Reflexion von Wellen (Huygenssches Prinzip)
 
 - Einfallswinkel = Ausfallswinkel
 
-### Brechung von Wellen (Huygens'sches Prinzip)
+### Brechung von Wellen (Huygenssches Prinzip)
 
 - Transmission der Welle von einem Medium in ein anderes
   - Veränderung der Ausbreitungsgeschwindigkeit der Welle
-- Reflektion der Welle an dem Übergang zum anderen Medium
+- Reflexion der Welle an dem Übergang zum anderen Medium
 - Weiterlaufen der neuen Welle mit einem anderen Winkel
   - Der Winkel kann über die Elementarwellen herausgefunden werden
 
-### Beugung von Wellen (Huygens'sches Prinzip)
+### Beugung von Wellen (Huygenssches Prinzip)
 
 - Eine Welle geht an einem Hindernis vorbei / durch einen Spalt in einem Hindernis
 - Bedingung: Wellenlänge muss in der Größenordnung der Lücke sein
@@ -206,7 +206,7 @@ Bedingungen für ein "schönes" Interferenzmuster:
 - identische Wellen
   - die Amplitude kann bei konstruktiver Interferenz unterschiedlich sein, macht jedoch destruktive Interferenz unmöglich
 - eine konstante Phasenbeziehung / Kohärenz der Wellen
-  - Daher sind Laser geeigneter für ein Interferenzmuster als Sonnenlicht, da es eine längere Kohärenzlänge hat (siehe Kohörenz).
+  - Daher sind Laser geeigneter für ein Interferenzmuster als Sonnenlicht, da es eine längere Kohärenzlänge hat (siehe Kohärenz).
 
 ### konstruktive Interferenz
 
@@ -231,12 +231,12 @@ Für eine Phasenverschiebung um 180° bzw. eine halbe Phase muss der Ganguntersc
 
 ### Beobachtung beim Doppelspalt
 
-Das Schirmbild hinter zeigt Beugungs- und Interferenzerscheinungen. Es bildetn sich Zwischen den beiden Spalten ein sogenanntes 0. Maximum. Mit gleichem Abstand befinden sich in beide Richtungen weitere Maxima. Es gibt teilweise unschärfe Maxima und Licht an anderen Stellen als den Maxima, dies wird jedoch im Rahmen der Messgenauigkeit vernachlässigt.
+Das Schirmbild hinter zeigt Beugungs- und Interferenzerscheinungen. Es bilden sich Zwischen den beiden Spalten ein sogenanntes 0. Maximum. Mit gleichem Abstand befinden sich in beide Richtungen weitere Maxima. Es gibt teilweise unscharfe Maxima und Licht an anderen Stellen als den Maxima, dies wird jedoch im Rahmen der Messgenauigkeit vernachlässigt.
 
 ### Erklärung des Doppelspalts
 
-- An den Spalten beugt sich das Licht nach dem Huygens'schen Prinzip.
-- Es entstehten zwei identische Wellen, die interferieren.
+- An den Spalten beugt sich das Licht nach dem Huygensschen Prinzip.
+- Es entstehen zwei identische Wellen, die interferieren.
 - Bei gleicher Phase entsteht ein konstruktives und bei um $\frac{1}{2}$ verschobener Phase ein destruktives Maximum.
 - Am Schirm finden sich Maxima und erzeugen das Interferenzmuster.
 
@@ -256,7 +256,7 @@ Das Schirmbild hinter zeigt Beugungs- und Interferenzerscheinungen. Es bildetn s
 - Es entstehen Nebenmaxima zwischen den Hauptmaxima.
   - Die Anzahl der Nebenmaxima entspricht der Anzahl der Spalte minus 2.
 
-Ein Gitter wird genutz um schärfere Maxima zu erhalten, ohne die Position der Maxima zu verändern.
+Ein Gitter wird genutzt um schärfere Maxima zu erhalten, ohne die Position der Maxima zu verändern.
 
 ## Michelson-Morley Interferometer
 
@@ -276,6 +276,6 @@ In einem Interferometer wird Licht durch einen Strahlteiler auf zwei verschieden
 
 ### Erklärung
 
-- Aus der Lichtquelle kommt ein paralleles Bündel Strahlen (ebene Welle). Dieses wird durch eine Linsenanordnung „aufgeweitet" und verläuft danach divergent (auseinandergehend) mit einem neuen gedachten Ursprungspunkt (Kugelwelle), der im Bereich der Linsenanordnung liegt.
+- Aus der Lichtquelle kommt ein paralleles Bündel Strahlen (ebene Welle). Dieses wird durch eine Linsenanordnung „ausgeweitet" und verläuft danach divergent (auseinandergehend) mit einem neuen gedachten Ursprungspunkt (Kugelwelle), der im Bereich der Linsenanordnung liegt.
 - Verschiebung des Spiegels -> Nun im Zentrum Maximum statt Minimum
 - Im Michelson-Interferometer interferieren Teilwellen. Liegt auf dem Schirm ein Maximum vor, so führt eine Verschiebung eines Spiegels um Vielfache von $\frac{\lambda}{2}$ erneut zu einem Maximum.
