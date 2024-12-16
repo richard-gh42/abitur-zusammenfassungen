@@ -74,7 +74,7 @@
 - **Kulturvielfalt in der Weimarer Zeit:**
   - Künstlerische Avantgarde nicht allein bestimmend.
   - Traditionelle Kunstrichtungen und hergebrachte Formensprache weiterhin einflussreich.
-- **Kulturelle Trennlinien:** Strikte Trennung zwischen Arbeiterkultur und bürgerlicher Hochkultur.
+- **Kulturelle / Räumliche Trennlinien:** Strikte Trennung zwischen Arbeiterkultur und bürgerlicher Hochkultur.
 
 Polarisierung der Kulturszene in zwei Lager:
 
@@ -90,10 +90,11 @@ Polarisierung der Kulturszene in zwei Lager:
 
 **_Kulturpessimismus und Zivilisationskritik_**
 
-- Nationalistische und revisionistische Einstellungen, basierend auf Kriegsopfern.
-- Trauer um die verlorene Monarchie.
-- Widerstand gegen moderne Kunst und Avantgarde.
-- Ablehnung von Großstadtleben, moderner Kultur und Zivilisation.
+- Nationalistische und revisionistische Einstellungen, basierend auf Kriegsopfern
+- Trauer um die verlorene Monarchie / Nähe zu Kaiserreich
+- Widerstand gegen moderne Kunst und Avantgarde
+- Ablehnung von Großstadtleben, moderner Kultur und Zivilisation
+- traditionelle Kultur / 'reine' deutsche Kultur
 
 ## kulturbejahende und kulturpessimistische Positionen
 
