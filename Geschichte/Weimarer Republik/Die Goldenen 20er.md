@@ -38,8 +38,8 @@
   - Vor der Verfassungs gleichberechtigt
   - Praktisch oft vom Mann abhängig
 - **Internationale Parallelen:**
-  - USA:\*\* „Roaring Twenties“
-  - Frankreich:\*\* „Années Folles“
+  - **USA:** „Roaring Twenties“
+  - **Frankreich:** „Années Folles“
 
 ### Kultur
 
@@ -82,9 +82,12 @@ Polarisierung der Kulturszene in zwei Lager:
 
 **_Optimistisch und Fortschrittsorientiert_**
 
-- Aufbruchsstimmung nach Erstem Weltkrieg und Kaiserreich.
-- Hoffnung auf eine friedliche, bessere Zukunft.
-- Begrüßung der Großstadtdynamik und moderner Technik.
+- Aufbruchsstimmung nach Erstem Weltkrieg und Kaiserreich
+- Hoffnung auf eine friedliche, bessere Zukunft
+- Expressionismus -> Neue Sachlichkeit
+- experimentell, innovativ
+- Begeisterung für Modernisierung, Fortschritt, Urbanisierung, Technisierung
+- Rationalität, Funktionalität
 
 ### konservative Kräfte
 
@@ -95,6 +98,9 @@ Polarisierung der Kulturszene in zwei Lager:
 - Widerstand gegen moderne Kunst und Avantgarde
 - Ablehnung von Großstadtleben, moderner Kultur und Zivilisation
 - traditionelle Kultur / 'reine' deutsche Kultur
+- Angst vor "kulturellem Zerfall"
+  - "entartete Kunst"
+- Ablehnung der Technisierung
 
 ## kulturbejahende und kulturpessimistische Positionen
 
