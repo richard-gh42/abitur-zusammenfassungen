@@ -144,3 +144,13 @@ Polarisierung der Kulturszene in zwei Lager:
 - Geografische Lage in Europa
 - Zentrum avantgardistischer Strömungen
 - lebhafte Kulturszene: Expressionismus, Neue Sachlichkeit
+
+## Einfluss des Staates auf den Rundfunk
+
+- Staat erkennt die Bedeutung / den Einfluss des Rundfunks an
+- Verhindern des Einflusses durch andere politische Gruppen
+- kein gewinnorientiertes Interesse
+- Rundfunk soll zivilisierten Diskurs politischer Meinungen bieten und nicht (wie Zeitungen) parteigebunden
+- Identitätsstiftende Funktion durch gemeinsames Massenmedium
+- Interesse als Medium der Volksbildung und Unterhaltung
+- (Vergleich zu Funktionen von Medien für den politischen Prozess (PoWi))
