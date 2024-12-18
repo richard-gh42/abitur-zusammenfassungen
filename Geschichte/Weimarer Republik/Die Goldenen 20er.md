@@ -9,23 +9,22 @@
   - Modernisierung und Aufschwung nicht auf Deutschland beschränkt
   - Anstieg von Massenkonsumgütern wie Autos
   - Trotz Wirtschaftsaufschwung hohe Arbeitslosigkeit und Armut
-- **Technischer Fortschritt:**
+- **Technischer und sozialer Fortschritt:**
   - Massenmedien wie Kino und Radio traten erstmals auf
   - Zeitungen erlebten einen großen Zuwachs
+  - Die Regierung setzte sich für sozialen Fortschritt in Form von z. B. einer Arbeitslosenversicherung.
 - **Vernetzung der Bevölkerung:**
   - Über Massenmedien wie den Rundfunk können mehr Personen in kürzerer Zeit erreicht werden
   - Verbreitung des Telefons
-- **sozialer Fortschritt:**
-  Die Regierung setzte sich für sozialen Fortschritt in Form von z. B. einer Arbeitslosenversicherung
-- **Urbanisierung und Landflucht:**
-  Viele Menschen zogen in die Städte, um Arbeit zu finden
-- **Beschleunigung:** Durch den technischen Fortschritt und die Urbanisierung beschleunigte sich das Leben und wurde hektischer.
+- **Urbanisierung und Beschleunigung des Lebens:**
+  - Viele Menschen zogen in die Städte, um Arbeit zu finden
+  - Durch den technischen Fortschritt und die Urbanisierung beschleunigte sich das Leben und wurde hektischer.
 - **Zentralität der Künstler:**
   - Künstler waren keine Außenseiter mehr.
   - Prägende Figuren in Diskussionen und Themengeber.
   - Unterstützung der Künste und Förderung der Avantgarde durch die Regierung
-  - Verfassungsbedingte Rechte wie Meinungs- und Kunstfreiheit
-- **Freizeitbschäftigungen:**
+  - verfassungsbedingte Rechte wie Meinungs- und Kunstfreiheit
+- **Freizeitbeschäftigungen:**
   - Kino oder Radio als Freizeitbeschäftigung
   - Zugang zu Freizeitbeschäftigungen spalten die Gesellschaft weiter in Reich und Arm, sowie in Land und Stadt
 - **Kritik an der jungen Demokratie:**
@@ -115,3 +114,25 @@ Polarisierung der Kulturszene in zwei Lager:
 | Technik               | "Alles [...] vermag der Rundfunk leichter als die Presse [...]" (M19); "Der Rückgang des Dienstpersonals in vielen bürgerlichen Haushalten nach dem Krieg verstärkte das Interesse an der Technik." (M19); "Die Elektrizität eröffnete im privaten Bereich erstmals unbegrenzte Technisierungsmöglichkeiten, während bis dahin Mechanisierungspläne, die einen künstlichen Antrieb voraussetzten, mit kollektivistischen Ideen verknüpft und durch diese in ihrer Verbreitung gehemmt waren." (M19 Literatur)(M16) |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                     |
 | Konsum                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | "Gleichzeitig schritt die Kommerzialisierung der Kultur voran." (M21)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | "Das Angebot an Konsumgütern wuchs[] und es prägte sich eine Konsumkultur aus [...]" (M21)                                                                                                                                                                                                                                                          |
 | Frauenbild            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | "Für dieses traditionellen Frauen interessierten sich in der Weimarer Republik weder Medien noch Sozialpolitik" (M22); "Die Abwesenheit der Frau während des Tages, die hastige Erledigung der Hausarbeit in den Abendstunden und die in der Regel bestehende Überanstrengung der Frau bedeutet für die Familie immer eine Einbuße an Gemütlichkeit" (M24); "Die Hausarbeit muss notgedrungen flüchtiger gemacht werden, was für die Familie oft ein Minus an Ernährung bedeutet." (M24); "Die berühmte weibliche Anpassungsfähigkeit wird bei einer solchen Entwicklung meist etwas zurückgehen." (M24); "War ein Zwiespalt der heutigen Frau so stark angegangen, dass er keine Freude mehr an der Zeugung von Menschen hatte, die ein klarer Lebensweg versagt bleibt oder [...] denen die Zivilisation besonders große Steine und Kreuzwege in die einstige Naturbestimmung geschmuggelt hat." (M25) | "Markenzeichen der modernen Frau, die den Gleichberechtigungsgrundsatz der Weimarer Verfassung ernst nahm und ihren Platz in Beruf und Öffentlichkeit selbstbewusst ausfüllte." (M22); "[Es] setzte sich in der Öffentlichkeit der Eindruck fest, dass Frauen stärker als vor dem Ersten Weltkrieg in die objektive Kultur einbezogen seien." (M22) |
+
+## Leben in der Großstadt (Berlin) in den Goldenen 20ern
+
+- moderne Freizeitbeschäftigungen
+- Konsum / Massenkonsum
+- ausländische Einflüsse (besonders USA)
+- beschleunigtes Leben
+- Technisierung
+- Massenmedien
+
+## Merkmale für Berlin als Kulturmetropole
+
+- junge Welthauptstadt
+  - weniger Vorbelastung durch Traditionen und alte Kultur
+  - Möglichkeit für Neues
+- jüdische Bevölkerung mit internationalen Beziehungen
+  - Austausch mit anderen Kulturen
+- viele Einwohner
+- Technischer Fortschritt
+  - U-Bahn
+  - Telefon
+  - Massenmedien
