@@ -118,21 +118,29 @@ Polarisierung der Kulturszene in zwei Lager:
 ## Leben in der Großstadt (Berlin) in den Goldenen 20ern
 
 - moderne Freizeitbeschäftigungen
+  - Spaltung der Gesellschaft durch ungleiche Möglichkeiten
 - Konsum / Massenkonsum
-- ausländische Einflüsse (besonders USA)
+- ausländische Einflüsse (besonders USA) / Bruch mit Traditionen
 - beschleunigtes Leben
-- Technisierung
+  - Medien
+  - Straßen- / U-Bahn
+- Technisierung / Demokratisierung
 - Massenmedien
+  - große Reichweite, schnell
 
 ## Merkmale für Berlin als Kulturmetropole
 
-- junge Welthauptstadt
+- junge Weltstadt
   - weniger Vorbelastung durch Traditionen und alte Kultur
   - Möglichkeit für Neues
-- jüdische Bevölkerung mit internationalen Beziehungen
-  - Austausch mit anderen Kulturen
+- Internationalität
+  - Kulturaustausch
+  - große jüdische Bevölkerung / Gemeinschaft mit internationalen Beziehungen
 - viele Einwohner
 - Technischer Fortschritt
   - U-Bahn
-  - Telefon
+  - Filmindustrie
   - Massenmedien
+- Geografische Lage in Europa
+- Zentrum avantgardistischer Strömungen
+- lebhafte Kulturszene: Expressionismus, Neue Sachlichkeit
