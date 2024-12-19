@@ -1,8 +1,6 @@
 # Wellen
 
-```plaintext
-Eine Welle ist eine räumliche und zeitliche Zustandsänderung physikalischer Größen, die meist nach bestimmten periodischen Gesetzmäßigkeiten erfolgt.
-```
+    Eine Welle ist eine räumliche und zeitliche Zustandsänderung physikalischer Größen, die meist nach bestimmten periodischen Gesetzmäßigkeiten erfolgt.
 
 - Wellen benötigen im Regelfall ein **Medium** (z. B. nicht elektromagnetische Wellen).
   - Im Fall einer La Ola Welle die gesamten Menschen, die bei La Ola Welle mitmachen.

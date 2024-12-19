@@ -57,7 +57,9 @@ Die De-BROGLIE-Wellenlänge besagt, dass jedes Objekt mit Masse und Geschwindigk
 
 Es werden die Eigenschaften von Photonen auf Objekte mit Ruhemasse, z.B. Elektronen übertragen.
 
-## plancksche Konstante h
+## plancksches Wirkungsquantum
+
+Das **plancksche Wirkungsquantum** ($ h \approx 6{,}626 \cdot 10^{-34} \, \text{Js}$) ist eine fundamentale Konstante der Quantenmechanik. Es beschreibt die Energie eines Photons in Abhängigkeit von seiner Frequenz: \( E = h \cdot f \).
 
 ## De-BROGLIE-Wellenlänge bei makroskopischen Objekten
 
