@@ -71,7 +71,8 @@ Allgemeine Merkmale
 
 ### Entscheidungsraum
 
-- Integration von harten (militärischen) und weichen (legitimatorischen, moralischen) Dimensionen.
+- Erweiterung des Entscheidungsraums auf z. B. die Politik, Wirtschaft, Infrastruktur, Information
+- Integration von harten (militärischen / wirtschaftlichen) und weichen (legitimatorischen, moralischen) Dimensionen.
 - Manipulation der Gesamtentscheidung des Gegners durch kombinierte Ansätze.
 - Angriff auf alles, was gesellschaftlichen oder politischen Zusammenhalt schwächen kann.
 
@@ -80,19 +81,20 @@ Allgemeine Merkmale
 - **Operieren in Grauzonen:** zwischen Krieg und Frieden, Wahrheit und Lüge, legalen und illegalen Handlungen.
 - Schaffung von **Ambiguitäten**, Auflösung traditioneller Ordnungskategorien.
 - Paralysierung der **Entscheidungs- und Reaktionsfähigkeit** des Gegners.
+- Übergange zwischen **offiziellem Krieg** und **negativem Frieden**.
 
 ### Mittel-/Methodeneinsatz
 
-- **Politische Einflussnahme:** Unterstützung und Finanzierung von prorussischen Parteien und Gruppen in anderen Ländern, um Wahlergebnisse und politische Entscheidungen zu lenken (z.B. Einflussnahme in der Republik Moldau).
-- **Energieabhängigkeit als Druckmittel:** Nutzung von Energieabhängigkeit, um wirtschaftlichen und politischen Druck auszuüben (z.B. steigende Strompreise zur Destabilisierung der proeuropäischen Regierung in Moldau).
+
 - **Kombination von regulären und irregulären, offenen und verdeckten Mitteln:**
-  - Diplomatie (z. B. Scheinverhandlungen).
-  - Propaganda, Desinformation.
-  - Wirtschaftskrieg (Blockaden, Störungen von Handels- und Versorgungsketten).
-  - Cyberangriffe (kostengünstig, risikoarm).
-  - Militärische Konfrontation (konventionelle und Guerillataktiken).
-  - Beeinflussung der öffentlichen Meinung durch Manipulation sozialer Medien, um gesellschaftliche Spannungen zu schüren und die öffentliche Meinung im Sinne des Angreifers zu beeinflussen.
-  - Politische Einflussnahme (Untergrabung der Politischen Macht => Destabilisation)
+  - **Militärische Konfrontation** (konventionelle und Guerillataktiken).
+  - **Wirtschaftskrieg:** Blockaden, Störungen von Handels- und Versorgungsketten (Energieabhängigkeit von Russland)
+  - **Diplomatie** (z. B. Scheinverhandlungen)
+  - **Cyberangriffe** (kostengünstig, risikoarm).
+  - **Beeinflussung der öffentlichen Meinung** durch Manipulation sozialer Medien / Desinformation / Propaganda
+    - gesellschaftliche Spannungen
+    - öffentliche Meinung beeinflussen
+  - **Politische Einflussnahme:** Unterstützung und Finanzierung von prorussischen Parteien und Gruppen in anderen Ländern, um Wahlergebnisse und politische Entscheidungen zu lenken (z.B. Einflussnahme in der Republik Moldau).
 
 ### Besondere Gefechtsfelder
 
