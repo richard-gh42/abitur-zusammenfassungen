@@ -101,8 +101,8 @@ Stresemann sieht die „Krise des Parlamentarismus“ durch fehlende Konsensbild
 
 ### Was unterscheidet Stresemanns Politik von anderen?
 
-- **„Nationale Revisionspolitik als internationale Versöhnungspolitik“** – (Karl Dietrich Erdmann)
-- **„Nationale Realpolitik“** – Ihm gelang es, die politische Wirklichkeit zu erkennen und seine Politik danach auszurichten bzw. die Notwendigkeit bestimmter politischer Maßnahmen zu erkennen.
+- **„Nationale Revisionspolitik als internationale Versöhnungspolitik“** - (Karl Dietrich Erdmann)
+- **„Nationale Realpolitik“** - Ihm gelang es, die politische Wirklichkeit zu erkennen und seine Politik danach auszurichten bzw. die Notwendigkeit bestimmter politischer Maßnahmen zu erkennen.
   - z.B. Wirtschaft statt Waffen
   - Kleinschrittiger, langfristig ausgelegter Plan, statt überhasteten Umbrüchen
 
@@ -155,7 +155,7 @@ Stresemann sieht die „Krise des Parlamentarismus“ durch fehlende Konsensbild
    Stresemanns Akzeptanz der Weimarer Republik war daher weniger von einer ideologischen Zustimmung als vielmehr von einer pragmatischen Einsicht geprägt, dass die Republik als politisches System die bestmögliche Lösung für Deutschland darstellte. In diesem Sinne zeigt sich Stresemann als pragmatischer Politiker, der die Weimarer Republik als notwendige Grundlage für die Bewältigung der deutschen Nachkriegskrise ansah.
 
 5. **Politisches Wirkten in der Weimarer Republik:**
-   Als Reichskanzler (1923) und später als Außenminister (1923–1929) setzte sich Stresemann aktiv für die Stabilisierung der Republik ein. Seine Politik war geprägt von der Vernunft und dem Bemühen um internationale Zusammenarbeit.
+   Als Reichskanzler (1923) und später als Außenminister (1923 - 1929) setzte sich Stresemann aktiv für die Stabilisierung der Republik ein. Seine Politik war geprägt von der Vernunft und dem Bemühen um internationale Zusammenarbeit.
 
 6. **Keine vollständige Identifikation mit der Republik**  
    Es ist jedoch wichtig zu betonen, dass Stresemann nie vollständig mit der Weimarer Republik identifizierte. Er blieb bis zu seinem Tod monarchistisch orientiert und strebte eine Rückkehr zu monarchischen Strukturen an, wenn auch nicht mit Gewalt. Insofern könnte man auch argumentieren, dass Stresemann ein „halb“ Vernunftrepublikaner war, der zwar die Weimarer Verfassung akzeptierte, aber immer eine Rückkehr zu einer monarchischen Ordnung als langfristiges Ziel hatte.
