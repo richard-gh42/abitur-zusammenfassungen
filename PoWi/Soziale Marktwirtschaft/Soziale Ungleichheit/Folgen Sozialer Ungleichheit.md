@@ -1,0 +1,3 @@
+# Folgen Sozialer Ungleichheit
+
+TODO
