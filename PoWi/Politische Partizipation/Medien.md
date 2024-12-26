@@ -37,3 +37,30 @@
 - Öffentliche Foren und Diskussionen: Nutzung von Online-Plattformen und Apps der Sender zur Beteiligung an Debatten.
 - Unabhängige und kritische Berichterstattung: Bürger können sich informieren und eine fundierte Meinung bilden, um politisch aktiv zu werden.
 - Bildungsangebote: Politische Bildung und Aufklärung durch spezielle Formate (z. B. Mediathek-Inhalte).
+
+## Medien als 4. Gewalt
+
+Die Medien werden als vierte Gewalt betrachtet, weil sie inoffiziell und unabhängig die anderen drei Gewalten überwachen und die Öffentlichkeit informieren. Sie tragen dazu bei, Transparenz herzustellen und Missstände aufzudecken, indem sie politische Entscheidungen, Gesetzgebung und die Exekutive kritisch hinterfragen. (Siehe Funktionen von Medien)
+Durch ihre Berichterstattung schaffen sie eine Verbindung zwischen den politischen Institutionen und der Bevölkerung und stellen sicher, dass Politiker und Institutionen für ihr Handeln zur Rechenschaft gezogen werden können. Daher wird ihnen diese Kontrollfunktion zugesprochen, die sie in die Nähe der traditionellen Gewalten bringt.
+
+## Medientrends
+
+### Personalisierung
+
+Medien personalisieren Inhalte auf die einzelnen Nutzer, um diese zu ‘catchen’. Dabei werden Informationen genau auf die Personen und deren Ansichten zugeschnitten.
+
+### Polarisierung
+
+Medien führen – u. a. durch Echokammern und Filterblasen – zu einer stärkeren Polarisierung in der Gesellschaft. Dadurch wird der politische Pluralismus gestört und eine schlechter Konfliktkultur geschaffen, da jeder an seiner festgesetzen Meinung bleibt.
+
+### Emotionalisierung
+
+Medien emotionalisieren Inhalte um die Nutzer zu halten. Dabei führt die Emotionalisierung zu weniger Rationalität und stört den Umgang mit wichtigen Themen.
+
+### Verkürzung
+
+Medien verkürzen Inhalte um diese den Nutzern einfacher darzustellen. Durch diese Verkürzung fallen wichtige Informationen und Tatsachen weg und führen zu einem schlechteren Umgang mit Themen aufgrund einer fehlenden Informationsbasis.
+
+### Inszenierung
+
+In den Medien setzen sich Personen und Gruppen in Szene um ein bestimmtes Bild zu vermitteln. Dabei kann man sich nie sicher sein, ob die Person in der Öffentlichkeit nicht nur eine Rolle spielt. Durch diese Inszenierung können Follower und Einfluss gewonnen werden.
