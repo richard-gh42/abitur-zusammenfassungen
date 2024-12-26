@@ -34,6 +34,8 @@ Die beschriebene Demokratietheorie basiert auf den Prinzipien der individuellen 
 
 ## Charles de Montesquieu (Repräsentative Demokratie mit Elementen einer konstituellen Monarchie)
 
+TODO
+
 - Politische Freiheit ist die Sicherheit des Bürgers, die aus der Trennung der Gewalten entsteht.
 - Gewaltenteilung: Die politische Freiheit ist nur gewährleistet, wenn die drei Gewalten getrennt sind:
   - Legislative (gesetzgebende Gewalt),

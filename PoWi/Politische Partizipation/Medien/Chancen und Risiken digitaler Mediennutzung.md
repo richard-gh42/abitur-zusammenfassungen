@@ -1,5 +1,7 @@
 ## Chancen digitaler Mediennutzung für Partizipation
 
+TODO
+
 - **Einfache Mobilisierung:**
   Digitale Medien ermöglichen es, schnell und effizient eine große Anzahl von Menschen für politische Aktionen oder soziale Bewegungen zu mobilisieren. Soziale Netzwerke und Plattformen wie WhatsApp oder Facebook erleichtern die Organisation und Verbreitung von Informationen über bevorstehende Veranstaltungen, Demonstrationen oder Kampagnen.
 - **Zugang zu Informationen:**

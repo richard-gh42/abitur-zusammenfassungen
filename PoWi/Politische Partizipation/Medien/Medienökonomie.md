@@ -1,5 +1,7 @@
 # Medienmärkte und Medienökonomie
 
+TODO
+
 ## Aspekte der Medienökonomie
 
 ### Angebot und Nachfrage als zentrale Marktdynamik
