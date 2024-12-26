@@ -11,7 +11,11 @@
 
 Rechtliche Instrumente setzen verbindliche Vorgaben, die Unternehmen und Bürger einhalten müssen. Diese Vorschriften sind oft in Form von Gesetzen, Verordnungen oder Grenzwerten formuliert.
 
-- **Beispiele:** Emissionsgrenzwerte für Fabriken, Verbote von bestimmten Schadstoffen, Vorschriften zur Abfallentsorgung.
+- **Beispiele:**
+  - Emissionsgrenzwerte für Fabriken, Verbote von bestimmten Schadstoffen, Vorschriften zur Abfallentsorgung.
+  - Einweg-Plastikprodukte wie Strohhalme und Besteck sind in der EU verboten, um Plastikmüll zu reduzieren.
+  - Abgasnormen: Beschränkungen der Abgasemissionen für Autos, wie z.B. die Euro-6-Norm.
+    Abgaben
 - **Wirksamkeit:**
   - Hoch, da klar definierte Regeln oft direkte, messbare Effekte haben. Zum Beispiel sinken Schadstoffwerte oft sofort, wenn strenge Grenzwerte eingeführt werden.
 - **Effizienz:**
@@ -26,6 +30,8 @@ Rechtliche Instrumente setzen verbindliche Vorgaben, die Unternehmen und Bürger
 ## Ökonomische Instrumente
 
 Ökonomische Instrumente beeinflussen das Verhalten durch finanzielle Anreize und Kosten, die auf umweltschädliches Verhalten erhoben werden. Sie setzen darauf, dass Marktakteure auf Preisänderungen reagieren.
+
+TODO
 
 ### Finanzpolitische Instrumente
 
