@@ -30,4 +30,7 @@ Werden die Bürgerinteressen in den politischen Institutionen bzw. Partizipation
 ### Kontrolle
 
 Haben die Bürger, über die klassische Gewaltenteilung hinaus, die Möglichkeit, das Handeln politischer und wirtschaftlicher Entscheidungsträger zu kontrollieren?
-Bedeutung politischer Partizipation für die Demokratie (TODO)
+
+## Bedeutung politischer Partizipation für die Demokratie
+
+TODO
