@@ -32,3 +32,13 @@ TODO
   - Macht (oft gewaltsam)
   - Einfluss (kapitalistische Expansion)
   - Vorbildwirkung (oft entgegengenommen)
+
+## Imperialismus und Rassismus (z. B. Deutschland)
+
+TODO ausführen
+
+Rassismus ist ein Teil des Imperialismus und u. a. die Rechtfertigung des Kolonialismus
+
+- Das sieht man daran, dass die Indigenen in u. a. Afrika nicht als gleichwertig bezeichnet wurden.
+  - Gleichstellung von Indigenen mit Tieren („Völkerschau“ M6)
+- „Die Notwendigkeit, zu einer Klasse von Dienstboten in Lohn und Brot der Weißen zu werden, schafft aber für die Eingeborenen erst, weltgeschichtlich betrachtet, ein dauerndes Existenzrecht.“ (M7)
