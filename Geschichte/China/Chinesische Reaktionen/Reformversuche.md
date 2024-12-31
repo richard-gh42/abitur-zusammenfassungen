@@ -18,7 +18,7 @@
 
 ## Reformen unter Cixi
 
-### Hans Feske:
+TODO (100-Tage-Reform?)
 
 - Schwere Demütigung Chinas nach dem, durch internationale Streitkräfte zurückgeschlagenen, fremdenfeindlichen Boxeraufstand
   - Boxerprotokoll nach der Niederschlagung des Boxeraufstandes
