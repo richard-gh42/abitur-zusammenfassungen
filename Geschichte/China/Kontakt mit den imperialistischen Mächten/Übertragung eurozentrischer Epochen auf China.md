@@ -1,0 +1,9 @@
+# Kann eine eurozentrisches Epochensystem auf China übertragen werden?
+
+Im Folgenden wird unter den Kriterien der Historischen Genauigkeit und Anschaulichkeit für Personen in Europa und in China diese Frage erörtert.
+
+Aus Sicht der Europäer ist es sehr anschaulich und einfach zu verstehen, wenn man das eurozentrische Epochensystem auf China überträgt. Dabei können schon bekannte Konzepte übertragen werden, da diese sonst auch im Unterricht bearbeitet werden würden. Auch aus Sicht des heutigen Chinas würde eine gemeinsame Epochenaufteilung Sinn machen, aus den gleichen Gründen wie in Europa. Das jedoch nur, wenn man davon ausgeht, dass es keine Schwierigkeiten bei der Migration von einem alten zu dem neuen bzw. eurozentrischen Epochensystem gäbe, was sehr unwahrscheinlich ist.
+
+Mit der Übertragung eines eurozentrischen Epochensystems auf China gibt es jedoch ein entscheidendes Problem: China und Europa haben vor dem 19. Jahrhundert nur wenig Kontakt gehabt. Deshalb haben sich beide Seiten unterschiedlich entwickelt. Erst mit dem 19. Jahrhundert gab es in großem Stil Kontakt zwischen den Kulturen. Aus diesem Grund passen die Einordnungen des eurozentrischen Epochensystems nicht mit den chinesischen Ereignissen und Prozessen überein und können nur schwierig in ein System zusammengefasst werden. Beispielsweise gibt es in China zur Zeit des Mittelalters nicht die gleichen oder ähnlichen Veränderungen und kann deshalb nicht übertagen werden.
+
+Zusammengefasst kann gesagt werden, dass sich ein eurozentrisches nicht auf China übertragen lässt. Es hätte Vorteile für die Europäer, jedoch wäre diese Übertragung historisch ungenau und nicht passen. Ich denke deshalb, dass man sich die Geschichte in China nicht nach eurozentrischen Epochen, sondern nach auf China angepassten Epochen betrachten sollte.
