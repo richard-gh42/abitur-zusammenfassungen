@@ -33,4 +33,6 @@ Haben die Bürger, über die klassische Gewaltenteilung hinaus, die Möglichkeit
 
 ## Bedeutung politischer Partizipation für die Demokratie
 
-TODO
+Eine funktionierende Demokratie ist nur durch politische Partizipation der Bevölkerung möglich. Nur wenn Bürger partizipieren können ihre Interessen von der Politik vertreten werden.
+
+Die Bedeutung politischer Partizipation für die Demokratie in einem aufgefächerten Stil folgt aus den Funktionen politischer Partizipation.
