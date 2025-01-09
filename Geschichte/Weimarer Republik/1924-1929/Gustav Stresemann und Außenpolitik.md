@@ -110,7 +110,7 @@ Stresemann sieht die „Krise des Parlamentarismus“ durch fehlende Konsensbild
 
 #### „Erfolge“ der Versöhnungspolitik
 
-- Ende der Besetzung des Rheinlands (1930)
+- Ende der Besetzung des Rheinlands "Young-Plan" (1930)
 - Ende der Reparationszahlungen (1932)
 - Militärische Gleichberechtigung (1932)
 

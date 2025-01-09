@@ -26,3 +26,6 @@
 
 - Starke Abhängigkeit an die USA wegen Krediten
   - Die Gläubiger forderten diese Kredite während der Krise zurück.
+- **Exportabhängigkeit** Deutschlands
+- Versailler Vertrag und wirtschaftliche Lage führen zu einem **"Schuldenkarussell"**
+- **Spekulationsblase** in den USA
