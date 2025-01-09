@@ -11,10 +11,13 @@
   - Gesamteuropa, Großbritannien und Frankreich am geringsten betroffen
 - Steigende Arbeitslosigkeit
   - Schlechte Lebensbedingungen
+    - u. a. wegen einer schlechteren Versorgung mit Konsumgütern
   - Unzufriedenheit / Radikalisierung
+  - Höhere Belastung für den Staat
 - Wachsende Staatsverschuldung
 - Radikalisierung der politischen Landschaft
   - KPD, DNVP und NSDAP hat mehr als 58% der Stimmen
+- Destabilisierung der politischen Lage
 
 ## Gründe für die Auswirkungen in Deutschland
 
