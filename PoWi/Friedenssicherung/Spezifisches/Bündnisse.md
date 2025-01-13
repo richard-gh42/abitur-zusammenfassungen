@@ -38,9 +38,9 @@
 
 <img src="../../../images/GASP.jpg" width="500">
 
-### Mittel
+### Mittel der GASP
 
-#### Diplomatische Instrumente
+Größtenteils Diplomatische Instrumente
 
 - Erklärungen zu internationalen Entwicklungen
 - Hilfsangebote
@@ -50,7 +50,7 @@
 - Militärische Operation
   - größtenteils durch die NATO
 
-#### Herausforderungen
+### Herausforderungen für die GASP
 
 - Terrorismus
 - Energieversorgungssicherheit
