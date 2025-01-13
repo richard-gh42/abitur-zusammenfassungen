@@ -29,3 +29,21 @@
 - **Exportabhängigkeit** Deutschlands
 - Versailler Vertrag und wirtschaftliche Lage führen zu einem **"Schuldenkarussell"**
 - **Spekulationsblase** in den USA
+
+## Reichskanzler Brüning zur Weltwirtschaftskriese
+
+- Glaube, dass sich die deutsche Wirtschaft erholen kann
+- Verhinderung der Inflation um jeden Preis (Deflationspolitik)
+- Sparmaßnahmen zur Bewältigung der Krise
+- Offenheit und Ehrlichkeit sowie internationale Kooperation
+- Offenheit und Ehrlichkeit führten zu gesenkten Reparationszahlungen
+
+## Bank für internationalen Zahlungsausgleich über die deutsche Situation
+
+- Lohn und Preise sinken (deflatorische Maßnahmen)
+- hohe Erwerbslosigkeit
+- Kernproblem: Kapitalbedarf (Kredite) aus dem Auslands
+- Viel Kapital floss wegen den Reparationszahlungen gleich wieder ab
+  - infolge dessen empfindlich für Störungen des Finanzmarkts
+- Deutschlands Lage schadet dem Weltmarkt
+  - andere Staaten sollten Deutschland helfen
