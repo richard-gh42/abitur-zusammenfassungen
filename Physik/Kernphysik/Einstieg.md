@@ -19,9 +19,6 @@
 - stoßt ab (geringe Distanz) und zieht an (höhere Distanz)
 - bei zunehmender Protonenzahl müssen mehr Neutronen sich im Kern befinden, um die kurze Distanz der starken Wechselwirkung auszugleichen
 
-## Zerfall
+## ionisierende Strahlung
 
-### Alpha-Zerfall
-
-- Zwei Protonen und zwei Neutronen werden ausgestrahlt.
-- Gleicht Heliumkernen
+Strahlung, die Elektronen aus einem Atom lösen kann.
