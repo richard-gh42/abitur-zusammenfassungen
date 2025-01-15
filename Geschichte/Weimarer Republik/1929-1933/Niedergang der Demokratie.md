@@ -72,7 +72,7 @@ Das Zitat von Gerhard Schulz beschreibt einen kritischen Moment in der Geschicht
 - Bei den Zweitwahlen gewann die NSDAP 15,5 % hinzu und erreichte insgesamt 18,3 %, womit sie die zweitstärkste Kraft im Reichstag wurde.
 - 1930 waren 70 % der Mitglieder der NSDAP jünger als 40 Jahre.
 
-### Zerstörung der Demokratie 1932
+### Zerstörung der Demokratie ab 1930
 
 - **Abhängigkeit der Regierung von Notverordnungen seit 1930:**
 
