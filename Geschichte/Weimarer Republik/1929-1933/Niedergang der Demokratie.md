@@ -32,10 +32,12 @@
 **Minderheitsregierungen**, die ihrer gesetzgebenden Funktion über den Reichspräsidenten nachkommen
 
 - über die Notverordnung möglich
+- übergeht den demokratischen Prozess
+- gibt dem Reichspräsidenten fast unbegrenzte Macht
 
 ### Funktionsweise der Präsidialkabinette
 
-<img src="../../../images/Präsidialkabinette.jpg" alt="S. 360 M3" width="500" />
+<img src="../../../images/Präsidialkabinette.jpg" alt="S. 360 M3" width="750" />
 
 ### Reichsverfassung Art. 25
 
