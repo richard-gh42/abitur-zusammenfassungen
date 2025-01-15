@@ -111,5 +111,6 @@ Das Zitat von Gerhard Schulz beschreibt einen kritischen Moment in der Geschicht
 
 - **März 1933**
 
-  - Bei der Reichstagswahl im März 1933 erreichte die NSDAP 43,9 Prozent und damit **fast eine absolute Mehrheit**
-  - **Tag von Potsdam:** Eröffnungszeremonie des Reichstags unter Adolf Hitler als Reichskanzler
+  - **5. März:** Bei der Reichstagswahl im März 1933 erreichte die NSDAP 43,9 Prozent und damit **fast eine absolute Mehrheit**
+  - **21. März: Tag von Potsdam:** Eröffnungszeremonie des Reichstags unter Adolf Hitler als Reichskanzler
+  - **24. März: Ermächtigungsgesetz:** Aufhebung der Gewaltenteilung zwischen Exekutive und Legislative
