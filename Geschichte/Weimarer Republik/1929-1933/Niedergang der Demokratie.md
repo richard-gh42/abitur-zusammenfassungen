@@ -2,29 +2,30 @@
 
 ## Von der Wirtschafts- zur Staatskrise in Deutschland
 
-- **Wirtschaftliche Probleme**:
+### Wirtschaftliche Probleme
 
-  - Sinkende Wirtschaftsleistung und **steigende Arbeitslosenzahlen** führten zu wachsender sozialer und wirtschaftlicher Unsicherheit.
-  - Dies erhöhte den Druck auf die regierende „Große Koalition“ (SPD, DDP, Zentrum, DVP, BVP), die aufgrund **fehlender Kompromissbereitschaft** im Parlament **immer weniger handlungsfähig** war.
+- Sinkende Wirtschaftsleistung und **steigende Arbeitslosenzahlen** führten zu wachsender sozialer und wirtschaftlicher Unsicherheit.
+- Dies erhöhte den Druck auf die regierende „Große Koalition“ (SPD, DDP, Zentrum, DVP, BVP), die aufgrund **fehlender Kompromissbereitschaft** im Parlament **immer weniger handlungsfähig** war.
 
-- **Politische Destabilisierung**:
+### Politische Destabilisierung
 
-  - Die Auseinandersetzungen um den „Young-Plan“ wurden von rechtsnationalen Kreisen genutzt, um die Regierung, insbesondere Reichskanzler Hermann Müller (SPD), zu attackieren.
-  - **Antidemokratische und antisemitische Propaganda** wurde verstärkt, u. a. durch Pressekonzerne und Gruppen wie die NSDAP.
+- Die Auseinandersetzungen um den „Young-Plan“ wurden von rechtsnationalen Kreisen genutzt, um die Regierung, insbesondere Reichskanzler Hermann Müller (SPD), zu attackieren.
+- **Antidemokratische und antisemitische Propaganda** wurde verstärkt, u. a. durch Pressekonzerne und Gruppen wie die NSDAP.
 
-- **Gewalt und Polarisierung**:
+### Gewalt und Polarisierung
 
-  - Es kam zu **regelmäßigen Saal- und Straßenschlachten** zwischen den Schlägertruppen der Parteien.
-  - Die zunehmende **Radikalisierung und Polarisierung** schwächte das politische System weiter.
+- Es kam zu **regelmäßigen Saal- und Straßenschlachten** zwischen den Schlägertruppen der Parteien.
+- Die zunehmende **Radikalisierung und Polarisierung** schwächte das politische System weiter.
 
-- **Krise der parlamentarischen Demokratie**:
+### Krise der parlamentarischen Demokratie
 
-  - Die „Große Koalition“ zerbrach 1930, da keine Einigung über die Erhöhung der Beiträge zur Arbeitslosenversicherung erzielt werden konnte.
-  - Mit der Berufung Heinrich Brünings (Zentrumspartei) zum Reichskanzler und der Durchsetzung von Gesetzesvorhaben mittels Artikel 48 der Reichsverfassung (Notverordnungen) begann die Umgehung des Reichstags.
+- Die „Große Koalition“ zerbrach 1930, da keine Einigung über die Erhöhung der Beiträge zur Arbeitslosenversicherung erzielt werden konnte.
+- Mit der Berufung Heinrich Brünings (Zentrumspartei) zum Reichskanzler und der Durchsetzung von Gesetzesvorhaben mittels Artikel 48 der Reichsverfassung (Notverordnungen) begann die Umgehung des Reichstags.
 
-- **Auflösung des Reichstags und Präsidialkabinett**:
-  - Nach der Ablehnung von Brünings Sparmaßnahmen durch den Reichstag wurde der Reichstag aufgelöst.
-  - Es folgte die Etablierung eines **Präsidialkabinetts**, das de facto die **parlamentarische Demokratie aushöhlte** und eine neue Verfassungswirklichkeit schuf.
+### Auflösung des Reichstags und Präsidialkabinett
+
+- Nach der Ablehnung von Brünings Sparmaßnahmen durch den Reichstag wurde der Reichstag aufgelöst.
+- Es folgte die Etablierung eines **Präsidialkabinetts**, das de facto die **parlamentarische Demokratie aushöhlte** und eine neue Verfassungswirklichkeit schuf.
 
 ## Präsidialkabinette
 
@@ -83,28 +84,27 @@ Das Zitat von Gerhard Schulz beschreibt einen kritischen Moment in der Geschicht
 
 - **Juni 1932:**
 
-  - Franz von Papen wird Reichskanzler und bildet das „Kabinett der Barone“ ohne parlamentarische Mehrheit
-  - Ziel von Papen und Hindenburg: NSDAP einbinden und kontrollieren
+  - **Franz von Papen** wird Reichskanzler und bildet ein Kabinett ohne parlamentarische Mehrheit
+  - Ziel von Papen und Hindenburg: **NSDAP einbinden und kontrollieren**
   - Reichstag wird aufgelöst, erneute Neuwahlen im Juli 1932
 
 - **Juli 1932:**
 
-  - NSDAP wird mit 37,3 % stärkste Partei, erhält jedoch keine absolute Mehrheit
+  - NSDAP wird mit 37,3 % stärkste Partei, erhält jedoch **keine absolute Mehrheit**
   - Franz von Papen bietet Hitler Vizekanzlerposten an, Hitler lehnt ab und fordert den Kanzlerposten
 
 - **November 1932:**
 
-  - NSDAP verliert Stimmenanteile (33,1 %), bleibt aber stärkste Partei
-  - Verschlechterung der wirtschaftlichen Lage und Unzufriedenheit in der Bevölkerung
+  - NSDAP verliert Stimmenanteile (33,1 %), bleibt aber **stärkste Partei**
+  - Verschlechterung der **wirtschaftlichen Lage und Unzufriedenheit** in der Bevölkerung
 
 - **Dezember 1932:**
 
-  - Kurt von Schleicher wird neuer Reichskanzler
+  - **Kurt von Schleicher** wird neuer Reichskanzler
   - Schleicher versucht, eine breite Koalition gegen Hitler zu bilden, scheitert aber an der fehlenden Unterstützung der Reichstagsmehrheit
-  - Plant die Spaltung der NSDAP durch Kooperation mit dem linken NSDAP-Flügel, was ebenfalls scheitert
 
 - **Januar 1933:**
 
   - Franz von Papen überredet Hindenburg, Hitler zum Reichskanzler zu ernennen, mit dem Plan, Hitler durch konservative Minister zu kontrollieren
-  - Am 30. Januar 1933 wird Hitler zum Reichskanzler ernannt, wodurch die Machtergreifung der NSDAP offiziell eingeleitet wird
-  - Regierung Hitler stützt sich auf Koalition mit DNVP, die eine Mehrheit im Reichstag sichern soll
+  - Am 30. Januar 1933 wird **Hitler zum Reichskanzler** ernannt, wodurch die Machtergreifung der NSDAP offiziell eingeleitet wird
+  - Regierung Hitler stützt sich auf eine Koalition mit DNVP, die eine Mehrheit im Reichstag sichern soll
