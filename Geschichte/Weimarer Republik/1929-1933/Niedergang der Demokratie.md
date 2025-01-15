@@ -108,3 +108,8 @@ Das Zitat von Gerhard Schulz beschreibt einen kritischen Moment in der Geschicht
   - Franz von Papen überredet Hindenburg, Hitler zum Reichskanzler zu ernennen, mit dem Plan, Hitler durch konservative Minister zu kontrollieren
   - Am 30. Januar 1933 wird **Hitler zum Reichskanzler** ernannt, wodurch die Machtergreifung der NSDAP offiziell eingeleitet wird
   - Regierung Hitler stützt sich auf eine Koalition mit DNVP, die eine Mehrheit im Reichstag sichern soll
+
+- **März 1933**
+
+  - Bei der Reichstagswahl im März 1933 erreichte die NSDAP 43,9 Prozent und damit **fast eine absolute Mehrheit**
+  - **Tag von Potsdam:** Eröffnungszeremonie des Reichstags unter Adolf Hitler als Reichskanzler
