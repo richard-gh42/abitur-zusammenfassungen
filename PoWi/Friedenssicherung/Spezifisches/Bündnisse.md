@@ -10,7 +10,9 @@
   - „Keep the Americans in“
   - „Keep the Germans down“
 - Entgegengesetzt zu dem Warschauer Pakt
-  Ziele
+
+### Ziele
+
 - Soll die Länder in Europa und Nordamerika schützen
 - Werte-, Politikgemeinschaft
 
@@ -28,15 +30,48 @@
 
 ### Geschichte
 
-- Vertrag von Maastricht: Gemeinsame Sicherheits- und Außenpolitik
+- Vertrag von Maastricht: Gemeinsame Sicherheits- und Außenpolitik (GASP)
 - Vertrag von Amsterdam: Ausbau der GASP
 - Vertrag von Lissabon: Stärkung der GASP
 
 ### GASP (Gemeinsame Außen- und Sicherheitspolitik)
 
-<img src="../../../images/GASPKompass.jpg" width="500">
+#### Strategischer Kompass der GASP
+
+> seid 2022
+
+- **Handeln:** schnell und robust
+  - "schnelle Eingreiftruppe" (5000 Soldaten) gegen unterschiedliche Bedrohungen
+  - schnellere Beschlussfassung für Einsätze
+- **Sichern:** Bedrohungen antizipieren und Bevölkerung schützen
+  - Mittel gegen hybride Bedrohungen entwickeln
+  - Cyberabwehr stärken
+- **Investieren:** in moderne, unabhängig entwickelte Einsatztechnologie
+  - Verteidigungsausgaben erhöhen
+  - technologische Abhängigkeiten verringern
+- **Mit Partnern:** kooperieren bei gemeinsamen Bedrohungen und Herausforderungen
+
+  - Kooperation mit NATO, UNO und regionalen Partnern (u. a. Afrikatische Union)
+  - bilaterale Zusammenarbeit (z. B. mit den USA, Japan, Großbritannien)
+
+#### Entscheidungsprozess in der EU
+
+    Der Entscheidungsprozess in der EU ist intergovernmental.
+
+- Intergovernmental: beschreibt die Art und Weise, wie Entscheidungen im Rahmen der GASP der Europäischen Union getroffen werden. Er steht im Gegensatz zu einem supranationalen Ansatz
+  - u. a. Souveränität der Mitgliedstaaten, Einstimmigkeitsprinzip, keine bindenden Verordnungen
+- Supranational: Entscheidungen über die Nationalstaaten hinaus; Mehrheitsentscheidungen sind für alle Mitgliedsstaaten bindend
 
 <img src="../../../images/GASP.jpg" width="500">
+
+#### Kritik an dem Entscheidungsprozess der EU / GASP
+
+- die intergovernmentale Natur lässt Entscheidungsprozess verlangsamen und weniger Handlungsfähig machen
+  - Wenn ein Staat nicht zustimmt macht das ganze Verfahren einen Halt.
+- die EU könnte einen supranationalen Ansatz gehen und Mehrheitsentscheidungen einführen und verpflichtend machen
+  - das könnte der Legitimität der EU schaden
+- Der Kompass der GASP ist nicht konkret genug.
+  Es bleiben Fragen wie wofür die Einsatztruppe genutzt werden soll und welche Einsätze priorisiert werden.
 
 ### Mittel der GASP
 
@@ -58,3 +93,11 @@ Größtenteils Diplomatische Instrumente
   - z. B. Deutschland und Frankreich nach Annexion der Krim Minsker Friedensplan
 - Handlungsfähigkeit der EU eingeschränkt
   - viele nationale Interessen
+
+## Kooperation der NATO und EU
+
+1. Zusammenarbeit beruht auf gemeinsamen Werte und Friedenssicherung
+2. Russland und der Angriffskrieg sind eine schwere Bedrohung für den euro-atlantischen Raum
+3. stärkerer weltpolitischer Wettbewerb (u. a. China)
+4. Instabilität in europäischer Nachbarschaft ist eine Bedrohung
+5. die NATO bleibt Grundlage kollektiver Verteidigung und die EU möchte eine Sicherheitspolitik, die sich mit der NATO ergänzt
