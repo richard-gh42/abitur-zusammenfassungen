@@ -1,16 +1,30 @@
 # Niedergang der Demokratie Weimars
 
-> Siehe Strukturprobleme Weimars (relative Stabilisierung/Strukturprobleme)
+### wirtschaftliche Lage
+
+- Deutschland befand sich in einer schwierigen wirtschaftlichen Lage
+- Arbeitslosigkeit war sehr hoch und Lebensqualität war nicht gut
+- Unzufriedenheit machte sich in der Bevölkerung breit
+- Weitere Infos: [Weltwirtschaftskriese](./Weltwirtschaftskriese.md)
 
 ## gesellschaftliche Rahmenbedingungen zum Ende der Demokratie
 
-### wirtschaftliche Lage
+TODO
+
+Weitere Infos: [Strukturprobleme](../relative%20Stabilisierung/Strukturprobleme.md)
 
 ### gesellschaftliche Radikalisierung
 
+TODO
+
 ### politische Radikalisierung
 
-TODO
+- Spaltung der politischen Landschaft, ideologische Gräben und Interessenskonflikte erschwerten eine langfristige Zusammenarbeit der Parteien.
+- Wahl Hindenburgs (1925) stärkte **republikfeindliche Kräfte** und schwächte die demokratische Mehrheit.
+- Häufige **Regierungswechsel** und kurze Amtszeiten **verhinderten politische Kontinuität**.
+  - Die „Große Koalition“ zerbrach 1930, da keine Einigung über die Erhöhung der Beiträge zur Arbeitslosenversicherung erzielt werden konnte.
+- KPD und NSDAP **radikalisieren** sich immer weiter
+- Mit der Berufung Heinrich Brünings (Zentrumspartei) zum Reichskanzler und der Durchsetzung von Gesetzesvorhaben mittels Artikel 48 der Reichsverfassung (Notverordnungen) begann die Umgehung des Reichstags und die Zeit der **Präsidialkabinette**.
 
 ## Präsidialkabinette
 
@@ -66,11 +80,45 @@ Das Zitat von Gerhard Schulz beschreibt einen kritischen Moment in der Geschicht
 
 ## Strategie der NSDAP
 
+### Nutzung des Systems in der Weimarer Republik
+
+> Quelle: S. 365 M17 Joseph Goebbels (NSDAP) über "Legalität" im "Angriff" (1928)
+
+Goebbels erklärt, wie die NSDAP das Vorhaben hat die Weimarer Republik von innen mit ihren eigenen Mitteln zu unterwandern.
+
+- Die NSDAP lässt sich zur Wahl aufstellen
+- sie bekommt staatliche finanzielle Unterstützung
+- sie wird gewählt
+- sie hebelt die Weimarer Verfassung von innen aus
+
+### Versammlung starker Untergebener unter Hitler
+
 TODO
 
 ## Verhältnis Hindenburg und Hitler
 
-TODO
+### Hindenburgs Sicht auf Hitler
+
+- Abneigung gegenüber Hitler als "Emporkömmling" und "böhmischen Gefreiten"
+- Skepsis gegenüber Hitlers radikalen Ideen und der NSDAP
+
+### Politischer Pragmatismus
+
+- Papen überzeugt Hindenburg, Hitler zum Reichskanzler zu ernennen
+  - "In sechs Wochen haben wir Hitler so in die Ecke gedrängt, dass er quietscht." ~Franz von Papen, Ende Januar 1933
+  - Versuch, Hitler über die Ernennung zum Reichskanzler zu kontrollieren
+  - Hoffnung, Hitler führt einen gemäßigteren Kurs, nach Verantwortung als Kanzler
+- Hindenburg ernennt Hitler zum Reichskanzler am 30. Januar 1933
+
+### Machtverschiebung
+
+- Hitler gewann schnell an Einfluss (durch Hindenburgs Krankheit)
+- Hindenburg blieb formal Staatsoberhaupt bis zu seinem Tod 1934
+
+### Hitlers Machtergreifung
+
+- Nach Hindenburgs Tod vereinte Hitler die Ämter des Reichspräsidenten und Reichskanzlers
+- Etablierung der NS-Diktatur
 
 ## Ereignisgeschichte ab 1932
 
@@ -109,4 +157,5 @@ TODO
 
 ## Machtsicherung
 
-TODO
+- Das Ermächtigungsgesetz ermöglichte der Reichsregierung ohne Zustimmung des Reichstags Gesetze zu erlassen. Das machte die Regierung - und somit Hitler - essenziell zu einer Diktatur ohne Gewaltenteilung.
+- Die NSDAP musste nicht nur von Außen ihre Macht absichern, sondern auch innerparteilich für Einheit sorgen.
