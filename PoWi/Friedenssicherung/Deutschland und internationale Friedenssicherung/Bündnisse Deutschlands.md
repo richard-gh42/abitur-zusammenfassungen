@@ -26,6 +26,19 @@
 - Staaten im Osten wollen ihre Unabhängigkeit von Russland durch einen NATO-Beitritt sichern
 - Russland sieht die NATO-Ost-Erweiterung als Provokation
 
+### Finanzierung
+
+Die Finanzierung der NATO erfolgt durch **Beiträge der Mitgliedstaaten**. Diese Beiträge setzen sich aus zwei Hauptkomponenten zusammen:
+
+- **Direkte Beiträge:** Diese werden in den **gemeinsamen Haushalt** der NATO eingezahlt und dienen zur Finanzierung der NATO-Infrastruktur, des Hauptquartiers und anderer gemeinsamer Projekte. Die Höhe der direkten Beiträge wird nach einem vereinbarten Schlüssel berechnet, der die **wirtschaftliche Leistungsfähigkeit der Mitgliedstaaten** berücksichtigt.
+- **Indirekte Beiträge:** Diese bestehen aus den **nationalen Verteidigungsausgaben** der Mitgliedstaaten. Jedes Land trägt durch seine eigenen **militärischen Fähigkeiten und Ressourcen** zur kollektiven Verteidigung bei. Diese Beiträge sind **nicht zentralisiert**, sondern werden von den einzelnen Ländern selbst verwaltet.
+  - Als ungeschriebenes Gesetz gilt 2% des BIPs für die eingene Verteidigung. Diese 2% werden in Deutschland nur über das Sondervermögen erreicht. Innerhalb der NATO wird von einigen Stimmen schon länger für eine Erhöhung der 2% auf 3% oder 3,5% gefordert.
+
+#### Trump und Finanzierung
+
+- Forderung, dass alle Mitgliedstaaten 5% des BIPs in die Verteidigung stecken.
+- Wäre für Deutschland fast nicht erreichbar
+
 ## EU
 
 ### Geschichte
