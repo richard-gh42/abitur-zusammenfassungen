@@ -47,3 +47,30 @@
   - infolge dessen empfindlich für Störungen des Finanzmarkts
 - Deutschlands Lage schadet dem Weltmarkt
   - andere Staaten sollten Deutschland helfen
+
+## Von der Wirtschafts- zur Staatskrise in Deutschland
+
+### Wirtschaftliche Probleme
+
+- Sinkende Wirtschaftsleistung und **steigende Arbeitslosenzahlen** führten zu wachsender sozialer und wirtschaftlicher Unsicherheit.
+- Dies erhöhte den Druck auf die regierende „Große Koalition“ (SPD, DDP, Zentrum, DVP, BVP), die aufgrund **fehlender Kompromissbereitschaft** im Parlament **immer weniger handlungsfähig** war.
+
+### Politische Destabilisierung
+
+- Die Auseinandersetzungen um den „Young-Plan“ wurden von rechtsnationalen Kreisen genutzt, um die Regierung, insbesondere Reichskanzler Hermann Müller (SPD), zu attackieren.
+- **Antidemokratische und antisemitische Propaganda** wurde verstärkt, u. a. durch Pressekonzerne und Gruppen wie die NSDAP.
+
+### Gewalt und Polarisierung
+
+- Es kam zu **regelmäßigen Saal- und Straßenschlachten** zwischen den Schlägertruppen der Parteien.
+- Die zunehmende **Radikalisierung und Polarisierung** schwächte das politische System weiter.
+
+### Krise der parlamentarischen Demokratie
+
+- Die „Große Koalition“ zerbrach 1930, da keine Einigung über die Erhöhung der Beiträge zur Arbeitslosenversicherung erzielt werden konnte.
+- Mit der Berufung Heinrich Brünings (Zentrumspartei) zum Reichskanzler und der Durchsetzung von Gesetzesvorhaben mittels Artikel 48 der Reichsverfassung (Notverordnungen) begann die Umgehung des Reichstags.
+
+### Auflösung des Reichstags und Präsidialkabinett
+
+- Nach der Ablehnung von Brünings Sparmaßnahmen durch den Reichstag wurde der Reichstag aufgelöst.
+- Es folgte die Etablierung eines **Präsidialkabinetts**, das de facto die **parlamentarische Demokratie aushöhlte** und eine neue Verfassungswirklichkeit schuf.

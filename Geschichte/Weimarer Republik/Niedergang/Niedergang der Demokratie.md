@@ -1,31 +1,16 @@
 # Niedergang der Demokratie Weimars
 
-## Von der Wirtschafts- zur Staatskrise in Deutschland
+> Siehe Strukturprobleme Weimars (relative Stabilisierung/Strukturprobleme)
 
-### Wirtschaftliche Probleme
+## gesellschaftliche Rahmenbedingungen zum Ende der Demokratie
 
-- Sinkende Wirtschaftsleistung und **steigende Arbeitslosenzahlen** führten zu wachsender sozialer und wirtschaftlicher Unsicherheit.
-- Dies erhöhte den Druck auf die regierende „Große Koalition“ (SPD, DDP, Zentrum, DVP, BVP), die aufgrund **fehlender Kompromissbereitschaft** im Parlament **immer weniger handlungsfähig** war.
+### wirtschaftliche Lage
 
-### Politische Destabilisierung
+### gesellschaftliche Radikalisierung
 
-- Die Auseinandersetzungen um den „Young-Plan“ wurden von rechtsnationalen Kreisen genutzt, um die Regierung, insbesondere Reichskanzler Hermann Müller (SPD), zu attackieren.
-- **Antidemokratische und antisemitische Propaganda** wurde verstärkt, u. a. durch Pressekonzerne und Gruppen wie die NSDAP.
+### politische Radikalisierung
 
-### Gewalt und Polarisierung
-
-- Es kam zu **regelmäßigen Saal- und Straßenschlachten** zwischen den Schlägertruppen der Parteien.
-- Die zunehmende **Radikalisierung und Polarisierung** schwächte das politische System weiter.
-
-### Krise der parlamentarischen Demokratie
-
-- Die „Große Koalition“ zerbrach 1930, da keine Einigung über die Erhöhung der Beiträge zur Arbeitslosenversicherung erzielt werden konnte.
-- Mit der Berufung Heinrich Brünings (Zentrumspartei) zum Reichskanzler und der Durchsetzung von Gesetzesvorhaben mittels Artikel 48 der Reichsverfassung (Notverordnungen) begann die Umgehung des Reichstags.
-
-### Auflösung des Reichstags und Präsidialkabinett
-
-- Nach der Ablehnung von Brünings Sparmaßnahmen durch den Reichstag wurde der Reichstag aufgelöst.
-- Es folgte die Etablierung eines **Präsidialkabinetts**, das de facto die **parlamentarische Demokratie aushöhlte** und eine neue Verfassungswirklichkeit schuf.
+TODO
 
 ## Präsidialkabinette
 
@@ -57,27 +42,37 @@ Das Zitat von Gerhard Schulz beschreibt einen kritischen Moment in der Geschicht
 - Akzeptanz der Präsidialkabinette gegeben, da diese die Regierung handelsfähig machten.
   - das zeigt sich an der **wiederholten Wahl von Hindenburg** 1932, wo Präsidialkabinette schon tagesordnung waren
 
-## Machtergreifung der NSDAP
-
-### NSDAP und Präsidialkabinette
+## NSDAP und Präsidialkabinette
 
 - die NSDAP ist ursprünglich über die **Präsidialkabinette** an die Macht gekommen
 - die hohen Wählerstimmen zeigen die **Akzeptanz** der NSDAP und ihrer **Demokratiefeindlichkeit**
 
-### Der Aufstieg der Nationalsozialisten bis 1930
+## Der Aufstieg der Nationalsozialisten
 
-- Nach der Auflösung der Regierung durch Hindenburg folgten Neuwahlen, bei denen die NSDAP durch Versprechen im Wahlkampf und dadurch, dass sie als Auffangbecken für viele unentschiedene Wähler diente, an Stimmen gewann. Diese „aufgefangenen“ Wähler kamen vor allem aus der (ehemaligen) Mittelschicht.
-- Trotz interner Probleme, wie Unzufriedenheit und Hitlers Gefängnisstrafe, hielten sie den Kurs zur Mobilmachung.
+### Machtzunahme der NSDAP
+
 - 1929 erregte die NSDAP größere öffentliche Aufmerksamkeit durch ihre Kampagne gegen den **Young-Plan**, bei der sie mit der DNVP zusammenarbeitete.
-- Bei den Zweitwahlen gewann die NSDAP 15,5 % hinzu und erreichte insgesamt 18,3 %, womit sie die zweitstärkste Kraft im Reichstag wurde.
-- 1930 waren 70 % der Mitglieder der NSDAP jünger als 40 Jahre.
+- Seid 1930 steigt die gesellschaftliche Akzeptanz der NSDAP wie an den Wahlergebnissen zu sehen ist
+  - 1928: 2,6%
+  - 1930: 18,3%
+  - 1932 Wahl 1: 37,4% / Wahl 2: 33,1%
+  - 1933: 43,9%
+- die NSDAP diente als Auffangbecken für unzufriedene Wähler
 
-### Zerstörung der Demokratie ab 1930
+### Abhängigkeit der Regierung von Notverordnungen seit 1930
 
-- **Abhängigkeit der Regierung von Notverordnungen seit 1930:**
+- Demokratische Institutionen wurden geschwächt, Vertrauen in die Demokratie nahm ab
+- Aufgrund fehlender parlamentarischer Mehrheiten regierte die Regierung Brünings über **Präsidialkabinette**
 
-  - Demokratische Institutionen wurden geschwächt, Vertrauen in die Demokratie nahm ab
-  - Aufgrund fehlender parlamentarischer Mehrheiten regierte die Regierung Brünings über **Präsidialkabinette**
+## Strategie der NSDAP
+
+TODO
+
+## Verhältnis Hindenburg und Hitler
+
+TODO
+
+## Ereignisgeschichte ab 1932
 
 - **Wahlkampf zur Reichspräsidentenwahl 1932:**
 
@@ -100,11 +95,6 @@ Das Zitat von Gerhard Schulz beschreibt einen kritischen Moment in der Geschicht
   - NSDAP verliert Stimmenanteile (33,1 %), bleibt aber **stärkste Partei**
   - Verschlechterung der **wirtschaftlichen Lage und Unzufriedenheit** in der Bevölkerung
 
-- **Dezember 1932:**
-
-  - **Kurt von Schleicher** wird neuer Reichskanzler
-  - Schleicher versucht, eine breite Koalition gegen Hitler zu bilden, scheitert aber an der fehlenden Unterstützung der Reichstagsmehrheit
-
 - **Januar 1933:**
 
   - Franz von Papen überredet Hindenburg, Hitler zum Reichskanzler zu ernennen, mit dem Plan, Hitler durch konservative Minister zu kontrollieren
@@ -116,3 +106,7 @@ Das Zitat von Gerhard Schulz beschreibt einen kritischen Moment in der Geschicht
   - **5. März:** Bei der Reichstagswahl im März 1933 erreichte die NSDAP 43,9 Prozent und damit **fast eine absolute Mehrheit**
   - **21. März: Tag von Potsdam:** Eröffnungszeremonie des Reichstags unter Adolf Hitler als Reichskanzler
   - **24. März: Ermächtigungsgesetz:** Aufhebung der Gewaltenteilung zwischen Exekutive und Legislative
+
+## Machtsicherung
+
+TODO
