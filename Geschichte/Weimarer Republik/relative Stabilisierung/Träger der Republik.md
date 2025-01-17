@@ -2,7 +2,23 @@
 
 ## Parteien
 
-TODO
+### Demokratiefreundliche Parteien
+
+- Setzten sich für den Erhalt und die Stabilität der Weimarer Republik ein
+- Unterstützten soziale Reformen, bürgerliche Freiheiten und demokratische Institutionen
+- Beispiele: SPD, Zentrum, DDP, DVP (mit Vorbehalten)
+
+### Demokratiefeindliche Parteien
+
+- Gegner der Weimarer Republik und ihrer demokratischen Grundordnung
+- Setzten sich für alternative politische Systeme wie Monarchie oder Sozialismus ein
+- Beispiele: DNVP, KPD, NSDAP
+
+### Handelt es sich bei den Parteien um eine Stütze der Demokratie / Republik?
+
+Die Parteien sind keine homogene Masse. Es gibt viele unterschiedliche Ansichten und Ideologien, die vertreten sind. Daher kann man die Parteien nicht als eins sehen, sondern sollte nach Parteien beurteilen. Demnach handelt es sich bei demokratiefreundlichen Parteien um Stützen der Demokratie, da diese für den Erhalt der Demokratie kämpfen. Die demokratiefeindlichen Parteien wie die DNVP, KPD und NSDAP gelten jedoch nicht als Stützen der Demokratie, da diese aktiv versuchen, die Demokratie zu untergraben und sie so schwächen.
+
+Insgesamt sind Parteien eine Stütze der Demokratie, da sie essenziell für das alltägliche Geschehen der Republik und ihr Weiterbestehen sind. Dabei handelt es sich allerdings bei den extremen, republikfeindlichen Parteien nicht um Stützen der Republik.
 
 ## Militär
 
