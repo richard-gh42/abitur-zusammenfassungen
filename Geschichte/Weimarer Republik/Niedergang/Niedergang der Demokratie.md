@@ -9,13 +9,12 @@
 
 ## gesellschaftliche Rahmenbedingungen zum Ende der Demokratie
 
-TODO
+- geringe Demokratieakzeptanz in der Bevölkerung
+- Kontinuität alter Eliten
+- gesellschaftliche Polarisierung und Radikalisierung
+- strukturelle Schwächen in dem Weimarer Staatssystems
 
 Weitere Infos: [Strukturprobleme](../relative%20Stabilisierung/Strukturprobleme.md)
-
-### gesellschaftliche Radikalisierung
-
-TODO
 
 ### politische Radikalisierung
 
@@ -80,7 +79,7 @@ Das Zitat von Gerhard Schulz beschreibt einen kritischen Moment in der Geschicht
 
 ## Strategie der NSDAP
 
-### Nutzung des Systems in der Weimarer Republik
+### Nutzung der Schwächen des Systems in der Weimarer Republik
 
 > Quelle: S. 365 M17 Joseph Goebbels (NSDAP) über "Legalität" im "Angriff" (1928)
 
@@ -91,9 +90,11 @@ Goebbels erklärt, wie die NSDAP das Vorhaben hat die Weimarer Republik von inne
 - sie wird gewählt
 - sie hebelt die Weimarer Verfassung von innen aus
 
-### Versammlung starker Untergebener unter Hitler
+### Radikalisierung der Bevölkerung
 
-TODO
+- Über das Ansprechen der Unzufriedenheit der Bevölkerung mit einfachen Erklärungen und Lösungen und dem schieben der Schuld auf u. a. die Juden und Sozialdemokraten.
+  - [Dolchstoßlegende](../Anfänge/Dolchstoßlegende.md)
+  - [der "Schandfrieden" von Versaille](../Anfänge/Versailler%20Vertrag.md)
 
 ## Verhältnis Hindenburg und Hitler
 
