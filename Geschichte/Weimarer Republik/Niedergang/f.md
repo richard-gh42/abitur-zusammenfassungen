@@ -1,7 +1,7 @@
 
 ## Eberhard Kolb / Dirk Schumann
 
-sehr komplexes Ursachengeflecht aus vielen Faktoren:
+sehr **komplexes Ursachengeflecht** aus vielen Faktoren:
 
 - institutionelle Rahmenbedingungen
 	- verfassungsmäßige Rechte und Möglichkeiten des Reichspräsidenten
