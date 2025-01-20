@@ -85,10 +85,10 @@ Das Zitat von Gerhard Schulz beschreibt einen kritischen Moment in der Geschicht
 
 Goebbels erklärt, wie die NSDAP das Vorhaben hat die Weimarer Republik von innen mit ihren eigenen Mitteln zu unterwandern.
 
-- Die NSDAP lässt sich zur Wahl aufstellen
-- sie bekommt staatliche finanzielle Unterstützung
-- sie wird gewählt
-- sie hebelt die Weimarer Verfassung von innen aus
+1. Die NSDAP lässt sich zur Wahl aufstellen
+2. sie bekommt staatliche finanzielle Unterstützung
+3. sie wird gewählt
+4. sie hebelt die Weimarer Verfassung von innen aus
 
 ### Radikalisierung der Bevölkerung
 
