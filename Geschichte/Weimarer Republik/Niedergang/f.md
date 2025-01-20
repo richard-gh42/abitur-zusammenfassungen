@@ -20,3 +20,15 @@ sehr **komplexes Ursachengeflecht** aus vielen Faktoren:
 	- Hindenburg
 	- Papen
 	- Hitler
+
+## Hans-Ulrich Thamer
+
+### gemeinsame Rahmenbedingungen in Europa
+
+- erster Weltkrieg und Auswirkungen auf politik und gesellschaft
+
+### Was benötigt der Faschismus als erfolgreiche Massenbewegung?
+
+- das Politische System kann keine stabile Mehrheit finden
+- starke Linksbewegungen -> verunsicherung der Mitte
+- Belastung der nationalen Identität aufgrund der Kriegsniederlage und Friedensregelung ("Schandfrieden" von Versaille)
