@@ -1,6 +1,10 @@
-# Historikerurteil zum Scheitern der Weimarer Republik
+# Vergangenheit vs. Geschichte und Historikerurteile
 
-## Eberhard Kolb / Dirk Schumann
+## Beziehung von Vergangenheit und Geschichte
+
+Bei Vergangenheit handelt es sich um das konkrete Geschehene, während Geschichte eine uneindeutige, analytische, perspektivisch geprägte Konstruktion der Vergangenheit ist.
+
+## M2: Eberhard Kolb / Dirk Schumann
 
 sehr **komplexes Ursachengeflecht** aus vielen Faktoren:
 
@@ -21,7 +25,7 @@ sehr **komplexes Ursachengeflecht** aus vielen Faktoren:
 	- Papen
 	- Hitler
 
-## Hans-Ulrich Thamer
+## M1: Hans-Ulrich Thamer
 
 ### gemeinsame Rahmenbedingungen in Europa
 
@@ -32,3 +36,8 @@ sehr **komplexes Ursachengeflecht** aus vielen Faktoren:
 - das Politische System kann keine stabile Mehrheit finden
 - starke Linksbewegungen -> verunsicherung der Mitte
 - Belastung der nationalen Identität aufgrund der Kriegsniederlage und Friedensregelung ("Schandfrieden" von Versaille)
+
+## Vergleich der Historikerurteile
+
+- Unterschiedliche Forschungsschwerpunkte (M2: Weimarer Republik (Spezifisch) / M1: Europafokus & Nationalsozialismus(Allgemein))
+	- M2: Blick auf die gesamte Zeit der Weimarer Republik / M1: Blick auf Ende der Weimarer Republik 
