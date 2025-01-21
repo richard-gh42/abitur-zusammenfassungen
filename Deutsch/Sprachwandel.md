@@ -58,4 +58,4 @@ Die gesellschaftliche Entwicklung im 20. Jahrhundert zeichnet sich besonders dur
 
 - Sprache - Denken - Wirklichkeit => Sprache beeinflusst das Denken und das Denken die Wirklichkeit
 
-		Änderungen gesellschaftlicher Verhältnisse schlagen sich oft in der Sprache nieder.
+	>Änderungen gesellschaftlicher Verhältnisse schlagen sich oft in der Sprache nieder.
