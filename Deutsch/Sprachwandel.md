@@ -54,4 +54,4 @@ Die gesellschaftliche Entwicklung im 20. Jahrhundert zeichnet sich besonders dur
 
 ## Gendersprache
 
-- * oder _ in einem Wort ist ein Glottisschlag (kurze Pause)
+- Sternchen oder Unterstrich in einem Wort ist ein Glottisschlag (kurze Pause)
