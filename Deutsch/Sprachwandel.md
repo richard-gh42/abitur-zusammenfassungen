@@ -51,3 +51,7 @@ Die gesellschaftliche Entwicklung im 20. Jahrhundert zeichnet sich besonders dur
 		- Anglizismen
 		- Politik
 		- etc.
+
+## Gendersprache
+
+- * oder _ in einem Wort ist ein Glottisschlag (kurze Pause)
