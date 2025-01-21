@@ -9,35 +9,35 @@ Bei Vergangenheit handelt es sich um das konkrete Geschehene, während Geschicht
 sehr **komplexes Ursachengeflecht** aus vielen Faktoren:
 
 - institutionelle Rahmenbedingungen
-	- verfassungsmäßige Rechte und Möglichkeiten des Reichspräsidenten
+  - verfassungsmäßige Rechte und Möglichkeiten des Reichspräsidenten
 - ökonomische Entwicklung / Auswirkungen
-	- politische und gesellschaftliche Machtverhältnisse
+  - politische und gesellschaftliche Machtverhältnisse
 - Besonderheiten der politischen Kultur
 - Veränderungen im sozialen Gefüge
-	- Umschichtungen im "Mittelstand"
+  - Umschichtungen im "Mittelstand"
 - ideologische Faktoren
-	- autoritäre Traditionen
-	- extremer Nationalismus
+  - autoritäre Traditionen
+  - extremer Nationalismus
 - massenpsychologische Elemente
-	- Erfolgschancen massensuggestiver Propaganda
+  - Erfolgschancen massensuggestiver Propaganda
 - die Rolle einzelner Persönlichkeiten
-	- Hindenburg
-	- Papen
-	- Hitler
+  - Hindenburg
+  - Papen
+  - Hitler
 
 ## M1: Hans-Ulrich Thamer
 
 ### gemeinsame Rahmenbedingungen in Europa
 
-- erster Weltkrieg und Auswirkungen auf politik und gesellschaft
+- erster Weltkrieg und Auswirkungen auf Politik und gesellschaft
 
 ### Was benötigt der Faschismus als erfolgreiche Massenbewegung?
 
 - das Politische System kann keine stabile Mehrheit finden
-- starke Linksbewegungen -> verunsicherung der Mitte
+- starke Linksbewegungen -> Verunsicherung der Mitte
 - Belastung der nationalen Identität aufgrund der Kriegsniederlage und Friedensregelung ("Schandfrieden" von Versaille)
 
 ## Vergleich der Historikerurteile
 
 - Unterschiedliche Forschungsschwerpunkte (M2: Weimarer Republik (Spezifisch) / M1: Europafokus & Nationalsozialismus(Allgemein))
-	- M2: Blick auf die gesamte Zeit der Weimarer Republik / M1: Blick auf Ende der Weimarer Republik 
+  - M2: Blick auf die gesamte Zeit der Weimarer Republik / M1: Blick auf Ende der Weimarer Republik
