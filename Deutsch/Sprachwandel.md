@@ -38,3 +38,16 @@ Die gesellschaftliche Entwicklung im 20. Jahrhundert zeichnet sich besonders dur
 	- Mindestanforderung: Subjekt + Prädikat
 	- erweiterbar durch Objekte, etc.
 	- festgelegt durch tradierte Normen
+
+5. Semantik = Bedeutungsebene
+
+	- Duden
+	- passiert am meisten Sprachentwicklung
+		- "neue Wörter"
+		- Technologie
+		- Neologismen
+		- Werbung
+		- Genersprache
+		- Anglizismen
+		- Politik
+		- etc.
