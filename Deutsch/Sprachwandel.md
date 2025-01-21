@@ -55,3 +55,5 @@ Die gesellschaftliche Entwicklung im 20. Jahrhundert zeichnet sich besonders dur
 ## Gendersprache
 
 - Sternchen oder Unterstrich in einem Wort ist ein Glottisschlag (kurze Pause)
+
+- Sprache - Denken - Wirklichkeit => Sprache beeinflusst das Denken und das Denken die Wirklichkeit
