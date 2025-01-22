@@ -14,6 +14,13 @@ Die gesellschaftliche Entwicklung im 20. Jahrhundert zeichnet sich besonders dur
 - Gesprochene Sprache beeinflusst die geschriebene Sprache
 - Mehr niedere stilistische Variants
 
+## Trampelpfadtheorie
+
+- Das was die meisten Menschen machen setzt sich durch.
+- Sprache ändert sich nur dann wenn es Sprachökonomisch ist und in der Realität anwendbar ist.
+- Das was von einem Trend übrig bleibt zeigt sich erst mit der Zeit.
+- Sprachnormen entstehen durch die Gesellschaft, nicht den Staat
+
 ## Regelebenen der deutschen Sprache
 
 1. Phonem = kleinst bedeutungsunterscheidene Einheit der Sprache
@@ -59,3 +66,30 @@ Die gesellschaftliche Entwicklung im 20. Jahrhundert zeichnet sich besonders dur
 - Sprache - Denken - Wirklichkeit => Sprache beeinflusst das Denken und das Denken die Wirklichkeit
 
 	>Änderungen gesellschaftlicher Verhältnisse schlagen sich oft in der Sprache nieder.
+
+### Pro
+
+- Gleichberechtigung (GG Art. 3 Abs. 2)
+- Sichtbarkeit
+- Sprache-Denken-Wirklichkeit (wird durch Studien gezeigt)
+    - Weniger direktes Rollendenken (Arzt, Polizist)
+    - Dadurch weniger geschlechterspezifische Jobs
+- Natürlicher Sprachwandel
+
+- Wenn Sprachwandel -> dann auf das Wort Gendern beziehen
+- Das Sternchen steht für alle (auch nicht binär)
+
+### Contra
+
+- Missverständlichkeit und größere Hürde 
+    - Alte Menschen (21% der Deutschen über 65)
+    - Ausländische Personen, die deutsch Lernen
+    - Personen mit Behinderungen
+- Hässlich (Sprache wird verhunzt) siehe Verein Deutscher Sprache
+- Sprach- und Lesefluss gestört 
+- Glottisschlag nicht-deutscher Laut und die deutsche Leitkultur muss vor ausländischen Einflüssen geschützt werden
+- Verschiebt Prioritäten von wichtigen Themen
+- Großteil der Bürger ist dagegen, daher auch nicht in öffentlichen Stellen
+    - Etwa 75% sind dagegen
+    - Shell-Jugendstudie: Jugendliche sind dagegen (20% dafür, 40% dagegen)
+- Was ist mit Artikeln? Nen bisschen Kritisch das ganze (die/der)
