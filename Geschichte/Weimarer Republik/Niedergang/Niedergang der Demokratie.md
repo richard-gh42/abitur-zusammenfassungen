@@ -60,7 +60,7 @@ Das Zitat von Gerhard Schulz beschreibt einen kritischen Moment in der Geschicht
 - die NSDAP ist ursprünglich über die **Präsidialkabinette** an die Macht gekommen
 - die hohen Wählerstimmen zeigen die **Akzeptanz** der NSDAP und ihrer **Demokratiefeindlichkeit**
 
-![NSDAP und Präsidialkabinette](images/NSDAP_Praesidialkabinette.jpeg)
+![NSDAP und Präsidialkabinette](../../../images/NSDAP_Praesidialkabinette.jpeg)
 
 ## Der Aufstieg der Nationalsozialisten
 
