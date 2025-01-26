@@ -57,3 +57,8 @@ Forderungen der AFD:
 2. Immigration stoppen, da Wohlstandssicherung nur mit sicheren Grenzen möglich wäre
 3. Steuergerechtigkeit durch Erhöhung des Steuerfreibetrags auf 2000 Euro brutto
 4. Haushalt nicht durch die EU bestimmt
+
+### Redesituation
+
+- Wer? Alice Weidel
+  - Alice Weidel ist die Fraktionsvorsitzende der AFD im deutschen Bundestag.
