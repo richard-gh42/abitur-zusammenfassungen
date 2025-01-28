@@ -1,5 +1,7 @@
 # Analyse einer Rede von Alice Weidel im Bundestag zur Haushaltsdebatte
 
+> Für diese Redeanalyse wurde ChatGPT zum Zusammenfassen und Beandworten von den grundlegenden W-Fragen genutzt. Dabei wurde der Text und die Frage ChatGPT gegeben und daraufhin händisch korregiert.
+
 <https://afdbundestag.de/rede-von-alice-weidel-zur-haushaltsdebatte-im-bundestag/>
 
 ## Berlin, 16. Mai 2018. Wortlaut der Rede von Dr. Alice Weidel zur Haushaltsdebatte im Bundestag.
