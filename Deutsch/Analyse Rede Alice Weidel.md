@@ -34,9 +34,7 @@ Drittens. Wir wollen echte Steuergerechtigkeit. Mittel- und Geringverdiener müs
 
 Viertens. Keine weitere Aushöhlung der Souveränität. Die Hoheit über unseren Haushalt gehört nach Berlin und nicht nach Brüssel. In diesem Sinne schließe ich mit einem Zitat des früheren tschechischen Präsidenten Zeman, das Ihnen auch schon die ehrenwerte ehemalige CDU-Abgeordnete Erika Steinbach vorgetragen hat – ich zitiere –: Falls Sie in einem Land leben, in dem Sie für das Fischen ohne Angelschein bestraft werden, jedoch nicht für den illegalen Grenzübertritt ohne gültigen Reisepass, dann haben Sie das volle Recht, zu sagen, dieses Land wird von Idioten regiert.
 
-## Analyse
-
-### Zusammenfassung
+## Zusammenfassung
 
 - Haushalt sei der Nerv des Staates und werde von der Regierung vor Bürgern verborgen
 - Regierung täusche Bürger mit unvollständigen Haushaltsangaben
@@ -58,7 +56,78 @@ Forderungen der AFD:
 3. Steuergerechtigkeit durch Erhöhung des Steuerfreibetrags auf 2000 Euro brutto
 4. Haushalt nicht durch die EU bestimmt
 
-### Redesituation
+## Redesituation
 
-- Wer? Alice Weidel
-  - Alice Weidel ist die Fraktionsvorsitzende der AFD im deutschen Bundestag.
+- **Wer?**  
+  Alice Weidel, die Fraktionsvorsitzende der AfD im Deutschen Bundestag.
+
+- **Was?**  
+  Eine Rede über den aktuellen Haushalt der Bundesregierung, in der sie die Haushaltspläne kritisiert und die Regierung für verschiedene politische Entscheidungen verantwortlich macht.
+
+- **Wo?**  
+  Im Deutschen Bundestag.
+
+- **Wann?**  
+  Am 16. Mai 2018.
+
+- **Aus welchem Anlass?**  
+  Anlass war die Debatte über den Bundeshaushalt 2018, zu der die Abgeordneten ihre Standpunkte und Anmerkungen vorbringen.
+
+- **An wen gerichtet?**  
+  Die Rede war an die Mitglieder des Bundestages gerichtet, insbesondere an die Regierungsparteien, sowie an die Öffentlichkeit, da die Rede auch im Kontext einer parlamentarischen Debatte gehalten wurde.
+
+- **In welcher Absicht?**  
+  Alice Weidel verfolgt mit dieser Rede die Absicht, die Politik der Regierung zu kritisieren und die AfD als die verantwortungsvolle, zukunftsorientierte Partei darzustellen. Sie will das Publikum auf die aus ihrer Sicht problematischen Haushaltsentscheidungen aufmerksam machen, die ihrer Meinung nach den Wohlstand und die Zukunft des Landes gefährden.
+
+## Framing-Strategien
+
+### 1. **Moralisches Framing**
+   - **Beispiel:** "Es ist nichts anderes als Steuerzahlerausbeutung nach Gutsherrenart, was Sie hier praktizieren."
+   - **Strategie:** Der Haushaltsplan und die Steuerpolitik der Regierung werden moralisch verurteilt. Es wird von "Ausbeutung" gesprochen, was eine starke emotionale Reaktion hervorrufen soll, indem den politischen Gegnern unmoralisches Verhalten zugeschrieben wird.
+
+### 2. **Verantwortungszuschreibung (Attribution of Responsibility)**
+   - **Beispiel:** "Sie haben aber dennoch den Rettungsschirmen, den dauerhaften automatisierten Finanzierungsmechanismen zugestimmt, und Sie bejubeln die Pläne von Präsident Emmanuel Macron."
+   - **Strategie:** Die Regierung wird direkt für problematische Entscheidungen verantwortlich gemacht, besonders im Kontext der internationalen Finanzverpflichtungen. Das Bild eines "Verrats" an nationaler Souveränität wird durch die Bezugnahme auf die Verantwortungslosigkeit bei der Übergabe von Budgethoheit an Brüssel und Paris konstruiert.
+
+### 3. **Vergleichendes Framing (Us vs. Them)**
+   - **Beispiel:** "Die AfD hingegen tritt für Verantwortung, Gerechtigkeit und für eine lebenswerte Zukunft ein."
+   - **Strategie:** Die eigene Partei (AfD) wird als verantwortungsvoll und gerecht dargestellt, während die Regierung als unverantwortlich und heuchlerisch dargestellt wird. Es entsteht ein klarer Gegensatz zwischen der "guten" AfD und den "schlechten" etablierten Parteien.
+
+### 4. **Krisen- und Bedrohungsframing**
+   - **Beispiel:** "In spätestens 20 Jahren wird jeder fünfte Rentner auf die Grundsicherung angewiesen sein."
+   - **Strategie:** Die Rede malt ein düsteres Bild der Zukunft, um die Dringlichkeit und Schwere der gegenwärtigen politischen und wirtschaftlichen Maßnahmen zu unterstreichen. Die Rentenproblematik wird als bevorstehende "Katastrophe" präsentiert, die sofortiges Handeln erfordert.
+
+### 5. **Sündenbock-Framing**
+   - **Beispiel:** "Burkas, Kopftuchmädchen, alimentierte Messermänner und sonstige Taugenichtse werden unseren Wohlstand, das Wirtschaftswachstum und vor allem den Sozialstaat nicht sichern."
+   - **Strategie:** Bestimmte Gruppen, insbesondere Migranten und Zugewanderte, werden als Sündenböcke für die gesellschaftlichen und wirtschaftlichen Probleme dargestellt. Sie werden mit negativen Attributen belegt (z. B. "Messermänner", "Taugenichtse"), was Feindbilder schafft und diese als Bedrohung für den Wohlstand und die Stabilität des Staates inszeniert.
+
+### 6. **Selektives Framing**
+   - **Beispiel:** "Herbert W. Bis Mitte der 70er-Jahre hat er unter Tage gearbeitet... Sami A. Er ging früher auch einer beschwerlichen Arbeit nach... bekommt vom Staat 1.200 Euro."
+   - **Strategie:** Zwei stark gegensätzliche Einzelfälle werden präsentiert, um eine weit verbreitete Ungerechtigkeit zu unterstreichen. Dies dient dazu, das Unrecht im Sozialsystem zu zeigen und den Eindruck zu vermitteln, dass das System zugunsten bestimmter Gruppen (insbesondere Migranten) fehlerhaft und ungerecht ist.
+
+### 7. **Nostalgisches Framing**
+   - **Beispiel:** "Die Menschen, die hier leben und arbeiten. Es sind aber nicht nur die Menschen, die jetzt hier leben, sondern auch diejenigen, die in Zukunft hier leben werden."
+   - **Strategie:** Ein idealisiertes Bild der Vergangenheit wird erschaffen, das die traditionellen Werte und die Leistung der "echten" Deutschen betont. Gleichzeitig wird die Zuwanderung von "Unqualifizierten" als Bedrohung dargestellt, die das Land und die Gesellschaft destabilisieren könnte.
+
+### 8. **Polarisierendes Framing**
+   - **Beispiel:** "Falls Sie in einem Land leben, in dem Sie für das Fischen ohne Angelschein bestraft werden, jedoch nicht für den illegalen Grenzübertritt ohne gültigen Reisepass, dann haben Sie das volle Recht, zu sagen, dieses Land wird von Idioten regiert."
+   - **Strategie:** Es wird eine klare und sehr polarisierte Linie gezogen, indem die Regierung als inkompetent und töricht dargestellt wird. Das Bild eines Staates, der gesetzlose Grenzübertritte toleriert, während er "harte Strafen" für harmlose Vergehen wie illegales Fischen verhängt, wird als absurd und ungerecht inszeniert.
+
+### 9. **Emotionale Mobilisierung durch dramatische Sprache**
+   - **Beispiel:** "Es ist erschreckend: In spätestens 20 Jahren wird jeder fünfte Rentner auf die Grundsicherung angewiesen sein."
+   - **Strategie:** Drastische, alarmierende Formulierungen wie "erschreckend" werden verwendet, um das Publikum emotional zu mobilisieren und auf die Dringlichkeit der Problematik aufmerksam zu machen. Die Sprache ist darauf ausgelegt, Besorgnis und Empörung zu wecken.
+
+### 10. **Zukunftsorientiertes Framing**
+   - **Beispiel:** "Die Strategie des Generationenersatzes durch eine ungeregelte Zuwanderung... hat sich als Holzweg erwiesen."
+   - **Strategie:** Das Zukunftsbild wird als düster und gefährdet dargestellt, um die Politik der Regierung zu kritisieren. Hier wird die Vorstellung erzeugt, dass die derzeitige Politik die Zukunft des Landes gefährdet und den Wohlstand und die Stabilität langfristig untergräbt.
+
+### Fazit
+Die Framing-Strategien in dieser Rede zielen darauf ab, ein starkes Bild von Verantwortungslosigkeit und Ungerechtigkeit zu vermitteln, indem die Regierung als inkompetent und verräterisch dargestellt wird. Das Framing nutzt Emotionen wie Wut, Empörung und Angst, um das Publikum zu mobilisieren und zu einer Ablehnung der politischen Gegner zu führen, während die eigene Partei als der "Ritter in der Rüstung" erscheint, der für Gerechtigkeit, Verantwortung und eine sichere Zukunft kämpft.
+
+
+
+
+
+
+
+
