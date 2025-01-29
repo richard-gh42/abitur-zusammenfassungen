@@ -1,12 +1,21 @@
-# Globalisierung
+# Ökonomische Globalisierung
 
-## Was ist Globalisierung?
+## Chance oder Risiko
 
-Verpflechtung und Verknüpfung der Welt auf unterschiedlichen Ebenen:
+### Aufnahme in der Bevölkerung
 
-- Ökonomische Globalisierung
-- Kulturelle Globalisierung
-- Politische Globalisierung
-  - z. B. transnationale Parteien
-- Gesellschaftliche Globalisierung
-  - z.B. Migration
+- seid 2017 steigend als Risiko gesehen
+- mit den wirtschaftlichen Folgen des Ukraine-Russland-Kriegs sprunghafter Anstieg der Personen, die die Globalisierung eher als Risiko sehen
+  - z. B. Abhängigkeiten beim Gas
+
+## globale / transnationale Wertschöpfungsketten
+
+- Wertschöpfungsketten erstrecken sich über mehrere Länder / Regionen
+
+### Probleme
+
+- Intransparenz
+  - geografische Abtrennung vom Verkaufsland
+- nicht Einhaltung von Gesetzen
+  - Intransparenz und Rechtsumgehung im Ausland führen zu großer Macht von Unternehmen
+- Menschenrechtsverletzungen in anderen Ländern
