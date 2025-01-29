@@ -12,6 +12,11 @@
 
 - Wertschöpfungsketten erstrecken sich über mehrere Länder / Regionen
 
+### Was sind Wertschöpfungsketten?
+
+- Aufschlüsselung aller unternehmerischer Aktivitäten bis zur Bereitstellung eines Produkts
+- Kann Effizienz(defizite) in einem Produkt auffällig machen
+
 ### Probleme
 
 - Intransparenz
