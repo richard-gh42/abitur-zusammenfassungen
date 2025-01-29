@@ -50,9 +50,145 @@ Die Nation als zentraler Aspekt hat sich im 19. Jahrhundert entwickelt und hält
 - blockierte Parlamentarisierung im Kaiserreich
 - Späte Demokratisierung
 
+---
+
+## Jürgen Kocka
+
+### Biographie
+
+#### Jürgen Kocka
+
+- Geboren: 19. April 1941 in Haindorf, Sudetenland
+- Studium: Geschichte, Soziologie und Politikwissenschaft in Marburg, Wien und Berlin
+- Promotion: 1968
+
+#### Lehrtätigkeit
+
+- Universität Bielefeld
+- Freie Universität Berlin (Professor für Geschichte der Neuzeit)
+
+#### Forschungsschwerpunkte
+
+- Vergleichende Sozialgeschichte
+- Geschichte der Arbeit und Industrialisierung
+- Europäische Bürgertumsgeschichte
+
+#### Auszeichnungen
+
+- Leibniz-Preis der Deutschen Forschungsgemeinschaft u.a.
+
+### Theorie
+
+- Modernes deutsches Nationalbewusstsein -> betonte Abgrenzung gegen Frankreich und Französische Revolution
+- 2 hälfte 19 Sozial und Wirtschaftswissenschaftler sind sich sicher Deutschlands Ökonomische Entwicklung ist besser als Englands
+- Großer teil der Akademiker des Kaiserreichs waren überzeugt Militärisches Bürokratisches Autoritäres System sei Demokratien überlegen.
+- Verlust des Ersten WK stellt Identität in frage.
+- Hohe Bedeutung des Militärs
+- Durch Politisches Fortbestehen überlebten viele Alte Werte Normen Traditionen Lebensweisen trotz Industrialisierung => also sozialökonomische Modernisierung und fortdauernde Vor-industrielle Strukturen in der Gesellschaft
+- Entwicklung nicht Deterministisch
+- Geschichte vor 1933 nicht nur als Vorgeschichte sehen
+
+### Thematische Anknüpfung
+
+TODO
+
+### Kritik an der Theorie
+
+TODO
+
+## Sebastian Haffner
+
+### Biographie
+
+#### Sebastian Haffner
+
+- Geboren: 27. Dezember 1907 in Berlin
+- Gestorben: 2. Januar 1999 in Berlin
+- Bürgerlicher Name: Raimund Pretzel
+- Beruf: Jurist, Journalist, Schriftsteller
+- Exil: 1938 Emigration nach Großbritannien wegen der nationalsozialistischen Diktatur
+
+#### Karriere
+
+- Journalist für britische und deutsche Zeitungen, darunter „Observer“ und „Süddeutsche Zeitung“
+- Publizist zu zeitgeschichtlichen und politischen Themen
+
+#### Forschungsschwerpunkte
+
+- Deutsche Geschichte, insbesondere Nationalsozialismus und Preußen
+- Zeitgenössische politische Entwicklungen
+
+#### Bedeutung
+
+- Einer der wichtigsten Publizisten des 20. Jahrhunderts in Deutschland
+- Prägende Stimme der kritischen Auseinandersetzung mit deutscher Geschichte und Politik
+
+### Theorie
+
+- Drei Gründe für erstarken der NSDAP
+- 1. Notlage
+- 2.  Wieder erstarkender Nationalismus trotz Krise( Nationale Komplexe und Ressentiments wurden wieder „Mainstream“)
+- 3. Hitler als Person beliebt und gefragt
+
+### Thematische Anknüpfung
+
+TODO
+
+### Kritik an der Theorie
+
+Sehr Reduziert (drei Gründe?)
+
+TODO
+
+## Heinrich A. Winkler
+
+### Biographie
+
+#### Heinrich August Winkler
+
+- Geboren: 19. Dezember 1938 in Königsberg, Ostpreußen
+- Studium: Geschichte, Philosophie und Öffentliches Recht in Tübingen, Heidelberg und Münster
+- Promotion: 1963 in Münster
+
+#### Lehrtätigkeit
+
+- Universität Freiburg
+- Universität Köln
+- Humboldt-Universität zu Berlin (Professor für Neuere Geschichte)
+
+#### Forschungsschwerpunkte
+
+- Deutsche Geschichte im europäischen Kontext
+- Vergleichende Geschichte von Demokratie und Diktatur
+- Geschichte des Westens
+
+#### Auszeichnungen
+
+- Deutscher Historikerpreis
+- Sigmund-Freud-Preis für wissenschaftliche Prosa u.a.
+
+### Theorie
+
+- Nach 1945 vieles auf das man stolz sein kann
+- Jüngere haben keine Schuld
+- Verantwortung des Landes sich mit Vergangenheit auseinander zu setzen
+- Eine forcierte aktuell Haltung des Vergangenheit für Politische zwecke
+- Auch keine Entschuldigung nichts zu tun
+- Verantwortung für Europäische Union
+
+### Thematische Anknüpfung
+
+TODO
+
+### Kritik an der Theorie
+
+TODO
+
+---
+
 ## Deutscher Sonderweg
 
-        Es gibt zwei Verständnisse des deutschen Sonderwegs welche zeitlich voneinander getrennt sind.
+> Es gibt zwei Verständnisse des deutschen Sonderwegs welche zeitlich voneinander getrennt sind.
 
 Es gibt zum einen das Verständnis des „positiven Sonderwegs“ welches vor allem in Deutschland zwischen 1900 und 1945 vertreten war und dort auch von den Wissenschaftlern gestützt wurde. Der „positive Sonderweg“ sucht eine Erklärung dafür, warum Deutschland, denn einen anderen Weg gegangen sei als die anderen Nationen und warum dies sie besser machte für diesen gab es folgende Erklärung:
 
