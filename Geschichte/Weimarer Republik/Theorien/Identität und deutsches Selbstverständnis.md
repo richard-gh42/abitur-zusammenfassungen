@@ -50,8 +50,6 @@ Die Nation als zentraler Aspekt hat sich im 19. Jahrhundert entwickelt und hält
 - blockierte Parlamentarisierung im Kaiserreich
 - Späte Demokratisierung
 
----
-
 ## Jürgen Kocka
 
 ### Biographie
@@ -72,10 +70,6 @@ Die Nation als zentraler Aspekt hat sich im 19. Jahrhundert entwickelt und hält
 - Vergleichende Sozialgeschichte
 - Geschichte der Arbeit und Industrialisierung
 - Europäische Bürgertumsgeschichte
-
-#### Auszeichnungen
-
-- Leibniz-Preis der Deutschen Forschungsgemeinschaft u.a.
 
 ### Theorie
 
@@ -126,13 +120,20 @@ TODO
 ### Theorie
 
 - Drei Gründe für erstarken der NSDAP
-- 1. Notlage
-- 2.  Wieder erstarkender Nationalismus trotz Krise( Nationale Komplexe und Ressentiments wurden wieder „Mainstream“)
-- 3. Hitler als Person beliebt und gefragt
+
+	1. Notlage
+  2. wieder erstarkender Nationalismus trotz Krise (Nationale Komplexe und Ressentiments wurden wieder „Mainstream“)
+  3. Hitler als Person beliebt und gefragt
 
 ### Thematische Anknüpfung
 
-TODO
+TODO überarbeiten
+
+- **Kontinuität alter Eliten:** Das Denken der "alten Eliten" prägte stark Normen und Mentalität in der Weimarer Republik
+- **"Träger der Republik":** Viele Beamte sind alte Eliten die das Denken beeinflussen 
+- **Starker Militarismus und Bürokratie:** Starkes Militär und starke Bürokratie mache das Kaiserreich und mache es so überlegenen als westliche Demokratische Staaten
+- **Sozialökonimische Entwicklungen und Industriealisierung:** Deutschland in Koexistenz zwischen sozialökonomischen Wandel/Modernisierung und teils vor industrieller Struktur in der Gesellschaft und Staat und Kultur->wichtige Bedingung zum Sieg der Nationalsozialisten
+- **Politische Ideen:** Überlegenheit der Monarchie Militarismus und Bürokratie sowie einem Autoritätsglaube
 
 ### Kritik an der Theorie
 
@@ -150,41 +151,31 @@ TODO
 - Studium: Geschichte, Philosophie und Öffentliches Recht in Tübingen, Heidelberg und Münster
 - Promotion: 1963 in Münster
 
-#### Lehrtätigkeit
-
-- Universität Freiburg
-- Universität Köln
-- Humboldt-Universität zu Berlin (Professor für Neuere Geschichte)
-
 #### Forschungsschwerpunkte
 
 - Deutsche Geschichte im europäischen Kontext
 - Vergleichende Geschichte von Demokratie und Diktatur
 - Geschichte des Westens
 
-#### Auszeichnungen
-
-- Deutscher Historikerpreis
-- Sigmund-Freud-Preis für wissenschaftliche Prosa u.a.
-
 ### Theorie
 
-- Nach 1945 vieles auf das man stolz sein kann
+- Nach 1945 gibt es Vieles, was gut lief und auf das man stolz sein kann
 - Jüngere haben keine Schuld
 - Verantwortung des Landes sich mit Vergangenheit auseinander zu setzen
-- Eine forcierte aktuell Haltung des Vergangenheit für Politische zwecke
-- Auch keine Entschuldigung nichts zu tun
-- Verantwortung für Europäische Union
+- Eine forcierte Aktuellhaltung der Vergangenheit für politische Zwecke ist Gefährlich
+	- "Wir müssen uns für Israel wegen dem Holocaust einsetzen."
+- Diese Theorie sollte nicht als Rechtfertigung für nichts tun sein.
+	- Verantwortung entsteht nicht aus der Vergangenheit, sondern aus der aktuellen Lage
+- Besonders Deutschland hat aufgrund seiner Wirtschaftskraft und Bevölkerungszahl eine besondere Verantwortung für Europa.
 
 ### Thematische Anknüpfung
 
-TODO
+TODO oder entfernen
 
 ### Kritik an der Theorie
 
-TODO
-
----
+- Die Theorie behandelt nicht direkt woraus Verantwortung entsteht (nur woraus nicht)
+- Das Geschichtliche kann - wenn auch nicht als einziger Grund - als Grund für Verantwortung sein.
 
 ## Deutscher Sonderweg
 
