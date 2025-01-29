@@ -60,11 +60,6 @@ Die Nation als zentraler Aspekt hat sich im 19. Jahrhundert entwickelt und hält
 - Studium: Geschichte, Soziologie und Politikwissenschaft in Marburg, Wien und Berlin
 - Promotion: 1968
 
-#### Lehrtätigkeit
-
-- Universität Bielefeld
-- Freie Universität Berlin (Professor für Geschichte der Neuzeit)
-
 #### Forschungsschwerpunkte
 
 - Vergleichende Sozialgeschichte
@@ -167,10 +162,6 @@ TODO
 - Diese Theorie sollte nicht als Rechtfertigung für nichts tun sein.
 	- Verantwortung entsteht nicht aus der Vergangenheit, sondern aus der aktuellen Lage
 - Besonders Deutschland hat aufgrund seiner Wirtschaftskraft und Bevölkerungszahl eine besondere Verantwortung für Europa.
-
-### Thematische Anknüpfung
-
-TODO oder entfernen
 
 ### Kritik an der Theorie
 
