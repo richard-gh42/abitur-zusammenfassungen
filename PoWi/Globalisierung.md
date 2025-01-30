@@ -1,3 +1,20 @@
+# Globalisierung
+
+Globalisierung ist ein Prozess der internationalen Verpflechtung durch neue Technologien in Kommunikation, Produktion, Information und Transport sowie neu entwickelte Organisationsformen in der Produktion von Gütern. Der Begriff Globalisierung wird zur Konkretisierung in die folgenden Dimensionen differenziert:
+
+- **die kulturelle Globalisierung**
+	- weltumspannende Kommunikation ermöglicht die globale Wirkungsmacht von Marken und Kulturgegenständen
+	- Kulturaustausch wird stark vereinfacht
+- **die gesellschaftliche Globalisierung**
+	- Tourismus und Migration intensivieren transnationale Austauschbeziehungen
+	- Umweltgefahren machen vor territorialen Grenzen nicht Halt
+- **die politische Globalisierung**
+	- internationale Märkte sowie staatenübergreifende Sicherheits- und Umweltprobleme verlangen nach internationalen, durchsetzungsfähigen Rechtsnormen
+	- somit auch internationale Institutionen zur Durchsetzung
+- **die ökonomische Globalisierung**
+	- globale Produktionsketten und -netzwerke
+	- globaler Güter-, Arbeits- und Finazmärkte
+
 # Ökonomische Globalisierung
 
 ## Chance oder Risiko
