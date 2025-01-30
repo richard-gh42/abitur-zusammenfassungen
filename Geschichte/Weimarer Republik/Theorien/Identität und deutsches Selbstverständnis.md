@@ -77,10 +77,6 @@ Die Nation als zentraler Aspekt hat sich im 19. Jahrhundert entwickelt und hält
 - Entwicklung nicht Deterministisch
 - Geschichte vor 1933 nicht nur als Vorgeschichte sehen
 
-### Thematische Anknüpfung
-
-TODO
-
 ### Kritik an der Theorie
 
 TODO
@@ -120,21 +116,10 @@ TODO
   2. wieder erstarkender Nationalismus trotz Krise (Nationale Komplexe und Ressentiments wurden wieder „Mainstream“)
   3. Hitler als Person beliebt und gefragt
 
-### Thematische Anknüpfung
-
-TODO überarbeiten
-
-- **Kontinuität alter Eliten:** Das Denken der "alten Eliten" prägte stark Normen und Mentalität in der Weimarer Republik
-- **"Träger der Republik":** Viele Beamte sind alte Eliten die das Denken beeinflussen 
-- **Starker Militarismus und Bürokratie:** Starkes Militär und starke Bürokratie mache das Kaiserreich und mache es so überlegenen als westliche Demokratische Staaten
-- **Sozialökonimische Entwicklungen und Industriealisierung:** Deutschland in Koexistenz zwischen sozialökonomischen Wandel/Modernisierung und teils vor industrieller Struktur in der Gesellschaft und Staat und Kultur->wichtige Bedingung zum Sieg der Nationalsozialisten
-- **Politische Ideen:** Überlegenheit der Monarchie Militarismus und Bürokratie sowie einem Autoritätsglaube
-
 ### Kritik an der Theorie
 
-Sehr Reduziert (drei Gründe?)
-
-TODO
+- Reduziert komplexe Entwicklungen auf nur drei Gründe, die der Komplexität nicht gerecht werden.
+- Die Gründe, wieso die Gründe gegeben waren, werden nicht betrachtet.
 
 ## Heinrich A. Winkler
 
