@@ -68,6 +68,12 @@ Globalisierung ist ein Prozess der internationalen Verpflechtung durch neue Tech
 
 ### Güter- und Dienstleistungenhandel (M4-M6)
 
+- der globale BIP steigt seid langem
+- die Exporte sind besonders seid 2000 stark gestiegen
+- Exporte schwanken stärker als der BIP
+
+- globale Exporte steigen, was zu zunehmender 
+
 ### ausländische Direktinvestoren (M7-M8)
 
 ### Das Devisen-Karussell (M9)
