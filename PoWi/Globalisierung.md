@@ -68,13 +68,34 @@ Globalisierung ist ein Prozess der internationalen Verpflechtung durch neue Tech
 
 ### Güter- und Dienstleistungenhandel (M4-M6)
 
+#### Entwicklung des gesamten Handels
+
 - der globale BIP steigt seid langem
 - die Exporte sind besonders seid 2000 stark gestiegen
 - Exporte schwanken stärker als der BIP
 
-- globale Exporte steigen, was zu zunehmender 
+- globale Exporte steigen, was auf zunehmende Globalisierung schließt
+
+#### Verteilung des Warenhandels
+
+- In Asien / Ozeanien ist mit Abstand der größte intraregionale Handel
+- Handel zwischen Europa / Nordamerika mit Asien ist am größten
+	- besonders Importe aus Asien und weniger Exporte nach Asien
+- Lateinamerika und Afrika außen vor gelassen
+
+- Nicht alle Regionen sind gleichermaßen ökonomisch Globalisiert
+	- Bewohnerzahlen sind dabei weniger relevant, sondern ökonomische Lage
+
+#### Dienstleistungshandel
+
+- USA importiert und exportiert am meisten
+- Keine Schwellenländer sind oben vertreten
+
+- Ungleiche Verteilung der ökonomischen Globalisierung
 
 ### ausländische Direktinvestoren (M7-M8)
+
+
 
 ### Das Devisen-Karussell (M9)
 
