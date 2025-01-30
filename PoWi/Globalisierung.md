@@ -154,3 +154,9 @@ Globalisierung ist ein Prozess der internationalen Verpflechtung durch neue Tech
 - Monopolstellung des USD.
 - Ermöglicht den USA Geld zu Drucken, ohne große Inflationsfolgen.
 	- Macht den gigantischen Schuldenberg der USA möglich.
+
+
+
+## Die Welthandelstriade
+
+> Nordamerika, Europa und Asien als stärkste Globalisierungsplayer
