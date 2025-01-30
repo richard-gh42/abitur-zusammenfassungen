@@ -184,9 +184,10 @@ Das andere Verständnis des „negativen Sonderwegs“ kam nach dem 2. WK auf un
 
 ### Argumente gegen den Sonderweg
 
-- Vereinfachung der Geschichte: Die "Sonderweg"-These reduziert die komplexe deutsche Geschichte auf eine teleologische Erzählung, die den Nationalsozialismus als unausweichlich darstellt.
-- Ignorieren alternativer Entwicklungen: Die These vernachlässigt die positiven Entwicklungen in Deutschland, wie etwa die kulturelle Blüte im 19. Jahrhundert, soziale Reformen oder die Weimarer Republik als Versuch einer Demokratie.
-- Nicht deterministisch: Die Entwicklung hin zum Nationalsozialismus war nicht vorherbestimmt; es gab mehrere Wendepunkte und alternative politische Möglichkeiten. Das nimmt Verantwortung von den Menschen der Zeit und relativiert den Weg in den Nationalsozialismus.
-- Vernachlässigung äußerer Faktoren / Gemeinsamkeiten: Viele Historiker argumentieren heute, dass Deutschland mehr Gemeinsamkeiten als Unterschiede zu anderen europäischen Nationen hatte und dass externe Faktoren (wie der Versailler Vertrag) entscheidend für den Aufstieg des Nationalsozialismus waren.
-- Unnötigkeit der Theorie: Andere Länder haben ähnlich unterschiedliche Wege und es gibt keine normale Entwicklung in Europa, von welcher sich Deutschland unterscheiden könnte. Deshalb macht es keinen Sinn von einem deutschen Sonderweg zu sprechen, da wenn sich jeder unterschiedlich entwickelt niemand “besonders” ist.
+- **Vereinfachung der Geschichte:** Die "Sonderweg"-These reduziert die komplexe deutsche Geschichte auf eine teleologische Erzählung, die den Nationalsozialismus als unausweichlich darstellt.
+- **Ignorieren alternativer Entwicklungen:** Die These vernachlässigt die positiven Entwicklungen in Deutschland, wie etwa die kulturelle Blüte im 19. Jahrhundert, soziale Reformen oder die Weimarer Republik als Versuch einer Demokratie.
+- **Nicht deterministisch:** Die Entwicklung hin zum Nationalsozialismus war nicht vorherbestimmt; es gab mehrere Wendepunkte und alternative politische Möglichkeiten. 
+- **Nimmt Verantwortung:** Das nimmt Verantwortung von den Menschen der Zeit und relativiert den Weg in den Nationalsozialismus.
+- **Vernachlässigung äußerer Faktoren / Gemeinsamkeiten:** Viele Historiker argumentieren heute, dass Deutschland mehr Gemeinsamkeiten als Unterschiede zu anderen europäischen Nationen hatte und dass externe Faktoren (wie der Versailler Vertrag) entscheidend für den Aufstieg des Nationalsozialismus waren.
+- **Unnötigkeit der Theorie:** Andere Länder haben ähnlich unterschiedliche Wege und es gibt keine normale Entwicklung in Europa, von welcher sich Deutschland unterscheiden könnte. Deshalb macht es keinen Sinn von einem deutschen Sonderweg zu sprechen, da wenn sich jeder unterschiedlich entwickelt niemand “besonders” ist.
   - Andere Länder wie Italien, Spanien und auch Japan haben ähnliche autoritäre Entwicklungen und Kriege durchlaufen, ohne als "Sonderweg" zu gelten.
