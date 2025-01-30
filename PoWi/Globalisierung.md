@@ -64,6 +64,46 @@ Globalisierung ist ein Prozess der internationalen Verpflechtung durch neue Tech
 	- u. a. unnötiger Transport, Entsorgung in Ländern mit weniger Vorschriften
 - **Soziale Probleme** besonders in Schwellenländern
 
+## Indikatoren für ökonomische Globalisierung
 
+### Güter- und Dienstleistungenhandel (M4-M6)
 
+### ausländische Direktinvestoren (M7-M8)
 
+### Das Devisen-Karussell (M9)
+
+#### Devisenhandel
+
+> Der Begriff Devisen bezeichnet ausländische Zahlungsmittel, die in Fremdwährungen notieren.
+
+- Devisenhandel ist der weltweite Austausch von Währungen.
+- Dieser kann durch Banken, Zentralbanken, Unternehmen und Privatpersonen geschehen.
+- ursprünglicher Zweck: Ermöglichung von weltweitem Handel
+- Ausnutzung der Schwankungen im Wechselkurshandel ermöglichen die Erzielung von Gewinnen.
+- Der Handel findet dezentral zwischen Finanzinstituten und nicht an einer zentralen Börse statt.
+
+#### Was ist das Devisen-Karusell?
+
+- durchschnittlicher Tagesumsatz im Devisenhandel nach Währungen
+	- Summe des Tauschhandels der Währungen (in beide Richtungen)
+
+#### Was sagt das Devisen-Karusell?
+
+> Stand 2019
+
+- gesamter Tagesumsatz: 6.590 Mrd. US-Dollar
+- USD an 88% des gesamten Devisenhandels beteiligt
+
+#### Mögliche Gründe
+
+- USA als eine der stärksten Wirtschaftskräfte treibt viel Handel.
+- Der USD ist wegen seiner relativen Stabilität sehr attraktiv.
+- Der USD wird als Zwischenwährung bei dem Tausch anderer Währungen verwendet.
+
+#### Folgen
+
+- Die USA ist der wichtigste Player im Devisenhandel.
+- Der USD und Euro sind die wichtigsten Reservewährungen.
+- Monopolstellung des USD.
+- Ermöglicht den USA Geld zu Drucken, ohne große Inflationsfolgen.
+	- Macht den gigantischen Schuldenberg der USA möglich.
