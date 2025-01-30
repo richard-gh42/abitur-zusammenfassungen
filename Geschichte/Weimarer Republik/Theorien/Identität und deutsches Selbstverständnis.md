@@ -182,6 +182,32 @@ Das andere Verständnis des „negativen Sonderwegs“ kam nach dem 2. WK auf un
 - Demokratiedefizite
 - Modernisierungsdefizite
 
+### Heinrich A. Winklers Argumente für den "deutschen Sonderweg"
+
+- Hitler ist nicht durch den Wahlsieg an die Macht gekommen, sondern durch die gesellschaftliche Entwicklung und Machteliten
+- Hindenburg hätte die Machtübernahmen verhindern können
+- "Gebildete" Anhänger Hitlers faszinierte besonders der Traum von einem Großdeutschland
+- Es gäbe einen "deutschen Sonderweg", da Deutschland tief von dem Mittelalter geprägt in die Moderne übergegangen ist und dementsprechende Probleme gehabt hätte
+- Dem Einwand, es gibt keinen "Normalweg", setzt Winkler entgegen, dass man von "westlichen Demokratien" spricht, was eine gewisse Einheit zeigt.
+
+#### Kritik an Winklers Argumenten
+
+> Siehe Argumente gegen den Sonderweg
+
+- Der Begriff "westliche Demokratien" hat ähnliche Probleme wie der "deutsche Sonderweg", da dieser eine gewisse Norm vermittelt, die nicht gegeben ist. Daher unterstützt das nicht den "deutschen Sonderweg"
+
+### Hans-Ulrich Wehler über die Sonderwegsdebatte
+
+- es gab einen "positiven- und negativen Sonderweg"
+- Kontinuität alter Eliten führte zu Blockierung der Palamentarisierung und Demokratie, sogar über ihre Lebenszeit hinaus
+- der verlorene Erste Weltkrieg und Weltwirtschaftskriese verstärkten die strukturellen Probleme
+- traditioneller Überhang, der Modernisierungsversuche schwächte und den Nationalsozialismus als einzige Lösung erschienen ließ
+- Abgrenzung zu anderen westlichen Ländern
+
+#### Kritik an Wehler
+
+> Siehe Argumente gegen den Sonderweg
+
 ### Argumente gegen den Sonderweg
 
 - **Vereinfachung der Geschichte:** Die "Sonderweg"-These reduziert die komplexe deutsche Geschichte auf eine teleologische Erzählung, die den Nationalsozialismus als unausweichlich darstellt.
