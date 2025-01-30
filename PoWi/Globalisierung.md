@@ -76,7 +76,7 @@ Globalisierung ist ein Prozess der internationalen Verpflechtung durch neue Tech
 - Handel stärker als globales BIP
 	- Güter werden mehrmals verschoben
 
-- globale Exporte steigen, was auf zunehmende Globalisierung schließt
+> globale Exporte steigen, was auf zunehmende Globalisierung schließt
 
 #### Verteilung des Warenhandels
 
@@ -85,15 +85,14 @@ Globalisierung ist ein Prozess der internationalen Verpflechtung durch neue Tech
 	- besonders Importe aus Asien und weniger Exporte nach Asien
 - Lateinamerika und Afrika außen vor gelassen
 
-- Nicht alle Regionen sind gleichermaßen ökonomisch Globalisiert
-	- Bewohnerzahlen sind dabei weniger relevant, sondern ökonomische Lage
+> Nicht alle Regionen sind gleichermaßen ökonomisch Globalisiert - Bewohnerzahlen sind dabei weniger relevant, sondern ökonomische Lage
 
 #### Dienstleistungshandel
 
 - USA importiert und exportiert am meisten
 - Keine Schwellenländer sind oben vertreten
 
-- Ungleiche Verteilung der ökonomischen Globalisierung
+> Ungleiche Verteilung der ökonomischen Globalisierung
 
 ### ausländische Direktinvestoren (M7-M8)
 
@@ -154,8 +153,6 @@ Globalisierung ist ein Prozess der internationalen Verpflechtung durch neue Tech
 - Monopolstellung des USD.
 - Ermöglicht den USA Geld zu Drucken, ohne große Inflationsfolgen.
 	- Macht den gigantischen Schuldenberg der USA möglich.
-
-
 
 ## Die Welthandelstriade
 
