@@ -73,6 +73,8 @@ Globalisierung ist ein Prozess der internationalen Verpflechtung durch neue Tech
 - der globale BIP steigt seid langem
 - die Exporte sind besonders seid 2000 stark gestiegen
 - Exporte schwanken stärker als der BIP
+- Handel stärker als globales BIP
+	- Güter werden mehrmals verschoben
 
 - globale Exporte steigen, was auf zunehmende Globalisierung schließt
 
@@ -95,7 +97,25 @@ Globalisierung ist ein Prozess der internationalen Verpflechtung durch neue Tech
 
 ### ausländische Direktinvestoren (M7-M8)
 
+#### Definition des FDI
 
+- Kapitalanlagen eines Unternehmens im Ausland zur Gründung von oder zur Beteiligung mit unternehmerischer Verantwortung an Unternehmen, Produktionsstätten oder Niederlassungen.
+- Der jährliche Fluss an Direktinvestitionen von Inländern ins Ausland sowie von Ausländern ins Inland wird aus der Kapitalbilanz, einer Unterbilanz der Zahlungsbilanz ersichtlich.
+- Dabei ist der Zufluss an Direktinvestitionen aus dem Ausland auch ein Maß für die Attraktivität eines Landes als Unternehmensstandort. 
+
+#### Statistiken
+
+- Die Direktinvestitionen in Schwellenländern sind zwischen 2005 und 2022 beinahe ununterbrochen angestiegen (ca. verdoppelt).
+- Nach der Finanzkrise 2008/09 wurden die FDI-Ströme volatiler. Trotz hoher Marktstabilität konkurrieren sie zunehmend mit Schwellenländern.
+- Seit 2020 mehr Direktinvestitionen in Schwellen- als in Industrieländern. 
+- Direktinvestitionen in Schwellenländern bleiben konstant
+– Schwankungen der FDI in den Industrieländern beeinflussen die gesamten Investitionen. 
+
+#### Analyse der Entwicklung
+- 1980er – 1990er: Industrieländer, insbesondere die USA und die EU, waren die Hauptempfänger von FDI. Unternehmen investierten hauptsächlich in Produktionsstätten und Technologiezentren. 
+- 2000er: Schwellenländer, vorwiegend China und Indien, wurden zunehmend attraktiv für FDI aufgrund von billigeren Arbeitskräften und wachsendem Binnenmarkt. 
+- 2010er – heute: Diversifizierung der Investitionsziele. Neben China gewinnen Südostasien, Lateinamerika und Afrika an Bedeutung. Digitalisierung und nachhaltige Investitionen werden wichtiger. 
+- Fazit: FDI sind ein zentraler Indikator für die ökonomische Globalisierung. Während früher Industrieländer Hauptziele für FDI waren, ziehen heute Schwellenländer wie China, Indien oder Vietnam verstärkt Investitionen an. Dies zeigt eine Globalisierung, die nicht mehr nur westlich geprägt ist. Dennoch beschränken sich die FDI größtenteils auf TOP 25 Staaten.
 
 ### Das Devisen-Karussell (M9)
 
