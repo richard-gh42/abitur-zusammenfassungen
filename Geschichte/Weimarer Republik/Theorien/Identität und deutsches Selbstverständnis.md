@@ -70,16 +70,12 @@ Die Nation als zentraler Aspekt hat sich im 19. Jahrhundert entwickelt und hält
 
 - Modernes deutsches Nationalbewusstsein -> betonte Abgrenzung gegen Frankreich und Französische Revolution
 - 2 hälfte 19 Sozial und Wirtschaftswissenschaftler sind sich sicher Deutschlands Ökonomische Entwicklung ist besser als Englands
-- Großer teil der Akademiker des Kaiserreichs waren überzeugt Militärisches Bürokratisches Autoritäres System sei Demokratien überlegen.
+- großer Teil der Akademiker des Kaiserreichs waren überzeugt Militärisches Bürokratisches Autoritäres System sei Demokratien überlegen.
 - Verlust des Ersten WK stellt Identität in frage.
 - Hohe Bedeutung des Militärs
 - Durch Politisches Fortbestehen überlebten viele Alte Werte Normen Traditionen Lebensweisen trotz Industrialisierung => also sozialökonomische Modernisierung und fortdauernde Vor-industrielle Strukturen in der Gesellschaft
 - Entwicklung nicht Deterministisch
 - Geschichte vor 1933 nicht nur als Vorgeschichte sehen
-
-### Kritik an der Theorie
-
-TODO
 
 ## Sebastian Haffner
 
@@ -157,7 +153,7 @@ TODO
 
 > Es gibt zwei Verständnisse des deutschen Sonderwegs welche zeitlich voneinander getrennt sind.
 
-Es gibt zum einen das Verständnis des „positiven Sonderwegs“ welches vor allem in Deutschland zwischen 1900 und 1945 vertreten war und dort auch von den Wissenschaftlern gestützt wurde. Der „positive Sonderweg“ sucht eine Erklärung dafür, warum Deutschland, denn einen anderen Weg gegangen sei als die anderen Nationen und warum dies sie besser machte für diesen gab es folgende Erklärung:
+Es gibt zum einen das Verständnis des „positiven Sonderwegs“ welches vor allem in Deutschland zwischen 1900 und 1945 vertreten war und dort auch von den Wissenschaftlern gestützt wurde. Der „positive Sonderweg“ sucht eine Erklärung dafür, warum Deutschland, denn einen anderen Weg gegangen sei als die anderen Nationen und warum dies sie besser machte. Für diesen gab es folgende Erklärung:
 
 - Überlegenheit
 - Wirtschaftliche Leistungsfähigkeit
