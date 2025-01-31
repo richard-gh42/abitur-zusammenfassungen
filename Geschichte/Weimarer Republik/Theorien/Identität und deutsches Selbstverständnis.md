@@ -56,6 +56,8 @@ Die Nation als zentraler Aspekt hat sich im 19. Jahrhundert entwickelt und hält
 
 #### Jürgen Kocka
 
+TODO lesen
+
 - Geboren: 19. April 1941 in Haindorf, Sudetenland
 - Studium: Geschichte, Soziologie und Politikwissenschaft in Marburg, Wien und Berlin
 - Promotion: 1968
