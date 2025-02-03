@@ -74,79 +74,96 @@ Alice Weidel richtet sich mit ihrer Rede an verschiedene Gruppierungen:
 
 ## Zusammenfassung
 
-1. **Haushaltskritik und mangelnde Transparenz**: Weidel kritisiert die angebliche Verschleierung von finanziellen Belastungen im Bundeshaushalt (wie EU-Ausgaben) und die unzureichende Offenlegung von Ausgabenposten.
-2. **Zukunftige Verschuldung**: Sie warnt vor einer immensen zukünftigen Schuldenlast, die auf die kommenden Generationen zukomme.
-3. **Europäische Finanzpolitik und Souveränität**: Weidel lehnt die Abgabe nationaler Haushaltskontrollen an die EU ab und fordert mehr nationale Souveränität in der Finanzpolitik.
-4. **Ungerechte Steuerpolitik**:
-   - Sie kritisiert die Steuerpolitik der Regierung, die vor allem Mittelschicht und Familien belaste.
-5. **Migration und soziale Gerechtigkeit**:
+### Abs. 1: Begrüßung
 
-   - Rentner seien zunehmend auf Grundsicherung angewiesen
-   - Weidel behauptet Personen ohne Ausbildung kommen nach Deutschland, während qualifizierte Arbeistkräfte Deutschland verlassen. Daraufhin stellt sie die Frage, wer zukünftig Renten bezahlt.
-   - kriminelle Immigranten würden die deutsche Wirtschaft zerstören
-   - Infrastruktur zerfalle, während Gelder für illegale Einwanderer ausgegeben werde
+- Dr. Alice Weidel begrüßt den Präsidenten und die Kollegen im Bundestag.
 
-6. **Demografische Zukunft**:
+### Abs. 2 - Abs. 4: Verschleierung und falsche Darstellung der Haushaltslage
 
-   - Regierung setze auf Einwanderung statt auf Geburtenförderung
+- Weidel wirft der Regierung vor, die wahre Haushaltslage zu verschleiern.
+- Sie kritisiert den Haushalt als Täuschung, da die tatsächliche Schuldenlast viel größer sei, insbesondere durch nicht veröffentlichte Ausgaben und Haftungen für andere Euro-Staaten und Banken.
 
-7. **Forderungen**:
-   1. vollkommene Offenheit bei dem Haushalt
-   2. Immigration stoppen, da Wohlstandssicherung nur mit sicheren Grenzen möglich wäre
-   3. Steuergerechtigkeit durch Erhöhung des Steuerfreibetrags auf 2000 Euro brutto
-   4. Haushalt nicht durch die EU bestimmt
+### Abs. 5 & Abs. 6: Verschuldung und Abgabe der Haushaltskontrolle
+
+- Weidel betont, dass die tatsächliche Verschuldung auf die nächsten Generationen abgewälzt werde.
+- Sie kritisiert die Abgabe der Budgethoheit durch die Bundesregierung an die EU und behauptet, dass wichtige haushaltspolitische Entscheidungen ohne ausreichende parlamentarische Kontrolle getroffen werden.
+
+### Abs. 7 & Abs. 8: Steuerpolitik, soziale Gerechtigkeit und Migration
+
+- Weidel kritisiert die Steuerpolitik der Regierung, die vor allem die Mittelschicht und Familien übermäßig belaste.
+- Sie behauptet, dass das Geld, statt an die Bürger, an illegale Einwanderer fließe.
+
+### Abs. 9: Rentenproblematik und soziale Ungerechtigkeit
+
+- Sie hebt die wachsende Altersarmut hervor.
+- Diese Ungerechtigkeit sei ein Ergebnis der Politik der Regierung.
+
+### Abs. 10 & Abs. 11: Fehlende Zukunftsorientierung und Auswirkungen der Einwanderung
+
+- Weidel kritisiert die Regierung für ihre angeblich mangelnde Zukunftsorientierung und die angebliche Vernachlässigung der sinkenden Geburtenrate.
+- Sie warnt davor, dass diese Politik zu einer Verschlechterung der demografischen Struktur führe, indem unqualifizierte Einwanderung gefördert wird, die nicht in der Lage sei, die Renten und sozialen Systeme zu finanzieren.
+
+### Abs. 12 - Abs. 15: Forderungen der AfD
+
+1. vollkommene Offenheit bei dem Haushalt
+2. Immigration stoppen, da Wohlstandssicherung nur mit sicheren Grenzen möglich wäre
+3. Steuergerechtigkeit durch Erhöhung des Steuerfreibetrags auf 2000 Euro brutto
+4. Haushalt nicht durch die EU bestimmt
 
 ## Framing-Strategien
 
-### 1. **Moralisches Framing**
+### Abs. 2 - Abs. 3
 
-- **Beispiel:** "Es ist nichts anderes als Steuerzahlerausbeutung nach Gutsherrenart, was Sie hier praktizieren."
-- **Strategie:** Der Haushaltsplan und die Steuerpolitik der Regierung werden moralisch verurteilt. Es wird von "Ausbeutung" gesprochen, was eine starke emotionale Reaktion hervorrufen soll, indem den politischen Gegnern unmoralisches Verhalten zugeschrieben wird.
+> "Der Haushalt ist der Nerv des Staates. Daher muss er den profanen Augen des Untertanen entzogen werden." (Abs. 2)
 
-### 2. **Verantwortungszuschreibung (Attribution of Responsibility)**
+> "Diesen Satz, der Kardinal Richelieu zugeordnet wird, haben [...] sich [die Regierung] offensichtlich seit Jahrzehnten auf die Fahnen geschrieben" (Abs. 2)
 
-- **Beispiel:** "Sie haben aber dennoch den Rettungsschirmen, den dauerhaften automatisierten Finanzierungsmechanismen zugestimmt, und Sie bejubeln die Pläne von Präsident Emmanuel Macron."
-- **Strategie:** Die Regierung wird direkt für problematische Entscheidungen verantwortlich gemacht, besonders im Kontext der internationalen Finanzverpflichtungen. Das Bild eines "Verrats" an nationaler Souveränität wird durch die Bezugnahme auf die Verantwortungslosigkeit bei der Übergabe von Budgethoheit an Brüssel und Paris konstruiert.
+- Vergleich des Haushalts der Regierung mit dem Haushalt des ersten Minister (principal ministre) des französischen Königs Ludwig XIII ab 1624
+  - Monarchie / Absolutismus, bei welchem der Bevölkerung kein Einblick in den Haushalt gegeben wurde
+- Framing des Haushalts der Regierung als nicht-öffentlich und geheim gehalten.
 
-### 3. **Vergleichendes Framing (Us vs. Them)**
+### Abs. 6
 
-- **Beispiel:** "Die AfD hingegen tritt für Verantwortung, Gerechtigkeit und für eine lebenswerte Zukunft ein."
-- **Strategie:** Die eigene Partei (AfD) wird als verantwortungsvoll und gerecht dargestellt, während die Regierung als unverantwortlich und heuchlerisch dargestellt wird. Es entsteht ein klarer Gegensatz zwischen der "guten" AfD und den "schlechten" etablierten Parteien.
+> "Steuergeld, das Sie hier nie erarbeitet haben" (Abs. 6 letzter Satz)
 
-### 4. **Krisen- und Bedrohungsframing**
+- Framing der Regierung als Personen, die nie Steuern gezahlt hätten und daher kein Recht hätten über das Geld zu verfügen
+- außerdem Framing als Art "Verräter", die - trotz hoher Position - nichts für das Land / die Bevölkerung machen
 
-- **Beispiel:** "In spätestens 20 Jahren wird jeder fünfte Rentner auf die Grundsicherung angewiesen sein."
-- **Strategie:** Die Rede malt ein düsteres Bild der Zukunft, um die Dringlichkeit und Schwere der gegenwärtigen politischen und wirtschaftlichen Maßnahmen zu unterstreichen. Die Rentenproblematik wird als bevorstehende "Katastrophe" präsentiert, die sofortiges Handeln erfordert.
+### Abs. 8
 
-### 5. **Sündenbock-Framing**
+> "Es ist nichts anderes als Steuerzahlerausbeutung nach Gutsherrenart, was Sie hier praktizieren." (Abs. 8)
 
-- **Beispiel:** "Burkas, Kopftuchmädchen, alimentierte Messermänner und sonstige Taugenichtse werden unseren Wohlstand, das Wirtschaftswachstum und vor allem den Sozialstaat nicht sichern."
-- **Strategie:** Bestimmte Gruppen, insbesondere Migranten und Zugewanderte, werden als Sündenböcke für die gesellschaftlichen und wirtschaftlichen Probleme dargestellt. Sie werden mit negativen Attributen belegt (z. B. "Messermänner", "Taugenichtse"), was Feindbilder schafft und diese als Bedrohung für den Wohlstand und die Stabilität des Staates inszeniert.
+- Der Haushaltsplan und die Steuerpolitik der Regierung werden moralisch verurteilt.
+- Es wird der Frame der "Ausbeutung" auf die Steuerpolitik gelegt, as eine starke emotionale Reaktion hervorrufen soll.
 
-### 6. **Selektives Framing**
+### Abs. 9
 
-- **Beispiel:** "Herbert W. Bis Mitte der 70er-Jahre hat er unter Tage gearbeitet... Sami A. Er ging früher auch einer beschwerlichen Arbeit nach... bekommt vom Staat 1.200 Euro."
-- **Strategie:** Zwei stark gegensätzliche Einzelfälle werden präsentiert, um eine weit verbreitete Ungerechtigkeit zu unterstreichen. Dies dient dazu, das Unrecht im Sozialsystem zu zeigen und den Eindruck zu vermitteln, dass das System zugunsten bestimmter Gruppen (insbesondere Migranten) fehlerhaft und ungerecht ist.
+> "Es ist erschreckend: In spätestens 20 Jahren wird jeder fünfte Rentner auf die Grundsicherung angewiesen sein." (Abs. 9 Anfang)
 
-### 7. **Nostalgisches Framing**
+- Die Rede malt ein düsteres Bild der Zukunft, um die Dringlichkeit und Schwere der gegenwärtigen politischen und wirtschaftlichen Maßnahmen zu unterstreichen.
+- Die Rentenproblematik wird als bevorstehende "Katastrophe" präsentiert, die sofortiges Handeln erfordert.
+- In Kombination mit der zuvorigen Argumentation wird ein Framing erzeugt, dass der derzeitige Haushalt zu einer "Katastrophe" führe.
 
-- **Beispiel:** "Die Menschen, die hier leben und arbeiten. Es sind aber nicht nur die Menschen, die jetzt hier leben, sondern auch diejenigen, die in Zukunft hier leben werden."
-- **Strategie:** Ein idealisiertes Bild der Vergangenheit wird erschaffen, das die traditionellen Werte und die Leistung der "echten" Deutschen betont. Gleichzeitig wird die Zuwanderung von "Unqualifizierten" als Bedrohung dargestellt, die das Land und die Gesellschaft destabilisieren könnte.
+### Abs. 10
 
-### 8. **Polarisierendes Framing**
+> "Burkas, Kopftuchmädchen, alimentierte Messermänner und sonstige Taugenichtse werden unseren Wohlstand, das Wirtschaftswachstum und vor allem den Sozialstaat nicht sichern." (Abs. 10 gegen Ende)
 
-- **Beispiel:** "Falls Sie in einem Land leben, in dem Sie für das Fischen ohne Angelschein bestraft werden, jedoch nicht für den illegalen Grenzübertritt ohne gültigen Reisepass, dann haben Sie das volle Recht, zu sagen, dieses Land wird von Idioten regiert."
-- **Strategie:** Es wird eine klare und sehr polarisierte Linie gezogen, indem die Regierung als inkompetent und töricht dargestellt wird. Das Bild eines Staates, der gesetzlose Grenzübertritte toleriert, während er "harte Strafen" für harmlose Vergehen wie illegales Fischen verhängt, wird als absurd und ungerecht inszeniert.
+- Bestimmte Gruppen, insbesondere Migranten, werden als Sündenböcke für die gesellschaftlichen und wirtschaftlichen Probleme dargestellt.
+- Sie werden mit negativen Attributen belegt (z. B. "Messermänner", "Taugenichtse"), was Feindbilder schafft und diese als Bedrohung für den Wohlstand und die Stabilität des Staates framed.
 
-### 9. **Emotionale Mobilisierung durch dramatische Sprache**
+### Abs. 12
 
-- **Beispiel:** "Es ist erschreckend: In spätestens 20 Jahren wird jeder fünfte Rentner auf die Grundsicherung angewiesen sein."
-- **Strategie:** Drastische, alarmierende Formulierungen wie "erschreckend" werden verwendet, um das Publikum emotional zu mobilisieren und auf die Dringlichkeit der Problematik aufmerksam zu machen. Die Sprache ist darauf ausgelegt, Besorgnis und Empörung zu wecken.
+> "Die AfD hingegen tritt für Verantwortung, Gerechtigkeit und für eine lebenswerte Zukunft ein." (Abs. 12 Anfang)
 
-### 10. **Zukunftsorientiertes Framing**
+- Die eigene Partei (AfD) wird als verantwortungsvoll und gerecht dargestellt, während die Regierung als unverantwortlich und heuchlerisch dargestellt wird.
+- Es entsteht ein klarer Gegensatz zwischen der "guten" AfD und den "schlechten" etablierten Parteien (Us vs. Them).
+- Die AfD wird als positiv und die etablierten Parteien als negativ geframed.
 
-- **Beispiel:** "Die Strategie des Generationenersatzes durch eine ungeregelte Zuwanderung... hat sich als Holzweg erwiesen."
-- **Strategie:** Das Zukunftsbild wird als düster und gefährdet dargestellt, um die Politik der Regierung zu kritisieren. Hier wird die Vorstellung erzeugt, dass die derzeitige Politik die Zukunft des Landes gefährdet und den Wohlstand und die Stabilität langfristig untergräbt.
+### Abs. 15
+
+> "Falls Sie in einem Land leben, in dem Sie für das Fischen ohne Angelschein bestraft werden, jedoch nicht für den illegalen Grenzübertritt ohne gültigen Reisepass, dann haben Sie das volle Recht, zu sagen, dieses Land wird von Idioten regiert." (Abs. 15 Ende)
+
+- Die Regierung wird als inkompetent und töricht geframed, da sie gesetzlose Grenzübertritte toleriere, während sie "harte Strafen" für harmlose Vergehen wie illegales Fischen verhänge.
 
 ### Fazit
 
