@@ -37,22 +37,22 @@ Abs. 15: Viertens. Keine weitere Aushöhlung der Souveränität. Die Hoheit übe
 ## Redesituation
 
 - **Wer?**  
-  Alice Weidel, die Fraktionsvorsitzende der AfD im Deutschen Bundestag.
+  Alice Weidel, die Fraktionsvorsitzende der AfD im Deutschen Bundestag
 
 - **Was?**  
-  Eine Rede über den aktuellen Haushalt der Bundesregierung, in der sie die Haushaltspläne kritisiert und die Regierung für verschiedene politische Entscheidungen verantwortlich macht.
+  eine Rede über den aktuellen Haushalt der Bundesregierung, in der sie die Haushaltspläne kritisiert und die Regierung für verschiedene politische Entscheidungen verantwortlich macht
 
 - **Wo?**  
-  Im Deutschen Bundestag.
+  im Deutschen Bundestag
 
 - **Wann?**  
-  Am 16. Mai 2018.
+  am 16. Mai 2018
 
 - **Aus welchem Anlass?**  
-  Anlass war die Debatte über den Bundeshaushalt 2018, zu der die Abgeordneten ihre Standpunkte und Anmerkungen vorbringen.
+  Der Anlass war die Debatte über den Bundeshaushalt 2018, zu der die Abgeordneten ihre Standpunkte und Anmerkungen vorbringen.
 
 - **An wen gerichtet?**  
-  Die Rede war an die Mitglieder des Bundestages gerichtet, insbesondere an die Regierungsparteien, sowie an die Öffentlichkeit, da die Rede auch im Kontext einer parlamentarischen Debatte gehalten wurde.
+  Die Rede war an die Mitglieder des Bundestages gerichtet, insbesondere an die Regierungsparteien sowie an die Öffentlichkeit, da die Rede auch im Kontext einer parlamentarischen Debatte gehalten wurde.
 
 - **In welcher Absicht?**  
   Alice Weidel verfolgt mit dieser Rede die Absicht, die Politik der Regierung zu kritisieren und die AfD als die verantwortungsvolle, zukunftsorientierte Partei darzustellen. Sie will das Publikum auf die aus ihrer Sicht problematischen Haushaltsentscheidungen aufmerksam machen, die ihrer Meinung nach den Wohlstand und die Zukunft des Landes gefährden.
@@ -67,9 +67,9 @@ Alice Weidel richtet sich mit ihrer Rede an verschiedene Gruppierungen:
   - **Regierungsparteien (CDU/CSU, SPD)**: Direkte, scharfe Kritik an u. a. deren Haushaltspolitik (vgl. Abs. 3).
 
 - **Öffentlichkeit**:
-  - **AfD-Anhänger**: Weidel spricht ihre Partei-Basis an, mobilisiert und stärkt deren Unterstützung, indem sie Themen wie "zukunftsorientiertheit" (vgl. Abs. 10) aufgreift.
+  - **AfD-Anhänger**: Weidel spricht ihre Partei-Basis an, mobilisiert und stärkt deren Unterstützung, indem sie Themen wie "Zukunftsorientiertheit" (vgl. Abs. 10) aufgreift.
   - **Kritiker der AfD**: Die Rede wird vorwiegend als populistisch und vereinfacht wahrgenommen - Kritiker lehnen sie ab.
-  - **Mitte der Gesellschaft**: Weidel spricht Ängste bezüglich "Überfremdung" (vgl. Abs. 11) und Sozialsystem (vgl. Abs. 10) an, was bei Teilen der Mitte Zustimmung, bei anderen Ablehnung hervorruft.
+  - **Mitte der Gesellschaft**: Weidel spricht Ängste bezüglich "Überfremdung" (vgl. Abs. 11) und Sozialsystem (vgl. Abs. 10) an, was bei Teilen der Mitte Zustimmung bei anderen Ablehnung hervorruft.
   - **Wähler der großen Parteien**: Wahrscheinlich ablehnend, aber Unzufriedene könnten sich vermehrt der AfD zuwenden.
 
 ## Zusammenfassung
@@ -91,7 +91,7 @@ Alice Weidel richtet sich mit ihrer Rede an verschiedene Gruppierungen:
 ### Abs. 7 & Abs. 8: Steuerpolitik, soziale Gerechtigkeit und Migration
 
 - Weidel kritisiert die Steuerpolitik der Regierung, die vor allem die Mittelschicht und Familien übermäßig belaste.
-- Sie behauptet, dass das Geld, statt an die Bürger, an illegale Einwanderer fließe.
+- Sie behauptet, dass das Geld statt an die Bürger an illegale Einwanderer fließe.
 
 ### Abs. 9: Rentenproblematik und soziale Ungerechtigkeit
 
@@ -123,7 +123,7 @@ Alice Weidel richtet sich mit ihrer Rede an verschiedene Gruppierungen:
 
 > "Diesen Satz, der Kardinal Richelieu zugeordnet wird, haben [...] sich [die Regierung] offensichtlich seit Jahrzehnten auf die Fahnen geschrieben" (Abs. 2)
 
-- Vergleich des Haushalts der Regierung mit dem Haushalt des ersten Minister (principal ministre) des französischen Königs Ludwig XIII ab 1624
+- Vergleich des Haushalts der Regierung mit dem Haushalt des ersten Ministers (principal ministre) des französischen Königs Ludwig XIII ab 1624
   - Monarchie / Absolutismus, bei welchem der Bevölkerung kein Einblick in den Haushalt gegeben wurde
 - Framing des Haushalts der Regierung als nicht-öffentlich und geheim gehalten.
 
@@ -131,7 +131,7 @@ Alice Weidel richtet sich mit ihrer Rede an verschiedene Gruppierungen:
 
 > "Steuergeld, das Sie hier nie erarbeitet haben" (Abs. 6 letzter Satz)
 
-- Framing der Regierung als Personen, die nie Steuern gezahlt hätten und daher kein Recht hätten über das Geld zu verfügen
+- Framing der Regierung als Personen, die nie Steuern gezahlt hätten und daher kein Recht hätten, über das Geld zu verfügen
 - außerdem Framing als Art "Verräter", die - trotz hoher Position - nichts für das Land / die Bevölkerung machen
 
 ### Abs. 8
@@ -139,7 +139,7 @@ Alice Weidel richtet sich mit ihrer Rede an verschiedene Gruppierungen:
 > "Es ist nichts anderes als Steuerzahlerausbeutung nach Gutsherrenart, was Sie hier praktizieren." (Abs. 8)
 
 - Der Haushaltsplan und die Steuerpolitik der Regierung werden moralisch verurteilt.
-- Es wird der Frame der "Ausbeutung" auf die Steuerpolitik gelegt, as eine starke emotionale Reaktion hervorrufen soll.
+- Es wird der Frame der "Ausbeutung" auf die Steuerpolitik gelegt, das eine starke emotionale Reaktion hervorrufen soll.
 
 ### Abs. 9
 
@@ -168,7 +168,7 @@ Alice Weidel richtet sich mit ihrer Rede an verschiedene Gruppierungen:
 
 > "Falls Sie in einem Land leben, in dem Sie für das Fischen ohne Angelschein bestraft werden, jedoch nicht für den illegalen Grenzübertritt ohne gültigen Reisepass, dann haben Sie das volle Recht, zu sagen, dieses Land wird von Idioten regiert." (Abs. 15 Ende)
 
-- Die Regierung wird als inkompetent und töricht geframed, da sie gesetzlose Grenzübertritte toleriere, während sie "harte Strafen" für harmlose Vergehen wie illegales Fischen verhänge.
+- Die Regierung wird als inkompetent und töricht geframed, da sie gesetzlose Grenzübertritte toleriere, während sie "harte Strafen" für "harmlose" Vergehen wie illegales Fischen verhänge.
 
 ## Ziel der Framing-Strategien / Intention
 
@@ -176,9 +176,9 @@ Die Framing-Strategien in der Rede zielen darauf ab, ein starkes Bild von Verant
 
 ## Bewertung der Wirksamkeit der Framing-Strategien der Rede
 
-Die Intention, andere als inkompetent und sich selber als kompetent darzustellen, wird durch die verschiedenen Frames gut unterstützt. Die Rede ist durchdacht und behandelt - mit u. a. den Frames - die Ängste und Probleme der Bürger. Daher wird eine besonders emotionale Reaktion hervorgerufen. Wenn jetzt diese negativen Emotionen als Framing der etablierten Parteien genutzt werden, steigt die Unzufriedenheit mit diesen. Dabei wird aber nicht jeder von den Frames überzeugt. Personen, die generell kritisch mit Reden - insbesondere der AfD - umgehen könnten relativ einfach die Strategien durchschauen. Das gilt allerdings nicht für jeden.
+Die Intention, andere als inkompetent und sich selber als kompetent darzustellen, wird durch die verschiedenen Frames gut unterstützt. Die Rede ist durchdacht und behandelt - mit u. a. den Frames - die Ängste und Probleme der Bürger. Daher wird eine besonders emotionale Reaktion hervorgerufen. Wenn jetzt diese negativen Emotionen als Framing der etablierten Parteien genutzt werden, steigt die Unzufriedenheit mit diesen. Dabei wird aber nicht jeder von den Frames überzeugt. Personen, die generell kritisch mit Reden - insbesondere der AfD - umgehen, könnten relativ einfach die Strategien durchschauen. Das gilt allerdings nicht für jeden.
 
-Ich denke, dass die Frames besonders bei Personen, die sowieso eine negative Einstellung zu den kritisierten Parteien haben. Dabei wird wenig hinterfragt, dass mit der Rede gemacht wird und das führt zu einer hohen Wirksamkeit / Effektivität der Framing-Strategien in der Rede. Aber auch Zuhörer, die nicht direkt negativ der Regierung eingestellt sind, können durch die Frames, die genau die Probleme vieler Meschen ansprechen, überzeugt werden. Bei der AfD negativ eingestellten Personen sind die Frames weniger effektiv und könnten sogar eher das Gegenteil der gewünschen Reaktion bewirken: ein weiteres entfernen von der AfD aufgrund von nicht-unterstützung der Frames und dem starken Konfrontationskurs gegenüber den etablierten Parteien.
+Ich denke, dass die Frames besonders bei Personen, die sowieso eine negative Einstellung zu den kritisierten Parteien haben. Dabei wird wenig hinterfragt, dass mit der Rede gemacht wird und das führt zu einer hohen Wirksamkeit / Effektivität der Framing-Strategien in der Rede. Aber auch Zuhörer, die nicht direkt negativ der Regierung eingestellt sind, können durch die Frames, die genau die Probleme vieler Menschen ansprechen, überzeugt werden. Bei der AfD negativ eingestellten Personen sind die Frames weniger effektiv und könnten sogar eher das Gegenteil der gewünschten Reaktion bewirken: ein weiteres Entfernen von der AfD aufgrund von Nicht-Unterstützung der Frames und dem starken Konfrontationskurs gegenüber den etablierten Parteien.
 
 ## ChatGPT
 
