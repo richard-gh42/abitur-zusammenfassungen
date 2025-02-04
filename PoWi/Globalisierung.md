@@ -19,6 +19,8 @@ Globalisierung ist ein Prozess der internationalen Verpflechtung durch neue Tech
 
 ## Chance oder Risiko
 
+TODO
+
 ### Aufnahme in der Bevölkerung
 
 - seid 2017 steigend als Risiko gesehen
