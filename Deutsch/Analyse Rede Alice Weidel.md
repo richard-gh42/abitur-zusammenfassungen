@@ -110,6 +110,11 @@ Alice Weidel richtet sich mit ihrer Rede an verschiedene Gruppierungen:
 3. Steuergerechtigkeit durch Erhöhung des Steuerfreibetrags auf 2000 Euro brutto
 4. Haushalt nicht durch die EU bestimmt
 
+## Redetyp
+
+- Es handelt sich bei der Rede um eine politische Rede (Genus deliberativum)
+- Die Funktion der Rede ist - als politische Rede - das Darstellen der anderen Parteien als inkompetent und Selbstinszenieren als "Retter" für die Gesellschaft.
+
 ## Framing-Strategien
 
 ### Abs. 2 - Abs. 3
@@ -165,13 +170,19 @@ Alice Weidel richtet sich mit ihrer Rede an verschiedene Gruppierungen:
 
 - Die Regierung wird als inkompetent und töricht geframed, da sie gesetzlose Grenzübertritte toleriere, während sie "harte Strafen" für harmlose Vergehen wie illegales Fischen verhänge.
 
-### Fazit
+## Ziel der Framing-Strategien / Intention
 
-Die Framing-Strategien in dieser Rede zielen darauf ab, ein starkes Bild von Verantwortungslosigkeit und Ungerechtigkeit zu vermitteln, indem die Regierung als inkompetent und verräterisch dargestellt wird. Das Framing nutzt Emotionen wie Wut, Empörung und Angst, um das Publikum zu mobilisieren und zu einer Ablehnung der politischen Gegner zu führen, während die eigene Partei als der "Ritter in der Rüstung" erscheint, der für Gerechtigkeit, Verantwortung und eine sichere Zukunft kämpft.
+Die Framing-Strategien in der Rede zielen darauf ab, ein starkes Bild von Verantwortungslosigkeit und Ungerechtigkeit der Regierung (SPD / CDU) zu vermitteln, indem sie als inkompetent und verräterisch dargestellt wird. Emotionen wie Wut, Empörung und Angst werden durch die unterschiedlichen Frames ausgelöst, um das Publikum zu mobilisieren und eine Ablehnung der politischen Gegner zu erreichen, während die eigene Partei als einzige Möglichkeit für eine gute Zukunft erscheinen soll.
+
+## Bewertung der Wirksamkeit der Framing-Strategien der Rede
+
+Die Intention, andere als inkompetent und sich selber als kompetent darzustellen, wird durch die verschiedenen Frames gut unterstützt. Die Rede ist durchdacht und behandelt - mit u. a. den Frames - die Ängste und Probleme der Bürger. Daher wird eine besonders emotionale Reaktion hervorgerufen. Wenn jetzt diese negativen Emotionen als Framing der etablierten Parteien genutzt werden, steigt die Unzufriedenheit mit diesen. Dabei wird aber nicht jeder von den Frames überzeugt. Personen, die generell kritisch mit Reden - insbesondere der AfD - umgehen könnten relativ einfach die Strategien durchschauen. Das gilt allerdings nicht für jeden.
+
+Ich denke, dass die Frames besonders bei Personen, die sowieso eine negative Einstellung zu den kritisierten Parteien haben. Dabei wird wenig hinterfragt, dass mit der Rede gemacht wird und das führt zu einer hohen Wirksamkeit / Effektivität der Framing-Strategien in der Rede. Aber auch Zuhörer, die nicht direkt negativ der Regierung eingestellt sind, können durch die Frames, die genau die Probleme vieler Meschen ansprechen, überzeugt werden. Bei der AfD negativ eingestellten Personen sind die Frames weniger effektiv und könnten sogar eher das Gegenteil der gewünschen Reaktion bewirken: ein weiteres entfernen von der AfD aufgrund von nicht-unterstützung der Frames und dem starken Konfrontationskurs gegenüber den etablierten Parteien.
 
 ## ChatGPT
 
 Nutzung von ChatGPT:
 
 - teilweise Zusammenfassung der Rede
-  - Konjunktiv und Textdistanz hat nur bedingt funktioniert und musste stark überarbeitet werden (neu geschrieben werden)
+  - Konjunktiv und Textdistanz hat nur bedingt funktioniert und musste stark überarbeitet werden (praktisch neu geschrieben werden)
