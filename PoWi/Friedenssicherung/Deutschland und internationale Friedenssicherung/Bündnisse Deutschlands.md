@@ -77,6 +77,19 @@ Die Finanzierung der NATO erfolgt durch **Beiträge der Mitgliedstaaten**. Diese
 
 <img src="../../../images/GASP.jpg" width="500">
 
+#### Hard Power / Soft Power
+
+Möglichkeiten andere Äkteure zu beeinflussen
+
+- **Hard Power**:
+  - militärische Stärke
+  - wirtschafliche Stärke
+- **Soft Power**:
+  - nicht-militärisch Stärke
+  - Vorbildsfunktion
+  - Attraktivität
+  - Vermittlung von Werten und Normen
+
 #### Kritik an dem Entscheidungsprozess der EU / GASP
 
 - die intergovernmentale Natur lässt Entscheidungsprozess verlangsamen und weniger Handlungsfähig machen
