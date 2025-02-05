@@ -53,12 +53,11 @@
 3. Mandatsentwurf
 4. Kabinettsbeschluss
 5. Bundestag
-6. Verteidigungsausschuss
-7. Verteidigungsausschuss / Auswärtiger Ausschuss
-8. Abstimmung im Plenum
-9. lehnt ab / stimmt zu (50 + 1: absolute Mehrheit)
-10. Bundesregierung
-11. Entsendung in zum Konflikt
+6. Verteidigungsausschuss / Auswärtiger Ausschuss
+7. Abstimmung im Plenum
+8. lehnt ab / stimmt zu (50 + 1: absolute Mehrheit)
+9. Bundesregierung
+10. Entsendung in zum Konflikt
 
 ## deutsche und europäische Sicherheitspolitik und die Rolle der Bundeswehr in transnationalen und internationalen Zusammenhängen
 
