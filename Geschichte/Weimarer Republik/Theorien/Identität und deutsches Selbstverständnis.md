@@ -137,8 +137,8 @@ TODO lesen
 
 ### Theorie
 
-- Nach 1945 gibt es Vieles, was gut lief und auf das man stolz sein kann
-- Jüngere haben keine Schuld
+- Nach 1945 gibt es Vieles, was gut lief und auf das man stolz sein könne
+- Jüngere hätten keine Schuld
 - Verantwortung des Landes sich mit Vergangenheit auseinander zu setzen
 - Eine forcierte Aktuellhaltung der Vergangenheit für politische Zwecke ist Gefährlich
 	- "Wir müssen uns für Israel wegen dem Holocaust einsetzen."
