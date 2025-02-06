@@ -52,6 +52,8 @@ Die Nation als zentraler Aspekt hat sich im 19. Jahrhundert entwickelt und hält
 
 ## Jürgen Kocka (Fokus auf 1850 - 1918)
 
+TODO lesen
+
 ### Biographie
 
 #### Jürgen Kocka
