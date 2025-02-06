@@ -30,7 +30,7 @@ Das andere Verständnis des „negativen Sonderwegs“ kam nach dem 2. WK auf un
 ## Heinrich A. Winklers Argumente für den "deutschen Sonderweg"
 
 - Hitler ist nicht durch den Wahlsieg an die Macht gekommen, sondern durch die gesellschaftliche Entwicklung und Machteliten
-- Hindenburg hätte die Machtübernahmen verhindern können
+- Hindenburg hätte die Machtübernahmen verhindern / herauszögern können
 - "Gebildete" Anhänger Hitlers faszinierte besonders der Traum von einem Großdeutschland
 - Es gäbe einen "deutschen Sonderweg", da Deutschland tief von dem Mittelalter geprägt in die Moderne übergegangen ist und dementsprechende Probleme gehabt hätte
 - Dem Einwand, es gibt keinen "Normalweg", setzt Winkler entgegen, dass man von "westlichen Demokratien" spricht, was eine gewisse Einheit zeigt.
