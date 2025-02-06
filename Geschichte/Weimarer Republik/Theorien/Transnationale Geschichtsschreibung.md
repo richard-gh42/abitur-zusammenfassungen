@@ -15,6 +15,6 @@
 
 > "Dennoch: Weltgeschichte zu schreiben ist auch ein Versuch, dem Spezialistentum der kleinteilig arbeitenden Fachhistorie ein wenig öffentliche Deutungskompetenz abzuringen. Weltgeschichte ist eine Möglichkeit der Geschichtsschreibung, ein Register, das gelegentlich ausprobiert werden sollte."
 
-// ## Klaus Patel zur transnationalen Geschichtsscheibung
+[//]: ## Klaus Patel zur transnationalen Geschichtsscheibung
 
 // TODO
