@@ -89,9 +89,6 @@ vier große Entwicklungszusammenhänge als "deutscher Sonderweg":
   - Nichtanerkennung des Vertrags in Deutschland
   - Misstrauen gegenüber Deutschland
 
-### Kritik an Bracher
-
-TODO
 
 ## Sonstige Argumente gegen den Sonderweg
 
