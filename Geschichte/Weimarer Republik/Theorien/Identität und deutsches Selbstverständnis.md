@@ -119,7 +119,7 @@ TODO lesen
 - Reduziert komplexe Entwicklungen auf nur drei Gründe, die der Komplexität nicht gerecht werden.
 - Die Gründe, wieso die Gründe gegeben waren, werden nicht betrachtet.
 
-## Heinrich A. Winkler (Fokus auf nach 1945 / Geschichtsschreibung)
+## Heinrich A. Winkler (Fokus auf nach 1945 / nationales Selbstverständnis mit Bezug auf die Vergangenheit)
 
 ### Biographie
 
