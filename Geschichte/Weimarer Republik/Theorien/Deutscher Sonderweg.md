@@ -57,37 +57,37 @@ Das andere Verständnis des „negativen Sonderwegs“ kam nach dem 2. WK auf un
 
 vier große Entwicklungszusammenhänge als "deutscher Sonderweg":
 
-1. geograftische Mittellage
+#### 1. geograftische Mittellage
 
-  - führende Position Deutschlands im Mittelalter
-  - nach Zerbrechung in Teilreiche keine gemeinsame deutsche Identität, wie in anderen Staaten wie Frankreich
-    - erstmals gemeinsame Identität in den Kriegen gegen Napolen
-  - daher entwickelt sich ein autoritärer Staat, der die kleineren Teile eint
+- führende Position Deutschlands im Mittelalter
+- nach Zerbrechung in Teilreiche keine gemeinsame deutsche Identität, wie in anderen Staaten wie Frankreich
+ - erstmals gemeinsame Identität in den Kriegen gegen Napolen
+- daher entwickelt sich ein autoritärer Staat, der die kleineren Teile eint
 
-2. Scheitern der Revolution 1848
+#### 2. Scheitern der Revolution 1848
 
-  - Das Scheitern der Revolution 1848 bringt Deutschland weiter vom "westeuropäischen Normalweg" ab.
-  - Währenddessen nimmt das deutsche Selbstverständnis immer mehr antiwestliche Züge an.
-  - liegt u. a. an einem preußischen Obrigkeitsstaat, der eine Revolution von Oben einführte, statt einer liberalen Revolution von unten.
-  - Liberale Kräfte für eine Revolution von unten geben sich der Annahme hin, dass Bismarksche Erfolge "Realpolitik" - nach welcher Macht über Recht und Moral steht - rechtfertigen.
+- Das Scheitern der Revolution 1848 bringt Deutschland weiter vom "westeuropäischen Normalweg" ab.
+- Währenddessen nimmt das deutsche Selbstverständnis immer mehr antiwestliche Züge an.
+- liegt u. a. an einem preußischen Obrigkeitsstaat, der eine Revolution von Oben einführte, statt einer liberalen Revolution von unten.
+- Liberale Kräfte für eine Revolution von unten geben sich der Annahme hin, dass Bismarksche Erfolge "Realpolitik" - nach welcher Macht über Recht und Moral steht - rechtfertigen.
 
-3. Strukturfehler im Bismarkreich
+#### 3. Strukturfehler im Bismarkreich
 
-  - Entstehung eines palamentarischen Systems mit Parteien wird behindert.
-  - der militärisch, bürokratische Obrigkeitsstaat blockiert Partizipation der Arbeiter.
-  - Niedergang der Liberalen
-  - Verspätete Nation
-    - Bewusstsein der späten Nation erst ca. nach dem Sturz Bismarks entstanden
-    - Deutschland wollte den Vorsprung anderer Länder aufholen.
-  - Deutschland hätte ein Recht auf Hegenomie (Vorherrschaft) in Mitteleuropa, wegen der geografischen Lage
+- Entstehung eines palamentarischen Systems mit Parteien wird behindert.
+- der militärisch, bürokratische Obrigkeitsstaat blockiert Partizipation der Arbeiter.
+- Niedergang der Liberalen
+- Verspätete Nation
+ - Bewusstsein der späten Nation erst ca. nach dem Sturz Bismarks entstanden
+ - Deutschland wollte den Vorsprung anderer Länder aufholen.
+- Deutschland hätte ein Recht auf Hegenomie (Vorherrschaft) in Mitteleuropa, wegen der geografischen Lage
 
-4. Versailler Vertrag
+####4. Versailler Vertrag
 
-  - Der Versailler Vertrag bestimmte die Lage der Weimarer Republik besonders.
-  - erhöhte die Krisenanfälligkeit deutlich
-  - internationale Kooperation war schwierig
-    - Nichtanerkennung des Vertrags in Deutschland
-    - Misstrauen gegenüber Deutschland
+- Der Versailler Vertrag bestimmte die Lage der Weimarer Republik besonders.
+- erhöhte die Krisenanfälligkeit deutlich
+- internationale Kooperation war schwierig
+  - Nichtanerkennung des Vertrags in Deutschland
+  - Misstrauen gegenüber Deutschland
 
 
 ## Sonstige Argumente gegen den Sonderweg
