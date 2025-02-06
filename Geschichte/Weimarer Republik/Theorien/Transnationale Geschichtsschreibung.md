@@ -4,7 +4,7 @@
 
 - Selbst heute leben Milliarden Menschen leben in engen und lokalen Verhältnissen, trotz globaler Kommunikationsmöglichkeiten
 - Nur privilegierte Minderheiten agieren global
-- 19. Jahrhundert trotz Nationalsismus und Nationalstaaten erste Globalisierungsbemühungen
+- Das 19. Jahrhundert beinhaltet trotz Nationalsismus und Nationalstaaten erste Globalisierungsbemühungen
   - Menschen schäuten Fahrten in Ungewisse nicht und hatten Hoffnungen über das Ferne
 - Großbritannien konnte als Weltreich gesehen werden
 - Handel und Finanzen wurden globaler
