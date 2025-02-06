@@ -50,7 +50,7 @@ Die Nation als zentraler Aspekt hat sich im 19. Jahrhundert entwickelt und hält
 - blockierte Parlamentarisierung im Kaiserreich
 - Späte Demokratisierung
 
-## Jürgen Kocka
+## Jürgen Kocka (Fokus auf 1850 - 1918)
 
 ### Biographie
 
@@ -79,7 +79,7 @@ TODO lesen
 - Entwicklung nicht Deterministisch
 - Geschichte vor 1933 nicht nur als Vorgeschichte sehen
 
-## Sebastian Haffner
+## Sebastian Haffner (Fokus auf 1918 - 1933)
 
 ### Biographie
 
@@ -119,7 +119,7 @@ TODO lesen
 - Reduziert komplexe Entwicklungen auf nur drei Gründe, die der Komplexität nicht gerecht werden.
 - Die Gründe, wieso die Gründe gegeben waren, werden nicht betrachtet.
 
-## Heinrich A. Winkler
+## Heinrich A. Winkler (Fokus auf nach 1945 / Geschichtsschreibung)
 
 ### Biographie
 
