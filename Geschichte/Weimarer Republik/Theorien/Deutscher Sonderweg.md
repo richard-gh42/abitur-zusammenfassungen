@@ -81,7 +81,7 @@ vier große Entwicklungszusammenhänge als "deutscher Sonderweg":
  - Deutschland wollte den Vorsprung anderer Länder aufholen.
 - Deutschland hätte ein Recht auf Hegenomie (Vorherrschaft) in Mitteleuropa, wegen der geografischen Lage
 
-####4. Versailler Vertrag
+#### 4. Versailler Vertrag
 
 - Der Versailler Vertrag bestimmte die Lage der Weimarer Republik besonders.
 - erhöhte die Krisenanfälligkeit deutlich
