@@ -63,7 +63,15 @@ Die Reaktionen der anderen Menschen auf der Bank sind zurückhaltend, fast abwei
 
 Borcherts Die Küchenuhr ist ein Paradebeispiel für die Trümmerliteratur: Die zerstörte Welt, die verlorene Vergangenheit und die emotionale Leere der Überlebenden werden mit knappen Worten eindringlich geschildert. Die Geschichte zeigt, wie der Krieg nicht nur Städte, sondern auch menschliche Beziehungen und die Gewissheit eines geordneten Lebens zerstört hat.
 
+## Gruppe 47
 
+- Die Gruppe 47 ist ein Treffen das auf Einladung von Hans Werner Richter von 1947 bis 1967 zusammentrat.  
+- Die Teilnehmer wurden von Richter bestimmt es handelte sich zunächst eher um ein gemeinschaftliches Zusammentreffen als eine Organisation. 
+- Ab 1950 Vergab das Treffen immer einen Demokratisch bestimmten Preis 
+- Die Gruppe wurde über die Jahre immer Wichtiger sowohl politisch als auch wirtschaftlich 
+- **Ziele:** 
+ - Weg kommen von NS-Sprache 
+ - Literatur als mittel zur politischen und gesellschaftlichen Reflexion
 
 
 
