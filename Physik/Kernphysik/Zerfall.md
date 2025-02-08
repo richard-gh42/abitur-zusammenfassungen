@@ -6,8 +6,11 @@ Bestimmte Nuklide Zerfallen von selbst und senden Strahlung aus
 
 Radioaktive Kerne zerfallen bei zu großer Masse, bei ungünstigen Verhältnis zwischen Neutronen und Protonen bis ein stabiler Zustand erreicht ist.
 
-- Es handelt sich um exponentiellen Zerfall.
+- Es handelt sich um exponentiellen Zerfall: $N(t) = N_0 \cdot e^{-\lambda t}$
 - Die momentane Änderungsrate des Bestandes ist proportional zum Bestand.
+  - $N'(t) = -\lambda \cdot N(t)$
+  - $\lambda$ ist die Zerfallskonstante.
+- Die Halbwertszeit ist die Zeit, die der Bestand oder die Aktivität benötigt um sich zu halbieren.
 
 ### Aktivität
 
@@ -15,6 +18,7 @@ Radioaktive Kerne zerfallen bei zu großer Masse, bei ungünstigen Verhältnis z
 - Die Art der Zerfälle ist irrelevant.
 - Kann u. a. mit dem Geiger-Müller-Zählrohr gemessen werden.
 - Wird in Becquerel gemessen ($1 Bq := \frac{1}{s}$).
+- Für die Aktivität $A$ zum Zeitpunkt $t$ gilt $A(t) = A_0 \cdot e^{-\lambda t} = \lambda \cdot N_0 \cdot e^{- \lambda t}$.
 
 ## Zerfallsreihen
 
