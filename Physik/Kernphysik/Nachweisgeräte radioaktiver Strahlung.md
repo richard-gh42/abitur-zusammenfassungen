@@ -1,4 +1,8 @@
-# Messgeräte für ionisierende Strahlung
+# Nachweisgeräte für radioaktive Strahlung
+
+## Was ist radioaktive bzw. ionisierende Strahlung?
+
+Strahlung, die Elektronen aus einem Atom lösen kann.
 
 ## Geiger-Müller-Zählrohr
 
@@ -30,17 +34,12 @@ TODO (Studyflix Video)
 - kann nicht zwischen Strahlung unterscheiden
 - TODO (Totzeit)
 
-### Vorteile Gaiger-Müller-Zähler
+### Vorteile Geiger-Müller-Zähler
 
 - Mobil / Transport
 - Empfindlich
 - Universell (alpha / beta Strahlung) gemessen
 - Kostengünstig
-
-## Ionisationskammer
-
-Die lonisationskammer ist eine Metallkammer, bei der zwischen Gehäuse und radioaktivem Präparat ein elektrisches Feld besteht (→B1). Die von der Strahlung erzeugten lonen werden vom Feld be-schleunigt. Bei geringer Feldstärke können die Ladungsträger teilweise rekombinieren, bevor sie die Gehäusewand erreichen. Bei hinreichend großer Feldstärke tragen alle von der Strahlung erzeugten lonen zum Strom bei. Die Stromstärke erreicht einen Sättigungswert.
-Der Sättigungswert der Stromstärke in einer lonisationskammer ist ein Maß für die ionisierende Wirkung der Strahlung.
 
 ## Nebelkammer
 
@@ -61,7 +60,8 @@ Der Sättigungswert der Stromstärke in einer lonisationskammer ist ein Maß fü
 
 ## Szintillationszähler
 
-- Misst nur Gammastrahlen (sehr energiereiches Licht, diskrete Energieniveaus), da Alpha- und Betastrahlung abgeschirmt wird (koalisidieren mit ersten Atomen und dann Ende) (nicht ins innere des Kristalls hineindringt)
+- Misst nur Gammastrahlen, da Alpha- und Betastrahlung abgeschirmt wird (kollidieren mit ersten Atomen und dann vorbei)
+  - Dringt nicht ins innere des Kristalls ein.
 - Anzahl der Elektronen
 
 - Gamma-Strahlung trifft auf Kristall

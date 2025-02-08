@@ -2,8 +2,12 @@
 
 ## Zerfallsgesetze
 
+Bestimmte Nuklide Zerfallen von selbst und senden Strahlung aus
+
+Radioaktive Kerne zerfallen bei zu großer Masse, bei ungünstigen Verhältnis zwischen Neutronen und Protonen bis ein stabiler Zustand erreicht ist.
+
 - Es handelt sich um exponentiellen Zerfall.
-- Die momentane Änderungsrate des Bestandes ist entgegengesetzt proportional zum Bestand.
+- Die momentane Änderungsrate des Bestandes ist proportional zum Bestand.
 
 ### Aktivität
 
