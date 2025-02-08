@@ -12,6 +12,8 @@
 - Jedes chemisches Element hat eine feste Protonenzahl Z, kann aber mehrere Isotope mit unterschiedlicher Anzahl an Neutronen besitzen.
 - Die Nukleonenzahl ist die Summe der Protonen und Neutronen.
 
+![Elementschreibweise](../../images/Physik/Elementschreibweise.png)
+
 ## Kräfte im Kern
 
 ### COULOMB-Kraft
