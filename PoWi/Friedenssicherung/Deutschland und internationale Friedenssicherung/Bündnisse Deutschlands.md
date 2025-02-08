@@ -75,7 +75,9 @@ Die Finanzierung der NATO erfolgt durch **Beiträge der Mitgliedstaaten**. Diese
   - u. a. Souveränität der Mitgliedstaaten, Einstimmigkeitsprinzip, keine bindenden Verordnungen
 - Supranational: Entscheidungen über die Nationalstaaten hinaus; Mehrheitsentscheidungen sind für alle Mitgliedsstaaten bindend
 
-<img src="../../../images/GASP.jpg" width="500">
+TODO Bild zu Text
+
+<img src="../../../images/PoWi/GASP.jpg" width="500">
 
 #### Hard Power / Soft Power
 

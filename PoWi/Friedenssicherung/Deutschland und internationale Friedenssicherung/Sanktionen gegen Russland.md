@@ -1,6 +1,6 @@
 # Sanktionen gegen Russland von der EU
 
-<img src="../../../images/EUSanktionenGegenRussland.jpg">
+<img src="../../../images/PoWi/EUSanktionenGegenRussland.jpg">
 
 ## Folgen und Probleme mit den Sanktionen gegen Russland
 
