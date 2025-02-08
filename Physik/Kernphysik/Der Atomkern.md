@@ -16,6 +16,8 @@
 
 ## Kräfte im Kern
 
+![Kräfte im Kern](../../images/Physik/Kräfte%20im%20Kern.png)
+
 ### COULOMB-Kraft
 
 - Gleiche Ladungen stoßen sich ab.
@@ -31,9 +33,12 @@ Grund dafür, dass der Atomkern nicht auseinanderfällt.
 - stoßt ab (geringe Distanz) und zieht an (höhere Distanz)
 - bei zunehmender Protonenzahl müssen mehr Neutronen sich im Kern befinden, um die kurze Distanz der starken Wechselwirkung auszugleichen, so dass die COULOMB-Kraft ausgeglichen wird
 
+![Stabilität von Kernen](../../images/Physik/Stabilität%20von%20Elementen.png)
+
 ## Potentialtopf im Kern
 
 - Die Nukleonen im Kern sind Quantenobjekte.
 - Die Protonen und Neutronen haben ihren jeweiligen Potentialtopf mit unterschiedlichen diskreten Energieniveaus wie bei der Atomhülle
+- Die Energie im Kern ist um das millionenfache größer als in der Hülle
 
-TODO Bild von Potentialtopf
+![Potentialtopf im Kern](../../images/Physik/Potentialtopf.png)
