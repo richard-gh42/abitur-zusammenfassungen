@@ -87,6 +87,6 @@ Radioaktive Kerne zerfallen bei zu großer Masse, bei ungünstigen Verhältnis z
 
 ## Gamma-Zerfall
 
-- Diskrete Strahlung
+- Diskrete Strahlung (Licht)
 - Das diskrete Energieniveau der Nukleonen im Kerns fällt und es entsteht Gamma-Strahlung (wie bei der Schale, nur energiereicher).
   - Da sich die Nukleonen im Kern wieder neu anordnen müssen entsteht bei jedem Zerfall auch Gamma-Strahlung.
