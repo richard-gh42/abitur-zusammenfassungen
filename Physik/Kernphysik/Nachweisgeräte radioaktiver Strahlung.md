@@ -23,16 +23,20 @@ TODO (Studyflix Video)
 
 1. ionisierende Strahlung trifft auf ein Atom des Gases
 2. ein Elektron wird gelöst
-3. das Elektron geht in Richtung des Zähldrahts
-4. die Elektronen lösen weitere Elektronen => Elektronenkaskade
-5. die Ionen schließen den Stromkreis zwischen der Kathode und Anode
-6. die Stromstärke kann gemessen werden
-7. Ausgabe über Digitalzähler oder Lautsprecher
+3. das Elektron geht in Richtung des Zähldrahts, ionisiertes Atom geht in Richtung Metallzylinder
+4. wegen sehr hoher Spannung kriegen die Elektronen sehr schnell viel Bewegungsenergie
+5. die Elektronen ionisieren weitere Atome und lösen Elektronen => Elektronenkaskade
+6. es bildet sich ein Kanal zwischen dem Zylinder und Draht aus freien Ladungsträgern
+7. der Stromkreis zwischen der Kathode und Anode wird geschlossen
+8. die Stromstärke kann gemessen werden
+9. Ausgabe über Digitalzähler oder Lautsprecher
 
 ### Limitationen
 
 - kann nicht zwischen Strahlung unterscheiden
-- TODO (Totzeit)
+- Todzeit zwischen den Messungen
+ - ist ein Kanal erstmal erstellt führt eine weitere Ionisierung zu keinem Unterscheid
+ - erst wenn der Kanal wieder zusammenbricht kann neue Strahlung wahrgenommen werden
 
 ### Vorteile Geiger-Müller-Zähler
 
