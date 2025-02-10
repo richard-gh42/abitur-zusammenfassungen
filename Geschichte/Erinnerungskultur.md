@@ -29,3 +29,21 @@ Erinnerung an die Vergangenheit und konstruktion der Geschichte ist individuell 
 - wird über Feste, Rituale, ... übertragen
  - Zweck: Sicherung und Kontinuierung einer sozialen Identität
 
+### Speichergedächnis
+
+- über Schrift kann mehr gespeichert werden, als gebraucht und aktualisiert wird
+- enthält eine unstrukturierte Menge von Daten
+- der Mensch kann nur schwer über es verfügen
+
+### Funktionsgedächnis
+
+- wird tatsächlich genutzt
+- wird aus dem Speichergedächnis organisiert, verknüpft und konstruiert
+- an das Subjekt gebunden
+- selektives und bewusstes Verfügen über die Vergangenheit
+- von Kollektiven, Institutionen oder Individuen
+ - jeweils unterschiedlicher Zusammenhang zwischen Funktions- und Speichergedächnis
+
+- kulturelles Gedächnis verliert seine Konturen und verschwimmt mit dem kommunikativen Gedächnis
+- Speicher- und Funktionsgedächnis nicht immer klar zu trennen
+ - identische Speichermedien
