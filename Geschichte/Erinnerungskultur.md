@@ -57,9 +57,9 @@ Erinnerung an die Vergangenheit und konstruktion der Geschichte ist individuell 
 Gespeicherte Daten sorgen nicht direkt für Erinnerung, sondern müssen über das neue kommunikative Gedächnis - in zweitem Grad - aktiviert werden.
 
 - ersten Grades (**Dokumente**): beruhen auf Kodifikation und Speicherung von Informationen
-  - Speichergedächnis
+  - im **kommunikativen Gedächnis** und vergeht, wenn es nicht im **Speichergedächnis** festgehalten wird
 - zweiten Grades (**Monumente**): beruhen auf Speicherung plus sozial bestimmten und praktiziertem Erinnerungswert - also sie haben einen Wert, wieso man sich an sie erinnert
-  - Funktionsgedächnis
+  - im **kulturellen Gedächnis** und **Funktionsgedächnis**, da es einen Erinnerungswert hat und sich über Kultur erinnert wird oder aus dem Speichergedächnis ins Funktionsgedächnis gebracht wird
 
 ### Zusammenspiel der Gedächnisse
 
