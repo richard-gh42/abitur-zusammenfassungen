@@ -51,6 +51,7 @@ Erinnerung an die Vergangenheit und konstruktion der Geschichte ist individuell 
 - von Kollektiven, Institutionen oder Individuen
   - jeweils unterschiedlicher Funktionsgedächnisse
   - Geschichte wird sich von einzenlen Subjekten angeeignet
+  - Die Gesellschaft bestimmt, wie sich Geschichte angeeignet wird.
 - Speicher- und Funktionsgedächnis nicht immer klar zu trennen
   - Funktionsgedächnis besteht aus dem Speichergedächnis
   - identische Speichermedien
