@@ -12,10 +12,12 @@ Erinnerung an die Vergangenheit und konstruktion der Geschichte ist individuell 
 
 - bezogen auf die kürzlich geschehene Vergangenheit
 - Erinnerungen, die der Mensch mit seienen Zeitgenossen teilt
+  - wird duch Träger (Menschen) übertragen
 - im Alltag zu gebrauchen
 - vergeht mit der Zeit bzw. mit dem Tod der Träger (Menschen) - also der Generation
 - Historisch signifikant wird das unmerkliche Absterben eines Gedächnis-Abschnitts erst, wenn damit bleibende Erfahrungen verbunden sind, die dauerhaft sicher zu stellen sind
   - Nicht historisch siginifikantes gerät unmerklich ins vergessene, woran sich die Gesellschaft nicht stört
+  - historisch signifikat ist was die Gesellschaft einen Wert beischreibt
   - z. B. NS-Zeit
 
 ### kulturelles Gedächnis
