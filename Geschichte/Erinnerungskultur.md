@@ -8,12 +8,12 @@ Erinnerung an die Vergangenheit und konstruktion der Geschichte ist individuell 
 
 ## Gedächnisformen (Jan Assmann)
 
-### kommunikatives Gedächnis
+### kommunikatives Gedächnis (Generationsgedächnis)
 
 - bezogen auf die kürzlich geschehene Vergangenheit
 - Erinnerungen, die der Mensch mit seienen Zeitgenossen teilt
 - im Alltag zu gebrauchen
-- vergeht mit der Zeit bzw. mit dem Tod der Träger (Menschen)
+- vergeht mit der Zeit bzw. mit dem Tod der Träger (Menschen) - also der Generation
 - Historisch signifikant wird das unmerkliche Absterben eines Gedächnis-Abschnitts erst, wenn damit bleibende Erfahrungen verbunden sind, die dauerhaft sicher zu stellen sind
   - z. B. NS-Zeit
 
