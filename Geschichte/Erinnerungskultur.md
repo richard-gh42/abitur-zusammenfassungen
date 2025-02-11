@@ -29,6 +29,12 @@ Erinnerung an die Vergangenheit und konstruktion der Geschichte ist individuell 
 - wird über Feste, Rituale, ... übertragen
  - Zweck: Sicherung und Kontinuierung einer sozialen Identität
 
+### Gedächnisse mit modernen Medien
+
+- kulturelles Gedächnis verliert seine Konturen und verschwimmt mit dem kommunikativen Gedächnis
+- Filme und Bilder fangen das kommunikative Gedächnis auch für die Nachwelt ein
+- Daher neue Gedächnisformen
+
 ### Speichergedächnis
 
 - über Schrift kann mehr gespeichert werden, als gebraucht und aktualisiert wird
@@ -43,7 +49,6 @@ Erinnerung an die Vergangenheit und konstruktion der Geschichte ist individuell 
 - selektives und bewusstes Verfügen über die Vergangenheit
 - von Kollektiven, Institutionen oder Individuen
  - jeweils unterschiedlicher Zusammenhang zwischen Funktions- und Speichergedächnis
-
-- kulturelles Gedächnis verliert seine Konturen und verschwimmt mit dem kommunikativen Gedächnis
 - Speicher- und Funktionsgedächnis nicht immer klar zu trennen
  - identische Speichermedien
+
