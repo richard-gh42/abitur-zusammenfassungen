@@ -31,7 +31,7 @@ Erinnerung an die Vergangenheit und konstruktion der Geschichte ist individuell 
 
 ### Gedächnisse mit modernen Medien
 
-- kulturelles Gedächnis verliert seine Konturen über Speicherung von Informationen und verschwimmt mit dem kommunikativen Gedächnis
+- kulturelles Gedächnis verliert seine Konturen durch die Speicherung von Informationen und verschwimmt mit dem kommunikativen Gedächnis
 - Filme und Bilder fangen das kommunikative Gedächnis auch für die Nachwelt ein
 - Daher neue Gedächnisformen
 
