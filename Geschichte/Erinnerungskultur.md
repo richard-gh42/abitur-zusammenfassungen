@@ -15,6 +15,7 @@ Erinnerung an die Vergangenheit und konstruktion der Geschichte ist individuell 
 - im Alltag zu gebrauchen
 - vergeht mit der Zeit bzw. mit dem Tod der Träger (Menschen) - also der Generation
 - Historisch signifikant wird das unmerkliche Absterben eines Gedächnis-Abschnitts erst, wenn damit bleibende Erfahrungen verbunden sind, die dauerhaft sicher zu stellen sind
+  - Nicht historisch siginifikantes gerät unmerklich ins vergessene, woran sich die Gesellschaft nicht stört
   - z. B. NS-Zeit
 
 ### kulturelles Gedächnis
