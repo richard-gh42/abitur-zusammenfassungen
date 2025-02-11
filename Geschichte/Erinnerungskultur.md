@@ -15,7 +15,7 @@ Erinnerung an die Vergangenheit und konstruktion der Geschichte ist individuell 
 - im Alltag zu gebrauchen
 - vergeht mit der Zeit bzw. mit dem Tod der Träger (Menschen)
 - Historisch signifikant wird das unmerkliche Absterben eines Gedächnis-Abschnitts erst, wenn damit bleibende Erfahrungen verbunden sind, die dauerhaft sicher zu stellen sind
- - z. B. NS-Zeit
+  - z. B. NS-Zeit
 
 ### kulturelles Gedächnis
 
@@ -45,18 +45,18 @@ Erinnerung an die Vergangenheit und konstruktion der Geschichte ist individuell 
 - an das Subjekt gebunden
 - selektives und bewusstes Verfügen über die Vergangenheit
 - von Kollektiven, Institutionen oder Individuen
- - jeweils unterschiedlicher Zusammenhang zwischen Funktions- und Speichergedächnis
+  - jeweils unterschiedlicher Zusammenhang zwischen Funktions- und Speichergedächnis
 - Speicher- und Funktionsgedächnis nicht immer klar zu trennen
- - identische Speichermedien
+  - identische Speichermedien
 
 ### Dokumente und Monumente
 
 Gespeicherte Daten sorgen nicht direkt für Erinnerung, sondern müssen über das neue kommunikative Gedächnis - in zweitem Grad - aktiviert werden.
 
 - ersten Grades (**Dokumente**): beruhen auf Kodifikation und Speicherung von Informationen
- - Speichergedächnis
+  - Speichergedächnis
 - zweiten Grades (**Monumente**): beruhen auf Speicherung plus sozial bestimmten und praktiziertem Erinnerungswert - also sie haben einen Wert, wieso man sich an sie erinnert
- - Funktionsgedächnis
+  - Funktionsgedächnis
 
 ### Zusammenspiel der Gedächnisse
 
