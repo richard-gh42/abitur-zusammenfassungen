@@ -22,7 +22,7 @@ Erinnerung an die Vergangenheit und konstruktion der Geschichte ist individuell 
 
 ### kulturelles Gedächnis
 
-- Erinnerungen gehen von dem kommunikativen Gedächnis in das kulturelle über Medien
+- Erinnerungen gehen von dem kommunikativen Gedächnis in das kulturelle über Medien, wenn es einen gewissen Erinnerungswert gibt
 - spätere Generationen können Zeugen von vergangenem Geschehen werden
 - nicht für den Alltag zu gebrauchen
 - bestimmt die kulturelle Identität
