@@ -46,10 +46,13 @@ Erinnerung an die Vergangenheit und konstruktion der Geschichte ist individuell 
 - wird tatsächlich genutzt
 - wird aus dem Speichergedächnis organisiert, verknüpft und konstruiert
 - an das Subjekt gebunden
-- selektives und bewusstes Verfügen über die Vergangenheit
+  - selektive Informationen werden aus dem Speichergedächnis mit einer Intention genommen
+  - selektives und bewusstes Verfügen über die Vergangenheit
 - von Kollektiven, Institutionen oder Individuen
-  - jeweils unterschiedlicher Zusammenhang zwischen Funktions- und Speichergedächnis
+  - jeweils unterschiedlicher Funktionsgedächnisse
+  - Geschichte wird sich von einzenlen Subjekten angeeignet
 - Speicher- und Funktionsgedächnis nicht immer klar zu trennen
+  - Funktionsgedächnis besteht aus dem Speichergedächnis
   - identische Speichermedien
 
 ### Dokumente und Monumente
