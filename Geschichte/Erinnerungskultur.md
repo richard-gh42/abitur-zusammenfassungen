@@ -49,6 +49,7 @@ Erinnerung an die Vergangenheit und konstruktion der Geschichte ist individuell 
 - an das Subjekt gebunden
   - selektive Informationen werden aus dem Speichergedächnis mit einer Intention genommen
   - selektives und bewusstes Verfügen über die Vergangenheit
+  - die selbe Erinnerung im Speichergedächnis kann im Funktionsgedächnis unterschiedliche Bedeutungen haben
 - von Kollektiven, Institutionen oder Individuen
   - jeweils unterschiedlicher Funktionsgedächnisse
   - Geschichte wird sich von einzenlen Subjekten angeeignet
