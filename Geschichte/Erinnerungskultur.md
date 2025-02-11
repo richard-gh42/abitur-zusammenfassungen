@@ -37,6 +37,7 @@ Erinnerung an die Vergangenheit und konstruktion der Geschichte ist individuell 
 
 ### Speichergedächnis
 
+- objektivizierte Daten (auf einem Datenträger gespeichert)
 - über Schrift kann mehr gespeichert werden, als gebraucht und aktualisiert wird
 - enthält eine unstrukturierte Menge von Daten
 - der Mensch kann nur schwer über es verfügen
