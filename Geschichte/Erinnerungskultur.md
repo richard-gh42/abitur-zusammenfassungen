@@ -14,7 +14,7 @@ Erinnerung an die Vergangenheit und konstruktion der Geschichte ist individuell 
 - Erinnerungen, die der Mensch mit seienen Zeitgenossen teilt
   - wird duch Träger (Menschen) übertragen
 - im Alltag zu gebrauchen
-- vergeht mit der Zeit bzw. mit dem Tod der Träger (Menschen) - also der Generation
+- vergeht mit der Zeit bzw. mit dem Tod der Träger (Menschen) - also der Generation, wenn nicht im Speichergedächnis oder kulturellen Gedächnis gespeichert
 - Historisch signifikant wird das unmerkliche Absterben eines Gedächnis-Abschnitts erst, wenn damit bleibende Erfahrungen verbunden sind, die dauerhaft sicher zu stellen sind
   - Nicht historisch siginifikantes gerät unmerklich ins vergessene, woran sich die Gesellschaft nicht stört
   - historisch signifikat ist was die Gesellschaft einen Wert beischreibt
@@ -60,16 +60,16 @@ Erinnerung an die Vergangenheit und konstruktion der Geschichte ist individuell 
 
 ### Dokumente und Monumente
 
-Gespeicherte Daten sorgen nicht direkt für Erinnerung, sondern müssen über das neue kommunikative Gedächnis - in zweitem Grad - aktiviert werden.
+Gespeicherte Daten sorgen nicht direkt für Erinnerung, sondern müssen - in zweitem Grad - aktiviert werden.
 
 - ersten Grades (**Dokumente**): beruhen auf Kodifikation und Speicherung von Informationen
-  - im **kommunikativen Gedächnis** und vergeht, wenn es nicht im **Speichergedächnis** festgehalten wird
+  - im **Speichergedächnis** festgehalten
 - zweiten Grades (**Monumente**): beruhen auf Speicherung plus sozial bestimmten und praktiziertem Erinnerungswert - also sie haben einen Wert, wieso man sich an sie erinnert
   - im **kulturellen Gedächnis** und **Funktionsgedächnis**, da es einen Erinnerungswert hat und sich über Kultur erinnert wird oder aus dem Speichergedächnis ins Funktionsgedächnis gebracht wird
 
 ### Zusammenspiel der Gedächnisse
 
-Das kommunikative und kulturelle Gedächnis existiert parallel zu dem Speicher- und Funktionsgedächnis. Dabei ist ersteres auf die Erinnerungen, die von Mensch zu Mensch übertragen werden (kommunikatives Gedächnis) oder Kultur wie Feste, Gedenktage, Mythen, ... übertragen wird (kulturelles Gedächnis) bezogen. Das Speicher- und Funktionsgedächnis ist auf gespeicherte Informationen auf Datenträgern bezogen. Dieses spielt mit modernen Speicherformen wie Fotos und Videos eine besonders große Rolle. Das Speichergedächnis umfasst alles ungeordnet gespeicherte, während das Funktionsgedächnis alles abgerufene mit praktiziertem Erinnerungswert umfasst. Hier ordnet sich auch der Unterschied von Dokumenten und Monumenten ein. Dokumente (Gespeicherte Daten ersten Grades) befinden sich im kommunikativen Gedächnis oder Speichergedächnis und Monumente (Gespeicherte Daten zweiten Grades) sind die abgerufenen und aktivierten Dokumente mit praktiziertem Erinnerungswert im Funktionsgedächnis oder kulturellen Gedächnis.
+Das kommunikative und kulturelle Gedächnis existiert parallel zu dem Speicher- und Funktionsgedächnis. Dabei ist ersteres auf die Erinnerungen, die von Mensch zu Mensch übertragen werden (kommunikatives Gedächnis) oder Kultur wie Feste, Gedenktage, Mythen, ... übertragen wird (kulturelles Gedächnis) bezogen. Das Speicher- und Funktionsgedächnis ist auf gespeicherte Informationen auf Datenträgern bezogen. Dieses spielt mit modernen Speicherformen wie Fotos und Videos eine besonders große Rolle. Das Speichergedächnis umfasst alles ungeordnet gespeicherte, während das Funktionsgedächnis alles abgerufene mit praktiziertem Erinnerungswert umfasst. Hier ordnet sich auch der Unterschied von Dokumenten und Monumenten ein. Dokumente (Gespeicherte Daten ersten Grades) befinden sich im Speichergedächnis und Monumente (Gespeicherte Daten zweiten Grades) sind die abgerufenen und aktivierten Dokumente mit praktiziertem Erinnerungswert im Funktionsgedächnis und/oder kulturellen Gedächnis.
 
 ### Zuordnung von Beispielen
 
