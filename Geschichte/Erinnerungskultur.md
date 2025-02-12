@@ -37,7 +37,7 @@ Erinnerung an die Vergangenheit und konstruktion der Geschichte ist individuell 
 
 ### Speichergedächnis
 
-- objektivizierte Daten (auf einem Datenträger gespeichert)
+- objektivizierte Daten (auf einem Datenträger gespeichert) - **Dokumente**
 - über Schrift kann mehr gespeichert werden, als gebraucht und aktualisiert wird
 - enthält eine unstrukturierte Menge von Daten
 - der Mensch kann nur schwer über es verfügen
@@ -45,7 +45,7 @@ Erinnerung an die Vergangenheit und konstruktion der Geschichte ist individuell 
 ### Funktionsgedächnis
 
 - wird tatsächlich genutzt
-- wird aus dem Speichergedächnis organisiert, verknüpft und konstruiert
+- wird aus dem Speichergedächnis organisiert, verknüpft und konstruiert, wenn ein gewisser Erinnerungswert gegeben ist - **Monumente**
 - an das Subjekt gebunden
   - selektive Informationen werden aus dem Speichergedächnis mit einer Intention genommen
   - selektives und bewusstes Verfügen über die Vergangenheit
