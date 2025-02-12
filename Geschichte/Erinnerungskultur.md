@@ -25,6 +25,7 @@ Erinnerung an die Vergangenheit und konstruktion der Geschichte ist individuell 
 - Erinnerungen gehen von dem kommunikativen Gedächnis in das kulturelle über Medien, wenn es einen gewissen Erinnerungswert gibt
 - spätere Generationen können Zeugen von vergangenem Geschehen werden
 - nicht für den Alltag zu gebrauchen
+- nicht auf das Individum, sondern Gesellschaft bezogen
 - bestimmt die **kulturelle Identität**
 - wird über Feste, Rituale, ... übertragen
  - Zweck: **Sicherung und Kontinuierung** einer **sozialen Identität**
@@ -64,6 +65,7 @@ Gespeicherte Daten sorgen nicht direkt für Erinnerung, sondern müssen - in zwe
 
 - ersten Grades (**Dokumente**): beruhen auf Kodifikation und Speicherung von Informationen
   - im **Speichergedächnis** festgehalten
+  - hat durch die Sicherung einen Platz - wenn auch nur im Hintergrund - in der Kultur und gehört daher zum **kulturellen Gedächnis**
 - zweiten Grades (**Monumente**): beruhen auf Speicherung plus sozial bestimmten und praktiziertem Erinnerungswert - also sie haben einen Wert, wieso man sich an sie erinnert
   - im **kulturellen Gedächnis** und **Funktionsgedächnis**, da es einen Erinnerungswert hat und sich über Kultur erinnert wird oder aus dem Speichergedächnis ins Funktionsgedächnis gebracht wird
 
