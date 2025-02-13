@@ -172,7 +172,25 @@ TODO
 
 ### Privatisierung
 
+- Abgabe von Produktionsstätten an die Privatwirtschaft
+- Ziele
+  - Staatsmonopole beseitigen
+  - Staatsunternehmen profitabeler machen
+  - neue Märkte erschließen, die höhere Gewinne versprechen
+
 ### Liberalisierung
+
+- Vier Freiheiten
+  - Freiheit des Waren- und Dienstleistungsverkehr
+  - Freier Kapitalverkehr
+  - Freizügigkeit der Person
+  - Niederlassungsfreiheit für Unternehmen und Freiberufler
+- Abbau von Protektionistischen Maßnahmen am wichtigsten für Globalisierung
+  - Abbau von Handelsbeschränkungen wie Zöllen, Regulierungen des Außenhandels
+  - Reduzierung der Devisen und Kapitalverkehrsvorschriften
+  - Zugang zu neuen Finanzierungsmöglichkeiten über ausländische Direktinvestitionen (FDIs)
+- Freihandel wurde mit 1990 durch die EU eingeführt - Schengen-Raum
+- Hindernisse: Kultur, Sprache
 
 ### Deregulierung
 
