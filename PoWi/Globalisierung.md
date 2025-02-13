@@ -159,3 +159,34 @@ TODO
 ## Die Welthandelstriade
 
 > Nordamerika, Europa und Asien als stärkste Globalisierungsplayer
+
+# Begriffe zur ökonomischen Globalisierung
+
+## absoluter Kostenvorteil
+
+## komparativer Kostenvorteil (Ricardo)
+
+## Opportunitätskosten
+
+## Entstaatlichung
+
+### Privatisierung
+
+### Liberalisierung
+
+### Deregulierung
+
+## interindustrieller Handel 
+
+- Handel von unterschiedlichen Güterklassen zwischen Ländern
+  - z. B. deutsche Maschienen gegen südamerikanische Bananen
+- passiert bei komparativen Kostenvorteil
+
+##intraindustrieller Handel (Hanno Beck)
+
+- Handel von gleichen Güterklassen zwischen Ländern
+  - z. B. deutsche Maschienen gegen amerikanische Maschienen
+- mit traditionellen Handelstheorien (wie Ricardo) nicht zu erklären
+- Wird mit dem Grubel-Lloyd-Index gemessen
+  - 0 = 100 Exporte auf 0 Importe
+  - 1 = 100 Exporte auf 100 Importe
