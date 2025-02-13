@@ -191,6 +191,11 @@ TODO
   - Zugang zu neuen Finanzierungsmöglichkeiten über ausländische Direktinvestitionen (FDIs)
 - Freihandel wurde mit 1990 durch die EU eingeführt - Schengen-Raum
 - Hindernisse: Kultur, Sprache
+- Vorteile von Liberalisierung
+  - leichterer Zugang zu Arbeitskräften, Technologie, Kapital, Kunden, ...
+  - in oder auslänische Investoren erhalten besseren Zugang zu neuen Märkten, Spezialisierungen, Größenvorteile (pro Produkt Kosten fallen bei höherer Stückzahl)
+  - neue Technologien werden zu attraktiven Konditionen ins Land geholt
+  - strukturelle Erneuerungsprozesse werden beschleunigt und Arbeitsmigration erleichtert
 
 ### Deregulierung
 
@@ -200,7 +205,7 @@ TODO
   - z. B. deutsche Maschienen gegen südamerikanische Bananen
 - passiert bei komparativen Kostenvorteil
 
-##intraindustrieller Handel (Hanno Beck)
+## intraindustrieller Handel (Hanno Beck)
 
 - Handel von gleichen Güterklassen zwischen Ländern
   - z. B. deutsche Maschienen gegen amerikanische Maschienen
