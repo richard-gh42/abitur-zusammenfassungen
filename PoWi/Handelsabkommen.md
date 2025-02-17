@@ -27,7 +27,11 @@ Die AfD will „vorteilhafte Handelsabkommen für unser Land“ abschließen. De
 ### Die Linke
 
 Die Linke möchte „eine weltweite Milliardärsteuer […] und Kooperationsabkommen anstelle
-von Freihandelsabkommen“. Das BSW meint, die bisherigen Abkommen seien „im Interesse
+von Freihandelsabkommen“. 
+
+### BSW
+
+Das BSW meint, die bisherigen Abkommen seien „im Interesse
 multinationaler Konzerne“. Stattdessen brauche es Verträge, durch die „heimische Anbieter
 nicht von ausländischen Billigproduzenten verdrängt werden“.
 
