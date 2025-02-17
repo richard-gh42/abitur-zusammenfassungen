@@ -14,7 +14,7 @@ Um solche Blockadereaktionen zu erschweren, will die SPD Handelsabkommen nicht m
 
 Bei den Grünen kursierte bereits der Vorschlag, Landwirtschaft aus Handelsabkommen auszuschließen. „Das wäre sicherlich ein schnellerer Weg“, sagt Ifo-Außenhandelschefin Lisandra Flach. Allerdings nehme sich die EU dadurch möglicherweise Verhandlungsmöglichkeiten gegenüber Entwicklungsländern.
 
-Im Parteiprogramm der Grünen heißt es bei dem Thema lediglich, man wolle die Abkommen „fair und nachhaltig“ gestalten. Anforderungen zum Waldschutz in Brasilien etwa haben beim Mercosur-Abkommen für Verzögerungen gesorgt. „Eine übermäßige Integration von Nachhaltigkeitsanforderungen in Handelsabkommen könnte für die EU kontraproduktiv sein“, warnt Flach.
+Im Parteiprogramm der Grünen heißt es bei dem Thema lediglich, man wolle die Abkommen „fair und nachhaltig“ gestalten. Anforderungen zum Waldschutz in Brasilien etwa haben beim Mercosur-Abkommen für Verzögerungen gesorgt. 
 
 ### FDP
 
