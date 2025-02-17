@@ -22,18 +22,15 @@ Die FDP will die laufenden Verhandlungen der EU mit Indonesien, Australien, Thai
 
 ### AfD
 
-Die AfD will „vorteilhafte Handelsabkommen für unser Land“ abschließen. Der Vertrag mit den südamerikanischen Mercosur-Staaten gehört für die Partei nicht dazu. Er „schadet unserer Landwirtschaft“. Mehr Handel will die AfD dafür mit Russland, indem die Sanktionen beendet werden. Mercosur: nein, Russland: ja – Flach nennt das „geopolitische Naivität“.
+Die AfD will „vorteilhafte Handelsabkommen für unser Land“ abschließen. Der Vertrag mit den südamerikanischen Mercosur-Staaten gehört für die Partei nicht dazu. Er „schadet unserer Landwirtschaft“. Mehr Handel will die AfD dafür mit Russland, indem die Sanktionen beendet werden.
 
 ### Die Linke
 
-Die Linke möchte „eine weltweite Milliardärsteuer […] und Kooperationsabkommen anstelle
-von Freihandelsabkommen“. 
+Die Linke möchte „eine weltweite Milliardärsteuer […] und Kooperationsabkommen anstelle von Freihandelsabkommen“. 
 
 ### BSW
 
-Das BSW meint, die bisherigen Abkommen seien „im Interesse
-multinationaler Konzerne“. Stattdessen brauche es Verträge, durch die „heimische Anbieter
-nicht von ausländischen Billigproduzenten verdrängt werden“.
+Das BSW meint, die bisherigen Abkommen seien „im Interesse multinationaler Konzerne“. Stattdessen brauche es Verträge, durch die „heimische Anbieter nicht von ausländischen Billigproduzenten verdrängt werden“.
 
 ## Vor- und Nachteile von Handelsabkommen für die deutsche Wirtschaft
 
