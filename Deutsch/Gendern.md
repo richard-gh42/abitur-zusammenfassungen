@@ -25,7 +25,7 @@ Gendern ist der Versuch Mann und Frau in der Sprache gleich zu stellen
   - Konter: bei öffentliche Einrichtungen kann das zu einem Problem werden, wenn unterschiedliche Behörden unterschiedliche Gender
 - Als Konter zu Sprache soll so bleiben: Sprachwandel ist völlig natürlich und der Grund dafür, dass die
  heutige Sprache so ist wie sie ist
-  - Bei öfterer Benutzung werden neue Neuronale Verbindungen geschafffen
+  - Bei öfterer Benutzung werden neue Neuronale Verknüpfungen geschafffen
 
 ## Kontra 
 
