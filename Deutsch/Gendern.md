@@ -8,13 +8,15 @@ Der König schickt die Wache mit dem Schwert los, um den Angreifer abzuwehren.
 
 ## Was ist gendern?
 
-TODO
+Gendern ist der Versuch Mann und Frau in der Sprache gleich zu stellen
 
 ## Pro
 
 ### explizit für Zwang im öffentlichen Dienst
 
 - Schadet anderen, nicht sich selber, sondern den Personen, die sich benachteiligt fühlen, daher nicht dem Individuum überlassen
+- **Sprache - Denken - Wirklichkeit**: Das Gesprochene führt zu einer anderen Denkweise, die andere Denkweise für eine Veränderung in der Realität
+  - eine Gleichstellung in der Sprache könnte zu einer höheren Gleichstellung in der Gesellschaft führen
 
 ### gemäßigt
 
