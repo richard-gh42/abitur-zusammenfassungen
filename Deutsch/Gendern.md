@@ -24,7 +24,7 @@ Der König schickt die Wache mit dem Schwert los, um den Angreifer abzuwehren.
 ### explizit für Verbot im öffentlichen Dienst
 
 - unleserlich, bei übermäßigem gendern
-	 - öffentliche Schriften sollten möglichst allen zugänglich sein, was durch Gendersprache besonders für Personen mit Einschränkungen aus unterschiedlichsten Gründen schwieriger wird
+	 - öffentliche Schriften sollten möglichst allen zugänglich sein, was durch Gendersprache besonders für Personen mit **Migrationshintergrund oder Lese-/Rechtschreibschwäche** schwieriger wird
 	 - Beispiel: Grundgesetz, was teilweise so schon schwierig genung ist zu verstehen, noch schwieriger durch etliche Sonderzeichen, etc.
 
 ### gemäßigt
@@ -34,3 +34,5 @@ Der König schickt die Wache mit dem Schwert los, um den Angreifer abzuwehren.
 	 - Anglizismen (die ja so schon inkonsestent eingedeutscht werden)
 - jeder macht es anders - kein allgemeiner Konsens, daher sollte im öffentlichen Dienst kein Zwang, bei etwas das noch nicht ausgereift ist herrschen
 	 - manche * oder /, Artikel auch gendern oder nicht
+- manche Personen werden durch einen Zwang benachteiligt, besonders in Unis / Schulen
+		- Personen mit Lese-/Rechtschreibschwäche oder Migrationshintergrund wird die akademische Laufbahn erschwert
