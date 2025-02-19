@@ -28,7 +28,7 @@ Gendern ist der Versuch Mann und Frau in der Sprache gleich zu stellen
 
 ### explizit für Verbot im öffentlichen Dienst
 
-- unleserlich, bei übermäßigem gendern
+- unleserlich / Lesefluss wird gestört, bei übermäßigem gendern
 	 - öffentliche Schriften sollten möglichst allen zugänglich sein, was durch Gendersprache besonders für Personen mit **Migrationshintergrund oder Lese-/Rechtschreibschwäche** schwieriger wird
 	 - Beispiel: Grundgesetz, was teilweise so schon schwierig genung ist zu verstehen, noch schwieriger durch etliche Sonderzeichen, etc.
 
