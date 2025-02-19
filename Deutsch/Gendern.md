@@ -43,6 +43,10 @@ Gendern ist der Versuch Mann und Frau in der Sprache gleich zu stellen
 - jeder macht es anders - kein allgemeiner Konsens, daher sollte im öffentlichen Dienst kein Zwang, bei etwas das noch nicht ausgereift ist herrschen
 	 - manche *, / oder _, Artikel auch gendern oder nicht
 - manche Personen werden durch einen Zwang benachteiligt, besonders in Unis / Schulen
-  - Glottisschlag als neues Phonem  
+  - **Glottisschlag** als neues Phonem  
   - Personen mit Lese-/Rechtschreibschwäche oder Migrationshintergrund wird die akademische Laufbahn erschwert
   - **Rat für deutsche Rechtschreibung**: Rücksicht auf Erwachsene mit geringer Literalität / Fremdsprache
+- Nach der **Trampelpfadtheorie** setzt sich in der Sprache nur das, was die Gesellschaft macht durch (wie ein Trampelpfad)
+  - Der Staat bestimmt nicht die Sprachnormen
+  - Gesellschaft neigt zu **Sprachökonomie** - also Kommunikation mit möglichst geringem Aufwand
+    - **Gendern nicht sprachökonomisch**, daher unwahrscheinlich, dass es sich durchsetzt
