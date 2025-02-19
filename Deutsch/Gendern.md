@@ -6,15 +6,19 @@ Der König schickt die Wache mit dem Schwert los, um den Angreifer abzuwehren.
 
 - Glottisschlag
 
+## Was ist gendern?
+
+TODO
+
 ## Pro
 
 ### explizit für Zwang im öffentlichen Dienst
 
-- Schadet anderen, nicht sich selber, daher nicht dem Individuum überlassen
+- Schadet anderen, nicht sich selber, sondern den Personen, die sich benachteiligt fühlen, daher nicht dem Individuum überlassen
 
 ### gemäßigt
 
-- Kaum jemand fordert ein Zwang, es handelt sich hierbei um framing der meist Rechten.
+- Kaum jemand fordert ein Zwang, es handelt sich hierbei um Framing der meist Rechten.
 - jeder kann gendern wie er will, kein Zwang oder Verbot
   - Konter: bei öffentliche Einrichtungen kann das zu einem Problem werden, wenn unterschiedliche Behörden unterschiedliche Gender
 
