@@ -23,14 +23,17 @@ Gendern ist der Versuch Mann und Frau in der Sprache gleich zu stellen
 - Kaum jemand fordert ein Zwang, es handelt sich hierbei um Framing der meist Rechten.
 - jeder kann gendern wie er will, kein Zwang oder Verbot
   - Konter: bei öffentliche Einrichtungen kann das zu einem Problem werden, wenn unterschiedliche Behörden unterschiedliche Gender
+- Als Konter zu Sprache soll so bleiben: Sprachwandel ist völlig natürlich und der Grund dafür, dass die
+ heutige Sprache so ist wie sie ist
+  - Bei öfterer Benutzung werden neue Neuronale Verbindungen geschafffen
 
 ## Kontra 
 
 ### explizit für Verbot im öffentlichen Dienst
 
-- unleserlich / Lesefluss wird gestört, bei übermäßigem gendern
+- **unleserlich / Lesefluss wird gestört**, bei übermäßigem gendern
 	 - öffentliche Schriften sollten möglichst allen zugänglich sein, was durch Gendersprache besonders für Personen mit **Migrationshintergrund oder Lese-/Rechtschreibschwäche** schwieriger wird
-	 - Beispiel: Grundgesetz, was teilweise so schon schwierig genung ist zu verstehen, noch schwieriger durch etliche Sonderzeichen, etc.
+	 - Beispiel: Gesetzestexte, die teilweise so schon schwierig genung zu verstehen sind, sind noch schwieriger durch etliche Sonderzeichen, etc.
 
 ### gemäßigt
 
@@ -40,5 +43,6 @@ Gendern ist der Versuch Mann und Frau in der Sprache gleich zu stellen
 - jeder macht es anders - kein allgemeiner Konsens, daher sollte im öffentlichen Dienst kein Zwang, bei etwas das noch nicht ausgereift ist herrschen
 	 - manche *, / oder _, Artikel auch gendern oder nicht
 - manche Personen werden durch einen Zwang benachteiligt, besonders in Unis / Schulen
-		- Personen mit Lese-/Rechtschreibschwäche oder Migrationshintergrund wird die akademische Laufbahn erschwert
-	 - **Rat für deutsche Rechtschreibung**: Rücksicht auf Erwachsene mit geringer Literalität / Fremdsprache
+  - Glottisschlag als neues Phonem  
+  - Personen mit Lese-/Rechtschreibschwäche oder Migrationshintergrund wird die akademische Laufbahn erschwert
+  - **Rat für deutsche Rechtschreibung**: Rücksicht auf Erwachsene mit geringer Literalität / Fremdsprache
