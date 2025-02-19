@@ -17,7 +17,6 @@ Der König schickt die Wache mit dem Schwert los, um den Angreifer abzuwehren.
 - Kaum jemand fordert ein Zwang, es handelt sich hierbei um framing der meist Rechten.
 - jeder kann gendern wie er will, kein Zwang oder Verbot
   - Konter: bei öffentliche Einrichtungen kann das zu einem Problem werden, wenn unterschiedliche Behörden unterschiedliche Gender
-		  - Besonders wenn Schulen / Unis das Gendern in die Bewertung einfließen lassen
 
 ## Kontra 
 
@@ -33,7 +32,7 @@ Der König schickt die Wache mit dem Schwert los, um den Angreifer abzuwehren.
 	 - **Genivtiv singular** nicht definiert: "des Schülers / der Schülerin" -> "des/der Schüler*s*in"??
 	 - Anglizismen (die ja so schon inkonsestent eingedeutscht werden)
 - jeder macht es anders - kein allgemeiner Konsens, daher sollte im öffentlichen Dienst kein Zwang, bei etwas das noch nicht ausgereift ist herrschen
-	 - manche * oder /, Artikel auch gendern oder nicht
+	 - manche *, / oder _, Artikel auch gendern oder nicht
 - manche Personen werden durch einen Zwang benachteiligt, besonders in Unis / Schulen
 		- Personen mit Lese-/Rechtschreibschwäche oder Migrationshintergrund wird die akademische Laufbahn erschwert
 	 - **Rat für deutsche Rechtschreibung**: Rücksicht auf Erwachsene mit geringer Literalität / Fremdsprache
