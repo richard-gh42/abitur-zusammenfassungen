@@ -1,14 +1,17 @@
 # Gendern
 
-- die Wache
+> "Der König schickt die Wache mit dem Schwert los, um den Angreifer abzuwehren."
 
-Der König schickt die Wache mit dem Schwert los, um den Angreifer abzuwehren.
-
-- Glottisschlag
+Obwohl "die Wache" benutzt wird ist eher das Bild eines Mannes im Kopf. Allerdings bei vielen anderen Beispielen stimmt das sprachliche Geschlecht mit dem eher zugeordnetem Geschlecht überein.
 
 ## Was ist gendern?
 
-Gendern ist der Versuch Mann und Frau in der Sprache gleich zu stellen
+Gendern ist der Versuch Mann und Frau in der Sprache gleich zu stellen. Kann über unterschiedlichste weisen angewand werden. Es gibt keine Norm.
+
+## Wieso ist die Debatte so kontrowers?
+
+- Änderungen in gesellschaftlichen Verhältnissen spiegeln sich in der Sprache wieder
+  - Sprachdebatten sind immer auch politische und gesellschaftliche Debatten
 
 ## Pro
 
@@ -20,12 +23,15 @@ Gendern ist der Versuch Mann und Frau in der Sprache gleich zu stellen
 
 ### gemäßigt
 
+- Gleichberechtigung, Sichtbarkeit, weniger direktes Rollendenken (siehe Feuerwehrmann / Arzt)
+
 - Kaum jemand fordert ein Zwang, es handelt sich hierbei um Framing der meist Rechten.
 - jeder kann gendern wie er will, kein Zwang oder Verbot
   - Konter: bei öffentliche Einrichtungen kann das zu einem Problem werden, wenn unterschiedliche Behörden unterschiedliche Gender
-- Als Konter zu Sprache soll so bleiben: Sprachwandel ist völlig natürlich und der Grund dafür, dass die
+- Als Konter zu Sprache soll so bleiben / Sprache wird "verhunst" (siehe Verein deutscher Sprache): Sprachwandel ist völlig natürlich und der Grund dafür, dass die
  heutige Sprache so ist wie sie ist
   - Bei öfterer Benutzung werden neue Neuronale Verknüpfungen geschafffen
+  - schon Gendern ist ein neues Wort mit dem sich wohl jeder anfreunden konnte
 
 ## Kontra 
 
@@ -50,3 +56,4 @@ Gendern ist der Versuch Mann und Frau in der Sprache gleich zu stellen
   - Der Staat bestimmt nicht die Sprachnormen
   - Gesellschaft neigt zu **Sprachökonomie** - also Kommunikation mit möglichst geringem Aufwand
     - **Gendern nicht sprachökonomisch**, daher unwahrscheinlich, dass es sich durchsetzt
+- Großteil der Bürger dagegen, daher nicht öffentlich zum Zwang machen
