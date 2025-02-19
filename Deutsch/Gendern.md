@@ -36,3 +36,4 @@ Der König schickt die Wache mit dem Schwert los, um den Angreifer abzuwehren.
 	 - manche * oder /, Artikel auch gendern oder nicht
 - manche Personen werden durch einen Zwang benachteiligt, besonders in Unis / Schulen
 		- Personen mit Lese-/Rechtschreibschwäche oder Migrationshintergrund wird die akademische Laufbahn erschwert
+	 - **Rat für deutsche Rechtschreibung**: Rücksicht auf Erwachsene mit geringer Literalität / Fremdsprache
