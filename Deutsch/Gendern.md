@@ -44,7 +44,7 @@ Gendern ist der Versuch Mann und Frau in der Sprache gleich zu stellen. Kann üb
 ### gemäßigt
 
 - Ungenauigkeiten und schwierige Außnahmefälle, daher sollte im öffentlichen Dienst kein Zwang, bei etwas das noch nicht ausgereift ist herrschen, falls diese Ungenauigkeiten jemals gelöst werden
-	 - **Genivtiv singular** nicht definiert: "des Schülers / der Schülerin" -> "des/der Schüler*s*in"??
+	 - **Genivtiv singular** nicht definiert: "des Schülers / der Schülerin" -> "des/der Schüler\*s\*in"??
 	 - Anglizismen (die ja so schon inkonsestent eingedeutscht werden)
 - jeder macht es anders - kein allgemeiner Konsens, daher sollte im öffentlichen Dienst kein Zwang, bei etwas das noch nicht ausgereift ist herrschen
 	 - manche *, / oder _, Artikel auch gendern oder nicht
