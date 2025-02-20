@@ -38,6 +38,7 @@ Das BSW meint, die bisherigen Abkommen seien „im Interesse multinationaler Kon
 
 - **Wirtschaftsleistung steigt**: Steuereinnahmen steigen, Potential für bessere Lebensbedingungen
 - **Bessere Beziehungen**: Beziehungen zwischen den Ländern verbessern sich
+- **Billigere Ware** durch absolute / komparative Kostenvorteile
 
 ### Nachteile
 
