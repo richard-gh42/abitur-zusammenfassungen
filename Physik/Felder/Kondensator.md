@@ -15,6 +15,10 @@ Die Kapazität ist das Speichervermögen eines Kondensators, also wie viele Ladu
 - Wird in Farad angegeben
 - Proportional zu dem Flächeninhalt, der Dielektrizitätszahl und umgekehrt zu dem Abstand der Platten
 
+## Energie des elektrischen Feldes eines geladenen Kondensators (quantitativ)
+
+TODO
+
 ## Dielektrikum
 
 - Isolator (nicht Leitend)
@@ -39,11 +43,23 @@ Die Kapazität ist das Speichervermögen eines Kondensators, also wie viele Ladu
 
 - Die Elektronen im Atom werden durch ein E-Feld verschoben
 - Die Atome werden Dipolar
-- Sie erzeugen ein Gegenfeld entgegengesetzt zu dem Ausgangsfeld
+- Sie erzeugen ein Gegenfeld entgegengesetzt zu dem Ausgangsfel
 
-## Aufladevorgang
+## Abhängigkeit der Kapazität von geometrischen Daten des Plattenkondensators sowie der Dielektrizitätszahl
 
-## Entladungskurve
+TODO
+
+## zeitlicher Verlauf der Stromstärke beim Aufladevorgang
+
+TODO (qualitativ)
+
+### Wiederstand und Kapazität
+
+TODO
+
+## zeitlicher Verlauf der Stromstärke beim Entladungsvorgang
+
+TODO (quantitativ)
 
 > exponentielle Senkung der Spannung, Stromstärke und Ladung
 
