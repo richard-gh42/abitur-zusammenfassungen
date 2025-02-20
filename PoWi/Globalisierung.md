@@ -213,3 +213,17 @@ TODO
 - Wird mit dem Grubel-Lloyd-Index gemessen
   - 0 = 100 Exporte auf 0 Importe
   - 1 = 100 Exporte auf 100 Importe
+
+## Deglobalisierung
+
+- Rückgang von Globalisierung
+- Protektionismus
+- Zölle / weniger Freihandel
+- Versuch Wertschöpfungsketten in das Land zu verlegen
+
+### Slowbalisation
+
+- Handel wächst in letzter Zeit gleich mit dem globalen BIP
+- Daher keine Deglobalisierung, sondern Slowbalisation
+- Globalisierung hat eher ein stabiles Niveau erreicht
+- Zuvor war eine Hyperglobalisierung - ein Außnahmezustand, der nicht für immer behalten werden konnte
