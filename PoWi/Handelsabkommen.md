@@ -45,7 +45,7 @@ Das BSW meint, die bisherigen Abkommen seien „im Interesse multinationaler Kon
 
 - **Inlandsarbeitsplätze fallen weg**: die armen französichen Rinderfarmer verlieren ihre Lebensgrundlage
 - **Länder verlieren an Einnahmen durch Zölle**: weniger Einnahmen
-- **Abhängigkeiten verstärken sich** durch mehr Handel (eher wenn Handel nur auf ein Land bezogen ist)
+- **Abhängigkeiten verstärken sich** durch mehr Handel (eher wenn Handel nur auf ein anderes Land bezogen ist, wie Gas aus Russland)
 
 ## EU Handelsabkommen und Nachhaltigkeitskriterien
 
