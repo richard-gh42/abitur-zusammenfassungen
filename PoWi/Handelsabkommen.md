@@ -37,14 +37,15 @@ Das BSW meint, die bisherigen Abkommen seien „im Interesse multinationaler Kon
 ### Vorteile
 
 - **Wirtschaftsleistung steigt**: Steuereinnahmen steigen, Potential für bessere Lebensbedingungen
-- **Bessere Beziehungen**: Beziehungen zwischen den Ländern verbessern sich
+  - **Skaleneffekt** - wennn mehr Produziert wird kostet das einzelne Produkt weniger - kann bei mehr Handel besser genutzt werden
+- **Bessere Beziehungen**: Beziehungen zwischen den Ländern verbessern sich, auch wenn Beziehungen eine Bedingung für Handel sind.
 - **Billigere Ware** durch absolute / komparative Kostenvorteile
 
 ### Nachteile
 
 - **Inlandsarbeitsplätze fallen weg**: die armen französichen Rinderfarmer verlieren ihre Lebensgrundlage
 - **Länder verlieren an Einnahmen durch Zölle**: weniger Einnahmen
-- **Abhängigkeiten verstärken sich**
+- **Abhängigkeiten verstärken sich** durch mehr Handel
 
 ## EU Handelsabkommen und Nachhaltigkeitskriterien
 
