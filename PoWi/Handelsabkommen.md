@@ -44,3 +44,15 @@ Das BSW meint, die bisherigen Abkommen seien „im Interesse multinationaler Kon
 - **Inlandsarbeitsplätze fallen weg**: die armen französichen Rinderfarmer verlieren ihre Lebensgrundlage
 - **Länder verlieren an Einnahmen durch Zölle**: weniger Einnahmen
 - **Abhängigkeiten verstärken sich**
+
+## EU Handelsabkommen und Nachhaltigkeitskriterien
+
+### Pro
+
+- fördert Nachhaltigkeit auch in anderen Ländern
+
+### Kontra
+
+- schwächt die EU-Wirtschaft, da Handelsabkommen teilweise an den Kriterien scheitern und sich die Länder anderen Handelspartnern zuwenden
+- Deutschland ist eine starke Exportnation und auf internationalen Handel angewiesen. Daher sind Handelsabkommen unablässlich.
+  - Andere Länder haben neben der EU auch weitere mögliche Handelspartner, daher hat die EU nicht die nötigen Druckmittel.
