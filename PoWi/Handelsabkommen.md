@@ -1,6 +1,26 @@
-# Handelsabkommen
+# Außenhandelspolitik und Handelsregime
 
-## Positionen der Parteien
+## Deglobalisierung
+
+- Rückgang von Globalisierung
+- Protektionismus
+- Zölle / weniger Freihandel
+- Versuch Wertschöpfungsketten in das Land zu verlegen
+
+### Slowbalisation (TODO name)
+
+- Handel wächst in letzter Zeit gleich mit dem globalen BIP
+- Daher keine Deglobalisierung, sondern Slowbalisation
+- Globalisierung hat eher ein stabiles Niveau erreicht, stagniert
+- Zuvor war eine Hyperglobalisierung - ein Außnahmezustand, der nicht für immer behalten werden konnte
+
+## Leitbilder der Außenhandelspolitik
+
+### Freihandel
+
+### Protektionismus
+
+## Positionen der Parteien zu Handelsabkommen
 
 ### Union
 
@@ -58,3 +78,11 @@ Das BSW meint, die bisherigen Abkommen seien „im Interesse multinationaler Kon
 - schwächt die EU-Wirtschaft, da Handelsabkommen teilweise an den Kriterien scheitern und sich die Länder anderen Handelspartnern zuwenden
 - Deutschland ist eine starke Exportnation und auf internationalen Handel angewiesen. Daher sind Handelsabkommen unablässlich.
   - Andere Länder haben neben der EU auch weitere mögliche Handelspartner, daher hat die EU nicht die nötigen Druckmittel.
+
+## nationale und europäische Handelspolitik im Hinblick auf tarifäre und nichttarifäre Handelshemmnisse
+
+TODO
+
+## Möglichkeiten und Grenzen von Handelsregimen (u. a. WTO, internationale Handelsabkommen)
+
+TODO
