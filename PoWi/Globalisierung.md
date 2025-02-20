@@ -225,5 +225,5 @@ TODO
 
 - Handel wächst in letzter Zeit gleich mit dem globalen BIP
 - Daher keine Deglobalisierung, sondern Slowbalisation
-- Globalisierung hat eher ein stabiles Niveau erreicht
+- Globalisierung hat eher ein stabiles Niveau erreicht, stagniert
 - Zuvor war eine Hyperglobalisierung - ein Außnahmezustand, der nicht für immer behalten werden konnte
