@@ -19,7 +19,9 @@ Globalisierung ist ein Prozess der internationalen Verpflechtung durch neue Tech
 
 ## Chance oder Risiko
 
-TODO
+Die ökonomische Globalisierung kann einerseits als Chance für eine stärkere Wirtschaft und mehr Wohlstand sein. Andererseits kann sie auch zu Problemen und Risiken führen.
+
+> Siehe Folgen ökonomischer Globalisierung
 
 ### Aufnahme in der Bevölkerung
 
@@ -67,6 +69,10 @@ TODO
 - **Soziale Probleme** besonders in Schwellenländern
 
 ## Indikatoren für ökonomische Globalisierung
+
+### Welthandelsvolumen
+
+TODO
 
 ### Güter- und Dienstleistungenhandel (M4-M6)
 
@@ -160,15 +166,36 @@ TODO
 
 > Nordamerika, Europa und Asien als stärkste Globalisierungsplayer
 
-# Begriffe zur ökonomischen Globalisierung
+# ökonomische Erklärungsansätze für internationalen Handel
 
 ## absoluter Kostenvorteil
 
+Ein absoluter Kostenvorteil liegt vor, menn Unterschiede in den Produktionsmöglichkeiten von Ländern vorliegen. Demnach ist es billiger ein Produkt in einem Land zu produzieren als in einem anderen. Deswegen spezialisieren sich Länder auf die Güter, in denen sie effizienter sind - einen absoluten Kostenvorteil haben.
+
 ## komparativer Kostenvorteil (Ricardo)
+
+Ein komparativer Kostenvorteil entsteht, bei dem Vergleich zweier Länder. Dabei hat ein Land billigere Produktion und absolute Kostenvorteile. Allerdings profitiert dieses Land davon sich auf das Produkt mit den geringsten Kosten im Vergleich zum Preis zu spezialisieren und andere Produkte dem zweiten Land zu überlassen. Dabei hat das erste Land einen absoluten Kostenvorteil bei den anderen Produkten, doch überlässt sie dem zweiten Land, da es mit anderen Produkten mehr Geld machen kann. So entsteht ein komparativer (im Vergleich beider Länder) Kostenvorteil.
 
 ## Opportunitätskosten
 
-## Entstaatlichung
+TODO
+
+## interindustrieller Handel 
+
+- Handel von unterschiedlichen Güterklassen zwischen Ländern
+  - z. B. deutsche Maschienen gegen südamerikanische Bananen
+- passiert bei komparativen Kostenvorteil
+
+## intraindustrieller Handel (Hanno Beck)
+
+- Handel von gleichen Güterklassen zwischen Ländern
+  - z. B. deutsche Maschienen gegen amerikanische Maschienen
+- mit traditionellen Handelstheorien (wie Ricardo) nicht zu erklären
+- Wird mit dem Grubel-Lloyd-Index gemessen
+  - 0 = 100 Exporte auf 0 Importe
+  - 1 = 100 Exporte auf 100 Importe
+
+## Möglichkeiten zum Erhöhen der Globalisierung der Wirtschaft
 
 ### Privatisierung
 
@@ -199,31 +226,4 @@ TODO
 
 ### Deregulierung
 
-## interindustrieller Handel 
-
-- Handel von unterschiedlichen Güterklassen zwischen Ländern
-  - z. B. deutsche Maschienen gegen südamerikanische Bananen
-- passiert bei komparativen Kostenvorteil
-
-## intraindustrieller Handel (Hanno Beck)
-
-- Handel von gleichen Güterklassen zwischen Ländern
-  - z. B. deutsche Maschienen gegen amerikanische Maschienen
-- mit traditionellen Handelstheorien (wie Ricardo) nicht zu erklären
-- Wird mit dem Grubel-Lloyd-Index gemessen
-  - 0 = 100 Exporte auf 0 Importe
-  - 1 = 100 Exporte auf 100 Importe
-
-## Deglobalisierung
-
-- Rückgang von Globalisierung
-- Protektionismus
-- Zölle / weniger Freihandel
-- Versuch Wertschöpfungsketten in das Land zu verlegen
-
-### Slowbalisation
-
-- Handel wächst in letzter Zeit gleich mit dem globalen BIP
-- Daher keine Deglobalisierung, sondern Slowbalisation
-- Globalisierung hat eher ein stabiles Niveau erreicht, stagniert
-- Zuvor war eine Hyperglobalisierung - ein Außnahmezustand, der nicht für immer behalten werden konnte
+TODO
