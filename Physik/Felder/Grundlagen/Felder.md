@@ -15,7 +15,9 @@ Das Feldlinienmodell ist eine Möglichkeit ein Feld zu visualisieren. Die Feldli
   - Elektrische Feldlinien zeigen immer in die Richtung der Kraft auf einen positiv geladenen Probekörper.
 - Magnetisches Feld: Nord zu Süd TODO
 
-### grundlegende elektrische und magnetische Feldlinienbilder: Radialfeld (elektrisch), Dipolfeld, homogenes Feld
+### grundlegende elektrische und magnetische Feldlinienbilder
+
+![Feldlinienbilder](../../../images/Physik/Feldlinienbilder.jpeg)
 
 ### Elektrisches Feld (Radialfeld)
 
@@ -27,7 +29,7 @@ Das Feldlinienmodell ist eine Möglichkeit ein Feld zu visualisieren. Die Feldli
 - symmetrische Feldlinen zwischen zwei Platten
 - Plus -> Minus
 
-### Magnetisches Feld
+### Magnetisches Feld (Dipolfeld)
 
 - quellenfreies Wirbelfeld
 - Nord -> Süd (außen)
