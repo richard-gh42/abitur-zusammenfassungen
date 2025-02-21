@@ -6,9 +6,7 @@
 - Dielektrikum (Isolator / nicht Leitend) zwischen den Platten (bestimmt maßgeblich die Kapazität)
 - Spannung zwischen den Platten
 
-
-
-- homogenes E-Feld zwischen den Platten
+Es entsteht ein homogenes E-Feld zwischen den Platten.
 
 ## Definition der Kapazität
 
