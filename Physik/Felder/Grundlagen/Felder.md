@@ -37,6 +37,5 @@ Das Feldlinienmodell ist eine Möglichkeit ein Feld zu visualisieren. Die Feldli
 
 ## Superposition von Feldern, zeichnerische Addition zweier feldbeschreibender Vektoren in der Ebene
 
-TODO
-
 - Felder addieren sich nur (interagieren nicht)
+- Um das entstehende Feld aus zwei anderen Feldern zu bekommen müssen alle jeweiligen Vektoren des Feldes miteinander addiert werden und das neue Feld entsteht
