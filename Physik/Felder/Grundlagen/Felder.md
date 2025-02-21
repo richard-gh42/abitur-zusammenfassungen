@@ -2,19 +2,29 @@
 
 ## Grundlegende Eigenschaften eines Feldes, Definition des Begriffs „Feld“
 
-TODO
+> Ein Feld ist die räumliche Verteilung einer physikalischen Größe.
+
+- Wenn in einem Raum elektrische Kraftwirkungen auftreten, so herrscht in diesem Raum ein elektrisches Feld.
+- Ein elektrisches Feld wird durch elektrische Ladungen erzeugt. Das Feld ist Vermittler für elektrische Kräfte.
 
 ## Feldlinienmodell
 
-TODO
+Das Feldlinienmodell ist eine Möglichkeit ein Feld zu visualisieren. Die Feldlinen veranschaulichen modellhaft die Struktur des E-Feldes. Je dichter die Feldlinien sind, desto stärker ist das E-Feld.
 
-## grundlegende elektrische und magnetische Feldlinienbilder: Radialfeld (elektrisch), Dipolfeld, homogenes Feld
+- Elektrisches Feld: Plus zu Minus
+  - Elektrische Feldlinien zeigen immer in die Richtung der Kraft auf einen positiv geladenen Probekörper.
+- Magnetisches Feld: Nord zu Süd TODO
 
-TODO
+### grundlegende elektrische und magnetische Feldlinienbilder: Radialfeld (elektrisch), Dipolfeld, homogenes Feld
 
-### Elektrisches Feld
+### Elektrisches Feld (Radialfeld)
 
 - wirbelfreies Quellenfeld
+- Plus -> Minus
+
+### Elektrisches Feld (homogenes Feld)
+
+- symmetrische Feldlinen zwischen zwei Platten
 - Plus -> Minus
 
 ### Magnetisches Feld
