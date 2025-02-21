@@ -6,7 +6,7 @@
 - Dielektrikum (Isolator / nicht Leitend) zwischen den Platten (bestimmt maßgeblich die Kapazität)
 - Spannung zwischen den Platten
 
- 
+
 
 - homogenes E-Feld zwischen den Platten
 
