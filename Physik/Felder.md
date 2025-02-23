@@ -6,6 +6,7 @@ Die Kraft die von einem E-Feld auf eine Ladung ausgewirkt wird
 
 - kinetische Energie ($\frac{1}{2} m v^2$) gleich der Energie des elektrischen Feldes gleichsetzen
 - Zu v umstellen
+
 # Elektrische Feldstärke
 
 ## Flächenladungsdichte
@@ -25,6 +26,7 @@ TODO
 TODO
 
 $\epsilon_0$
+
 # Felder
 
 ## Grundlegende Eigenschaften eines Feldes, Definition des Begriffs „Feld“
@@ -44,7 +46,7 @@ Das Feldlinienmodell ist eine Möglichkeit ein Feld zu visualisieren. Die Feldli
 
 ### grundlegende elektrische und magnetische Feldlinienbilder
 
-![Feldlinienbilder](../../../images/Physik/Feldlinienbilder.jpeg)
+![Feldlinienbilder](../images/Physik/Feldlinienbilder.jpeg)
 
 ### Elektrisches Feld (Radialfeld)
 
@@ -66,6 +68,7 @@ Das Feldlinienmodell ist eine Möglichkeit ein Feld zu visualisieren. Die Feldli
 
 - Felder addieren sich nur (interagieren nicht)
 - Um das entstehende Feld aus zwei anderen Feldern zu bekommen müssen alle jeweiligen Vektoren des Feldes miteinander addiert werden und das neue Feld entsteht
+
 # Kondensator
 
 ## Aufbau
@@ -155,6 +158,7 @@ TODO (quantitativ)
 - Spannungsquelle wird getrennt
 - Ein Widerstand ist angeschlossen, damit es einen Verbraucher gibt, der den Stromkreis schließt
 - Über die Messgeräte kann die Entladungskurve gemessen werden
+
 # Magnetische Flussdichte
 
 ## Definition der magnetischen Flussdichte

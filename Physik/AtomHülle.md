@@ -137,6 +137,7 @@ Stromstärke in Abhängigkeit von der Beschleunigungsspannung
 2. Die Donatoren werden von dem negativen Ende abgestoßen und die Akzeptoren von dem positiven Ende.
 3. Die Akzeptoren und Donatoren nähen sich an und die Sperrzone wird kleiner oder verschwindend ganz.
 4. Donatoren treffen auf Akzeptoren und übergeben ein Elektron. Dabei geht etwas Energie verloren, die als Licht ausgestrahlt wird.
+
 # Licht als Quantenobjekt
 
 ## Licht als Photon
@@ -168,6 +169,7 @@ Stromstärke in Abhängigkeit von der Beschleunigungsspannung
 - Interferenzmuster und Unterscheidbarkeit der klassischen denkbaren Möglichkeiten schließen sich aus (Komplementarität).
 
 Durch eine Ortsmessung zwingst du das Elektron sich für einen der beiden Spalte zu entscheiden, wodurch das Entstehen eines Interferenzmusters Verhinderst.
+
 # Röntgenstrahlung
 
 - elektromagnetische Strahlen
@@ -195,6 +197,7 @@ Durch eine Ortsmessung zwingst du das Elektron sich für einen der beiden Spalte
 - 4 Möglichkeiten für Rückgang in Grundzustand
 - Freilassung von Photonen mit unterschiedlichen Wellenlängen (alpha, beta, gamma)
 - diskretes Spektrum
+
 # Wellenverhalten von Elektronen
 
 Elektronen weisen wie Licht auch Eigenschaften von sowohl Teilchen als auch Wellen auf.

@@ -100,6 +100,7 @@ Behauptung, die deutsche Armee sei im Ersten Weltkrieg "von hinten erdolcht" wor
 
 - Regierung: Bayern bildete eine rechtsgerichtete Landesregierung, die gegen republikfeindliche Bestrebungen kaum vorging
 - Bevölkerung: Politische Instabilität, generelle Gewalt, Radikalisierung politischer Gruppen, verstärkte Akzeptanz von radikalen Bewegungen
+
 ## Novemberrevolution
 
 Die Novemberrevolution in Deutschland begann im November 1918, als Arbeiter und Soldaten gegen das autoritäre Kaiserreich protestierten. Ausgelöst durch das Leid des Ersten Weltkriegs und soziale Notstände, forderten die Menschen das Ende der Monarchie und demokratische Reformen. Durch den Kieler Matrosenaufstand, bei welchem Matrosen die in ein „letztes“ Gefecht geschickt wurden, desertierten, begann die Revolution und ging von Stadt zu Stadt. Die Revolution führte am 9. November 1918 zur Abdankung Kaiser Wilhelms II. und zur 2.-Fachen Ausrufung der Weimarer Republik durch Philipp Scheidemann und durch Karl Liebknecht. In den folgenden Monaten kam es jedoch zu Konflikten zwischen verschiedenen politischen Gruppen, die in Unruhen und teils gewaltsamen Auseinandersetzungen mündeten.
@@ -346,6 +347,7 @@ Die „Vierzehn Punkte“ von Präsident Wilson haben nur teilweise funktioniert
 - **Fortbestehen kolonialer Strukturen**: Wilsons Punkt zur fairen Regelung kolonialer Ansprüche wurde weitgehend ignoriert. Die Kolonialmächte Frankreich und Großbritannien behielten ihre Gebiete oder schufen Mandate im Nahen Osten, was die Spannungen in diesen Regionen verstärkte.
 
 Insgesamt waren die „Vierzehn Punkte“ idealistisch und zielten auf eine gerechtere, friedlichere Welt ab. Viele seiner Vorschläge waren jedoch ihrer Zeit voraus und stießen auf Widerstand seitens der europäischen Verbündeten, die härtere Bedingungen durchsetzen wollten. Die teilweise und ungleichmäßige Umsetzung von Wilsons Ideen trug letztlich dazu bei, dass die angestrebte Friedensordnung zerbrach und die Welt nur zwei Jahrzehnte später in den Zweiten Weltkrieg schlitterte.
+
 ## Weimarer Reichsverfassung
 
 ### Funktion und Beziehung des Reichspräsidenten, Reichskanzlers und Reichstags
@@ -409,6 +411,7 @@ Siehe Buch, S. 288 M5 Schaubild
 - Instabile Mehrheiten: Das Verhältniswahlsystem führte zu vielen Parteien im Reichstag, wodurch stabile Regierungen schwer bildbar waren.
 - Schwache Verfassungsverteidigung: Es gab keine effektiven Schutzmechanismen gegen verfassungsfeindliche Parteien und extremistische Kräfte.
 - Geringe demokratische Akzeptanz: Viele Bürger und Eliten standen der Verfassung ablehnend gegenüber, was die politische Stabilität untergrub.
+
 # Niedergang der Demokratie Weimars
 
 ### wirtschaftliche Lage
@@ -416,7 +419,7 @@ Siehe Buch, S. 288 M5 Schaubild
 - Deutschland befand sich in einer schwierigen wirtschaftlichen Lage
 - Arbeitslosigkeit war sehr hoch und Lebensqualität war nicht gut
 - Unzufriedenheit machte sich in der Bevölkerung breit
-- Weitere Infos: [Weltwirtschaftskriese](./Weltwirtschaftskriese.md)
+- Weitere Infos: [Weltwirtschaftskriese](#weltwirtschaftskriese)
 
 ## gesellschaftliche Rahmenbedingungen zum Ende der Demokratie
 
@@ -425,7 +428,7 @@ Siehe Buch, S. 288 M5 Schaubild
 - gesellschaftliche Polarisierung und Radikalisierung
 - strukturelle Schwächen in dem Weimarer Staatssystems
 
-Weitere Infos: [Strukturprobleme](../relative%20Stabilisierung/Strukturprobleme.md)
+Weitere Infos: [Strukturprobleme](#kontinuität-alter-eliten--strukturprobleme)
 
 ### politische Radikalisierung
 
@@ -446,7 +449,7 @@ Weitere Infos: [Strukturprobleme](../relative%20Stabilisierung/Strukturprobleme.
 
 ### Funktionsweise der Präsidialkabinette
 
-![Präsidialkabinette](../../../images/Geschichte/Präsidialkabinette.jpg)
+![Präsidialkabinette](../images/Geschichte/Präsidialkabinette.jpg)
 
 ### Reichsverfassung Art. 25
 
@@ -471,7 +474,7 @@ Das Zitat von Gerhard Schulz beschreibt einen kritischen Moment in der Geschicht
 - die NSDAP ist ursprünglich über die **Präsidialkabinette** an die Macht gekommen
 - die hohen Wählerstimmen zeigen die **Akzeptanz** der NSDAP und ihrer **Demokratiefeindlichkeit**
 
-![NSDAP und Präsidialkabinette](../../../images/Geschichte/NSDAP_Praesidialkabinette.jpeg)
+![NSDAP und Präsidialkabinette](../images/Geschichte/NSDAP_Praesidialkabinette.jpeg)
 
 ## Der Aufstieg der Nationalsozialisten
 
@@ -506,8 +509,8 @@ Goebbels erklärt, wie die NSDAP das Vorhaben hat die Weimarer Republik von inne
 ### Radikalisierung der Bevölkerung
 
 - Über das Ansprechen der Unzufriedenheit der Bevölkerung mit einfachen Erklärungen und Lösungen und dem schieben der Schuld auf u. a. die Juden und Sozialdemokraten.
-  - [Dolchstoßlegende](../Anfänge/Dolchstoßlegende.md)
-  - [der "Schandfrieden" von Versaille](../Anfänge/Versailler%20Vertrag.md)
+  - [Dolchstoßlegende](#dolchstoßlegende)
+  - [der "Schandfrieden" von Versaille](#versailler-vertrag)
 
 ## Verhältnis Hindenburg und Hitler
 
@@ -694,6 +697,7 @@ sehr **komplexes Ursachengeflecht** aus vielen Faktoren:
 
 - Nach der Ablehnung von Brünings Sparmaßnahmen durch den Reichstag wurde der Reichstag aufgelöst.
 - Es folgte die Etablierung eines **Präsidialkabinetts**, das de facto die **parlamentarische Demokratie aushöhlte** und eine neue Verfassungswirklichkeit schuf.
+
 # Die Goldenen 20er
 
 ## Wesentliche Elemente, die die Epoche der „Goldenen Zwanziger“ prägen
@@ -850,6 +854,7 @@ Polarisierung der Kulturszene in zwei Lager:
 - Identitätsstiftende Funktion durch gemeinsames Massenmedium
 - Interesse als Medium der Volksbildung und Unterhaltung
 - (Vergleich zu Funktionen von Medien für den politischen Prozess (PoWi))
+
 # Gustav Stresemann und Außenpolitik
 
 ## Zeitstrahl
@@ -1052,6 +1057,7 @@ Stresemann kann sowohl als europäischer Verständigungspolitiker als auch als n
 
 1. Stresemann förderte Deutschlands Interessen durch Diplomatie, was als Stärkung nationaler Macht interpretiert werden kann.
 2. Seine Bemühungen zur politischen und wirtschaftlichen Stabilisierung Deutschlands zielen auf eine Wiederherstellung nationaler Stärke.
+
 # Rationalisierung und Technisierung am Beispiel des Haushalts
 
 - Viele sich wiederholende Tätigkeiten, daher große Fortschritte durch modernere Methoden
@@ -1068,6 +1074,7 @@ Stresemann kann sowohl als europäischer Verständigungspolitiker als auch als n
 - Es wurden auch Geräte entwickelt, die Handarbeit im Haushalt erleichterten (Elektrifizierung hinkte in Deutschland hinterher)
 - Großes Thema in Deutschland: Sparsamkeit
 - Nicht jeder konnte von der Rationalisierung profitieren (eher für wohlhabende Familien vorbehalten)
+
 # Stabilisierung Weimars 1924-1929
 
 ## Stabilisierung des demokratischen Systems vs. Stabilisierung der Entwicklungen
@@ -1146,6 +1153,7 @@ Stabilisierung der Weimarer Republik kann als eine Stabilisierung des demokratis
 - Stabilisierung war nur oberflächlich und basierte auf einem dünnen Fundament.
 - Strukturelle Defizite (politisch und ökonomisch) wurden nicht behoben, was die Grundlage für spätere Krisen (ab 1929/30) legte.
 - Die Weimarer Republik war nicht krisenfest; es entstand keine nachhaltige Konsolidierung des Systems.
+
 # Kontinuität alter Eliten / Strukturprobleme
 
 ## Politik
@@ -1188,6 +1196,7 @@ Dieses lässt sich öfters feststellen, wie sich aus der folgenden Statistik erg
 | **Hinrichtungen**             | 10                     | -                       |
 
 Unter Anderem deswegen wurde auch oft gesagt die Justiz sei auf dem rechten Auge blind.
+
 # Träger der Republik
 
 ## Parteien
@@ -1263,6 +1272,7 @@ Die Verfassung Weimars ist eine Bröcklige Grundlage auf denen die Stützten der
 ## Beamte
 
 Die Beamten waren ebenfalls eine bröcklige Stützte da sie zwar unterstützten, aber ähnlich wie beim Militär galt die Loyalität nur der Nation und nicht dem Staat, ähnlich wie das Militär war auch das viele Beamte noch aus dem alten Adel stammten und somit generell eher demokratiefeindlich gesinnt waren.
+
 # Deutscher Sonderweg
 
 > Es gibt zwei Verständnisse des deutschen Sonderwegs welche zeitlich voneinander getrennt sind.
@@ -1367,6 +1377,7 @@ vier große Entwicklungszusammenhänge als "deutscher Sonderweg":
 - **Vernachlässigung äußerer Faktoren / Gemeinsamkeiten:** Viele Historiker argumentieren heute, dass Deutschland mehr Gemeinsamkeiten als Unterschiede zu anderen europäischen Nationen hatte und dass externe Faktoren (wie der Versailler Vertrag) entscheidend für den Aufstieg des Nationalsozialismus waren.
 - **Unnötigkeit der Theorie:** Andere Länder haben ähnlich unterschiedliche Wege und es gibt keine normale Entwicklung in Europa, von welcher sich Deutschland unterscheiden könnte. Deshalb macht es keinen Sinn von einem deutschen Sonderweg zu sprechen, da wenn sich jeder unterschiedlich entwickelt niemand “besonders” ist.
   - Andere Länder wie Italien, Spanien und auch Japan haben ähnliche autoritäre Entwicklungen und Kriege durchlaufen, ohne als "Sonderweg" zu gelten.
+
 # Identität und deutsches Selbstverständnis
 
 ### Was ist Identität?

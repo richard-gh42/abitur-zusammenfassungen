@@ -23,6 +23,7 @@ Um das gesamtwirtschaftliche Produktionspotenzial bestmöglich auszunutzen und s
 ## Stetiges und angemessenes Wirtschaftswachstum
 
 Ein stetiges Wirtschaftswachstum liegt vor, wenn übermäßige Konjunkturschwankungen vermieden werden. Als „angemessen" wird für Deutschland häufig ein Wert zwischen 2 und 4 Prozent genannt. Gemessen wird das Wirtschaftswachstum mithilfe des realen Bruttoinlandsprodukts.
+
 # Marktversagen (am Beispiel Umwelt)
 
 ## Positiver Externer Effekt
@@ -96,6 +97,7 @@ Ein konkretes Beispiel ist der Emissionshandel: Unternehmen müssen für ihre Sc
 ### Fazit
 
 In der sozialen Marktwirtschaft besteht der Konflikt zwischen Eigeninteresse und Gemeinwohlorientierung insbesondere beim Umweltschutz, da das Profitstreben oft zu negativen externen Effekten führt, die das Gemeinwohl belasten. Durch staatliche Eingriffe und Regelungen wie Umweltabgaben versucht die soziale Marktwirtschaft, die Kosten dieser externen Effekte auf die Verursacher zu übertragen und so eine Balance zwischen wirtschaftlichen Interessen und gesellschaftlicher Verantwortung herzustellen.
+
 # Prinzipien der Sozialen Marktwirtschaft
 
 ## Haftungsprinzip
@@ -276,6 +278,7 @@ Der Staat übernimmt in der sozialen Marktwirtschaft eine moderierende und unter
 
 - **Artikel 20 GG:** Das Sozialstaatsprinzip verpflichtet den Staat, soziale Sicherheit und Gerechtigkeit zu gewährleisten. Es bildet die Grundlage für Eingriffe zur sozialen Absicherung.
 - **Artikel 14 GG:** Das Eigentumsrecht und seine soziale Verpflichtung bieten dem Staat das Recht, wirtschaftliches Eigentum im Sinne des Allgemeinwohls zu regulieren und anzupassen.
+
 # Markt und Staat in der Sozialen Marktwirtschaft
 
 ## Ordnungsrahmen
@@ -311,6 +314,7 @@ Der Staat übernimmt in der sozialen Marktwirtschaft eine moderierende und unter
 ### Subsidiaritätsprinzip
 
 - Staat greift nur ein, wenn der Markt oder private Akteure Aufgaben nicht erfüllen
+
 # Möglichkeiten und Grenzen umweltpolitischer Instrumente
 
 ## Kriterien zur Beurteilung von umweltpolitischen Instrumenten
@@ -387,6 +391,7 @@ Diese Instrumente setzen auf Bewusstseinsbildung und freiwillige Maßnahmen ohne
   - Variabel, kann bei motivierten Akteuren stark sein (z. B. wenn Unternehmen „grünes Image“ anstreben), bleibt jedoch oft schwach ohne finanzielle oder rechtliche Anreize.
 - **Politische Durchsetzbarkeit:**
   - Sehr hoch, da solche Maßnahmen meist freiwillig und weniger kontrovers sind. Diese Instrumente stoßen selten auf politischen oder öffentlichen Widerstand, haben jedoch oft begrenzte Wirksamkeit, wenn keine weiteren Anreize gesetzt werden.
+
 ## Indikatoren zur Beurteilung materiellen Wohlstands
 
 ### Vermögen
@@ -438,11 +443,13 @@ Umrechnung des Haushaltseinkommens auf die Zahl der Personen; Einkommen, welches
 - Armutsbegriffe:
   - **absolute (extreme) Armut:** weniger als 1,90 US-$ pro Tag (Umrechnung in lokale Kaufkraft)
   - **relative Armut:** bemisst sich an der Fähigkeit zur Teilhabe am gesellschaftlichen Leben; in Deutschland: Median des Nettoäquivalenzeinkommens -> wer weniger als 60 % dieses Wertes hat, gilt als armutsgefährdet
+
 # Folgen Sozialer Ungleichheit
 
 - soziale Ungleichheit: ungleiche Verteilung von Ressourcen in einer Gesellschaft
 - häufige Folge: ungleiche Chancenverteilung
 - zentrale Dimensionen sozialer Ungleichheit: materieller Wohlstand, Bildung, Macht, Prestige
+
 # Soziale Gerechtigkeit
 
 ## Chancengerechtigkeit
@@ -482,6 +489,7 @@ Umrechnung des Haushaltseinkommens auf die Zahl der Personen; Einkommen, welches
 - GG: Verantwortung gegenüber künftigen Generationen (Art. 20a)
   - Gewährleistung lebenswerter Bedingungen
   - u. a. Schulden, Umwelt, Infrastruktur
+
 # Sozialer Zusammenhalt
 
 ## Bedeutung
@@ -499,6 +507,7 @@ Geringerer sozialer Zusammenhalt wegen:
 ### Beispiel
 
 Peter (50) ist den ganzen Tag, da er wenig Geld verdient und um die Runden kommen muss, am Arbeiten. Ute (62) fragt Peter
+
 # Ursachen sozialer Ungleichheit
 
 TODO
@@ -538,6 +547,7 @@ TODO
 ### Unternehmen
 
 - 92% der 500 umsatzstärksten Unternehmen befinden sich im Westen
+
 # Wirtschaftspolitische Ziele, Maßnahmen und Zielkonflikte
 
 ## Ordnungs-, Struktur- und Prozesspolitik
@@ -571,6 +581,7 @@ TODO
 - **Ordnungspolitik**: Beeinflusst die Spielregeln des Marktes und die Verteilung von Ressourcen.
 - **Prozesspolitik**: Verbessert die Effizienz und Innovationsfähigkeit von Unternehmen und trägt so zur Steigerung der Produktivität bei.
 - **Strukturpolitik**: Kann die langfristige Wettbewerbsfähigkeit einer Volkswirtschaft beeinflussen und regionale Ungleichheiten verringern.
+
 # Wirtschaftswachstum und Schutz natürlicher Lebensgrundlagen
 
 ## Das Spannungsverhältnis von Wirtschaft und Umwelt in Bezug auf Produktion und Konsum

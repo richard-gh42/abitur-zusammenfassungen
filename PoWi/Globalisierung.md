@@ -119,6 +119,7 @@ TODO
 – Schwankungen der FDI in den Industrieländern beeinflussen die gesamten Investitionen. 
 
 #### Analyse der Entwicklung
+
 - 1980er – 1990er: Industrieländer, insbesondere die USA und die EU, waren die Hauptempfänger von FDI. Unternehmen investierten hauptsächlich in Produktionsstätten und Technologiezentren. 
 - 2000er: Schwellenländer, vorwiegend China und Indien, wurden zunehmend attraktiv für FDI aufgrund von billigeren Arbeitskräften und wachsendem Binnenmarkt. 
 - 2010er – heute: Diversifizierung der Investitionsziele. Neben China gewinnen Südostasien, Lateinamerika und Afrika an Bedeutung. Digitalisierung und nachhaltige Investitionen werden wichtiger. 

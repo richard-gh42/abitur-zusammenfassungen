@@ -62,6 +62,7 @@
 ## deutsche und europäische Sicherheitspolitik und die Rolle der Bundeswehr in transnationalen und internationalen Zusammenhängen
 
 ### Die Rolle der Bundeswehr
+
 # Außen- und Sicherheitspolitik Deutschlands als Teil internationaler Bündnisse zur Friedenssicherung und Systeme kollektiver Sicherheit (u. a. NATO, EU)
 
 ## NATO

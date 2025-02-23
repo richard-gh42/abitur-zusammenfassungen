@@ -55,6 +55,7 @@ Die beschriebene Demokratietheorie basiert auf den Prinzipien der individuellen 
 ### Gefahren
 
 - Gefahr der Tyrannei: Wenn eine Person oder Körperschaft mehrere Gewalten gleichzeitig ausübt, entsteht die Gefahr der Tyrannei.
+
 ## Chancen digitaler Mediennutzung für Partizipation
 
 TODO
@@ -97,6 +98,7 @@ TODO
   Zielgerichtete Propaganda kann die Wahrnehmung von politischen Themen erheblich beeinflussen. Organisierte Kampagnen nutzen oft emotionale Appelle oder irreführende Fakten, um die öffentliche Meinung zu lenken und Verwirrung zu stiften.
 - **Schwierigkeit der Erkennung:**
   Falschinformationen sind oft schwer von legitimen Nachrichten zu unterscheiden, da sie häufig in vertrauenswürdigen Formaten oder durch scheinbar seriöse Quellen verbreitet werden. Dies erschwert es den Nutzern, informierte Entscheidungen zu treffen und trägt zur Verbreitung von Misstrauen gegenüber etablierten Medien bei.
+
 # Einflüsse medialer Kommunikation auf politische Prozesse und Entscheidungen
 
 ## Dependenzansatz
@@ -121,6 +123,7 @@ TODO
 - Es besteht ein symbiotisches Verhältnis: Politiker und Medien beeinflussen sich gegenseitig.
 - Medien können politische Entscheidungen beeinflussen, während politische Akteure Medieninhalte beeinflussen können.
 - Keine einseitige Abhängigkeit, sondern gegenseitige Abhängigkeit in der Informationsvermittlung und -verarbeitung.
+
 # Funktionen der Medien für das politische System
 
 ## Urteils- und Meinungsbildung
@@ -161,6 +164,7 @@ TODO
 - Diese Funktion des Agenda Settings kann sowohl positiv sein, indem sie auf relevante Missstände aufmerksam macht (z. B. durch Social Media-Posts, wie in M2), als auch problematisch, wenn Themen verzerrt oder übermäßig sensationalisiert dargestellt werden.
 - Medien lenken somit nicht nur den Informationsfluss, sondern auch die öffentliche Wahrnehmung und setzen die gesellschaftlichen Prioritäten.
 - Durch die gezielte Auswahl von Themen und deren Darstellung wird das gesellschaftliche Bewusstsein und die öffentliche Meinung gesteuert.
+
 # Medien in der Demokratie
 
 ## Formen medialer Politikvermittlung und Möglichkeiten der politischen Partizipation über Medien
@@ -227,6 +231,7 @@ Medien verkürzen Inhalte um diese den Nutzern einfacher darzustellen. Durch die
 ### Inszenierung
 
 In den Medien setzen sich Personen und Gruppen in Szene um ein bestimmtes Bild zu vermitteln. Dabei kann man sich nie sicher sein, ob die Person in der Öffentlichkeit nicht nur eine Rolle spielt. Durch diese Inszenierung können Follower und Einfluss gewonnen werden.
+
 # Medienmärkte und Medienökonomie
 
 TODO
@@ -305,6 +310,7 @@ Falschinformationen verbreiten sich schnell und ohne Überprüfung, was zu Verwi
 ### Politische Manipulation durch gezielte Desinformationskampagnen (z.B. Einfluss auf Wahlen)
 
 Diese Kampagnen nutzen emotionale Appelle und irreführende Fakten, um die öffentliche Meinung zu steuern und das Vertrauen in demokratische Prozesse zu untergraben. Dies zeigt die Gefahren, die von gezielter Propaganda ausgehen.
+
 # Möglichkeiten politischer Partizipation
 
 ## Parteien
@@ -486,6 +492,7 @@ Die Cleavage Theorie besagt, dass die Gesellschaft an verschiedenen Konfliktlini
 - Kulturelle Achse
   - Liberal (dem Einzelnen wenige Einschränkungen auferlegend, die Selbstverantwortung des Individuums unterstützend)
   - Autoritär (Zentrierung der Macht im Staat, Einschränkungen der Freiheit und Selbstverantwortung des Individuums)
+
 # Politischer Entscheidungsprozess / Politikzyklus
 
 Der Politikzyklus ist ein Modell (Analyseinstrument) zum Verständnis, wie politische Prozesse funktionieren. Er dient zur Veranschaulichung des zeitlichen Ablaufs eines politischen Prozesses, der sich unter Umständen mehrfach wiederholt (Problemkreislauf). Politik wird als Prozess zur Problemlösung definiert / dargestellt.
@@ -591,6 +598,7 @@ Das Bundesverfassungsgericht ist das höchste Gericht Deutschlands und hat eine 
 - Der Gemeinsame Ausschuss besteht zu zwei Dritteln aus Bundestagsmitgliedern und zu einem Drittel aus Mitgliedern des Bundesrats. Er ist für den Notstandsfall eingerichtet (Art. 53a GG).
 - Er übernimmt die Aufgaben von Bundestag und Bundesrat im Verteidigungsfall, wenn diese nicht zusammentreten können.
 - Er kann im Verteidigungsfall Gesetzgebungsbefugnisse übernehmen und so unmittelbaren Einfluss auf wichtige Entscheidungen in Krisenzeiten nehmen.
+
 # Politische Partizipation und Grundlagen für politische Partizipation
 
 ## Freiheitliche Demokratische Grundordnung (FDGO)
@@ -629,6 +637,7 @@ Haben die Bürger, über die klassische Gewaltenteilung hinaus, die Möglichkeit
 Eine funktionierende Demokratie ist nur durch politische Partizipation der Bevölkerung möglich. Nur wenn Bürger partizipieren können ihre Interessen von der Politik vertreten werden.
 
 Die Bedeutung politischer Partizipation für die Demokratie in einem aufgefächerten Stil folgt aus den Funktionen politischer Partizipation.
+
 # Populismus
 
 ## Merkmale
