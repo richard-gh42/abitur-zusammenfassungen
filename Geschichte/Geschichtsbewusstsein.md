@@ -22,4 +22,8 @@
 
 ### kritische historische Sinnbildung
 
+- vorherschende historische Denkmuster hinterfragen
+- Geschichtsperspektiven, die vernachlässigt werden aufgreifen
+- sogenannte "Gegengeschichte": Sichtweise von ausgegrenzten Gruppen
+
 ### genetische historische Sinnbildung
