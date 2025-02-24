@@ -10,6 +10,8 @@
 
 ## Formen historischer Sinnbildung (Jörn Rüsen)
 
+TODO nochmal lesen
+
 > Sinnbildung überträgt Erinnerung aus dem kommunikativen Gedächnis in das kulturelle Gedächnis
 
 ### traditionale historische 
@@ -32,3 +34,8 @@
 - sogenannte "Gegengeschichte": Sichtweise von ausgegrenzten Gruppen
 
 ### genetische historische Sinnbildung
+
+- Geschichte als Prozess ständiger Veränderung
+- Geeschichte bzw. der Prozess läuft auf ein bestimmtes Ziel zu (z. B. Nationalstaatsbildung)
+- Veränderbarkeit als Fortschritt (so das Verständnis im 20. Jahrhundert)
+- Orientierung für Menschen um übergreifende Zusammenhänge einordnen zu können.
