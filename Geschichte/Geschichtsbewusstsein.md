@@ -1,4 +1,4 @@
-# Geschichtsbewusstsein
+# Geschichtsbewusstsein / Sinnbildung von Geschichte
 
 - Geschichtsbewusstsein ist ist der Zusammenhang von Vergangenheit, Gegenwartsverständnis und Zukunftsperspektive
 - ordnet Ereignisse in einen zeitlichen Ablauf ein
