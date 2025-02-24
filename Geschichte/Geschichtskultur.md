@@ -13,11 +13,14 @@ Alle Dimensionen überlappen und vermischen sich ständig. Dennoch bilden sie ei
 
 ### ästhetische Dimension
 
+- Darstellung von Vergangenheit in der Zukunft
+  - kann die Vergangenheit nicht genau darstellen, sondern nur in die Nähe kommen
+  - teilweise wird gar nicht versucht die Vergangenheit möglichst genau darzustellen (z. B. Mittelaltermarkt, Propaganda)
 - Wie werden historische Ereignisse künstlerisch gestaltet?
   - historische Korrektheit spielt nicht immer die entscheidende Rolle, sondern ist der Wirkungsabsicht untergeordnet
-  - z. B. Propagandafilm
-  - behält trotzdem bei seriösen Formen der Geschichtsdarstellun eine wesentliche Bedeutung
-    - auch das Schreiben von Geschichte unterliegt den Prinzipien einer sinnvollen und angemessenen Gestaltung, wenn das Produkt dieser Arbeit nicht ohne Resonanz bleiben soll (TODO fragen)
+  - z. B. Propagandafilm, Mittelalterdarstellung auf dem Markt
+  - behält trotzdem bei seriösen Formen der Geschichtsdarstellung eine wesentliche Bedeutung
+    - wenn der Versuch besteht die Vergangenheit möglichst genau darzustellen
 
 ### politische Dimension
 
