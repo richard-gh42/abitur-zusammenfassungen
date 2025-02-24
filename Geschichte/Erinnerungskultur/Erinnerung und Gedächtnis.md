@@ -102,3 +102,5 @@ Das kommunikative und kulturelle Gedächtnis existiert parallel zu dem Speicher-
   - **Gegenwartsbezug elementar!**
 - Es wird mehr vergessen als erinnert wird, aber vergessenes kann in anderer Zeit wieder als Erinnerungswürdig bewertet werden
 - „Vergangenheit steht nicht naturwüchsig an, sie ist eine kulturelle Schöpfung“ ~ Jan Assmann
+
+![kommunikatives, kollektives und kulturelles Gedächtnis](../../images/Geschichte/Gedächntisformen-Übersicht.jpeg)
