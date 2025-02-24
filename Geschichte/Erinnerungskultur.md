@@ -1,4 +1,4 @@
-# Erinnerungskultur
+# Erinnerung und Gedächtnis
 
 ## "Vom Nutzen und Nachteilen der Historie für das Leben" von Friedrich Nietzsches 1874
 
