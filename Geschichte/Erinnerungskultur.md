@@ -93,7 +93,7 @@ Das kommunikative und kulturelle Gedächtnis existiert parallel zu dem Speicher-
 - **Feier am Tag der Deutschen Einheit**: Anlass für Übertragung des kulturellen Gedächtnis
 - **Fernsehdokumentation zum Kalten Krieg**: Monument (Funktionsgedächtnis), da es Informationen mit einem praktizierten Erinnerungswert gibt
 
-## Kollektives Gedächtnis (Astrid Erll) (TODO villeicht kicken)
+## Kollektives Gedächtnis (Astrid Erll) (TODO zu anderen zusammenfügen)
 
 > „Ein Obergriff für all jene Vorgänge organischer, medialer und institutioneller Art, denen Bedeutung bei der wechselseitigen Beeinflussung von Vergangenem und Gegenwärtigem im soziokulturellen Kontext zukommt.“
 
