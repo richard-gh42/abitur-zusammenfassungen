@@ -7,6 +7,8 @@
 
 ## Formen historischer Sinnbildung (Jörn Rüsen)
 
+> Sinnbildung überträgt Erinnerung aus dem kommunikativen Gedächnis in das kulturelle Gedächnis
+
 ### traditionale historische 
 
 - Ursprünge heutiger Leben- und Gesellschaftsformen
