@@ -1,6 +1,9 @@
 # Geschichtsbewusstsein / Sinnbildung von Geschichte
 
 - Geschichtsbewusstsein ist ist der Zusammenhang von Vergangenheit, Gegenwartsverständnis und Zukunftsperspektive
+- Geschichte wird in der Gegenwart einen Sinn gegeben, auf der Basis, wie die Zukunft aussehen soll
+  - Es wird an die NS-Zeit erinnert, um ähnliche Verhältnisse in der Zukunft zu verhindern
+  - "Der Historiker formt aus der Vergangenheit die Symbole für die Zukunft." (Professor von Herr Siebert)
 - ordnet Ereignisse in einen zeitlichen Ablauf ein
   - bring sie in einen Zusammenhang -> Orientierung
   - gibt der Geschichte einen Sinn -> wird in das kulturelle Gedächnis übertragen
