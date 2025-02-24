@@ -1,6 +1,11 @@
 # Geschichtskultur
 
-
+- Mit Geschichtskultur ist die Auseinandersetzung einer Gesellschaft mit der Vergangenheit gemeint. Dies kann z.B. in diesen Formen geschehen:
+  - wissenschaftlicher Arbeit
+  - Politik
+  - Bild und Ton
+- Geschichtsunterricht muss sich gegen Populärgeschichte durchsetzen (gelingt häufig nicht)
+- Soziale Medien Verstärken dies stark.
 
 ## Dimensionen der Geschichtskultur
 
