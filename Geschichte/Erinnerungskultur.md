@@ -1,5 +1,16 @@
 # Erinnerungskultur
 
+## "Vom Nutzen und Nachteilen der Historie für das Leben" von Friedrich Nietzsches 1874
+
+- Umgang mit Geschichte beeinflusst Gegenwart und Zukunftserwartungen des Volkes 
+- Umgang mit der Geschichte verändert sich
+  - Neubewertung
+- Vorteile:
+  - erinnern zur Identitätsbildung und Selbstverständnis einer Kultur
+- Nachteile:
+  - "übermächtiges" Erbe: aus der Geschichte können schlechte Beziehungen / Probleme entstehen
+    - z. B. NS-Verbrechen: Nachkommen fühlen sich als eingeschrenkt in ihren Handelsmöglichkeiten
+
 ## Geschichte als kulturelle Schöpfung
 
 > Jan Assmann: "Vergangenheit steht nicht naturwüchsig an, sie ist eine kulturelle Schöpfung."
@@ -27,6 +38,7 @@ Erinnerung an die Vergangenheit und Konstruktion der Geschichte ist individuell 
 - nicht für den Alltag zu gebrauchen
 - nicht auf das Individuum, sondern Gesellschaft bezogen
 - bestimmt die **kulturelle Identität**
+  - Nation und/oder Geselschaft sind durch kollektives Gedächtnis geprägt / gestützt / aufgebaut
 - wird über Feste, Rituale, ... übertragen
 - Zweck: **Sicherung und Kontinuierung** einer **sozialen Identität**
 
@@ -80,3 +92,13 @@ Das kommunikative und kulturelle Gedächtnis existiert parallel zu dem Speicher-
 - **Besuch eines vor- und frühgeschichtlichen Museums**: Anlass für Übertragung des kulturellen Gedächtnis
 - **Feier am Tag der Deutschen Einheit**: Anlass für Übertragung des kulturellen Gedächtnis
 - **Fernsehdokumentation zum Kalten Krieg**: Monument (Funktionsgedächtnis), da es Informationen mit einem praktizierten Erinnerungswert gibt
+
+## Kollektives Gedächtnis (Astrid Erll) (TODO villeicht kicken)
+
+> „Ein Obergriff für all jene Vorgänge organischer, medialer und institutioneller Art, denen Bedeutung bei der wechselseitigen Beeinflussung von Vergangenem und Gegenwärtigem im soziokulturellen Kontext zukommt.“
+
+- spielt für das Selbstverständnis einer Nation zentrale Rolle (besonders in 1980er)
+- das kollektive Gedächtnis überliefert nicht nur, sondern immer mit Funktion
+  - **Gegenwartsbezug elementar!**
+- Es wird mehr vergessen als erinnert wird, aber vergessenes kann in anderer Zeit wieder als Erinnerungswürdig bewertet werden
+- „Vergangenheit steht nicht naturwüchsig an, sie ist eine kulturelle Schöpfung“ ~ Jan Assmann
