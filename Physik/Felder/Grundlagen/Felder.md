@@ -31,7 +31,7 @@ Das Feldlinienmodell ist eine Möglichkeit ein Feld zu visualisieren. Die Feldli
 
 #### Magnetisches Feld (Dipolfeld)
 
-![B-Feldlinenbild](../../../images/Physik/B-Feldlinienbild.jpeg)
+![B-Feldlinenbild](../../../images/Physik/B-Feldlinenbild.jpeg)
 
 - quellenfreies Wirbelfeld
 - Nord -> Süd (außen)
