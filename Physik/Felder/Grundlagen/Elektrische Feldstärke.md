@@ -1,9 +1,5 @@
 # Elektrische Feldstärke
 
-## Flächenladungsdichte
-
-TODO
-
 ## Definition der elektrischen Feldstärke
 
 Die elektrische Feldstärke ist das Maß für die Stärke und die Richtung eines elektrischen Feldes, also die Fähigkeit einer Ladung, Kraft auf andere Ladungen auszuüben.
