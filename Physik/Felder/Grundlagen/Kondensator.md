@@ -19,6 +19,12 @@ Die Kapazität ist das Speichervermögen eines Kondensators, also wie viele Ladu
 
 TODO
 
+## Zusammenhang zwischen Spannung und elektrischer Feldstärke im Plattenkondensator
+
+$$\overrightarrow{E} = \frac{U}{d}$$
+
+Die elektrische Stärke des E-Feldes im Plattenkondensator ist abhängig von der Spannung auf dem Plattenkondensator und der Distanz zwischen den Platten.
+
 ## Energie des elektrischen Feldes eines geladenen Kondensators (quantitativ)
 
 TODO aufgaben angucken
