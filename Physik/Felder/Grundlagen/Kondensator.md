@@ -1,4 +1,4 @@
-# Kondensator
+# Plattenkondensator
 
 ## Aufbau
 
@@ -14,6 +14,10 @@ Die Kapazität ist das Speichervermögen eines Kondensators, also wie viele Ladu
 
 - Wird in Farad angegeben
 - Proportional zu dem Flächeninhalt, der Dielektrizitätszahl und umgekehrt zu dem Abstand der Platten
+
+## Flächenladungsdichte
+
+TODO
 
 ## Energie des elektrischen Feldes eines geladenen Kondensators (quantitativ)
 
