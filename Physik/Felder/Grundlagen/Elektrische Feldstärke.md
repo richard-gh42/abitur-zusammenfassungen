@@ -12,7 +12,7 @@ Die elektrische Feldstärke $\overrightarrow{E}$ ist definiert als der Quotient 
 
 $$\overrightarrow{E} = \frac{\overrightarrow{F_{el}}}{q}$$
 
-> Die elektrische Feldstärke zeigt immer in die Richtung der elektrischen Kraft auf positive Ladungen.
+> Die elektrische Feldstärke zeigt immer in die Richtung der elektrischen Kraft auf positive Ladungen - also plus zu minus (wie die Feldlinien).
 
 Unter einer elektrischen Feldstärke von $1 \frac{N}{C}$ kann man sich vorstellen: Ein elektrisches Feld hat an einem Raumpunkt die Stärke $1 \frac{N}{C}$, wenn eine Ladung der Größe $1 N$ dort eine Kraft von $1 C$ erfährt.
 
