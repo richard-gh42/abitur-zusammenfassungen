@@ -30,7 +30,7 @@ TODO aufgaben angucken
 
 ## Dielektrikum
 
-- Isolator (nicht Leitend)
+Isolator (nicht Leitend)
 
 1. Die Elektronen der Atome werden durch das Feld zum plus-Pol gezogen.
 2. Die Atome werden auf der Seite des Plus-Pols negativ geladen und auf der Seite des Minus-Pols positiv (Dipol) (Polarisierung).
