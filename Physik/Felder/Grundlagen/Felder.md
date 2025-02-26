@@ -17,7 +17,7 @@ Das Feldlinienmodell ist eine Möglichkeit ein Feld zu visualisieren. Die Feldli
 
 ### grundlegende elektrische und magnetische Feldlinienbilder
 
-![Feldlinienbilder](../../../images/Physik/Feldlinienbilder.jpeg)
+![E-Feldlinienbilder](../../../images/Physik/E-Feldlinienbilder.jpeg)
 
 #### Elektrisches Feld (Radialfeld)
 
@@ -30,6 +30,8 @@ Das Feldlinienmodell ist eine Möglichkeit ein Feld zu visualisieren. Die Feldli
 - Plus -> Minus
 
 #### Magnetisches Feld (Dipolfeld)
+
+![B-Feldlinenbild](../../../images/Physik/B-Feldlinienbild.jpeg)
 
 - quellenfreies Wirbelfeld
 - Nord -> Süd (außen)
