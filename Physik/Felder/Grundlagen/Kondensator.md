@@ -17,7 +17,9 @@ Die Kapazität ist das Speichervermögen eines Kondensators, also wie viele Ladu
 
 ## Flächenladungsdichte
 
-TODO
+> Die Flächenladungsdichte ist die Ladung verteilt über die Fläche eines elektrischen Feldes.
+
+$$\sigma = \frac{Q}{A}$$
 
 ## Zusammenhang zwischen Spannung und elektrischer Feldstärke im Plattenkondensator
 
