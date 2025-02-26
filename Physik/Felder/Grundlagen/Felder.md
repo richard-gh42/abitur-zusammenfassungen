@@ -13,23 +13,23 @@ Das Feldlinienmodell ist eine Möglichkeit ein Feld zu visualisieren. Die Feldli
 
 - Elektrisches Feld: Plus zu Minus
   - Elektrische Feldlinien zeigen immer in die Richtung der Kraft auf einen positiv geladenen Probekörper.
-- Magnetisches Feld: Nord zu Süd TODO
+- Magnetisches Feld: Nord zu Süd
 
 ### grundlegende elektrische und magnetische Feldlinienbilder
 
 ![Feldlinienbilder](../../../images/Physik/Feldlinienbilder.jpeg)
 
-### Elektrisches Feld (Radialfeld)
+#### Elektrisches Feld (Radialfeld)
 
 - wirbelfreies Quellenfeld
 - Plus -> Minus
 
-### Elektrisches Feld (homogenes Feld)
+#### Elektrisches Feld (homogenes Feld)
 
 - symmetrische Feldlinen zwischen zwei Platten
 - Plus -> Minus
 
-### Magnetisches Feld (Dipolfeld)
+#### Magnetisches Feld (Dipolfeld)
 
 - quellenfreies Wirbelfeld
 - Nord -> Süd (außen)
