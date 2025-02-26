@@ -20,10 +20,6 @@ $$\overrightarrow{E} = \frac{\overrightarrow{F_{el}}}{q}$$
 
 Unter einer elektrischen Feldstärke von $1 \frac{N}{C}$ kann man sich vorstellen: Ein elektrisches Feld hat an einem Raumpunkt die Stärke $1 \frac{N}{C}$, wenn eine Ladung der Größe $1 N$ dort eine Kraft von $1 C$ erfährt.
 
-## Zusammenhang zwischen Spannung und elektrischer Feldstärke im Plattenkondensator
-
-TODO
-
 ## elektrische Feldkonstante
 
 TODO
