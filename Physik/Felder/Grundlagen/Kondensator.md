@@ -32,27 +32,11 @@ TODO aufgaben angucken
 
 - Isolator (nicht Leitend)
 
-- die Elektronen der Atome werden durch das Feld zum plus-Pol gezogen
-- Die Atome werden auf der Seite des Plus-Pols negativ geladen und auf der Seite des Minus-Pols positiv (Dipol) (Polarisierung
-- Ein Gegenfeld zu dem E-Feld bildet sich
-- Das E-Feld wird durch das Gegenfeld schwächer
-- Die Kapazität wird erhöht
-
-### Influenz
-
-> Bei Leitern
-
-- Die Elektronen in einem Leiter sind frei beweglich
-- Durch ein E-Feld werden die Elektronen auf eine Seite des Leiters geschoben
-- Ein Gegenfeld entsteht
-
-### Polarisierung
-
-> Bei Nicht-Leitern
-
-- Die Elektronen im Atom werden durch ein E-Feld verschoben
-- Die Atome werden Dipolar
-- Sie erzeugen ein Gegenfeld entgegengesetzt zu dem Ausgangsfel
+1. Die Elektronen der Atome werden durch das Feld zum plus-Pol gezogen.
+2. Die Atome werden auf der Seite des Plus-Pols negativ geladen und auf der Seite des Minus-Pols positiv (Dipol) (Polarisierung).
+3. Ein Gegenfeld zu dem E-Feld bildet sich.
+4. Das E-Feld wird durch das Gegenfeld schwächer.
+5. Die Kapazität wird erhöht.
 
 ## Abhängigkeit der Kapazität von geometrischen Daten des Plattenkondensators sowie der Dielektrizitätszahl
 
