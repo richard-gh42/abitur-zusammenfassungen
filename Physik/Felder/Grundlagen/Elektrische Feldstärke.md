@@ -10,7 +10,7 @@ Die elektrische Feldstärke ist das Maß für die Stärke und die Richtung eines
 
 Die elektrische Feldstärke $\overrightarrow{E}$ ist definiert als der Quotient aus der elektrischen Kraft $\overrightarrow{F_{el}}$ auf eine Probeladung und der Ladung $q$ der Probeladung:
 
-$\overrightarrow{E} = \frac{\overrightarrow{F_{el}}}{q}$
+$$\overrightarrow{E} = \frac{\overrightarrow{F_{el}}}{q}$$
 
 ## Zusammenhang zwischen Spannung und elektrischer Feldstärke im Plattenkondensator
 
