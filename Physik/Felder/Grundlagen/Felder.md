@@ -15,27 +15,27 @@ Das Feldlinienmodell ist eine Möglichkeit ein Feld zu visualisieren. Die Feldli
   - Elektrische Feldlinien zeigen immer in die Richtung der Kraft auf einen positiv geladenen Probekörper.
 - Magnetisches Feld: Nord zu Süd
 
-### grundlegende elektrische und magnetische Feldlinienbilder
+### grundlegende elektrische Feldlinienbilder
 
 ![E-Feldlinienbilder](../../../images/Physik/E-Feldlinienbilder.jpeg)
 
-#### Elektrisches Feld (Radialfeld)
-
 - wirbelfreies Quellenfeld
+  - Feldlinien starten bei einer Ladung und haben ein Ziel (andere Ladung / freier Raum)
+  - Feldlinien sind keine Kreise / Wirbel (nicht in sich geschlossen)
 - Plus -> Minus
 
-#### Elektrisches Feld (homogenes Feld)
+#### homogenes Feld
 
 - symmetrische Feldlinen zwischen zwei Platten
-- Plus -> Minus
 
-#### Magnetisches Feld (Dipolfeld)
+### grundlegende magnetische Feldlinienbilder (Dipolfeld)
 
 ![B-Feldlinenbild](../../../images/Physik/B-Feldlinenbild.jpeg)
 
 - quellenfreies Wirbelfeld
+  - die Feldlinien besitzen keine Quelle, sondern sind Kreise bzw. Wirbel d. h. sind geschlossen
+  - die Feldlinien gehen durch den Stabmagneten durch
 - Nord -> Süd (außen)
-- Feldlinien sind geschlossen (Wirbel gehen in dem Magneten weiter)
 
 ## Superposition von Feldern, zeichnerische Addition zweier feldbeschreibender Vektoren in der Ebene
 
