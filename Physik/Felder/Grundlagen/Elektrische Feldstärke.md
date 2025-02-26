@@ -2,7 +2,7 @@
 
 ## elektrische Ladung
 
-Die elektrische Ladung gibt an, wie ein Ladungsträger geladen ist. Dabei ist die Ladung das Verhältnis zwischen Protonen und Elektronen entscheidend.
+Die elektrische Ladung $Q$ gibt an, wie ein Ladungsträger geladen ist. Dabei ist die Ladung das Verhältnis zwischen Protonen und Elektronen entscheidend.
 
 Die elektrische Ladung wird in Coulomb ($C$) angegeben. Dabei ist $+1 C$ gleich $6.24 \cdot 10^{18}$ mehr Protonen als Elektronen und $-1 C$ gleich $6.24 \cdot 10^{18}$ mehr Elektronen als Protonen.
 
