@@ -38,7 +38,7 @@ Alle Dimensionen überlappen und vermischen sich ständig. Dennoch bilden sie ei
 
 ### kognitive Dimension
 
-> wissenschaftliche Korrektiv: wissenschaftliches Fundament, Standards (z.B. quellengestützte Argumentation, nachvollziehbare Sachanalyse)=
+> wissenschaftliche Korrektiv: wissenschaftliches Fundament, Standards (z.B. quellengestützte Argumentation, nachvollziehbare Sachanalyse)
 
 - Entwickelung / Etablierung von Standards, nach denen historisches Wissen gewonnen und auf seine Triftigkeit hin überprüft werden kann
   - eine Art Wahrheitsanspruch an Geschichte
