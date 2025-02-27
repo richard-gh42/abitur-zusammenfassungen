@@ -25,7 +25,7 @@ Alle Dimensionen überlappen und vermischen sich ständig. Dennoch bilden sie ei
     - wenn der Versuch besteht die Vergangenheit möglichst genau darzustellen
 - Alle Darstellungen von Geschichte unterliegen den Prinzipien der Gestaltung
   - auch wenn das Ziel nicht umbedingt Unterhaltung / Wirkungs sein muss
-  - z. B. wissenschaftlicher Text hat auch einen Gestaltungsaspekt
+  - z. B. wissenschaftlicher Text hat auch einen Gestaltungsaspekt (der Wissenschaftler möchte auch, dass sein Text gelesen wird)
 
 ### politische Dimension
 
