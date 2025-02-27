@@ -43,3 +43,4 @@ Alle Dimensionen überlappen und vermischen sich ständig. Dennoch bilden sie ei
 - Entwickelung / Etablierung von Standards, nach denen historisches Wissen gewonnen und auf seine Triftigkeit hin überprüft werden kann
   - eine Art Wahrheitsanspruch an Geschichte
 - als Regulativ (Regelt die Standards der Geschichtskultur) unabdingbar, wenn viele historische Perspektiven / Einflüsse / Interessen aufeinandertreffen
+- der historische Diskurs ist als Korrektiv historischer Arbeit Teil der kognitiven Dimension
