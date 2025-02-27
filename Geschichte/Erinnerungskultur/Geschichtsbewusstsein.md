@@ -11,7 +11,9 @@
 
 ## Formen historischer Sinnbildung (Jörn Rüsen)
 
-> Sinnbildung überträgt Erinnerung aus dem kommunikativen Gedächnis in das kulturelle Gedächnis
+> Sinnbildung überträgt Erinnerung aus dem kommunikativen Gedächnis in das kulturelle Gedächnis. 
+
+Es werden aus der Vergangenheit Narrative (Roter Faden hinter welchem Geschichte gedeutet wird) gebildet, an denen die Geschichte konstruiert wird: z. B. Narrative wie Deutscher Sonderweg, Modernisierung, ... hinter welchen Geschichte gedeutet wird und Zusammenhänge erstellt werden.
 
 ### traditionale historische Sinnbildung
 
