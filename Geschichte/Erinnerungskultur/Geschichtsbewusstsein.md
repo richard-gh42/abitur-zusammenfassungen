@@ -32,7 +32,9 @@
 - vorherrschende historische Denkmuster in der Gesellschaft werden kritisiert und außer Kraft gesetzt
   - Darstellung 1945 Niederlage der Nazis als Befreiung, statt Niederlage Deutschlands (das vorherrschende Bild des verlorenen Krieges wird als etwas positives dargestellt, auch wenn es für viele Menschen zu der Zeit wohl nicht so eingeschätzt wurde)
 - Geschichtsperspektiven, die vernachlässigt wurden werden aufgegriffen
-- z. B. sogenannte "Gegengeschichte": Sichtweise von ausgegrenzten Gruppen / Minderheiten
+- z. B. sogenannte "Gegengeschichte"
+  - Sichtweise von ausgegrenzten Gruppen / Minderheiten
+  - Geringe Quellenlage (wenig niedergeschriebenes etc.)
 
 ### genetische historische Sinnbildung
 
