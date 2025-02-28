@@ -17,7 +17,7 @@
 
 Erinnerung an die Vergangenheit und Konstruktion der Geschichte ist individuell und von kulturellen Normen und Werten abhängig.
 
-## Gedächtnisformen (Jan Assmann)
+## kollektives Gedächtnis (Jan Assmann)
 
 ### kommunikatives Gedächtnis (Generationsgedächtnis)
 
@@ -42,7 +42,17 @@ Erinnerung an die Vergangenheit und Konstruktion der Geschichte ist individuell 
 - wird über Feste, Rituale, ... übertragen
 - Zweck: **Sicherung und Kontinuierung** einer **sozialen Identität**
 
-### Gedächtnisse mit modernen Medien
+### Dokumente und Monumente
+
+Gespeicherte Daten sorgen nicht direkt für Erinnerung, sondern müssen - in zweitem Grad - aktiviert werden.
+
+- ersten Grades (**Dokumente**): beruhen auf Kodifikation und Speicherung von Informationen
+  - im **Speichergedächtnis** festgehalten
+  - hat durch die Sicherung einen Platz - wenn auch nur im Hintergrund - in der Kultur und gehört daher zum **kulturellen Gedächtnis**
+- zweiten Grades (**Monumente**): beruhen auf Speicherung plus sozial bestimmten und praktiziertem Erinnerungswert - also sie haben einen Wert, wieso man sich an sie erinnert
+  - im **kulturellen Gedächtnis** und **Funktionsgedächtnis**, da es einen Erinnerungswert hat und sich über Kultur erinnert wird oder aus dem Speichergedächtnis ins Funktionsgedächtnis gebracht wird
+
+## Speicher- / Funktionsgedächtnis
 
 - kulturelles Gedächtnis verliert seine Konturen durch die Speicherung von Informationen und verschwimmt mit dem kommunikativen Gedächtnis
 - Filme und Bilder fangen das kommunikative Gedächtnis auch für die Nachwelt ein
@@ -71,21 +81,11 @@ Erinnerung an die Vergangenheit und Konstruktion der Geschichte ist individuell 
   - Funktionsgedächtnis besteht aus dem Speichergedächtnis
   - identische Speichermedien
 
-### Dokumente und Monumente
-
-Gespeicherte Daten sorgen nicht direkt für Erinnerung, sondern müssen - in zweitem Grad - aktiviert werden.
-
-- ersten Grades (**Dokumente**): beruhen auf Kodifikation und Speicherung von Informationen
-  - im **Speichergedächtnis** festgehalten
-  - hat durch die Sicherung einen Platz - wenn auch nur im Hintergrund - in der Kultur und gehört daher zum **kulturellen Gedächtnis**
-- zweiten Grades (**Monumente**): beruhen auf Speicherung plus sozial bestimmten und praktiziertem Erinnerungswert - also sie haben einen Wert, wieso man sich an sie erinnert
-  - im **kulturellen Gedächtnis** und **Funktionsgedächtnis**, da es einen Erinnerungswert hat und sich über Kultur erinnert wird oder aus dem Speichergedächtnis ins Funktionsgedächtnis gebracht wird
-
 ### Zusammenspiel der Gedächtnisse
 
 Das kommunikative und kulturelle Gedächtnis existiert parallel zu dem Speicher- und Funktionsgedächtnis. Dabei ist ersteres auf die Erinnerungen, die von Mensch zu Mensch übertragen werden (kommunikatives Gedächtnis) oder Kultur wie Feste, Gedenktage, Mythen, ... übertragen wird (kulturelles Gedächtnis) bezogen. Das Speicher- und Funktionsgedächtnis ist auf gespeicherte Informationen auf Datenträgern bezogen. Dieses spielt mit modernen Speicherformen wie Fotos und Videos eine besonders große Rolle. Das Speichergedächtnis umfasst alles ungeordnet gespeicherte, während das Funktionsgedächtnis alles abgerufene mit praktiziertem Erinnerungswert umfasst. Hier ordnet sich auch der Unterschied von Dokumenten und Monumenten ein. Dokumente (Gespeicherte Daten ersten Grades) befinden sich im Speichergedächtnis und Monumente (Gespeicherte Daten zweiten Grades) sind die abgerufenen und aktivierten Dokumente mit praktiziertem Erinnerungswert im Funktionsgedächtnis und/oder kulturellen Gedächtnis.
 
-### Zuordnung von Beispielen
+## Zuordnung von Beispielen in die Gedächtnisformen
 
 - **Schulbuch**: Funktionsgedächtnis, da strukturiert, nutzbar und tatsächlich benutzt
 - **Gedenkfeier zum Reformationstag**: Anlass für Übertragung des kulturellen Gedächtnis
