@@ -17,7 +17,13 @@
 
 Erinnerung an die Vergangenheit und Konstruktion der Geschichte ist individuell und von kulturellen Normen und Werten abhängig.
 
+## Astrid Erll
+
+Es wird mehr vergessen als erinnert wird, aber Vergessenes kann in anderer Zeit wieder als Erinnerungswürdig bewertet werden.
+
 ## kollektives Gedächtnis (Jan Assmann)
+
+![kommunikatives, kollektives und kulturelles Gedächtnis](../../images/Geschichte/Gedaechtnisformen-Uebersicht.jpeg)
 
 ### kommunikatives Gedächtnis (Generationsgedächtnis)
 
@@ -92,15 +98,3 @@ Das kommunikative und kulturelle Gedächtnis existiert parallel zu dem Speicher-
 - **Besuch eines vor- und frühgeschichtlichen Museums**: Anlass für Übertragung des kulturellen Gedächtnis
 - **Feier am Tag der Deutschen Einheit**: Anlass für Übertragung des kulturellen Gedächtnis
 - **Fernsehdokumentation zum Kalten Krieg**: Monument (Funktionsgedächtnis), da es Informationen mit einem praktizierten Erinnerungswert gibt
-
-## Kollektives Gedächtnis (Astrid Erll) (TODO zu anderen zusammenfügen)
-
-> „Ein Obergriff für all jene Vorgänge organischer, medialer und institutioneller Art, denen Bedeutung bei der wechselseitigen Beeinflussung von Vergangenem und Gegenwärtigem im soziokulturellen Kontext zukommt.“
-
-- spielt für das Selbstverständnis einer Nation zentrale Rolle (besonders in 1980er)
-- das kollektive Gedächtnis überliefert nicht nur, sondern immer mit Funktion
-  - **Gegenwartsbezug elementar!**
-- Es wird mehr vergessen als erinnert wird, aber vergessenes kann in anderer Zeit wieder als Erinnerungswürdig bewertet werden
-- „Vergangenheit steht nicht naturwüchsig an, sie ist eine kulturelle Schöpfung“ ~ Jan Assmann
-
-![kommunikatives, kollektives und kulturelles Gedächtnis](../../images/Geschichte/Gedaechtnisformen-Uebersicht.jpeg)
