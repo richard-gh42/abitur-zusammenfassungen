@@ -37,3 +37,4 @@
 - Verallgemeinert auf das aktuelle Geschehen übertragen
   - weitgehendes Ausschließen von rationalem Denken
 - gemeinsame Werte und Normen, die das Denken und Handeln prägen
+  - politische Mythen werden mit der Absicht bestimmte Werte und Normen zu schaffen erstellt
