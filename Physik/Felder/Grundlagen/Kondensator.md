@@ -29,8 +29,6 @@ Die elektrische Stärke des E-Feldes im Plattenkondensator ist abhängig von der
 
 ## Energie des elektrischen Feldes eines geladenen Kondensators (quantitativ)
 
-TODO aufgaben angucken
-
 - Kondensatoren sind in der Lage elektrische Energie zu speichern.
 - Ist ein Kondensator der Kapazität $C$ mit einer Spannung $U$ aufgeladen und trägt die Ladung $Q$, dann gilt für die im Kondensator gespeicherte elektrische Energie $E_{el} = \frac{1}{2} Q U$
   - steht im Tafelwerk
@@ -56,30 +54,28 @@ $C = \epsilon_0 \cdot \epsilon_r \cdot \frac{A}{d}$
 
 ## zeitlicher Verlauf der Stromstärke beim Aufladevorgang
 
-TODO (qualitativ)
+Der Strom im Kreis kann beim Ausschalten mit einer Exponentialfunktionen beschrieben werden.
+
+- Die Ladung ist das Integral der Stromstärke.
 
 ### Widerstand und Kapazität
 
-TODO
+Die Halbwertszeit ist proportional zum Wiederstand und der Kapazität. Daher dauert der Aufladevorgang mit höherem Wiederstand oder Kapazität länger.
+
+$$t_H = R \cdot C \cdot ln(2)$$
 
 ## zeitlicher Verlauf der Stromstärke beim Entladungsvorgang
 
-TODO (quantitativ)
+exponentielle Senkung der Stromstärke
 
-> exponentielle Senkung der Spannung, Stromstärke und Ladung
-
-- Die abgeflossene Ladung kann anhand der Entladungskurve der Stromstärke über das Integral bestimmt werden
-- Entladungskurve der Stromstärke ist I abhängig von t
-- $Q = I \cdot t$
-- Höherer Widerstand => langsamere Entladung
-- Höhere Kapazität => höherer Startpunkt der Entladungskurve
+$$t_H = R \cdot C \cdot ln(2)$$
 
 ### Schaltplan und Messung der Entladungskurve
 
-- Spannungsmessgeräte parallel schalten
+- Spannungs-Messgeräte Parallel
 - Stromstärke-Messgeräte in Reihe
 
 - Spannungsquelle angeschlossen zum Aufladen
 - Spannungsquelle wird getrennt
 - Ein Widerstand ist angeschlossen, damit es einen Verbraucher gibt, der den Stromkreis schließt
-- Über die Messgeräte kann die Entladungskurve gemessen werden
+- Über das Messgerät kann die Entladungskurve gemessen werden
