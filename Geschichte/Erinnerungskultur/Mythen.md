@@ -56,6 +56,7 @@
   - **allegorische Deutung**
     - unterscheidung zwischen dem Wortlaut und einem verborgenen "tieferen" Sinn
     - Frage nach dem geschichtlichen oder moralischen Kern der Erzählungen
+    - Suche nach einer Funktion (Sinn) in wissenschaftlich wiederlegten Mythen
 
 ## moderne Mythen (Martin Dehli)
 
