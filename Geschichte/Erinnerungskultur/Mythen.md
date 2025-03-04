@@ -70,7 +70,7 @@
 
 | | antike Mythen | moderne Mythen |
 |---|---|---|
-| Inhalt | vorwiegend Götter und Heldengeschichten | alles mögliche |
+| Ausdrucksform | vorwiegend Götter und Heldengeschichten | näher an der Wissenschaft (Realistischer) |
 | Wirkung | symbolisch-emotional | symbolisch-emotional |
 | Intention | erklärung rätselhafter Dinge; Identität schaffen; Unterhaltung | Identität schafffen; Unterhaltung |
 | Übertragung | vorwiegend mündlich, später niedergeschrieben | vorwiegend auf Datenträgern |
