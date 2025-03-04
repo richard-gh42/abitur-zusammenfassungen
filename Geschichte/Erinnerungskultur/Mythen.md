@@ -60,6 +60,7 @@
 ## moderne Mythen (Martin Dehli)
 
 - Mythen sind Erzählungen, in denen der Mensch sich selbst, die Gemeinschaft und das Geschehen in der Welt symbolisch deutet.
+- Antike Mythen haben mit der Aufklärung etc. an Bedeutsamkeit verloren, daher neue Mythen notwendig
 - Mythologie:
   - die Gesamtheit der Mythen eines Volkes
   - die Wissenschaft von den Mythen
@@ -74,3 +75,4 @@
 | Wirkung | symbolisch-emotional | symbolisch-emotional |
 | Intention | erklärung rätselhafter Dinge; Identität schaffen; Unterhaltung | Identität schafffen; Unterhaltung |
 | Übertragung | vorwiegend mündlich, später niedergeschrieben | vorwiegend auf Datenträgern |
+| | universell | eher spezifisch in einer Gruppe |
