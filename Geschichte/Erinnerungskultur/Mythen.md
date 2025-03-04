@@ -71,6 +71,6 @@
 | | antike Mythen | moderne Mythen |
 |---|---|---|
 | Inhalt | vorwiegend Götter und Heldengeschichten | alles mögliche |
-| Wirkung | emotional-symbolisch | emotional-symbolisch |
+| Wirkung | symbolisch-emotional | symbolisch-emotional |
 | Intention | erklärung rätselhafter Dinge; Identität schaffen; Unterhaltung | Identität schafffen; Unterhaltung |
 | Übertragung | vorwiegend mündlich, später niedergeschrieben | vorwiegend auf Datenträgern |
