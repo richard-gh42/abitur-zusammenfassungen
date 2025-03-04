@@ -49,7 +49,7 @@
   - Ordnung der Welt
   - den Ursprung von religiösen Festen und kultischen Handlungen 
   - Erscheinungen in der Natur und am Himmel
-- können sich anpassen
+- können sich wandeln
   - wechsel von Kultur zu Kultur, neuinterpretation, Erwartungen verschiedener Zeiten
   - Beispiel: Übernahme der Mythen der Griechen durch die Römer (wie Götter)
 - philosophische Dekonstruktion der Mythen (600 v. Chr.)
@@ -70,6 +70,7 @@
 
 | | antike Mythen | moderne Mythen |
 |---|---|---|
-
-
-
+| Inhalt | vorwiegend Götter und Heldengeschichten | alles mögliche |
+| Wirkung | emotional-symbolisch | emotional-symbolisch |
+| Intention | erklärung rätselhafter Dinge; Identität schaffen | Identität schafffen |
+| Übertragung | vorwiegend mündlich, später niedergeschrieben | vorwiegend auf Datenträgern |
