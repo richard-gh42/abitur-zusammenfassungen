@@ -72,5 +72,5 @@
 |---|---|---|
 | Inhalt | vorwiegend Götter und Heldengeschichten | alles mögliche |
 | Wirkung | emotional-symbolisch | emotional-symbolisch |
-| Intention | erklärung rätselhafter Dinge; Identität schaffen | Identität schafffen |
+| Intention | erklärung rätselhafter Dinge; Identität schaffen; Unterhaltung | Identität schafffen; Unterhaltung |
 | Übertragung | vorwiegend mündlich, später niedergeschrieben | vorwiegend auf Datenträgern |
