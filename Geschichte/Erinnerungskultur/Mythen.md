@@ -40,3 +40,36 @@
   - weitgehendes Ausschließen von rationalem Denken
 - gemeinsame Werte und Normen, die das Denken und Handeln prägen
   - politische Mythen werden mit der Absicht bestimmte Werte und Normen zu schaffen erstellt
+
+## antike Mythen (Stefan Rebenich)
+
+- anschauliche Erzählung aus alten Zeiten verstanden, die von allgemeiner Bedeutung ist und ursprünglich mündlich weitergegeben und erst später aufgeschrieben wurde
+- über Götter und Heroen, über Ereignisse und Erlebnisse aus der Vorzeit zu einer religiösen Weltdeutung
+- versuchen rätselhafte Dinge zu erklären
+  - Ordnung der Welt
+  - den Ursprung von religiösen Festen und kultischen Handlungen 
+  - Erscheinungen in der Natur und am Himmel
+- können sich anpassen
+  - wechsel von Kultur zu Kultur, neuinterpretation, Erwartungen verschiedener Zeiten
+  - Beispiel: Übernahme der Mythen der Griechen durch die Römer (wie Götter)
+- philosophische Dekonstruktion der Mythen (600 v. Chr.)
+  - **allegorische Deutung**
+    - unterscheidung zwischen dem Wortlaut und einem verborgenen "tieferen" Sinn
+    - Frage nach dem geschichtlichen oder moralischen Kern der Erzählungen
+
+## moderne Mythen (Martin Dehli)
+
+- Mythen sind Erzählungen, in denen der Mensch sich selbst, die Gemeinschaft und das Geschehen in der Welt symbolisch deutet.
+- Mythologie:
+  - die Gesamtheit der Mythen eines Volkes
+  - die Wissenschaft von den Mythen
+- Sprachform, die nicht rational überzeugen, sondern symbolisch-emotional wirken soll
+- **historische Wirksamkeit** von Mythen sollte mehr wissenschaftlich beachtet werden
+
+## Vergleich antiker und moderner Mythen
+
+| | antike Mythen | moderne Mythen |
+|---|---|---|
+
+
+
