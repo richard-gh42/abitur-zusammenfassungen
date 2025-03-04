@@ -75,4 +75,4 @@
 | Wirkung | symbolisch-emotional | symbolisch-emotional |
 | Intention | erklärung rätselhafter Dinge; Identität schaffen; Unterhaltung | Identität schafffen; Unterhaltung |
 | Übertragung | vorwiegend mündlich, später niedergeschrieben | vorwiegend auf Datenträgern |
-| | universell | eher spezifisch in einer Gruppe |
+| Geltungsanspruch | universell | eher spezifisch in einer Gruppe |
