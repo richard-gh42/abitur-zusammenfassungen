@@ -30,6 +30,8 @@
 
 ## Kennzeichen politischer Mythen
 
+> Politische Mythen unterscheiden sich zu anderen Mythen dadurch, dass eine Intention und Funktion hinter den Mythen steckt - das Beeinflussen des Denken und Handelns der Bevölkerung.
+
 - erzählen über politische Persönlichkeiten und politische und gesellschaftliche Ereignisse und Begebenheiten
   - verleihen diesen eine **spezifische Bedeutung**
   - **Überbewertung und Idealisierung** der Vergangenheit
