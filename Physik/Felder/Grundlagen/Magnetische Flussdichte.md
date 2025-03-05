@@ -9,7 +9,12 @@
 
 ## Magnetfeld einer stromdurchflossenen Spule
 
-TODO
+- alle Magnetischen Felder durch den Leiter werden addiert (Superposition)
+- es entsteht ein Stabmagnet-ähnliches Magnetfeld
+- im Innenraum der Spule entsteht ein homogenes Magnetfeld
+- Richtung der Feldlinen kann über die Linke-Hand-Regel bei Leitern bestimmt werden
+  - für einen Punkt der Spule herausfinden
+  - für den Rest denken, da addition
 
 ### Einfluss (qualitativ) von Stromstärke, Windungszahl, Spulenlänge, Medium im Inneren
 
