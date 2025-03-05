@@ -28,7 +28,9 @@ Das Feldlinienmodell ist eine Möglichkeit ein Feld zu visualisieren. Die Feldli
 
 - symmetrische Feldlinen zwischen zwei Platten
 
-### grundlegende magnetische Feldlinienbilder (Dipolfeld)
+### grundlegende magnetische Feldlinienbilder
+
+#### Dipolfeld
 
 ![B-Feldlinenbild](../../../images/Physik/B-Feldlinenbild.jpeg)
 
@@ -36,6 +38,13 @@ Das Feldlinienmodell ist eine Möglichkeit ein Feld zu visualisieren. Die Feldli
   - die Feldlinien besitzen keine Quelle, sondern sind Kreise bzw. Wirbel d. h. sind geschlossen
   - die Feldlinien gehen durch den Stabmagneten durch
 - Nord -> Süd (außen)
+
+#### stromdurchflossener Leiter (Draht)
+
+- ein stromdurchflossener Leiter erzeugt ein Magnetfeld in Kreisbahnen um sich
+- kann mit der Linke-Hand-Regel gemessen werden
+  - Daumen in Bewegungsrichtung der Elektronen (Richtung Plus)
+  - Finger geben die Richtung der Feldlinien des magnetischen Feldes an
 
 ## Superposition von Feldern, zeichnerische Addition zweier feldbeschreibender Vektoren in der Ebene
 
