@@ -49,6 +49,33 @@
 - kein Export von strategisch kritischen Gütern
   - Beispiel: Rüstungskonzerne (aus geopolitischen Überlegungen)
 
+## Instrumente der (regulierenden) Außenhandelspolitik - tarifäre und nicht-tarifäre Handelshemmnisse
+
+### tarifäre Handelshemmnisse
+
+- Tarifäre Handelshemmnisse bezeichnen Zölle.
+- werden auf importierte oder - seltener - exportierte Ware erhoben
+- machen betroffene Produke für den Konsumenten teurer
+
+#### Schutzzoll
+
+Zoll, der auf eine Änderung im Konsumverhalten der Verbraucher oder Verhalten der Unternehmen abzielt
+
+#### Finanzzoll
+
+Zölle als Staatseinnahmen
+
+### nicht-tarifäre Handelshemmnisse
+
+> vielfältiger und nicht immer von anderen wirtschaftspolitischen Zielsetzungen zu unterscheiden (z. B. Verbraucherschutz, Standortpolitik)
+
+- Einfuhrbeschränkungen durch 
+  - **Einfuhrkontingente**: Mengenbeschränkungen für bestimmte Waren
+  - **Produktstandards**: technische Normen, Verbraucher- und Umweltschutz)
+- Subventionen für einheimische Produzenten
+  - mehr Konkurenz für ausländische Unternehmen (Preisvorteil)
+- Öffentliche Auftragsvergabe an einheimische Unternehmen
+
 ## Positionen der Parteien zu Handelsabkommen
 
 ### Union
