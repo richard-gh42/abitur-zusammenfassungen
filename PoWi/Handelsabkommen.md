@@ -16,9 +16,38 @@
 
 ## Leitbilder der Außenhandelspolitik
 
-### Freihandel
+| | Freihandel | Protektionismus |
+| --- | --- | --- |
+| Maßnahmen | Abschaffen von Zöllen, Qualtiätsanforderungen und anderen Handelsvorschriften | Einführen von Zöllen, Qualtiätsanforderungen und anderen Handelsvorschriften |
+| Entscheidungsträger im Handel | Verbraucher, Unternehmen und öffentliche Institutionen | Staat, in kleinerem Rahmen Unternehmen etc. |
+| allgemeiner Wohlstand | tendentiell höher | tendentiell nidriger |
 
-### Protektionismus
+### Gründe für Protektionismus
+
+#### 1. Verteilungskonflikte und Ungleichheit
+
+- Freihandel und Globalisierung erhöhen tendentiell den allgemeinen Wohlstand, sorgen aber nicht für Verteilungsgerechtigkeit
+- für mache Menschen kann sich Freihandel negativ auswirken
+  - Französische Bauern vs. billigere Argentinische Produkte (siehe Kritik an **Mercosur-EU-Handelsabkommen**)
+
+#### 2. Alte Industrien und Strukturwandel
+
+- Konkurrenz aus anderen Ländern kann Industrien, die weniger mithalten können schaden
+  - billiger Stahl aus China schadet der europäischen Stahlproduktion
+- Folge: Staat greift mit Protektionismus ein, um einen zu schnellen Strukturwandel zu stoppen und Arbeitsplätze zu sichern
+
+#### 3. Aufstrebende Firmen schützen
+
+- Schutz von aufstrebenden (kleinen) Unternehmen vor ausländischer Konkurrenz (**"Infant Industry Protection"**)
+  - Aufheben der protektionistischen Maßnahmen, sobald das Unternehmen wettbewerbsfähig ist
+
+#### 4. Sicherheitsinteressen
+
+- Protektionismus aus Sicherheitsinteressen / geostrategischen politischen Überlegungen
+- Versuch nicht abhängig und erpressbar zu sein
+  - z. B. Nahrungsmittelproduktion, Gas (siehe Russland)
+- kein Export von strategisch kritischen Gütern
+  - Beispiel: Rüstungskonzerne (aus geopolitischen Überlegungen)
 
 ## Positionen der Parteien zu Handelsabkommen
 
