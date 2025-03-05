@@ -135,10 +135,6 @@ Das BSW meint, die bisherigen Abkommen seien „im Interesse multinationaler Kon
 - Deutschland ist eine starke Exportnation und auf internationalen Handel angewiesen. Daher sind Handelsabkommen unablässlich.
   - Andere Länder haben neben der EU auch weitere mögliche Handelspartner, daher hat die EU nicht die nötigen Druckmittel.
 
-## nationale und europäische Handelspolitik im Hinblick auf tarifäre und nichttarifäre Handelshemmnisse
-
-TODO
-
 ## Möglichkeiten und Grenzen von Handelsregimen (u. a. WTO, internationale Handelsabkommen)
 
 TODO
