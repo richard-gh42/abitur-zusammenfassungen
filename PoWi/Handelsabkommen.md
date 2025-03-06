@@ -27,7 +27,7 @@
 1. Ein gemeinsames Handelsabkommen erhöht die Wettbewerbsfähigkeit und stärkt die Position beider Staaten.
 2. Größere Produktvielfalt → größeres Angebot/Produktspezialisierung (absolute / komparative Kostenvorteile)
 3. weniger Kosten für Unternehmen durch Zölle etc.
-4. Größerer Absatzmarkt der Unternehmen, mehr Investitionen, mehr Arbeitsplätze weltweit..
+4. Größerer Absatzmarkt der Unternehmen, mehr Investitionen, mehr Arbeitsplätze weltweit.
 
 ### Gründe für Protektionismus (Alexander Armbruster)
 
