@@ -178,11 +178,9 @@ Ein komparativer Kostenvorteil entsteht, bei dem Vergleich zweier Länder. Dabei
 
 ## Opportunitätskosten
 
-TODO überprüfen
-
 > Opportunitätskosten sind die Kosten die entstehen eine Opportunität nicht zu nutzen. Also z. B. wenn man die Möglichkeit hat sein Geld anzulegen, aber stattdessen es nur auf dem Konto liegen lässt, ist der Gewinn, der, wegen dem nicht nutzen, nicht gemacht wird die Opportunitätskosten.
 
-Auf Länder bezogen bedeuten Opportunitätskosten, dass wenn sich ein Land auf eine Sache spezialisiert und dabei eine andere vernachlässigt, diese vernachlässigte Opportunität weniger Umsatz - die Opportunitätskosten - macht. Demnach entsthen bei Spezialisierung Oppornitätskosten in den vernachlässigten Sektoren.
+Auf Länder bezogen bedeuten Opportunitätskosten, dass wenn sich ein Land auf eine Produktion spezialisiert und dabei eine andere vernachlässigt, diese vernachlässigte Opportunität weniger Umsatz - die Opportunitätskosten - macht. Demnach entsthen bei Spezialisierung Oppornitätskosten in den vernachlässigten Sektoren.
 
 ## interindustrieller Handel 
 
