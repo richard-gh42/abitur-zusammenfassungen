@@ -29,7 +29,7 @@
 3. weniger Kosten für Unternehmen durch Zölle etc.
 4. Größerer Absatzmarkt der Unternehmen, mehr Investitionen, mehr Arbeitsplätze weltweit..
 
-### Gründe für Protektionismus
+### Gründe für Protektionismus (Alexander Armbruster)
 
 #### 1. Verteilungskonflikte und Ungleichheit
 
