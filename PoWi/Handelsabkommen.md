@@ -7,7 +7,7 @@
 - Zölle / weniger Freihandel
 - Versuch Wertschöpfungsketten in das Land zu verlegen
 
-### Slowbalisation (TODO name)
+### Slowbalisation (Gabriel Felbermayr / Guntram Wolff)
 
 - Handel wächst in letzter Zeit gleich mit dem globalen BIP
 - Daher keine Deglobalisierung, sondern Slowbalisation
