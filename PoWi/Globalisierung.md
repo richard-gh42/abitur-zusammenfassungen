@@ -70,11 +70,9 @@ Die ökonomische Globalisierung kann einerseits als Chance für eine stärkere W
 
 ## Indikatoren für ökonomische Globalisierung
 
-### Welthandelsvolumen
+### Welthandelsvolumen - Güter- und Dienstleistungenhandel (M4-M6)
 
-TODO
-
-### Güter- und Dienstleistungenhandel (M4-M6)
+> Das Welthandelsvolumen bezieht sich auf die Gesamtmenge an Waren und Dienstleistungen, die weltweit zwischen Ländern gehandelt werden.
 
 #### Entwicklung des gesamten Handels
 
