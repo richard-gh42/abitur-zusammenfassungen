@@ -22,6 +22,13 @@
 | Entscheidungsträger im Handel | Verbraucher, Unternehmen und öffentliche Institutionen | Staat, in kleinerem Rahmen Unternehmen etc. |
 | allgemeiner Wohlstand | tendentiell höher | tendentiell nidriger |
 
+### Vorteile des Freihandels
+
+1. Ein gemeinsames Handelsabkommen erhöht die Wettbewerbsfähigkeit und stärkt die Position beider Staaten.
+2. Größere Produktvielfalt → größeres Angebot/Produktspezialisierung (absolute / komparative Kostenvorteile)
+3. weniger Kosten für Unternehmen durch Zölle etc.
+4. Größerer Absatzmarkt der Unternehmen, mehr Investitionen, mehr Arbeitsplätze weltweit..
+
 ### Gründe für Protektionismus
 
 #### 1. Verteilungskonflikte und Ungleichheit
@@ -33,7 +40,8 @@
 #### 2. Alte Industrien und Strukturwandel
 
 - Konkurrenz aus anderen Ländern kann Industrien, die weniger mithalten können schaden
-  - billiger Stahl aus China schadet der europäischen Stahlproduktion
+  - Gefahr vor Dumpingpreisen (besonders billig) von ausländischen Unternehmen
+  - z. B. billiger Stahl aus China schadet der europäischen Stahlproduktion
 - Folge: Staat greift mit Protektionismus ein, um einen zu schnellen Strukturwandel zu stoppen und Arbeitsplätze zu sichern
 
 #### 3. Aufstrebende Firmen schützen
