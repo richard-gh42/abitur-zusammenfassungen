@@ -197,7 +197,7 @@ Auf Länder bezogen bedeuten Opportunitätskosten, dass wenn sich ein Land auf e
   - 0 = 100 Exporte auf 0 Importe
   - 1 = 100 Exporte auf 100 Importe
 
-## Möglichkeiten zum Erhöhen der Globalisierung der Wirtschaft
+## politische Ursachen der ökonomischen Globalisierung
 
 ### Privatisierung
 
