@@ -226,4 +226,6 @@ Auf Länder bezogen bedeuten Opportunitätskosten, dass wenn sich ein Land auf e
 
 ### Deregulierung
 
-TODO
+TODO ausweiten
+
+- die Aufhebung oder zumindest Abschwächung wirtschafts- und wettbewerbshemmender gesetzlicher Regelungen
