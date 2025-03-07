@@ -20,4 +20,6 @@
 
 - B ~ Stromstärke
 - B ~ Windungszahl
-- B ~ $\frac{1}{\text{länge}}$
+- B ~ $\frac{1}{\text{Spulenlänge}}$
+- B ~ Windungsdichte ($\frac{\text{Windungszahl}}{\text{Spulenlänge}}$)
+- B ~ relativer Permeabilität des Mediums im Inneren
