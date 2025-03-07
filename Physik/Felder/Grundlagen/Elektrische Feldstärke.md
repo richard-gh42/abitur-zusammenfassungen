@@ -22,6 +22,6 @@ Unter einer elektrischen Feldstärke von $1 \frac{N}{C}$ kann man sich vorstelle
 
 ## elektrische Feldkonstante
 
-Die elektische Feldkonstante $\epsilon_0$ verbindet die Flächenladungsdichte $$ mit der elektischen Feldstärke $\overrightarrow{E}$:
+Die elektische Feldkonstante $\epsilon_0$ verbindet die Flächenladungsdichte $\sigma$ mit der elektischen Feldstärke $\overrightarrow{E}$:
 
-$$$$
+$$\overrightarrow{E} = \epsilon_0 \cdot \sigma$$
