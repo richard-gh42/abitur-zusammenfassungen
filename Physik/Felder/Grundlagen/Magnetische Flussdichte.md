@@ -1,6 +1,6 @@
 # Magnetische Flussdichte
 
-## Definition der magnetischen Flussdichte
+## Definition der magnetischen Flussdichte (B)
 
 > Beschreibt die Stärke eines magnetischen Felds
 
@@ -18,4 +18,6 @@
 
 ### Einfluss (qualitativ) von Stromstärke, Windungszahl, Spulenlänge, Medium im Inneren
 
-TODO
+- B ~ Stromstärke
+- B ~ Windungszahl
+- B ~ $\frac{1}{\text{länge}}$
