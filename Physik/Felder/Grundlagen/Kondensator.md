@@ -72,8 +72,7 @@ $$t_H = R \cdot C \cdot ln(2)$$
 
 ### Schaltplan und Messung der Entladungskurve
 
-- Spannungs-Messgeräte Parallel
-- Stromstärke-Messgeräte in Reihe
+> Spannungs-Messgeräte Parallel; Stromstärke-Messgeräte in Reihe
 
 - Spannungsquelle angeschlossen zum Aufladen
 - Spannungsquelle wird getrennt
