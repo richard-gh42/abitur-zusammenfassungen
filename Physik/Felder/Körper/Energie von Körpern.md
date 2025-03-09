@@ -10,9 +10,11 @@ Wenn man von potentieller Energie spricht benötigt man eine **Nulllage** - wo d
 
 Allgemein ist die Änderung der potentiellen Energie gleich der **neagitven Feldarbeit** (Feldarbeit ist die Arbeit, die bei der Bewegung einer Ladung verrichtet wurde) - also $\Delta E_{pot} = - W_{Feld}$.
 
+> Alle Punkte mit gleichem Potential liegen auf sogenannten **Äquipotentiallinien**.
+
 ## kinetische Energie und Geschwindigkeit geladener Teilchen im elektrischen Längsfeld in Abhängigkeit von der Beschleunigungsspannung (quantitativ)
 
-TODO
+TODO Tafelwerk
 
 ## Elektronenvolt (eV) als Einheit
 
