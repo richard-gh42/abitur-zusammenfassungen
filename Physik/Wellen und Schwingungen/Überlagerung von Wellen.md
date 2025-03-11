@@ -10,7 +10,7 @@ Der Abstand zwischen zwei Knoten bzw. Bäuchen beträgt $\frac{\lambda}{2}$ der 
 
 <https://www.leifiphysik.de/mechanik/mechanische-wellen/grundwissen/stehende-wellen-entstehung>
 
-### Stehende Wellen durch Reflektion
+### Stehende Wellen durch Reflexion
 
 1. Eine Welle breitet sich in einem Medium aus, z. B. entlang eines Seils oder in einem akustischen Rohr.
 2. Wenn diese Welle auf eine Barriere trifft, wird sie reflektiert.
@@ -38,15 +38,15 @@ An einem offenen Ende (z. B. lose befestigtes Seil) kehrt die Welle ohne Phasenu
 
 - Ein Wellenbauch entsteht an der Barriere.
 
-## Huygens-Fresnelsches Prinzip
-
-Der Schwingzustand in einem Punkt eines Raumes wird bestimmt durch die Summe aller Elementarwellen, die von Wellenfronten ausgehen und die in diesem Punkt zusammentreffen.
-
 ## Interferenz
 
 Interferenz ist die Überlagerung von Wellen.
 
-Bedingungen für ein "schönes" Interferenzmuster:
+### Superposition von Wellen
+
+Der Schwingzustand in einem Punkt eines Raumes wird bestimmt durch die Summe aller Elementarwellen, die von Wellenfronten ausgehen und die in diesem Punkt zusammentreffen.
+
+### Bedingungen für ein "schönes" Interferenzmuster:
 
 - identische Wellen
   - die Amplitude kann bei konstruktiver Interferenz unterschiedlich sein, macht jedoch destruktive Interferenz unmöglich
@@ -65,7 +65,7 @@ Destruktive Interferenz liegt vor, wenn an einem Ort beide Wellen um eine halbe 
 
 Für eine Phasenverschiebung um 180° bzw. eine halbe Phase muss der Gangunterschied der Wellen in dem Punkt ein halbzahliges ($\frac{1}{2},1+\frac{1}{2},2+\frac{1}{2},\dots$) Vielfaches der Wellenlänge sein.
 
-## Interferenz am Doppelspalt (Licht)
+## Interferenz am Doppelspalt (monochromatisches Licht)
 
 ### Aufbau des Doppelspaltexperimentes
 
@@ -94,6 +94,14 @@ Das Schirmbild hinter zeigt Beugungs- und Interferenzerscheinungen. Es bilden si
 - Spaltbreite
   - Einfluss auf die Intensität der Maxima, jedoch nicht auf das Interferenzmuster
 
+## Wellenlängenbestimmung von monochromatischem Licht
+
+TODO
+
+## Entstehung des Spektrums von weißem Licht beim Doppelspalt
+
+TODO
+
 ## Interferenz am Gitter (Licht)
 
 - mehr Spalte => kein Einfluss auf den Abstand der Hauptmaxima
@@ -102,25 +110,3 @@ Das Schirmbild hinter zeigt Beugungs- und Interferenzerscheinungen. Es bilden si
   - Die Anzahl der Nebenmaxima entspricht der Anzahl der Spalte minus 2.
 
 Ein Gitter wird genutzt um schärfere Maxima zu erhalten, ohne die Position der Maxima zu verändern.
-
-## Michelson-Morley Interferometer
-
-<https://www.leifiphysik.de/relativitaetstheorie/spezielle-relativitaetstheorie/versuche/michelson-morley-experiment>
-
-<https://igsff-bs.de/iserv/fs/file/local/Groups/Klasse%2013.4/Physik/02-%20Wellen/09-Michelson-Interferomerter.pdf>
-
-### Ziel
-
-1. Bestimmung der Geschwindigkeit der Erde im Lichtäther
-2. Ergebnis: Die Lichtgeschwindigkeit bleibt entgegen der Erwartungen konstant.
-3. Folgerungen: Es gibt keinen Lichtäther
-
-### Durchführung
-
-In einem Interferometer wird Licht durch einen Strahlteiler auf zwei verschiedenen Wegen durch das Instrument geschickt. Die Anordnung ist insgesamt so gewählt, dass sich das Licht, das verschiedene Wege durchlaufen hat, überlagert. Das kann mit verschiedenen Bauformen realisiert werden. Geringste Veränderungen der Lichtwege führen zu einer Veränderung des Interferenzmusters. Interferometer lassen sich daher zur Messung sehr kleiner Längenänderungen nutzen.
-
-### Erklärung
-
-- Aus der Lichtquelle kommt ein paralleles Bündel Strahlen (ebene Welle). Dieses wird durch eine Linsenanordnung „ausgeweitet" und verläuft danach divergent (auseinandergehend) mit einem neuen gedachten Ursprungspunkt (Kugelwelle), der im Bereich der Linsenanordnung liegt.
-- Verschiebung des Spiegels -> Nun im Zentrum Maximum statt Minimum
-- Im Michelson-Interferometer interferieren Teilwellen. Liegt auf dem Schirm ein Maximum vor, so führt eine Verschiebung eines Spiegels um Vielfache von $\frac{\lambda}{2}$ erneut zu einem Maximum.

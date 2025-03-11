@@ -13,8 +13,8 @@
 
 ## Ausbreitung einer Welle
 
-1. Ein Erreger zwingt einen Träger (die **Quelle**) des Mediums aus seiner Ruhelage in eine **Schwingung**.
-2. Die Träger der Welle sind über das Medium miteinander verbunden - so wirkt sich **eine Schwingung** eines Trägers auf die **anliegenden Träger** aus.
+1. Ein Erreger zwingt den ersten Träger (die **Quelle**) des Mediums aus seiner Ruhelage in eine **Schwingung**.
+2. Die Träger der Welle sind über das Medium miteinander verbunden - so wirkt sich **die Schwingung** eines Trägers auf die **anliegenden Träger** aus.
 3. Aufgrund seiner **Trägheit** (es dauert einen Moment bis das nächste Teilchen "realisiert", dass es sich bewegen soll) übernimmt der nächste Träger etwas **zeitversetzt** diese Schwingung.
 4. Es entsteht eine **Phasenverschiebung** zwischen den Schwingungen benachbarter Träger.
 
@@ -156,3 +156,7 @@ Dieser Link beschreibt das Huygenssche Prinzip sehr anschaulich: <https://www.le
 - Eine Welle geht an einem Hindernis vorbei / durch einen Spalt in einem Hindernis
 - Bedingung: Wellenlänge muss in der Größenordnung der Lücke sein
   - Grund für Schall um die Ecke und Licht nicht
+
+## Spektrum elektromagnetischer Wellen
+
+TODO Tafelwerk (ca. von wo was Licht)
