@@ -2,9 +2,19 @@
 
 ## Definition der wichtigsten Begrifflichkeiten
 
+### periodische Bewegung
+
+Bei einer periodischen Bewegung kehrt ein Körper nach gleichlangen Zeitabschnitten immer wieder in den gleichen Bewegungszustand zurück.
+
+Beispiel: Kreisbahn, alle Schwingungen
+
 ### Schwingung
 
-TODO
+Periodische Bewegungen um eine stabile Gleichgewichtslage herum, nennt man Schwingungen.
+
+Das bedeutet, dass es eine **Ruhelage** (auch Gleichgewichtslage genannt) gibt. In dieser ist der Körper in Ruhe. Bei allen anderen Auslenkungen einer Schwingung wird eine Kraft auf den Körper in Richtung der Ruhelage gewirkt. Durch diese Kraft entsteht die periodische Bewegung / Schwingung.
+
+Beispiel: Federpendel, elektromagnetischer Schwingkreis
 
 ### Schwingungsebene
 
