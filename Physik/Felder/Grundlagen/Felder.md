@@ -9,7 +9,7 @@
 
 ## Feldlinienmodell
 
-Das Feldlinienmodell ist eine Möglichkeit ein Feld zu visualisieren. Die Feldlinen veranschaulichen modellhaft die Struktur des E-Feldes. Je dichter die Feldlinien sind, desto stärker ist das E-Feld.
+Das Feldlinienmodell ist eine Möglichkeit ein Feld zu visualisieren. Die Feldlienen veranschaulichen modellhaft die Struktur des E-Feldes. Je dichter die Feldlinien sind, desto stärker ist das E-Feld.
 
 - Elektrisches Feld: Plus zu Minus
   - Elektrische Feldlinien zeigen immer in die Richtung der Kraft auf einen positiv geladenen Probekörper.
@@ -26,13 +26,13 @@ Das Feldlinienmodell ist eine Möglichkeit ein Feld zu visualisieren. Die Feldli
 
 #### homogenes Feld
 
-- symmetrische Feldlinen zwischen zwei Platten
+- symmetrische Feldlinien zwischen zwei Platten
 
 ### grundlegende magnetische Feldlinienbilder
 
 #### Dipolfeld
 
-![B-Feldlinenbild](../../../images/Physik/B-Feldlinenbild.jpeg)
+![B-Feldlienenbild](../../../images/Physik/B-Feldlinienbild.jpeg)
 
 - quellenfreies Wirbelfeld
   - die Feldlinien besitzen keine Quelle, sondern sind Kreise bzw. Wirbel d. h. sind geschlossen
@@ -49,4 +49,4 @@ Das Feldlinienmodell ist eine Möglichkeit ein Feld zu visualisieren. Die Feldli
 ## Superposition von Feldern, zeichnerische Addition zweier feldbeschreibender Vektoren in der Ebene
 
 - Felder addieren sich nur (interagieren nicht)
-- Um das entstehende Feld aus zwei anderen Feldern zu bekommen müssen alle jeweiligen Vektoren des Feldes miteinander addiert werden und das neue Feld entsteht
+- um das entstehende Feld aus zwei anderen Feldern zu bekommen müssen alle jeweiligen Vektoren des Feldes miteinander addiert werden und das neue Feld entsteht
