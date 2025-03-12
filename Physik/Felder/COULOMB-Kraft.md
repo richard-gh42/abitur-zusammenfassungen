@@ -2,7 +2,7 @@
 
 Die Kraft die von einem E-Feld auf eine Ladung ausgewirkt wird
 
-## Kinetische Energie einer Ladung im elektrischen Feld ausrechnen
+## Geschwindigkeitsberechnung über kinetische Energie einer Ladung nach der Beschleunigung in einem elektrischen Feld
 
-- kinetische Energie ($\frac{1}{2} m v^2$) gleich der Energie des elektrischen Feldes gleichsetzen
+- kinetische Energie ($\frac{1}{2} m v^2$) gleich der Energie des elektrischen Feldes ($E_{kin} = Q \cdot U$) gleichsetzen
 - Zu v umstellen
