@@ -78,7 +78,7 @@ Zölle als Staatseinnahmen
 
 > vielfältiger und nicht immer von anderen wirtschaftspolitischen Zielsetzungen zu unterscheiden (z. B. Verbraucherschutz, Standortpolitik)
 
-- Einfuhrbeschränkungen durch 
+- Einfuhrbeschränkungen durch
   - **Einfuhrkontingente**: Mengenbeschränkungen für bestimmte Waren
   - **Produktstandards**: technische Normen, Verbraucher- und Umweltschutz)
 - Subventionen für einheimische Produzenten
@@ -89,7 +89,7 @@ Zölle als Staatseinnahmen
 
 ### Union
 
-Die Union betont, ein Abkommen zwischen Indien und der EU zu unterstützen. Mit den USA stellt man sich eine „vertiefte Partnerschaft“ vor. Die Partei will den Schutz der Landwirtschaft sichern, der Sektor blockiert allerdings oft neue Abkommen aus Sorge vor internationaler Konkurrenz. Vor allem gilt das für den französischen Agrarsektor. 
+Die Union betont, ein Abkommen zwischen Indien und der EU zu unterstützen. Mit den USA stellt man sich eine „vertiefte Partnerschaft“ vor. Die Partei will den Schutz der Landwirtschaft sichern, der Sektor blockiert allerdings oft neue Abkommen aus Sorge vor internationaler Konkurrenz. Vor allem gilt das für den französischen Agrarsektor.
 
 ### SPD
 
@@ -99,7 +99,7 @@ Um solche Blockadereaktionen zu erschweren, will die SPD Handelsabkommen nicht m
 
 Bei den Grünen kursierte bereits der Vorschlag, Landwirtschaft aus Handelsabkommen auszuschließen. „Das wäre sicherlich ein schnellerer Weg“, sagt Ifo-Außenhandelschefin Lisandra Flach. Allerdings nehme sich die EU dadurch möglicherweise Verhandlungsmöglichkeiten gegenüber Entwicklungsländern.
 
-Im Parteiprogramm der Grünen heißt es bei dem Thema lediglich, man wolle die Abkommen „fair und nachhaltig“ gestalten. Anforderungen zum Waldschutz in Brasilien etwa haben beim Mercosur-Abkommen für Verzögerungen gesorgt. 
+Im Parteiprogramm der Grünen heißt es bei dem Thema lediglich, man wolle die Abkommen „fair und nachhaltig“ gestalten. Anforderungen zum Waldschutz in Brasilien etwa haben beim Mercosur-Abkommen für Verzögerungen gesorgt.
 
 ### FDP
 
@@ -111,7 +111,7 @@ Die AfD will „vorteilhafte Handelsabkommen für unser Land“ abschließen. De
 
 ### Die Linke
 
-Die Linke möchte „eine weltweite Milliardärsteuer […] und Kooperationsabkommen anstelle von Freihandelsabkommen“. 
+Die Linke möchte „eine weltweite Milliardärsteuer […] und Kooperationsabkommen anstelle von Freihandelsabkommen“.
 
 ### BSW
 

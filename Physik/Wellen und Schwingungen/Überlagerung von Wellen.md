@@ -46,7 +46,7 @@ Interferenz ist die Überlagerung von Wellen.
 
 Der Schwingzustand in einem Punkt eines Raumes wird bestimmt durch die Summe aller Elementarwellen, die von Wellenfronten ausgehen und die in diesem Punkt zusammentreffen.
 
-### Bedingungen für ein "schönes" Interferenzmuster:
+### Bedingungen für ein "schönes" Interferenzmuster
 
 - identische Wellen
   - die Amplitude kann bei konstruktiver Interferenz unterschiedlich sein, macht jedoch destruktive Interferenz unmöglich

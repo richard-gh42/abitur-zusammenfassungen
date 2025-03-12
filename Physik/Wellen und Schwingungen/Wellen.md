@@ -117,7 +117,7 @@ Eine Welle wird an einem losen Ende ohne einem Phasensprung reflektiert.
 
 ## Transmission von Wellen (Übergang in ein anderes Medium)
 
-<https://www.leifiphysik.de/mechanik/mechanische-wellen/grundwissen/transmission-und-reflexion>
+[Leifi](https://www.leifiphysik.de/mechanik/mechanische-wellen/grundwissen/transmission-und-reflexion)
 
 ### dünneres zum dichteren Medium
 
@@ -137,7 +137,7 @@ Das Huygenssche Prinzip lässt sich der Ausbreitungsmechanismus von Wellen verst
 
 Das Huygenssche Prinzip besagt, dass jeder Punkt einer Welle als neue Quelle der Welle gesehen werden kann.
 
-Dieser Link beschreibt das Huygenssche Prinzip sehr anschaulich: <https://www.leifiphysik.de/mechanik/mechanische-wellen/ausblick/huygenssches-prinzip-zur-beschreibung-von-mechanischen-wellen>
+Dieser Link beschreibt das Huygenssche Prinzip sehr anschaulich: [Leifi](https://www.leifiphysik.de/mechanik/mechanische-wellen/ausblick/huygenssches-prinzip-zur-beschreibung-von-mechanischen-wellen)
 
 ### Reflexion von Wellen (Huygenssches Prinzip)
 

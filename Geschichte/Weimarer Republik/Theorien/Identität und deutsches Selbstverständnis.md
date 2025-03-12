@@ -1,6 +1,6 @@
 # Identität und deutsches Selbstverständnis
 
-### Was ist Identität?
+## Was ist Identität?
 
 Die Summe der Eigentümlichkeiten in der Persönlichkeit eines Menschen oder einer Menschengruppe.
 
@@ -110,7 +110,7 @@ TODO lesen
 
 - Drei Gründe für erstarken der NSDAP
 
-	1. Notlage
+  1. Notlage
   2. wieder erstarkender Nationalismus trotz Krise (Nationale Komplexe und Ressentiments wurden wieder „Mainstream“)
   3. Hitler als Person beliebt und gefragt
 
@@ -141,9 +141,9 @@ TODO lesen
 - Jüngere hätten keine Schuld
 - Verantwortung des Landes sich mit Vergangenheit auseinander zu setzen
 - Eine forcierte Aktuellhaltung der Vergangenheit für politische Zwecke ist Gefährlich
-	- "Wir müssen uns für Israel wegen dem Holocaust einsetzen."
+  - "Wir müssen uns für Israel wegen dem Holocaust einsetzen."
 - Diese Theorie sollte nicht als Rechtfertigung für nichts tun sein.
-	- Verantwortung entsteht nicht aus der Vergangenheit, sondern aus der aktuellen Lage
+  - Verantwortung entsteht nicht aus der Vergangenheit, sondern aus der aktuellen Lage
 - Besonders Deutschland hat aufgrund seiner Wirtschaftskraft und Bevölkerungszahl eine besondere Verantwortung für Europa.
 
 ### Kritik an der Theorie

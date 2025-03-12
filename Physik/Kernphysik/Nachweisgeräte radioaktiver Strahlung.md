@@ -35,8 +35,8 @@ TODO (Studyflix Video)
 
 - kann nicht zwischen Strahlung unterscheiden
 - Todzeit zwischen den Messungen
- - ist ein Kanal erstmal erstellt führt eine weitere Ionisierung zu keinem Unterscheid
- - erst wenn der Kanal wieder zusammenbricht kann neue Strahlung wahrgenommen werden
+  - ist ein Kanal erstmal erstellt führt eine weitere Ionisierung zu keinem Unterscheid
+  - erst wenn der Kanal wieder zusammenbricht kann neue Strahlung wahrgenommen werden
 
 ### Vorteile Geiger-Müller-Zähler
 

@@ -2,7 +2,7 @@
 
 ## Zeitstrahl
 
-<https://igsff-bs.de/iserv/file/-/Groups/Klasse%2013.4/Geschichte/3.%20Halbjahr_Weimarer%20Republik/Stresemann/Au%C3%9Fenpolitische%20Ereignisse%20Zeitstrahl.pdf?show=true>
+[Im Iserv Ordner](https://igsff-bs.de/iserv/file/-/Groups/Klasse%2013.4/Geschichte/3.%20Halbjahr_Weimarer%20Republik/Stresemann/Au%C3%9Fenpolitische%20Ereignisse%20Zeitstrahl.pdf?show=true)
 
 ## Biografie und politische Überzeugungen Stresemanns bis 1919
 
@@ -112,7 +112,7 @@ Stresemann sieht die „Krise des Parlamentarismus“ durch fehlende Konsensbild
 - Ende der Reparationszahlungen (1932)
 - Militärische Gleichberechtigung (1932)
 
-#### „Versäumnisse“ der Versöhnungspolitik:
+#### „Versäumnisse“ der Versöhnungspolitik
 
 - Nachhaltigkeit - Beständigkeit nach seinem Tod nicht gegeben
 
@@ -161,7 +161,7 @@ Stresemann sieht die „Krise des Parlamentarismus“ durch fehlende Konsensbild
 7. **Kontakt zu konservativen Eliten:**
    Stresemann blieb in Kontakt mit konservativen und monarchistischen Kreisen und versuchte, deren Interessen in die Republik einzubinden. Dies könnte den Eindruck erwecken, dass er sich nicht vollständig mit den demokratischen Werten identifizierte.
 
-#### Fazit:
+#### Fazit
 
 Stresemann kann als 'Vernunftrepublikaner' bezeichnet werden, da er die Weimarer Republik aus pragmatischen Gründen akzeptierte und verteidigte. Seine Haltung war jedoch nie völlig von ideologischer Übereinstimmung mit der republikanischen Staatsform geprägt, sondern eher von einer Einsicht in die Notwendigkeit einer funktionierenden staatlichen Ordnung. Stresemann zeigte sich bereit, die Republik zu unterstützen, um den politischen und sozialen Frieden zu wahren, jedoch ohne sich vollständig mit der republikanischen Idee zu identifizieren.
 

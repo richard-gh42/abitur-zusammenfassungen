@@ -6,7 +6,7 @@ Stabilisierung der Weimarer Republik kann als eine Stabilisierung des demokratis
 
 ### Politisches System
 
-#### Pro:
+#### Pro
 
 - Keine bürgerkriegsähnlichen Zustände oder Umsturzversuche nach der frühen Phase.
 - Demokratie funktionierte; Regierungswechsel verliefen friedlich und institutionell geregelt.
@@ -14,7 +14,7 @@ Stabilisierung der Weimarer Republik kann als eine Stabilisierung des demokratis
   o Zentrumspartei als stabilisierende Kraft in Koalitionen.
 - Weiterhin geringe Resilienz gegen politische Angriffe und Krisen
 
-#### Kontra:
+#### Kontra
 
 - Spaltung der politischen Landschaft, ideologische Gräben und Interessenskonflikte erschwerten eine langfristige Zusammenarbeit der Parteien.
 - Häufige Regierungswechsel und kurze Amtszeiten verhinderten politische Kontinuität.
@@ -22,41 +22,41 @@ Stabilisierung der Weimarer Republik kann als eine Stabilisierung des demokratis
 
 ### Wirtschaftliche Entwicklung
 
-#### Pro:
+#### Pro
 
 - Einführung der Rentenmark (1923) beendete die Hyperinflation und stabilisierte die Währung.
 - Wandel hin zu einer modernen Volkswirtschaft mit stärkeren Anteilen von Industrie und Dienstleistungen.
 
-#### Kontra:
+#### Kontra
 
 - Internationale Wettbewerbsfähigkeit blieb gering; strukturelle Schwächen der Wirtschaft.
   o u. a. Versailler Vertrag und die starke Abhängigkeit von Krediten aus den USA
 
 ### Sozialpolitik
 
-#### Pro:
+#### Pro
 
 - Einführung moderner Sozialversicherungen (u. a. Arbeitslosenversicherung 1927, Ausbau der Kranken- und Rentenversicherung) (Sozialstaat)
 - Stärkere staatliche Eingriffe schufen soziale Absicherung und verbesserten die Lebensbedingungen.
 
-#### Kontra:
+#### Kontra
 
 - Die ausgebaute Sozialpolitik war auf ein stabiles Wirtschaftswachstum angewiesen, das langfristig nicht gesichert war.
 
 ### Außenpolitik
 
-#### Pro:
+#### Pro
 
 - Außenpolitische Beziehungen (u. a. zu Frankreich) verbesserten sich
 
 ### Gesellschaft und Kultur
 
-#### Pro:
+#### Pro
 
 - Gesellschaftliche Ruhe: Bürgerkrieg und Umsturzversuche endeten nach der frühen Phase der Republik.
 - Demokratische Kräfte blieben im Reichstag vertreten und trugen zur politischen Steuerung bei.
 
-#### Kontra:
+#### Kontra
 
 - Polarisierung durch Hindenburgs Wahl (1925), die den Wunsch nach der wilhelminischen Ära und republikfeindliche Tendenzen verstärkte.
 - Kulturelle und ideologische Gräben zwischen den gesellschaftlichen Lagern verhinderten einen breiten Konsens.
@@ -66,12 +66,12 @@ Stabilisierung der Weimarer Republik kann als eine Stabilisierung des demokratis
 
 ### Strukturelle und langfristige Perspektive
 
-#### Pro:
+#### Pro
 
 - Trotz struktureller Schwächen bestanden bis 1930 Handlungsspielräume für Reformen.
 - Bürgerkriegsszenarien wurden vermieden, und die Republik konnte für einige Jahre Stabilität sichern.
 
-#### Kontra:
+#### Kontra
 
 - Stabilisierung war nur oberflächlich und basierte auf einem dünnen Fundament.
 - Strukturelle Defizite (politisch und ökonomisch) wurden nicht behoben, was die Grundlage für spätere Krisen (ab 1929/30) legte.

@@ -57,31 +57,31 @@ Das andere Verständnis des „negativen Sonderwegs“ kam nach dem 2. WK auf un
 
 vier große Entwicklungszusammenhänge als "deutscher Sonderweg":
 
-#### 1. geograftische Mittellage
+### 1. geograftische Mittellage
 
 - führende Position Deutschlands im Mittelalter
 - nach Zerbrechung in Teilreiche keine gemeinsame deutsche Identität, wie in anderen Staaten wie Frankreich
- - erstmals gemeinsame Identität in den Kriegen gegen Napolen
+  - erstmals gemeinsame Identität in den Kriegen gegen Napolen
 - daher entwickelt sich ein autoritärer Staat, der die kleineren Teile eint
 
-#### 2. Scheitern der Revolution 1848
+### 2. Scheitern der Revolution 1848
 
 - Das Scheitern der Revolution 1848 bringt Deutschland weiter vom "westeuropäischen Normalweg" ab.
 - Währenddessen nimmt das deutsche Selbstverständnis immer mehr antiwestliche Züge an.
 - liegt u. a. an einem preußischen Obrigkeitsstaat, der eine Revolution von Oben einführte, statt einer liberalen Revolution von unten.
 - Liberale Kräfte für eine Revolution von unten geben sich der Annahme hin, dass Bismarksche Erfolge "Realpolitik" - nach welcher Macht über Recht und Moral steht - rechtfertigen.
 
-#### 3. Strukturfehler im Bismarkreich
+### 3. Strukturfehler im Bismarkreich
 
 - Entstehung eines palamentarischen Systems mit Parteien wird behindert.
 - der militärisch, bürokratische Obrigkeitsstaat blockiert Partizipation der Arbeiter.
 - Niedergang der Liberalen
 - Verspätete Nation
- - Bewusstsein der späten Nation erst ca. nach dem Sturz Bismarks entstanden
- - Deutschland wollte den Vorsprung anderer Länder aufholen.
+  - Bewusstsein der späten Nation erst ca. nach dem Sturz Bismarks entstanden
+  - Deutschland wollte den Vorsprung anderer Länder aufholen.
 - Deutschland hätte ein Recht auf Hegenomie (Vorherrschaft) in Mitteleuropa, wegen der geografischen Lage
 
-#### 4. Versailler Vertrag
+### 4. Versailler Vertrag
 
 - Der Versailler Vertrag bestimmte die Lage der Weimarer Republik besonders.
 - erhöhte die Krisenanfälligkeit deutlich
@@ -97,7 +97,7 @@ vier große Entwicklungszusammenhänge als "deutscher Sonderweg":
 
 - **Vereinfachung der Geschichte:** Die "Sonderweg"-These reduziert die komplexe deutsche Geschichte auf eine teleologische Erzählung, die den Nationalsozialismus als unausweichlich darstellt.
 - **Ignorieren alternativer Entwicklungen:** Die These vernachlässigt die positiven Entwicklungen in Deutschland, wie etwa die kulturelle Blüte im 19. Jahrhundert, soziale Reformen oder die Weimarer Republik als Versuch einer Demokratie.
-- **Nicht deterministisch:** Die Entwicklung hin zum Nationalsozialismus war nicht vorherbestimmt; es gab mehrere Wendepunkte und alternative politische Möglichkeiten. 
+- **Nicht deterministisch:** Die Entwicklung hin zum Nationalsozialismus war nicht vorherbestimmt; es gab mehrere Wendepunkte und alternative politische Möglichkeiten.
 - **Nimmt Verantwortung:** Das nimmt Verantwortung von den Menschen der Zeit und relativiert den Weg in den Nationalsozialismus.
 - **Vernachlässigung äußerer Faktoren / Gemeinsamkeiten:** Viele Historiker argumentieren heute, dass Deutschland mehr Gemeinsamkeiten als Unterschiede zu anderen europäischen Nationen hatte und dass externe Faktoren (wie der Versailler Vertrag) entscheidend für den Aufstieg des Nationalsozialismus waren.
 - **Unnötigkeit der Theorie:** Andere Länder haben ähnlich unterschiedliche Wege und es gibt keine normale Entwicklung in Europa, von welcher sich Deutschland unterscheiden könnte. Deshalb macht es keinen Sinn von einem deutschen Sonderweg zu sprechen, da wenn sich jeder unterschiedlich entwickelt niemand “besonders” ist.

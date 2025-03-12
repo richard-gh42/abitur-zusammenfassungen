@@ -13,7 +13,7 @@ Alle Dimensionen überlappen und vermischen sich ständig. Dennoch bilden sie ei
 
 ### ästhetische Dimension
 
-> Wirkungsabsicht ist der historischen Korrektheit untergeordnet (z.B. Propaganda-film) 
+> Wirkungsabsicht ist der historischen Korrektheit untergeordnet (z.B. Propaganda-film)
 
 - Darstellung von Vergangenheit in der Zukunft
   - kann die Vergangenheit nicht genau darstellen, sondern nur in die Nähe kommen
