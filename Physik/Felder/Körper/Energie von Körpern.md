@@ -14,13 +14,13 @@ Allgemein ist die Änderung der potentiellen Energie gleich der **neagitven Feld
 
 ## kinetische Energie und Geschwindigkeit geladener Teilchen im elektrischen Längsfeld in Abhängigkeit von der Beschleunigungsspannung (quantitativ)
 
-TODO Tafelwerk
+Tafelwerk: $E_{kin} = Q \cdot U$ nach Beschleunigung im E-Feld
+
+### Geschwindigkeitsberechnung über kinetische Energie einer Ladung nach der Beschleunigung in einem elektrischen Feld
+
+- $\frac{1}{2} m v^2$ gleich der kinetischen Energie der Ladung nach Beschleunigung gleichsetzen
+- Zu v umstellen
 
 ## Elektronenvolt (eV) als Einheit
 
 TODO
-
-## Geschwindigkeitsberechnung über kinetische Energie einer Ladung nach der Beschleunigung in einem elektrischen Feld
-
-- kinetische Energie ($\frac{1}{2} m v^2$) gleich der kinetischen Energie der Ladung nach Beschleunigung (Tafelwerk: $E_{kin} = Q \cdot U$) gleichsetzen
-- Zu v umstellen
