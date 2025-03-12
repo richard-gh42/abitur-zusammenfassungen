@@ -2,7 +2,9 @@
 
 Behauptung, die deutsche Armee sei im Ersten Weltkrieg "von hinten erdolcht" worden, nicht militärisch besiegt.
 
-## EntstehungNach Kriegsende durch Paul von Hindenburg und Erich Ludendorff verbreitet, um Verantwortung der Obersten Heeresleitung (OHL) für die Niederlage abzuweisen.
+## Entstehung
+
+Nach Kriegsende durch Paul von Hindenburg und Erich Ludendorff verbreitet, um Verantwortung der Obersten Heeresleitung (OHL) für die Niederlage abzuweisen.
 
 ## Auslöser
 

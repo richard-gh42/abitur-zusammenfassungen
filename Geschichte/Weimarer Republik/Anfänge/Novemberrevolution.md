@@ -2,7 +2,7 @@
 
 Die Novemberrevolution in Deutschland begann im November 1918, als Arbeiter und Soldaten gegen das autoritäre Kaiserreich protestierten. Ausgelöst durch das Leid des Ersten Weltkriegs und soziale Notstände, forderten die Menschen das Ende der Monarchie und demokratische Reformen. Durch den Kieler Matrosenaufstand, bei welchem Matrosen die in ein „letztes“ Gefecht geschickt wurden, desertierten, begann die Revolution und ging von Stadt zu Stadt. Die Revolution führte am 9. November 1918 zur Abdankung Kaiser Wilhelms II. und zur 2.-Fachen Ausrufung der Weimarer Republik durch Philipp Scheidemann und durch Karl Liebknecht. In den folgenden Monaten kam es jedoch zu Konflikten zwischen verschiedenen politischen Gruppen, die in Unruhen und teils gewaltsamen Auseinandersetzungen mündeten.
 
-## Theodor Wolff (S. 290 M7) beschreibt die Revolution wie folgend:
+## Theodor Wolff (S. 290 M7) beschreibt die Revolution
 
 - Dynamischer Eindruck
 - plötzlicher Machtwechsel

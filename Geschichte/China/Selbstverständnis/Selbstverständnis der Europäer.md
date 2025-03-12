@@ -1,6 +1,6 @@
 # Selbstverständnis der Europäer
 
-## Folgen der Aufklärung
+## Aufklärung
 
 ### "selbst verschuldete Unmündigkeit" Kant (1785)
 

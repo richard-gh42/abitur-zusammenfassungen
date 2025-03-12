@@ -3,7 +3,7 @@
 ## Grundmodell der Kommunikation nach Watzlawick
 
 ```plaintext
-Sender -> Medium (Sprache, Zeichen) -> Empfänger
+Sender → Medium (Sprache, Zeichen) → Empfänger
 ```
 
 ## 5 Axiome von Watzlawick

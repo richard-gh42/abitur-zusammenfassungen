@@ -16,19 +16,19 @@
 
 ## Folgen
 
-### Wirtschaftliche Krisen:
+### Wirtschaftliche Krisen
 
 - **Hyperinflation (1923)**: Durch die hohen Reparationszahlungen und die Belastung der Wirtschaft kam es zu einer enormen Geldentwertung. Die Inflation führte dazu, dass Ersparnisse der Mittelschicht vernichtet wurden, was das Vertrauen in die Republik weiter schwächte.
 - **Abhängigkeit von Auslandskrediten**: Um die Reparationen zu zahlen, nahm Deutschland hohe Kredite aus dem Ausland, besonders von den USA, auf. Die Weltwirtschaftskrise 1929 führte jedoch dazu, dass diese Kredite plötzlich abgezogen wurden, was Deutschland in eine schwere Wirtschaftskrise stürzte und die Massenarbeitslosigkeit massiv ansteigen ließ.
 
-### Politische Instabilität:
+### Politische Instabilität
 
 - **Legitimationsverlust der Weimarer Republik**: Der Versailler Vertrag wurde als "Schandfrieden" empfunden, und viele Deutsche gaben der Weimarer Regierung die Schuld dafür, dass sie diesen Vertrag unterzeichnet hatte. Das schwächte das Vertrauen in die junge Demokratie.
 - **Stärkung extremistischer Parteien**: Die starke Unzufriedenheit in der Bevölkerung mit dem Versailler Vertrag und den wirtschaftlichen Problemen führte dazu, dass sowohl linke (z.B. Kommunisten) als auch rechte (z.B. Nationalsozialisten) Parteien Zulauf erhielten. Besonders die NSDAP konnte sich als "Anti-Versailles-Partei" profilieren und gewann stark an Unterstützung.
 - **Revanchismus**: Viele Deutsche hatten das Ziel, die Gebietsverluste rückgängig zu machen und die "Schmach von Versailles" zu überwinden. Nationalistische und militaristische Gruppen nutzten dieses Gefühl der Erniedrigung und propagierten einen aggressiven Revisionismus.
 - **Feindseligkeit gegenüber anderen Staaten**: Der Kriegsschuldartikel und die hohen Reparationen führten zu einer tiefen Ablehnung der Siegermächte, vor allem gegenüber Frankreich. Diese Spannungen machten eine langfristige friedliche Zusammenarbeit in Europa schwierig und verstärkten das Gefühl der Isolation.
 
-### Gesellschaftliche Spaltung:
+### Gesellschaftliche Spaltung
 
 - **Vertrauensverlust in die Demokratie**: Durch die Auswirkungen des Versailler Vertrags verlor die Bevölkerung zunehmend das Vertrauen in die demokratischen Institutionen. Viele sahen in einer autoritären oder sogar diktatorischen Führung eine bessere Alternative, was die Gesellschaft stark spaltete.
 - **Verarmung und soziale Unruhen**: Die wirtschaftliche Notlage führte zu massiver Verarmung, besonders der Mittelschicht, die sich durch Inflation und Arbeitslosigkeit stark geschwächt fühlte. Diese sozialen Spannungen entluden sich in Streiks, Aufständen und Straßenkämpfen.

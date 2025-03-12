@@ -77,7 +77,7 @@ Die Finanzierung der NATO erfolgt durch **Beiträge der Mitgliedstaaten**. Diese
 
 TODO Bild zu Text
 
-<img src="../../../images/PoWi/GASP.jpg" width="500">
+![GASP Karte](../../../images/PoWi/GASP.jpg)
 
 #### Hard Power / Soft Power
 

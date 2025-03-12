@@ -25,7 +25,7 @@
 
 ## Selbstbild / Volksgemeinschaft Japans (M5)
 
-### Itō Hirobumi (Reformer / Premierminister):
+### Itō Hirobumi (Reformer / Premierminister)
 
 - Westen als Vorbild Japans
 - Japan anders als der Westen (nicht alles sollte kopiert werden)
@@ -37,7 +37,7 @@
 
 ## Modernisierung (M7)
 
-### Annelotte Piper (Japanologin):
+### Annelotte Piper (Japanologin)
 
 - Ausbau von
   - Schwerindustrie => Waffenindustrie
@@ -54,7 +54,7 @@
 
 ## Außenpolitik Japan bes. mit Russland (M10)
 
-### Christian Oberländer (Japanologe):
+### Christian Oberländer (Japanologe)
 
 - Folgen des Sieges über Russland
   - außenpolitische Anerkennung
@@ -77,7 +77,7 @@
 
 ## Entwicklung Japan vs. China (M12)
 
-### Wolfgang Reinhard (2016):
+### Wolfgang Reinhard (2016)
 
 | Gemeinsamkeiten                                         | Unterschiede                                                                                                             |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |

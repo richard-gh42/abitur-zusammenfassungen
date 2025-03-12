@@ -2,20 +2,18 @@
 
 ## Zeitstrahl
 
-<https://igsff-bs.de/iserv/file/-/Groups/Klasse%2013.4/Geschichte/3.%20Halbjahr_Weimarer%20Republik/Stresemann/Au%C3%9Fenpolitische%20Ereignisse%20Zeitstrahl.pdf?show=true>
+[Im Iserv Ordner](https://igsff-bs.de/iserv/file/-/Groups/Klasse%2013.4/Geschichte/3.%20Halbjahr_Weimarer%20Republik/Stresemann/Au%C3%9Fenpolitische%20Ereignisse%20Zeitstrahl.pdf?show=true)
 
 ## Biografie und politische Überzeugungen Stresemanns bis 1919
 
-### Biografie und politische Überzeugungen Stresemanns bis 1919
-
-#### Frühere Jahre und Studienzeit
+### Frühere Jahre und Studienzeit
 
 - Nach Studium bis 1897: Beitritt in die Reformburschenschaft „Neogermania“
   - Positive Einstellung gegenüber dem liberalen Erbe von 1848 (Revolutionsversuch)
   - Bekenntnis zum nationalen Machtstaat
   - Keine Zugehörigkeit zu antisemitischen oder traditionellen Gruppen
 
-#### Wirtschaftliches Engagement und politische Anfänge
+### Wirtschaftliches Engagement und politische Anfänge
 
 - Wirtschaftslobbyist: Rechtsbeistand des „Verbands sächsischer Industrieller“ (1902–1908)
 - Einsatz für:
@@ -24,7 +22,7 @@
 - Heirat seiner Frau mit jüdischen Wurzeln (1903)
 - Beitritt zur Nationalliberalen Partei (1903)
 
-#### Politische Karriere bis 1914
+### Politische Karriere bis 1914
 
 - Mitglied des Reichstags ab 1907: Jüngster Abgeordneter
   - Konflikte mit dem rechten Flügel der Nationalliberalen Partei wegen seiner sozialgesetzlichen Reformideen (1907–1912)
@@ -33,14 +31,14 @@
   - Parlamentarisierung des politischen Systems
   - Weltwirtschaftliche Orientierung und deutsche Weltpolitik (die verstärkt auf Flotten-, Wehr- und Kolonialpolitik setzt)
 
-#### Zeit während des Ersten Weltkriegs
+### Zeit während des Ersten Weltkriegs
 
 - Reichstagsmitglied (1914–1918): Unterstützung der Annexionspolitik
   - Überzeugung, dass Deutschland einen Verteidigungskrieg führt
   - England als Hauptfeind: Befürwortung des uneingeschränkten U-Boot-Kriegs
 - Parteivorsitz der Nationalliberalen Partei (1917)
 
-#### Politischer Wandel nach 1918
+### Politischer Wandel nach 1918
 
 - Unterstützung der „Siegfriedenspolitik“ bis zur Kriegsniederlage:
   - Bleibt Monarchist, akzeptiert jedoch die Republik und sympathisiert mit einem parlamentarischen System
@@ -114,7 +112,7 @@ Stresemann sieht die „Krise des Parlamentarismus“ durch fehlende Konsensbild
 - Ende der Reparationszahlungen (1932)
 - Militärische Gleichberechtigung (1932)
 
-#### „Versäumnisse“ der Versöhnungspolitik:
+#### „Versäumnisse“ der Versöhnungspolitik
 
 - Nachhaltigkeit - Beständigkeit nach seinem Tod nicht gegeben
 
@@ -163,7 +161,7 @@ Stresemann sieht die „Krise des Parlamentarismus“ durch fehlende Konsensbild
 7. **Kontakt zu konservativen Eliten:**
    Stresemann blieb in Kontakt mit konservativen und monarchistischen Kreisen und versuchte, deren Interessen in die Republik einzubinden. Dies könnte den Eindruck erwecken, dass er sich nicht vollständig mit den demokratischen Werten identifizierte.
 
-#### Fazit:
+#### Fazit
 
 Stresemann kann als 'Vernunftrepublikaner' bezeichnet werden, da er die Weimarer Republik aus pragmatischen Gründen akzeptierte und verteidigte. Seine Haltung war jedoch nie völlig von ideologischer Übereinstimmung mit der republikanischen Staatsform geprägt, sondern eher von einer Einsicht in die Notwendigkeit einer funktionierenden staatlichen Ordnung. Stresemann zeigte sich bereit, die Republik zu unterstützen, um den politischen und sozialen Frieden zu wahren, jedoch ohne sich vollständig mit der republikanischen Idee zu identifizieren.
 

@@ -1,5 +1,7 @@
 # Niedergang der Demokratie Weimars
 
+## gesellschaftliche Rahmenbedingungen zum Ende der Demokratie
+
 ### wirtschaftliche Lage
 
 - Deutschland befand sich in einer schwierigen wirtschaftlichen Lage
@@ -7,7 +9,7 @@
 - Unzufriedenheit machte sich in der Bevölkerung breit
 - Weitere Infos: [Weltwirtschaftskriese](./Weltwirtschaftskriese.md)
 
-## gesellschaftliche Rahmenbedingungen zum Ende der Demokratie
+### Strukturelle Probleme
 
 - geringe Demokratieakzeptanz in der Bevölkerung
 - Kontinuität alter Eliten
@@ -45,7 +47,11 @@ Der Reichstag kann vom Reichspräsidenten **aufgelöst** werden. => Neuwahlen
 
 Wenn ein Land sich nicht an seine Pflichten hält, kann der Reichspräsident die Grundrechte außer Kraft setzen und mit militärischer Gewalt eingreifen. => **Notverordnung** (wirkt widersprüchlich und missbrauchsanfällig).
 
-## Gerhard Schulz: "[An] diesem Tag [18. Juli 1930] begann die permanente Durchbrechung des Verfassungssystems durch die Diktaturgewalt des Reichspräsidenten."
+## Gerhard Schulz über 18. Juli 1930
+
+> [An] diesem Tag [18. Juli 1930] begann die permanente Durchbrechung des Verfassungssystems durch die Diktaturgewalt des Reichspräsidenten.
+>
+> — Gerhard Schulz
 
 Das Zitat von Gerhard Schulz beschreibt einen kritischen Moment in der Geschichte der Weimarer Republik. Am 18. Juli 1930 begann laut Schulz die dauerhafte Verletzung des Verfassungssystems durch die diktatorische Macht des Reichspräsidenten. Dies bedeutet, dass an diesem Tag eine Phase eingeleitet wurde, in der die demokratischen Prinzipien und die Verfassung der Weimarer Republik zunehmend durch autoritäre Maßnahmen des Reichspräsidenten untergraben wurden. Das wurde über die **Präsidialkabinette** ermöglicht und durchgesetzt.
 

@@ -85,7 +85,6 @@ Allgemeine Merkmale
 
 ### Mittel-/Methodeneinsatz
 
-
 - **Kombination von regulären und irregulären, offenen und verdeckten Mitteln:**
   - **Militärische Konfrontation** (konventionelle und Guerillataktiken).
   - **Wirtschaftskrieg:** Blockaden, Störungen von Handels- und Versorgungsketten (Energieabhängigkeit von Russland)

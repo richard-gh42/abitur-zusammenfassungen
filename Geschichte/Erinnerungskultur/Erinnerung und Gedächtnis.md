@@ -2,7 +2,7 @@
 
 ## "Vom Nutzen und Nachteilen der Historie für das Leben" von Friedrich Nietzsches 1874
 
-- Umgang mit Geschichte beeinflusst Gegenwart und Zukunftserwartungen des Volkes 
+- Umgang mit Geschichte beeinflusst Gegenwart und Zukunftserwartungen des Volkes
 - Umgang mit der Geschichte verändert sich
   - Neubewertung
 - Vorteile:

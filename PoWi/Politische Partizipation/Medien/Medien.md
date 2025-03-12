@@ -22,7 +22,7 @@
 
 ### Öffentlich-rechtlicher Rundfunk
 
-#### Formen der Politikvermittlung:
+#### Formen der Politikvermittlung
 
 - Nachrichtensendungen: Sachliche und neutrale Berichterstattung über politische Ereignisse (z. B. Tagesschau, Heute).
 - Politikmagazine: Detaillierte Analysen und Hintergründe zu politischen Themen (z. B. Monitor, Panorama).
@@ -30,7 +30,7 @@
 - Dokumentationen und Reportagen: Vertiefte Darstellung politischer Entwicklungen und historischer Zusammenhänge.
 - Wahlberichterstattung: Live-Berichterstattung zu Wahlen, Interviews und Analysen.
 
-#### Möglichkeiten der politischen Partizipation:
+#### Möglichkeiten der politischen Partizipation
 
 - Interaktive Formate: Zuschauer können über Telefon, soziale Medien oder Online-Abstimmungen an Diskussionen teilnehmen.
 - Bürgerfragen in Sendungen: Einbeziehung von Bürgermeinungen und -fragen in politische Diskussionsformate.

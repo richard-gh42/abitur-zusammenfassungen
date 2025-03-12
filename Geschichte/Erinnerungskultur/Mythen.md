@@ -49,7 +49,7 @@ TODO Wir und Andere
 - über Götter und Heroen, über Ereignisse und Erlebnisse aus der Vorzeit zu einer religiösen Weltdeutung
 - versuchen rätselhafte Dinge zu erklären
   - Ordnung der Welt
-  - den Ursprung von religiösen Festen und kultischen Handlungen 
+  - den Ursprung von religiösen Festen und kultischen Handlungen
   - Erscheinungen in der Natur und am Himmel
 - können sich wandeln
   - wechsel von Kultur zu Kultur, neuinterpretation, Erwartungen verschiedener Zeiten

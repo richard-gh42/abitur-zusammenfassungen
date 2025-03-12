@@ -1,6 +1,6 @@
 # Gendern
 
-> "Der König schickt die Wache mit dem Schwert los, um den Angreifer abzuwehren."
+> Der König schickt die Wache mit dem Schwert los, um den Angreifer abzuwehren.
 
 Obwohl "die Wache" benutzt wird ist eher das Bild eines Mannes im Kopf. Allerdings bei vielen anderen Beispielen stimmt das sprachliche Geschlecht mit dem eher zugeordnetem Geschlecht überein.
 
