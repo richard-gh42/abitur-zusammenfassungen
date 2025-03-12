@@ -146,4 +146,14 @@ Das BSW meint, die bisherigen Abkommen seien „im Interesse multinationaler Kon
 
 ## Möglichkeiten und Grenzen von Handelsregimen (u. a. WTO, internationale Handelsabkommen)
 
-TODO
+TODO Vortrag
+
+- Was ist die WTO
+- Ziele
+- Prinzipien
+- Streitschlichtungsverfahren
+- Kritik / Zukunft?
+
+- globale Handelsregelungen
+- Beispiel (wie Mercosur, oder so)
+- Möglichkeiten und Grenzen von Handelsregimen
