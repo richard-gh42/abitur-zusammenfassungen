@@ -12,15 +12,15 @@
 - Handel wächst in letzter Zeit gleich mit dem globalen BIP
 - Daher keine Deglobalisierung, sondern Slowbalisation
 - Globalisierung hat eher ein stabiles Niveau erreicht, stagniert
-- Zuvor war eine Hyperglobalisierung - ein Außnahmezustand, der nicht für immer behalten werden konnte
+- Zuvor war eine Hyperglobalisierung - ein Ausnahmezustand, der nicht für immer behalten werden konnte
 
 ## Leitbilder der Außenhandelspolitik
 
-| | Freihandel | Protektionismus |
-| --- | --- | --- |
-| Maßnahmen | Abschaffen von Zöllen, Qualtiätsanforderungen und anderen Handelsvorschriften | Einführen von Zöllen, Qualtiätsanforderungen und anderen Handelsvorschriften |
-| Entscheidungsträger im Handel | Verbraucher, Unternehmen und öffentliche Institutionen | Staat, in kleinerem Rahmen Unternehmen etc. |
-| allgemeiner Wohlstand | tendentiell höher | tendentiell nidriger |
+|                               |  Freihandel                                                                   | Protektionismus                                                               |
+| ----------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| Maßnahmen                     | Abschaffen von Zöllen, Qualtiätsanforderungen und anderen Handelsvorschriften | Einführen von Zöllen, Qualtiätsanforderungen und anderen Handelsvorschriften  |
+| Entscheidungsträger im Handel | Verbraucher, Unternehmen und öffentliche Institutionen                        | Staat, in kleinerem Rahmen Unternehmen etc.                                   |
+| allgemeiner Wohlstand         | tendenziell höher                                                             | tendenziell niedriger                                                         |
 
 ### Vorteile des Freihandels
 
@@ -34,7 +34,7 @@
 
 #### 1. Verteilungskonflikte und Ungleichheit
 
-- Freihandel und Globalisierung erhöhen tendentiell den allgemeinen Wohlstand, sorgen aber nicht für Verteilungsgerechtigkeit
+- Freihandel und Globalisierung erhöhen tendenziell den allgemeinen Wohlstand, sorgen aber nicht für Verteilungsgerechtigkeit
 - für mache Menschen kann sich Freihandel negativ auswirken
   - Französische Bauern vs. billigere Argentinische Produkte (siehe Kritik an **Mercosur-EU-Handelsabkommen**)
 
@@ -64,7 +64,7 @@
 
 - Tarifäre Handelshemmnisse bezeichnen Zölle.
 - werden auf importierte oder - seltener - exportierte Ware erhoben
-- machen betroffene Produke für den Konsumenten teurer
+- machen betroffene Produkte für den Konsumenten teurer
 
 #### Schutzzoll
 
@@ -82,7 +82,7 @@ Zölle als Staatseinnahmen
   - **Einfuhrkontingente**: Mengenbeschränkungen für bestimmte Waren
   - **Produktstandards**: technische Normen, Verbraucher- und Umweltschutz)
 - Subventionen für einheimische Produzenten
-  - mehr Konkurenz für ausländische Unternehmen (Preisvorteil)
+  - mehr Konkurrenz für ausländische Unternehmen (Preisvorteil)
 - Öffentliche Auftragsvergabe an einheimische Unternehmen
 
 ## Positionen der Parteien zu Handelsabkommen
@@ -111,7 +111,7 @@ Die AfD will „vorteilhafte Handelsabkommen für unser Land“ abschließen. De
 
 ### Die Linke
 
-Die Linke möchte „eine weltweite Milliardärsteuer […] und Kooperationsabkommen anstelle von Freihandelsabkommen“.
+Die Linke möchte „eine weltweite Milliardärssteuer […] und Kooperationsabkommen anstelle von Freihandelsabkommen“.
 
 ### BSW
 
@@ -122,13 +122,13 @@ Das BSW meint, die bisherigen Abkommen seien „im Interesse multinationaler Kon
 ### Vorteile
 
 - **Wirtschaftsleistung steigt**: Steuereinnahmen steigen, Potential für bessere Lebensbedingungen
-  - **Skaleneffekt** - wennn mehr Produziert wird kostet das einzelne Produkt weniger - kann bei mehr Handel besser genutzt werden
+  - **Skaleneffekt** - wenn mehr Produziert wird kostet das einzelne Produkt weniger - kann bei mehr Handel besser genutzt werden
 - **Bessere Beziehungen**: Beziehungen zwischen den Ländern verbessern sich, auch wenn Beziehungen eine Bedingung für Handel sind.
 - **Billigere Ware** durch absolute / komparative Kostenvorteile
 
 ### Nachteile
 
-- **Inlandsarbeitsplätze fallen weg**: die armen französichen Rinderfarmer verlieren ihre Lebensgrundlage
+- **Inlandsarbeitsplätze fallen weg**: die armen französischen Rinderfarmer verlieren ihre Lebensgrundlage
 - **Länder verlieren an Einnahmen durch Zölle**: weniger Einnahmen
 - **Abhängigkeiten verstärken sich** durch mehr Handel (eher wenn Handel nur auf ein anderes Land bezogen ist, wie Gas aus Russland)
 
@@ -141,19 +141,120 @@ Das BSW meint, die bisherigen Abkommen seien „im Interesse multinationaler Kon
 ### Kontra
 
 - schwächt die EU-Wirtschaft, da Handelsabkommen teilweise an den Kriterien scheitern und sich die Länder anderen Handelspartnern zuwenden
-- Deutschland ist eine starke Exportnation und auf internationalen Handel angewiesen. Daher sind Handelsabkommen unablässlich.
+- Deutschland ist eine starke Exportnation und auf internationalen Handel angewiesen. Daher sind Handelsabkommen unerlässlich.
   - Andere Länder haben neben der EU auch weitere mögliche Handelspartner, daher hat die EU nicht die nötigen Druckmittel.
 
-## Möglichkeiten und Grenzen von Handelsregimen (u. a. WTO, internationale Handelsabkommen)
+## WTO (Welthandelsorganisation)
 
-TODO Vortrag
+### Was ist die WTO?
 
-- Was ist die WTO
-- Ziele
-- Prinzipien
-- Streitschlichtungsverfahren
-- Kritik / Zukunft?
+- internationale Organisation, die sich mit den Regeln des globalen Handels zwischen Staaten befasst
+- 1995 gegründet (Nachfolger des GATT (gegründet 1947) - General Agreement on Tariffs and Trade)
+  - Institutionalisierung des GATT
+- Sitz in Genf, Schweiz
 
-- globale Handelsregelungen
-- Beispiel (wie Mercosur, oder so)
-- Möglichkeiten und Grenzen von Handelsregimen
+### Ziele
+
+Ziele der WTO sind eine größtmögliche Transparenz der Handelspolitiken seiner Mitglieder, die Vereinbarung, Einhaltung und Überwachung der gemeinsamen multilateralen Handelsregeln sowie die fortwährende Liberalisierung des Welthandels durch Senkung/Abschaffung von Zöllen und anderen Handelshemmnissen sowie der Vereinfachung der Zollverfahren, die letztlich zur Stärkung der Wirtschaftskraft und Wettbewerbsfähigkeit führen sollen. Die besonderen Entwicklungsinteressen der ärmeren und ärmsten Mitglieder werden hierbei besonders berücksichtigt.
+
+### Abkommen der WTO
+
+- Güter- und Zollabkommen (**GATT**: General Agreement on Tariffs and Trade)
+  - Abbau von Exportbeschränkungen
+- Dienstleistungsabkommen (**GATS**: General Agreement on Trade in Services)
+  - Abbau von Hemmnissen in den Bereichen Telekommunikation, Banken und Versicherungen, Transport und Tourismus
+- Abkommen über geistiges Eigentum (**TRIPs**: Trade Related Aspects of Intellectual Property Rights)
+  - Schutz geistigen Eigentums: Patente, Marken, Urheberrecht, Industriedesign, Computerprogramme
+
+### die "drei Säulen"
+
+- **Forum für Verhandlungen** zwischen ihren Mitgliedern über den Abbau von Handelshemmnissen
+  - Welthandelsordnung stärken
+  - Marktöffnung weiter vorantreiben
+  - Integration von Entwicklungsländern in die Weltwirtschaft
+- **Überwachung der WTO-Abkommen** sowie der nationalen Handelspolitiken der WTO-Mitglieder
+  - Dies erfolgt in den Gremien der WTO
+    - Abkommen der WTO-Mitglieder werden geprüft
+    - Auslegungen zu einzelnen Verpflichtungen werden erörtert
+    - periodische handelspolitische Überprüfungen der WTO-Mitglieder
+    - G20-Mandat (Zusammen mit Weltbank und UNCTAD (UN Trade and Development)) zum Monitoring nationaler handelspolitischer Maßnahmen
+- **Streitschlichtung** im Falle der Verletzung von WTO-Abkommen
+  - Streitigkeiten unter den Mitgliedern der WTO zur Auslegung der Abkommen sowie zu Verletzungen dieser werden in einem eigenem multilateralem Gremium ausgetragen.
+  - Nur im Einsatz, wenn außergerichtliche Einigungen scheitern.
+  - **supranationales Organ**: Staaten müssen sich Mehrheitsentscheidungen fügen
+
+### Prinzipien
+
+#### Prinzip der Meistbegünstigung
+
+Alle Vorteile und Vergünstigungen müssen allen Mitgliedsstaaten gewährt werden.
+
+- Ware aus einem Land darf nicht zollpolitisch schlechter gestellt werden als aus einem anderen WTO-Mitgliedsland
+- Freihandelszonen sind von dem Meistbegünstigungsprinzip ausgenommen.
+
+#### Prinzip der Gleichbehandlung / Inländerprinzip
+
+**Gleichbehandlung**: ist Ware einmal importiert darf diese nicht schlechter als inländische Produkte behandelt werden
+
+- Rindfleisch aus Argentinien darf nicht - nach der Einfuhr - noch einmal extra besteuert werden
+- Länder dürfen jedoch ihre Wirtschaft gegen ausländische Konkurrenz schützen, wenn dieser die gleiche Wirkung für alle hat.
+
+#### Prinzip der Gegenseitigkeit
+
+Staaten müssen gleichwertige handelspolitische Vergünstigungen (Konzessionen) erbringen, wenn sie diese von einem anderen Handelspartner erhalten.
+
+- Entwicklungsländer sind ausgenommen
+
+#### Prinzip der Transparenz
+
+Mitgliedsstaaten müssen ihre Regelungen und Beschränkungen des Außenhandels veröffentlichen und der WTO mitteilen.
+
+#### Prinzip der Liberalisierung
+
+Die WTO bildet ein Verhandlungsforum, das dem Abbau aller Arten von Handelshemmnissen dient.
+
+#### Ausnahmen
+
+Es gibt kleine Ausnahmen, aber nur wenn sie nicht willkürlich sind und zu keiner ungerechtfertigten Diskriminierung führt.
+
+- Beispiel GATT Art. XX: Maßnahmen zum Schutz von Gesundheit, Natur oder nationalem Eigentum mit kulturellem Wert sind auch gegen die Prinzipien erlaubt.
+
+### Kritik an der WTO
+
+- Veraltete Strukturen und Regelungen
+  - Abkommen seit 1995 nicht überarbeitet => nicht mehr zeitgemäß
+  - Beispiel: die Berücksichtigung kleiner und mittelständischer Unternehmen, E-Commerce, Umweltstandards
+  - Ausweichen vieler Staaten von multilateralen Abkommen auf bilaterale, stellt sein ganz eigenes Problem dar
+- Steigende Anzahl bilateraler Handelsabkommen
+  - Bilaterale Abkommen gegen direkt gegen das Prinzip der Meistbegünstigung der WTO
+  - Verkomplizierung des Welthandels
+  - Beispiel: EU mit 42 Handelsabkommen mit knapp 80 Drittstaaten
+- Selbstblockade der WTO
+  - intergovernmentaler Ansatz benötigt einen einstimmigen Konsens
+  - beim UN-Sicherheitsrat sieht man ja schon, wie nur wenige VETO-Staaten den Prozess lahmlegen
+  - EU hat das gleiche Problem, jedoch in geringerem Ausmaß, da die Interessen und Kulturen - Vergleich Huntington - näher aneinander liegen
+
+### Hat die WTO Zukunft?
+
+- 2022 in Genf Einigung zu einer Reformation der WTO
+  - nach 3 Jahren noch nicht umgesetzt
+  - könnte an mangelnder konstruktiver Führung und Blockade der USA scheitern, allerdings wahrscheinlicher als eine Reform des UN-Sicherheitsrats
+  - trotzdem ist eine Zukunft der WTO möglich, aber nicht in derzeitiger Form
+
+### Trump
+
+- USA einst "Herzstück" der WTO
+- heute blockiert die USA die WTO
+  - begonnen mit Obama, erweitert durch Trump, weitergeführt durch Biden und dann wieder Trump
+  - die letzte Berufungsinstanz (Appellate Body) ist seid 2019, weil die USA sich gegen neue Richterernennungen stemmt, nicht handlungsfähig
+- Die USA verstößt mit Trump offen gegen die GATT.
+  - möglicherweise eine WTO ohne die USA?
+  - ungewisse Zukunft
+
+## RCEP-Abkommen
+
+TODO
+
+## Möglichkeiten und Grenzen von Handelsregimen
+
+TODO
