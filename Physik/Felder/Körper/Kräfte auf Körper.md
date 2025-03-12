@@ -10,9 +10,9 @@ TODO Tafelwerk
 - **Längsfeld**: Geladene Teilchen, die sich parallel zu den Feldlinien eines elektrischen Feldes bewegen, werden in **Bewegungsrichtung** (d.h. in Richtung der Feldlinien) beschleunigt oder abgebremst. Ist das Feld homogen überall gleich , so ist die **Beschleunigung oder Abbremsung gleichmäßig**.
 - **Querfeld**: Geladenen Teilchen, die sich senkrecht zu den Feldlinien eines elektrischen Feldes bewegen, werden in Richtung der Feldlinien beschleunigt. Ist das elektrische Feld homogen, so bewegen sich die Teilchen dabei auf einer **Parabelbahn**.
 
-## Lorentzkraft auf geladene Teilchen bei gegebener magnetischer Flussdichte
+## Lorentzkraft auf geladene Teilchen bei gegebener magnetischer Flussdichte (orthogonal)
 
-TODO Tafelwerk
+Tafelwerk: $F = Q \cdot v \cdot B$
 
 ## Bahnformen geladener Teilchen im homogenen magnetischen Feld (qualitativ), Lorentzkraft als Radialkraft (qualitativ)
 
