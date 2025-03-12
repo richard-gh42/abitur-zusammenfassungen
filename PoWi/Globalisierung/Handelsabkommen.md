@@ -159,6 +159,8 @@ Ziele der WTO sind eine größtmögliche Transparenz der Handelspolitiken seiner
 
 ### Abkommen der WTO
 
+![WTO Abkommen](../../images/PoWi/WTO.png)
+
 - Güter- und Zollabkommen (**GATT**: General Agreement on Tariffs and Trade)
   - Abbau von Exportbeschränkungen
 - Dienstleistungsabkommen (**GATS**: General Agreement on Trade in Services)
@@ -255,6 +257,8 @@ Es gibt kleine Ausnahmen, aber nur wenn sie nicht willkürlich sind und zu keine
 
 ## RCEP (Regional Comprehensive Economic Partnership)
 
+![RCEP Länder](../../images/PoWi/RCEP.png)
+
 - Freihandelsabkommen im asiatischen Raum
   - 15 Mitgliedstaaten
   - Größten Partner: China, Japan, Südkorea, Australien, Indonesien
@@ -304,6 +308,7 @@ Es gibt kleine Ausnahmen, aber nur wenn sie nicht willkürlich sind und zu keine
 - Durch das regionale Handelsabkommen werden die Beteiligten Volkswirtschaften gestärkt, jedoch der Welthandel geschwächt.
   - Dazu kommt, dass das Handelsabkommen nach dem PIIE gerade mal 174 Milliarden USD jährlich erwirtschaften wird, was für die Größe der Region minimal ist.
 
-## Möglichkeiten und Grenzen von Handelsregimen
+<!-- ## Möglichkeiten und Grenzen von Handelsregimen
 
 TODO
+-->
