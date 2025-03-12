@@ -1,5 +1,7 @@
 # Mythen
 
+TODO Wir und Andere
+
 ## Was ist ein Mythos?
 
 > Mythen sind daher, sinnstiftende Erzählungen, die eine bestimmte Erinnerung wachhalten wollen.
