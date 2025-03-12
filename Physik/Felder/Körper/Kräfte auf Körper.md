@@ -23,3 +23,4 @@ TODO Tafelwerk
 ## Richtung und Betrag der Lorentzkraft für den orthogonalen Fall
 
 - Beschleunigung **senkrecht zur Bewegungsrichtung** und **senkrecht zu den Feldlinien**
+- **Linke-Drei-Finger-Regel**: Daumen - Ladungsbewegung, Zeigefinger - Feldlinien, Mittelfinger - Kraftrichtung
