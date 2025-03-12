@@ -6,16 +6,14 @@
 
 ## Biografie und politische Überzeugungen Stresemanns bis 1919
 
-### Biografie und politische Überzeugungen Stresemanns bis 1919
-
-#### Frühere Jahre und Studienzeit
+### Frühere Jahre und Studienzeit
 
 - Nach Studium bis 1897: Beitritt in die Reformburschenschaft „Neogermania“
   - Positive Einstellung gegenüber dem liberalen Erbe von 1848 (Revolutionsversuch)
   - Bekenntnis zum nationalen Machtstaat
   - Keine Zugehörigkeit zu antisemitischen oder traditionellen Gruppen
 
-#### Wirtschaftliches Engagement und politische Anfänge
+### Wirtschaftliches Engagement und politische Anfänge
 
 - Wirtschaftslobbyist: Rechtsbeistand des „Verbands sächsischer Industrieller“ (1902–1908)
 - Einsatz für:
@@ -24,7 +22,7 @@
 - Heirat seiner Frau mit jüdischen Wurzeln (1903)
 - Beitritt zur Nationalliberalen Partei (1903)
 
-#### Politische Karriere bis 1914
+### Politische Karriere bis 1914
 
 - Mitglied des Reichstags ab 1907: Jüngster Abgeordneter
   - Konflikte mit dem rechten Flügel der Nationalliberalen Partei wegen seiner sozialgesetzlichen Reformideen (1907–1912)
@@ -33,14 +31,14 @@
   - Parlamentarisierung des politischen Systems
   - Weltwirtschaftliche Orientierung und deutsche Weltpolitik (die verstärkt auf Flotten-, Wehr- und Kolonialpolitik setzt)
 
-#### Zeit während des Ersten Weltkriegs
+### Zeit während des Ersten Weltkriegs
 
 - Reichstagsmitglied (1914–1918): Unterstützung der Annexionspolitik
   - Überzeugung, dass Deutschland einen Verteidigungskrieg führt
   - England als Hauptfeind: Befürwortung des uneingeschränkten U-Boot-Kriegs
 - Parteivorsitz der Nationalliberalen Partei (1917)
 
-#### Politischer Wandel nach 1918
+### Politischer Wandel nach 1918
 
 - Unterstützung der „Siegfriedenspolitik“ bis zur Kriegsniederlage:
   - Bleibt Monarchist, akzeptiert jedoch die Republik und sympathisiert mit einem parlamentarischen System
