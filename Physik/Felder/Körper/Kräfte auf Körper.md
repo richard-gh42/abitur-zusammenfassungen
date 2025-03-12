@@ -2,7 +2,7 @@
 
 ## Kraft auf geladene Teilchen bei gegebener elektrischer Feldstärke
 
-TODO Tafelwerk
+Tafelwerk: $F = E \cdot Q_P$
 
 ## Bahnformen geladener Teilchen im homogenen elektrischen Längs- und Querfeld (qualitativ)
 
