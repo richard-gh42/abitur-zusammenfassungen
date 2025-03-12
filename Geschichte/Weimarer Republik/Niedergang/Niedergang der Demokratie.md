@@ -1,5 +1,7 @@
 # Niedergang der Demokratie Weimars
 
+## gesellschaftliche Rahmenbedingungen zum Ende der Demokratie
+
 ### wirtschaftliche Lage
 
 - Deutschland befand sich in einer schwierigen wirtschaftlichen Lage
@@ -7,7 +9,7 @@
 - Unzufriedenheit machte sich in der Bevölkerung breit
 - Weitere Infos: [Weltwirtschaftskriese](./Weltwirtschaftskriese.md)
 
-## gesellschaftliche Rahmenbedingungen zum Ende der Demokratie
+### Strukturelle Probleme
 
 - geringe Demokratieakzeptanz in der Bevölkerung
 - Kontinuität alter Eliten
