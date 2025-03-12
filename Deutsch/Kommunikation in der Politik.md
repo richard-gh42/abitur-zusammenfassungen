@@ -1,6 +1,8 @@
 # Kommunikation in der Politik
 
-    "Was einmal gesagt wurde kann nicht mehr zurück genommen werden" (Die Physiker)
+> Was einmal gesagt wurde kann nicht mehr zurück genommen werden
+>
+> — Friedrich Dürrenmatt (Die Physiker)
 
 ## Herausforderungen der Politischen Kommunikation
 
