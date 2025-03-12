@@ -30,7 +30,7 @@ Energieerhaltungssatz:
 
 1. $E_{kin} = U_B \cdot e$
 2. $E_{kin} = \frac{1}{2} \cdot m_e \cdot (v_0)^2$
-3. $ U \cdot B \cdot e = \frac{1}{2} \cdot m_e \cdot (v_0)^2$
+3. $U \cdot B \cdot e = \frac{1}{2} \cdot m_e \cdot (v_0)^2$
 4. $v_0 = \sqrt{\frac{2 \cdot e \cdot U_B}{m_e}}$
 
 #### Zunahme der Stromstärke bei zunehmender Heizspannung
