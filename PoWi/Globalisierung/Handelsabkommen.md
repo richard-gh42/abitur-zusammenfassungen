@@ -228,7 +228,7 @@ Es gibt kleine Ausnahmen, aber nur wenn sie nicht willkürlich sind und zu keine
 - Steigende Anzahl bilateraler Handelsabkommen
   - Bilaterale Abkommen gegen direkt gegen das Prinzip der Meistbegünstigung der WTO
   - Verkomplizierung des Welthandels
-  - Beispiel: EU mit 42 Handelsabkommen mit knapp 80 Drittstaaten
+  - Beispiel: EU mit 42 Handelsabkommen mit knapp 80 Drittstaaten, RCEP-Abkommen (siehe unten)
 - Selbstblockade der WTO
   - intergovernmentaler Ansatz benötigt einen einstimmigen Konsens
   - beim UN-Sicherheitsrat sieht man ja schon, wie nur wenige VETO-Staaten den Prozess lahmlegen
@@ -248,12 +248,61 @@ Es gibt kleine Ausnahmen, aber nur wenn sie nicht willkürlich sind und zu keine
   - begonnen mit Obama, erweitert durch Trump, weitergeführt durch Biden und dann wieder Trump
   - die letzte Berufungsinstanz (Appellate Body) ist seid 2019, weil die USA sich gegen neue Richterernennungen stemmt, nicht handlungsfähig
 - Die USA verstößt mit Trump offen gegen die GATT.
+  - Die Zölle gegen einzelne Länder sind nach dem Meistbegünstigungsprinzip nicht erlaubt
+    - Zölle gegen Kanada, Mexiko und EU (25%)
   - möglicherweise eine WTO ohne die USA?
   - ungewisse Zukunft
 
-## RCEP-Abkommen
+## RCEP (Regional Comprehensive Economic Partnership)
 
-TODO
+- Freihandelsabkommen im asiatischen Raum
+  - 15 Mitgliedstaaten
+  - Größten Partner: China, Japan, Südkorea, Australien, Indonesien
+- 2020 gegründet
+
+### Gründung
+
+- Mit den Problemen der WTO lassen sich mehr Länder auf bilaterale oder regionale Handelsabkommen ein.
+- So auch in dem asiatischen Raum. Schon seid längerem sind kaum Handelshemmnisse innerhalb Asiens vorhanden.
+  - 2017 waren die durchschnittlichen tarifären Handelshemmnisse im RCEP-Raum bei gerade 1,6% (Vergleich USA hat Zölle in Höhe von 25% gegen die EU verhängt)
+    - Zwischen den einzelnen Staaten waren schon vorher bilaterale Handelsabkommen.
+  - also eigentlich kaum eine Veränderung durch die RCEP
+- Viele unterschiedliche Handelsabkommen machen es jedoch für Unternehmen schwierig zu handeln, wegen der unterschiedlichen Regelungen
+  - Vereinheitlichung führt zu Klarheit und weniger Bürokratie
+  - auch **Harmonisierung der Ursprungsregeln** genannt (Ursprungsregeln sind die bürokratischen Regeln für Handel basierend auf dem Ursprungsland)
+    - dazu zählt etwas wie der Ursprungsbeweis
+    - es muss bewiesen werden, dass ein Produkt in einem Land produziert wurde
+    - Beispiel: zuvor mussten chinesische Automobilexporteure belegen, dass min. 40% der Produktion in u. a. China stattfanden, um zollfrei nach Laos zu exportieren => kostspielig und ineffizient besonders für komplexe Wertschöpfungsketten
+
+### Folgen
+
+- mehr Handel im asiatischen Raum
+- Ausbau von Lieferketten
+- höherer wirtschaftlicher Verflechtungsgrad in Asien
+
+#### Folgen für Europa
+
+- Europäische Unternehmen in Asien profitieren von resilienteren Lieferketten.
+- Harmonisierung von Standards in Asien macht den Handel mit Asien einfacher.
+- Handelsumlenkungseffekte führen zu fallender Nachfrage aus Ware aus dem Westen
+  - insgesamt eher schädlich für Europa
+
+#### Neue Stellung von Asien im Bezug auf Handelsabkommen?
+
+- Die EU ist weltweit Vorreiter in Handelsabkommen (Nach WTO 46 Handelsabkommen mit 77 Ländern mit rund 1/5 des weltweiten BIP darunter fallend)
+- Besonders bei Produktstandards liegt die EU ganz vorne.
+- Derzeit stagniert der Fortschritt von Handelsabkommen mit der EU
+  - Liegt größtenteils an der weltpolitischen Lage, die sich stark geändert hat
+- Dabei gefährdet die RCEP die Stellung der EU
+
+#### Gefährdet RCEP die multilaterale Welthandelsordnung?
+
+- Die WTO wird weiter untermauert, durch mehr regionale Handelsabkommen.
+  - Fairerweise tut die EU das auch, selbst wenn Freihandelsabkommen nach GATT ausgenommen sind (unter besonderen Bedingungen, die hier aber nicht erreicht sind)
+  - Außerdem liegen die Probleme bei der WTO, was Länder zu regionalen / bilateralen Abkommen "zwingt".
+- Ökologische und humanitäre Standards werden nicht gesetzt.
+- Durch das regionale Handelsabkommen werden die Beteiligten Volkswirtschaften gestärkt, jedoch der Welthandel geschwächt.
+  - Dazu kommt, dass das Handelsabkommen nach dem PIIE gerade mal 174 Milliarden USD jährlich erwirtschaften wird, was für die Größe der Region minimal ist.
 
 ## Möglichkeiten und Grenzen von Handelsregimen
 
