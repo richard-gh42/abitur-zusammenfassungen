@@ -155,7 +155,11 @@ Das BSW meint, die bisherigen Abkommen seien „im Interesse multinationaler Kon
 
 ### Ziele
 
-Ziele der WTO sind eine größtmögliche Transparenz der Handelspolitiken seiner Mitglieder, die Vereinbarung, Einhaltung und Überwachung der gemeinsamen multilateralen Handelsregeln sowie die fortwährende Liberalisierung des Welthandels durch Senkung/Abschaffung von Zöllen und anderen Handelshemmnissen sowie der Vereinfachung der Zollverfahren, die letztlich zur Stärkung der Wirtschaftskraft und Wettbewerbsfähigkeit führen sollen. Die besonderen Entwicklungsinteressen der ärmeren und ärmsten Mitglieder werden hierbei besonders berücksichtigt.
+- größtmögliche Transparenz der Handelspolitiken
+- die Vereinbarung, Einhaltung und Überwachung der gemeinsamen multilateralen Handelsregeln
+- Liberalisierung des Welthandels durch Senkung/Abschaffung von Zöllen und anderen Handelshemmnissen
+- **letztlich zur Stärkung der Wirtschaftskraft und Wettbewerbsfähigkeit**
+- Die besonderen Entwicklungsinteressen der ärmeren und ärmsten Mitglieder werden hierbei besonders berücksichtigt.
 
 ### Abkommen der WTO
 
@@ -262,6 +266,9 @@ Es gibt kleine Ausnahmen, aber nur wenn sie nicht willkürlich sind und zu keine
 - Freihandelsabkommen im asiatischen Raum
   - 15 Mitgliedstaaten
   - Größten Partner: China, Japan, Südkorea, Australien, Indonesien
+  - 2,3 Milliarden Menschen (30% der weltweiten Bevölkerung)
+  - 29% der weltweiten Wirtschaftsleistung
+  - 29% der weltweiten Exporte
 - 2020 gegründet
 
 ### Gründung
