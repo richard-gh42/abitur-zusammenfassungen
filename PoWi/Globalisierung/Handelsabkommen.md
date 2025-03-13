@@ -310,6 +310,7 @@ Es gibt kleine Ausnahmen, aber nur wenn sie nicht willkürlich sind und zu keine
 
 - Die WTO wird weiter untermauert, durch mehr regionale Handelsabkommen.
   - Fairerweise tut die EU das auch, selbst wenn Freihandelsabkommen nach GATT ausgenommen sind (unter besonderen Bedingungen, die hier aber nicht erreicht sind)
+  - die EU ist eine Zollunion (gemeinsame Handelspolitik), RCEP nicht
   - Außerdem liegen die Probleme bei der WTO, was Länder zu regionalen / bilateralen Abkommen "zwingt".
 - Ökologische und humanitäre Standards werden nicht gesetzt.
 - Durch das regionale Handelsabkommen werden die Beteiligten Volkswirtschaften gestärkt, jedoch der Welthandel geschwächt.
@@ -328,3 +329,10 @@ Es gibt kleine Ausnahmen, aber nur wenn sie nicht willkürlich sind und zu keine
 - einheitliche Währung mit dem Euro
 - gemeinsame Innen- und Justizpolitik
 - Freizügigkeit zwischen den Ländern
+- Zollunion - Gemeinsame Handelspolitik der Mitgliedsstaaten
+
+### Kritik
+
+- WTO untermauert (auch wenn Freihandelsabkommen erlaubt)
+  - Welthandel geschwächt
+- wenig Freiheiten der einzelnen Mitglieder
