@@ -1,23 +1,20 @@
-# Erde
+# Mythos der Erde als Scheibe
 
-zuvor antike kugel + Umfangmessung von aristroteles
+- Schulbücher (2005 - heute nur noch teilweise) behaupten, Menschen im Mittelalter dachten die Erde sei eine Scheibe.
+- Quellen zeigen, dass im Mittelalter die Menschen wussten, die Erde ist eine Kugel.
 
-zuvor scheibe + Kirche / geozentrisches Weldbild
+## Entstehung des Mythos
 
-beide ohne amerika zu kennen
-1492 Behaim Seefahrer, dem bei Sudafrika spitze klar war das Kugel: erster Globus
-davor Toscanelli aufgrund von Reisebereichten und Antike
+- In der Renaissance versuchten die Menschen sich von dem Mittelalter abzuspalten.
+- Über den Mythos, dass die Menschen im Mittelalter rückständig waren, grenzt man sich ab.
+  - Abgrenzung stärkt die **eigene Identität und Zusammengehörigkeit**.
+  - Die **Aufklärung** profitiert stark von der Abgrenzung zu dem "verklärten Mittelalter".
+- Glechzeitig gab es eine Rückbesinnung auf die Antike, wo die Erde schon als Kugel gesehen wurde.
+- Kolumbus als Entdecker der Erdkugel hörte sich gut an und ließ sich als Roman (mit ausgedachten Quellen) **monetarisieren**.
+  - **Washington Irving** mit seinem Roman über Kolumbus
 
-mit der Zeit und weiteren seewegen Kugel vorstellung
+## Der Mythos heute
 
-M3
-
-a)
-Hrabanus Maurus, 820 in Fulda
-
-b)
-Sterne verfinstern, Wölbung der Welt => Erdball
-
-c)
-Intention: Nötig für die Zeitrechnung für das Osterfest, richtigstellung des Termins
-Addressat: Gebildetes und Klerikales Umfeld
+- Schulbücher transportieren auch nur die Narrative der Zeit.
+  - Schulbücher (Literatur) wird zur Quelle
+- Heute spielt die Aufklärung immernoch eine große Rolle. Das Narrativ des "rückständigen Mittelalters" kann dabei auch die **kollektive Identität** stärken.
