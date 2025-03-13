@@ -9,6 +9,8 @@
 - Über den Mythos, dass die Menschen im Mittelalter rückständig waren, grenzt man sich ab.
   - Abgrenzung stärkt die **eigene Identität und Zusammengehörigkeit**.
   - Die **Aufklärung** profitiert stark von der Abgrenzung zu dem "verklärten Mittelalter".
+  - Nutzung des Mythos als politischer Mythos gegen die Kirche
+    - Thomas Paine (US-Gründungsvater) behauptet, die Kirche verfolgte Personen, die an die Kugelform der Erde glaubten, um die Kirche vom Staat abzutrennen.
 - Glechzeitig gab es eine Rückbesinnung auf die Antike, wo die Erde schon als Kugel gesehen wurde.
 - Kolumbus als Entdecker der Erdkugel hörte sich gut an und ließ sich als Roman (mit ausgedachten Quellen) **monetarisieren**.
   - **Washington Irving** mit seinem Roman über Kolumbus
