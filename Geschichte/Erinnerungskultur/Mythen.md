@@ -30,6 +30,10 @@ TODO Wir und Andere
 - Ziel: nicht eine "objektive" wissenschaftliche Rekonstruktion historischer Wirklichkeit, sondern mit dem Anspruch die "richtige" und bedeutsame Geschichte zu erzählen
   - **Autoritätsanspruch**
 
+## Die Macht der Mythen
+
+Mythen haben über die Gesellschaft eine gewisse Macht, die die Gesellschaft prägt und so u. a. das Weiterbestehen des Mythos stärkt.
+
 ## Kennzeichen politischer Mythen
 
 > Politische Mythen unterscheiden sich zu anderen Mythen dadurch, dass eine Intention und Funktion hinter den Mythen steckt - das Beeinflussen des Denken und Handelns der Bevölkerung.
