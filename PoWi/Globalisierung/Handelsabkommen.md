@@ -315,7 +315,16 @@ Es gibt kleine Ausnahmen, aber nur wenn sie nicht willkürlich sind und zu keine
 - Durch das regionale Handelsabkommen werden die Beteiligten Volkswirtschaften gestärkt, jedoch der Welthandel geschwächt.
   - Dazu kommt, dass das Handelsabkommen nach dem PIIE gerade mal 174 Milliarden USD jährlich erwirtschaften wird, was für die Größe der Region minimal ist.
 
-<!-- ## Möglichkeiten und Grenzen von Handelsregimen
+## EU-27
 
-TODO
--->
+- Freihandelszone in Europa
+- 27 Mitgliedstaaten (etwa 17% der Weltbevölkerung)
+- 18,2% des weltweiten BIP
+- 1957 mit der EU gegründet ergänzt 1960 durch EFTA (European Free Trade Association) Freihandel
+
+### Besonderheiten
+
+- hohe Produktstandards
+- einheitliche Währung mit dem Euro
+- gemeinsame Innen- und Justizpolitik
+- Freizügigkeit zwischen den Ländern
