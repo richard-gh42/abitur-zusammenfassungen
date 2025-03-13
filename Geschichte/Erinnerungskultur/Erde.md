@@ -21,6 +21,6 @@ Wegen weniger Quellen wurde das Narrativ von den Erzählungen aus der Neuzeit ge
 
 - Schulbücher transportieren auch nur die Narrative der Zeit.
   - Schulbücher (Literatur) wird zur Quelle
-  - Gründe: Teilweise aufgrund mangelnder Sachkenntnisse / Übernahme aus alten Schulbüchern
+  - Gründe: Teilweise aufgrund mangelnder Sachkenntnisse / Übernahme aus alten Schulbüchern (Schulbücher haben in erster Linie monetäre Interessen und Überarbeitung kostet Zeit und Geld)
 - Heute spielt die Aufklärung immernoch eine große Rolle. Das Narrativ des "rückständigen Mittelalters" kann dabei auch die **kollektive Identität** stärken.
   - Die meisten Schulbücher heute behandelt das Thema differenziert, allerdings gibt es noch Schulbücher, die Kolumbus die Entdeckung der Erde als Kugel zusprechen.
