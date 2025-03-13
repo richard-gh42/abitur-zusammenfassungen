@@ -15,6 +15,9 @@
 
 ## Der Mythos heute
 
+Wegen weniger Quellen wurde das Narrativ von den Erzählungen aus der Neuzeit genommen, ohne diese kritisch zu hinterfragen. Mit den letzten Jahren und geschichtswissenschaftlichen Fortschritten wurde der Mythos wissenschaftlich wiederlegt.
+
 - Schulbücher transportieren auch nur die Narrative der Zeit.
   - Schulbücher (Literatur) wird zur Quelle
 - Heute spielt die Aufklärung immernoch eine große Rolle. Das Narrativ des "rückständigen Mittelalters" kann dabei auch die **kollektive Identität** stärken.
+  - Die meisten Schulbücher heute behandelt das Thema differenziert, allerdings gibt es noch Schulbücher, die Kolumbus die Entdeckung der Erde als Kugel zusprechen.
