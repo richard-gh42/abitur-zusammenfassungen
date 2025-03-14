@@ -75,7 +75,7 @@ $$t_H = R \cdot C \cdot ln(2)$$
 
 ### Schaltplan und Messung der Aufladungskurve
 
-TODO
+![Schaltplan Kondensator Aufladevorgang](../../../images/Physik/Kondensator-Aufladevorgang.jpeg)
 
 ## zeitlicher Verlauf der Stromstärke beim Entladungsvorgang
 
