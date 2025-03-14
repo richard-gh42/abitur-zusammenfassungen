@@ -9,7 +9,13 @@
 
 ### Bestimmung von B mithilfe einer Stromwaage
 
-TODO
+1. Quadratische Spule (eine Windung) wird in ein homogenes Magnetfeld an einem Kraftmessgerät gehängt.
+2. Spannungsquelle wird an die Spule geschlossen.
+3. Magnetfeld muss so ausgerichtet sein, dass die Lorentz-Kraft nach unten zeigt für den Draht, der Parallel zum Boden zeigt.
+4. Kräfte an den Leiern, zu den Seiten gleichen sich aus.
+5. Nur die Kraft nach unten macht sich bemerkbar und messbar an dem Kraftmessgerät.
+
+[Leifi Stromwaage](https://www.leifiphysik.de/elektrizitaetslehre/stroeme-magnetisches-feld/versuche/magnetischen-kraft-und-definition-der-magnetischen-flussdichte-mit-der-stromwaage)
 
 ## Magnetfeld einer stromdurchflossenen Spule
 
