@@ -20,7 +20,3 @@ Tafelwerk: $E_{kin} = Q \cdot U$ nach Beschleunigung im E-Feld
 
 - $\frac{1}{2} m v^2$ gleich der kinetischen Energie der Ladung nach Beschleunigung gleichsetzen
 - Zu v umstellen
-
-## Elektronenvolt (eV) als Einheit
-
-TODO
