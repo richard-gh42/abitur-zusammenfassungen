@@ -18,5 +18,7 @@ Tafelwerk: $E_{kin} = Q \cdot U$ nach Beschleunigung im E-Feld
 
 ### Geschwindigkeitsberechnung über kinetische Energie einer Ladung nach der Beschleunigung in einem elektrischen Feld
 
+> Nützlich für Wehneltzylinder / Elektronenstrahlröhre / Franck-Hertz-Versuch
+
 - $\frac{1}{2} m v^2$ gleich der kinetischen Energie der Ladung nach Beschleunigung gleichsetzen
 - Zu v umstellen
