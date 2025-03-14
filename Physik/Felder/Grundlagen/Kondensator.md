@@ -70,6 +70,10 @@ Die Halbwertszeit ist proportional zum Wiederstand und der Kapazität. Daher dau
 
 $$t_H = R \cdot C \cdot ln(2)$$
 
+### Schaltplan und Messung der Aufladungskurve
+
+TODO
+
 ## zeitlicher Verlauf der Stromstärke beim Entladungsvorgang
 
 exponentielle Senkung der Stromstärke
