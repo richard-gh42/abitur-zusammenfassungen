@@ -1,6 +1,6 @@
 # Induktion durch Änderung des magnetischen Flusses
 
-## Definition des magnetischen Flusses
+## Definition des magnetischen Flusses $\Phi$
 
 TODO
 
