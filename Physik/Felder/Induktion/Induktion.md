@@ -12,6 +12,10 @@ Der magnetische Fluss hängt von drei Faktoren ab:
 
 $$\Phi = B \cdot A \cdot cos(\phi)$$
 
+## Experimente zur Erzeugung einer Indunktionsspannung
+
+TODO
+
 ## Induktionsgesetz unter Verwendung der mittleren Änderungsrate des magnetischen Flusses (Differenzenquotient)
 
 TODO
