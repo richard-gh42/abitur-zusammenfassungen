@@ -15,6 +15,8 @@ Das Feldlinienmodell ist eine Möglichkeit ein Feld zu visualisieren. Die Feldli
   - Elektrische Feldlinien zeigen immer in die Richtung der Kraft auf einen positiv geladenen Probekörper.
 - Magnetisches Feld: Nord zu Süd
 
+TODO Ist Feldlinien zeichen im Tafelwerk?
+
 ### grundlegende elektrische Feldlinienbilder
 
 ![E-Feldlinienbilder](../../../images/Physik/E-Feldlinienbilder.jpeg)
