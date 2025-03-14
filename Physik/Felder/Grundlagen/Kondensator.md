@@ -8,6 +8,10 @@
 
 Es entsteht ein homogenes E-Feld zwischen den Platten.
 
+## Einsatzmöglichkeiten von Kondensatoren in technischen Systemen
+
+TODO
+
 ## Definition der Kapazität
 
 Die Kapazität ist das Speichervermögen eines Kondensators, also wie viele Ladungen gespeichert werden können.
