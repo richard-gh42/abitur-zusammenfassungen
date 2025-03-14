@@ -10,7 +10,10 @@ Es entsteht ein homogenes E-Feld zwischen den Platten.
 
 ## Einsatzmöglichkeiten von Kondensatoren in technischen Systemen
 
-TODO
+Alles, wo für kurze Zeit Strom gespeichert werden muss.
+
+- Smartphones
+- Standlicht bei Fahrrad-LED (hohe Kapazität)
 
 ## Definition der Kapazität
 
