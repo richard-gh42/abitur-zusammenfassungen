@@ -14,16 +14,8 @@ $$\Phi = B \cdot A \cdot cos(\phi)$$
 
 ## Experimente zur Erzeugung einer Indunktionsspannung
 
-TODO
+TODO Wo läuft der Strom?
 
-## Induktionsgesetz unter Verwendung der mittleren Änderungsrate des magnetischen Flusses (Differenzenquotient)
+## Technische Anwendung für Induktion
 
-TODO
-
-## Anwendung des Induktionsgesetzes in den Spezialfällen konstanter Fläche und konstanter magnetischer Flussdichte
-
-TODO
-
-## Zusammenhang zwischen der Richtung des Induktionsstroms und seiner Wirkung
-
-TODO
+TODO Heydecke
