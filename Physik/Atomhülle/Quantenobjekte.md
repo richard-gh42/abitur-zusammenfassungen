@@ -5,6 +5,13 @@
 - Entweder gesamte Energie abgeben oder keine (elastischer Stoß)
 - Welleneigenschaften und Teilcheneigenschaften
 
+## wichtige Begriffe zu Quantenobjekten
+
+- **Realität**: durch Messung beeinflusst
+- **Lokalität**: wenn ich weiß, durch welche Tür das Elektron gekommen ist habe ich ein anderes Interferenzmuster
+- **Kausalität**: erst wenn man etwas misst kann man einen Grund sagen, vorher hat es keinen Sinn irgendein Verhalten oder irgendwelche Eigenschaften den Quanten zuzuweisen
+- **Determinismus**: erst beim Messen determiniert, nur Wahrscheinlichkeiten
+
 ## Eigenschaften von Quantenobjekten
 
 ### Statistische Vorhersagbarkeit
