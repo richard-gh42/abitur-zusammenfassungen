@@ -61,3 +61,5 @@ TODO Kontrolle ob im Tafelwerk
 ## Aufbau eines elektromagnetischen Schwingkreises
 
 TODO
+
+TODO kurz, was Thomsche schwingungsgleichung ist
