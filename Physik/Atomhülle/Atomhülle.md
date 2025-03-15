@@ -12,6 +12,10 @@ TODO
 
 TODO
 
+## Beschreibung der Orbitale des Wasserstoffatoms bis $n = 2$
+
+TODO
+
 ## Leuchterscheinungen (Fluoreszenz)
 
 TODO
