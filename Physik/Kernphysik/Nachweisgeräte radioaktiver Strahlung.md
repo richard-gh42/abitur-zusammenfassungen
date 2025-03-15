@@ -45,38 +45,6 @@ TODO (Studyflix Video)
 - Universell (alpha / beta Strahlung) gemessen
 - Kostengünstig
 
-## Nebelkammer
-
-- Was für Strahlung anhand von Energie / Länge der Spuren
-- Unterschied zwischen Alpha und Beta anhand von E-Feld oder B-Feld, die die Teilchen wegen unterschiedlicher Ladung unterschiedlich ablenken
-
-- staubfreie Kammer
-- Elektrisches Feld zwischen Deckel und Boden entfernt alle vorhandenen Ionen
-- Luft mit Wasser- und Alkoholdampf gesättigt in der Kammer
-- Druck wird gesenkt
-  - Dampf müsste kondensieren, da die Aufnahmefähigkeit der Luft für Wasser mit dem Druck sinkt
-- Kleine, rasch durchgeführte Drucksenkung führt wegen fehlender Keime nicht gleich zur Kondensation, sondern zu einem übersättigten Dampf
-- Ionen, die durch ionisierende Strahlung entstehenden bilden kleine Nebeltröpfchen
-- Es entstehen Spuren mit gleicher Tropfendichte.
-- Ionisierende Strahlung erzeugt auf Strecken Ionen
-- Die Bildung von Ionen erfordert eine bestimmte Energie
-  - Die Länge der Strahlen zeigt die Energie der Strahlung
-
-## Szintillationszähler
-
-- Misst nur Gammastrahlen, da Alpha- und Betastrahlung abgeschirmt wird (kollidieren mit ersten Atomen und dann vorbei)
-  - Dringt nicht ins innere des Kristalls ein.
-- Anzahl der Elektronen
-
-- Gamma-Strahlung trifft auf Kristall
-  - Löst Elektronen
-  - Elektronen treffen auf Atome
-  - Energieniveau der Atome steigt
-  - Fällt wieder
-  - Gibt licht ab
-- Wird verstärkt und gebündelt
-- Wird gemessen von einer Fotokathode
-
 ## Halbleiterdetektoren
 
 - Messung der Energie, da Energie proportional zur gemessenen Spannung
@@ -85,3 +53,5 @@ TODO (Studyflix Video)
 
 - Diode wird in Sperrrichtung geschaltet
 - Gelegentliche Spannungsimpulse, da einzelne Atome ionisiert werden und Elektronen frei werden
+
+TODO ausführlicher
