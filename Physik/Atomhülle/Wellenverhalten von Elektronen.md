@@ -12,7 +12,7 @@ Dafür wird eine **Elektronenbeugungsröhre** verwendet. Die Elektronenbeugungsr
 - Folie aus polykristallinem Graphit
 - Fluoreszenzschirm
 
-### Funktionsweise der Elektronenbeugungsröhre
+## Funktionsweise der Elektronenbeugungsröhre
 
 1. Die Elektronen schießen gebündelt aus dem Wehneltzylinder heraus
 2. Die Elektronen gehen durch die Folie aus polykristallinem Graphit hindurch
@@ -26,7 +26,7 @@ Außerdem stellt man fest, dass bei höherer Beschleunigugsspannung das Muster n
 
 ### Wehneltzylinder (Elektronenbündelung)
 
-### Glühelektrischer Effekt
+#### Glühelektrischer Effekt
 
 Der Glühelektrische Effekt besagt, dass eine durch Hitze in einem Leiter Elektronen ausgelöst werden und sich aus dem Leiter lösen.
 
@@ -57,10 +57,12 @@ Die De-BROGLIE-Wellenlänge besagt, dass jedes Objekt mit Masse und Geschwindigk
 
 Es werden die Eigenschaften von Photonen auf Objekte mit Ruhemasse, z.B. Elektronen übertragen.
 
-## plancksches Wirkungsquantum
+TODO Tafelwerk Wellenlängenberechnung
+
+### plancksches Wirkungsquantum
 
 Das **plancksche Wirkungsquantum** ($h \approx 6{,}626 \cdot 10^{-34} \, \text{Js}$) ist eine fundamentale Konstante der Quantenmechanik. Es beschreibt die Energie eines Photons in Abhängigkeit von seiner Frequenz: $E = h \cdot f$.
 
-## De-BROGLIE-Wellenlänge bei makroskopischen Objekten
+### De-BROGLIE-Wellenlänge bei makroskopischen Objekten
 
 Die De-BROGLIE-Wellenlänge hängt von der Masse und Geschwindigkeit ab. Wenn die Masse so groß wie bei einem makroskopischen Objekt ist, muss die Geschwindigkeit unglaublich langsam sein, um eine Wellenlänge wie beispielsweise eines Elektrons zu haben. Daher ist die De-BROGLIE-Wellenlänge bei makroskopischen Objekten praktisch nicht erkennbar.
