@@ -94,14 +94,6 @@ Das Schirmbild hinter zeigt Beugungs- und Interferenzerscheinungen. Es bilden si
 - Spaltbreite
   - Einfluss auf die Intensität der Maxima, jedoch nicht auf das Interferenzmuster
 
-## Wellenlängenbestimmung von monochromatischem Licht
-
-TODO
-
-## Entstehung des Spektrums von weißem Licht beim Doppelspalt
-
-TODO
-
 ## Interferenz am Gitter (Licht)
 
 - mehr Spalte => kein Einfluss auf den Abstand der Hauptmaxima
