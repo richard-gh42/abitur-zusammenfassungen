@@ -66,17 +66,21 @@ Schallwellen können quasi unendlich lange Kohärent sein, da sie sich im selben
 
 Wellen haben eine **Kohärenzlänge** dies ist die Distanz, bis wo die Wellen kohärent bzw. nahezu kohärent sind. Die Kohärenzlänge hängt von dem Erreger ab - z. B. haben Laser im Vergleich zu Glühbirnen eine lange Kohärenzlänge.
 
-### Periodendauer / Frequenz
+### Periodendauer $T$ / Frequenz $f$
 
-Zeit, die jeder einzelne Träger der harmonischen Welle für eine volle Periode benötigt.
+Zeit, die jeder einzelne Träger der harmonischen Welle für eine volle Periode benötigt. / Anzahl der vollen Perioden pro Sekunde.
 
-### Ausbreitungsgeschwindigkeit
+### Ausbreitungsgeschwindigkeit $c$
 
 Die Ausbreitungsgeschwindigkeit beschreibt die Geschwindigkeit mit der sich die **Wellenfronten** in Richtung der Wellennormalen bewegen. Die Ausbreitungsgeschwindigkeit is **ausschließlich** von dem **Medium abhängig**.
 
-### Wellenlänge
+### Wellenlänge $\lambda$
 
-Die Wellenlänge ist der Abstand zwischen zwei Trägern, die um eine volle Schwingung verschoben sind - also z. B. zwei nebeneinanderliegenden Wellenbergen.
+Die Wellenlänge ist der Abstand zwischen zwei Trägern, die um eine volle Periode verschoben sind - also z. B. **zwei nebeneinanderliegenden Wellenbergen**.
+
+## Zusammenhang zwischen Wellenlänge und Frequenz
+
+Tafelwerk: $\lambda = c \cdot T$
 
 ## Wellenarten
 
@@ -159,4 +163,4 @@ Dieser Link beschreibt das Huygenssche Prinzip sehr anschaulich: [Leifi](https:/
 
 ## Spektrum elektromagnetischer Wellen
 
-TODO Tafelwerk (ca. von wo was Licht)
+Siehe Tafelwerk (ca. wo sichtbares Licht)
