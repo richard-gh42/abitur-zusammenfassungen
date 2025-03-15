@@ -11,3 +11,9 @@ Bei einem diskreten Absorptionsspektrum fehlen einzelne Linien in einem kontinui
 ## diskretes Emissionsspektrum‚
 
 Ein diskretes Emissionsspektrum ist ein Spektrum, das nur aus diskreten, also nicht ineinander übergehenden, Linien besteht. Es entsteht durch das Anregen der Elektronen in Atomen über beispielsweise den Beschuss mit Elektronen. Dabei gehen die Elektronen in einen höheren Energiezustand über. Nach kurzer Zeit (hängt von dem Element ab) fallen die Elektronen wieder in einen niedrigeren Energiezustand zurück. Die Energie dabei wird meist in Form von Licht abgegeben. Da die Wellenlänge von Licht von der Energie abhängt und nur Photonen bestimmter Energieniveaus abgegeben werden, gibt es nur Licht mit diesen bestimmten Wellenlängen. Nach der Brechung finden sich daraufhin nur noch bestimmte Linien, da es auch nur noch diese Wellenlängen gibt.
+
+## Spektrallinien und Energieniveauschemata von Sternen
+
+TODO
+
+TODO Ausrechnen von Wellenlänge anhand von Energie
