@@ -26,11 +26,11 @@ Ein Modell, um diskrete Energieniveaus zu erklären, stellt sich Elektronen mit 
 
 ## Beschreibung der Orbitale des Wasserstoffatoms bis $n = 2$
 
-TODO
+TODO Heydecke Was ist gemeint?
 
 ### Zusammenhang zwischen Orbitalen und Nachweiswahrscheinlichkeiten für Elektronen
 
-TODO
+TODO Heydecke Was ist gemeint?
 
 ## Leuchterscheinungen (Fluoreszenz)
 
