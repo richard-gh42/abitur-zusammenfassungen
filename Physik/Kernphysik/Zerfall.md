@@ -33,7 +33,7 @@ Radioaktive Kerne zerfallen bei zu großer Masse, bei ungünstigen Verhältnis z
   - Lassen sich von E-Feldern und B-Feldern ablenken
 - Sehr energiereich, hohes Ionisierungsvermögen (ionisiert viele Teilchen in kleinem Raum)
 - auch Gammastrahlung entsteht
-- Sehr Leicht abschirmbar (sehr geringe Reichweite), da die Strahlung mit den Atomen koalliediert.
+- Sehr Leicht abschirmbar (sehr geringe Reichweite), da die Strahlung mit den Atomen kollidiert.
   - Die Haut kann die meiste Alpha-Strahlung abschirmen.
   - wenn eingeatmet (siehe Tschernobyl eingeatmeter Feinstaub) sehr gefährlich
 
@@ -42,6 +42,15 @@ Radioaktive Kerne zerfallen bei zu großer Masse, bei ungünstigen Verhältnis z
 - Protonen und Neutronen sind Quantenobjekte
 - Einzelne Nukleonen haben eine hundertprozentige Wahrscheinlichkeit im Kern zu sein.
 - Tunneleffekt: Zwei Protonen und zwei Neutronen haben unter den richtigen Bedingungen (u. a. ungünstiges Verhältnis von Neutronen / Elektronen, große Masse) eine sehr geringe Wahrscheinlichkeit außerhalb des Kerns zu sein
+
+### kontinuierliches Spektrum der Alpha-Strahlung
+
+- **Idealfall**: gleiche Energiemenge bei aller Strahlung
+- Energie = Energie des vorherigen Atoms - Energie des neuen Atoms
+- Wenn **diskrete Energieniveaus anders** sind bei dem neuen Atom
+  - **unterschiedliche Energie** bei jedem Zerfall (**Feinstruktur**)
+  - Diskrete Energie des Zerfalls je nach Energieniveaus (Grund für **mehrere Peaks**)
+- **Real**: **Kontinuierlich (Verschmiert)**, da die Strahlung **unelastisch** auf dem Weg zum Messgerät **stößt** und **Energie abgibt**
 
 ## Beta-Minus-Zerfall
 
