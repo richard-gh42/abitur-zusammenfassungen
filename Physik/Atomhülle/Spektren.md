@@ -16,4 +16,6 @@ Ein diskretes Emissionsspektrum ist ein Spektrum, das nur aus diskreten, also ni
 
 TODO
 
-TODO Ausrechnen von Wellenlänge anhand von Energie
+TODO Ausrechnen von Wellenlänge anhand von Energie und Zuordnung zu Elementen
+
+### Energieniveaus von Wasserstoff mit der Balmerformel
