@@ -9,13 +9,13 @@
 
 ## Feldlinienmodell
 
-Das Feldlinienmodell ist eine Möglichkeit ein Feld zu visualisieren. Die Feldlienen veranschaulichen modellhaft die Struktur des E-Feldes. Je dichter die Feldlinien sind, desto stärker ist das E-Feld.
+Das Feldlinienmodell ist eine Möglichkeit ein Feld zu visualisieren. Die Feldlinien veranschaulichen modellhaft die Struktur des E-Feldes. Je dichter die Feldlinien sind, desto stärker ist das E-Feld.
 
 - Elektrisches Feld: Plus zu Minus
   - Elektrische Feldlinien zeigen immer in die Richtung der Kraft auf einen positiv geladenen Probekörper.
 - Magnetisches Feld: Nord zu Süd
 
-TODO Ist Feldlinien zeichen im Tafelwerk?
+TODO Ist Feldlinien zeichnen im Tafelwerk?
 
 ### grundlegende elektrische Feldlinienbilder
 
@@ -34,7 +34,7 @@ TODO Ist Feldlinien zeichen im Tafelwerk?
 
 #### Dipolfeld
 
-![B-Feldlienenbild](../../../images/Physik/B-Feldlinienbild.jpeg)
+![B-Feldlinienbild](../../../images/Physik/B-Feldlinienbild.jpeg)
 
 - quellenfreies Wirbelfeld
   - die Feldlinien besitzen keine Quelle, sondern sind Kreise bzw. Wirbel d. h. sind geschlossen

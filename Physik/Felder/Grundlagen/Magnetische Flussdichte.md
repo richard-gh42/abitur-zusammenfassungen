@@ -22,14 +22,14 @@
 - alle Magnetischen Felder durch den Leiter werden addiert (Superposition)
 - es entsteht ein Stabmagnet-ähnliches Magnetfeld
 - im Innenraum der Spule entsteht ein homogenes Magnetfeld
-- Richtung der Feldlinen kann über die Linke-Hand-Regel bei Leitern bestimmt werden
+- Richtung der Feldlinien kann über die Linke-Hand-Regel bei Leitern bestimmt werden
   - für einen Punkt der Spule herausfinden
   - für den Rest denken, da addition
 
 ### Einfluss (qualitativ) von Stromstärke, Windungszahl, Spulenlänge, Medium im Inneren
 
-- B ~ Stromstärke
-- B ~ Windungszahl
-- B ~ $\frac{1}{\text{Spulenlänge}}$
-- B ~ Windungsdichte ($\frac{\text{Windungszahl}}{\text{Spulenlänge}}$)
-- B ~ relativer Permeabilität des Mediums im Inneren
+- B ~ Stromstärke $I$
+- B ~ Windungsdichte ($\frac{\text{Windungszahl}}{\text{Spulenlänge}}$) $\frac{n}{l}$
+  - B ~ Windungszahl $n$
+  - B ~ $\frac{1}{\text{Spulenlänge}}$ $\frac{1}{l}$
+- B ~ relativer Permeabilität des Mediums im Inneren $\mu_r$
