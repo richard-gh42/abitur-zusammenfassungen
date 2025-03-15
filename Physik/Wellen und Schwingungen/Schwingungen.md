@@ -16,30 +16,48 @@ Das bedeutet, dass es eine **Ruhelage** (auch Gleichgewichtslage genannt) gibt. 
 
 Beispiel: Federpendel, elektromagnetischer Schwingkreis
 
-### Schwingungsebene
-
-TODO
-
 ### Auslenkung
 
-TODO
+Die Auslenkung ist die momentane Entfernung des Körpers von der Ruhelage.
+
+### Schwingungsebene
+
+Die Schwingungsebene bezeichnet die Ebene, in welcher die Schwingung stattfindet - also die Richtung der Auslenkung.
 
 ### Amplitude
 
-TODO
+Die Amplitude bezeichnet die maximale Auslenkung der Schwingung.
+
+### Frequenz $f$ und Periodendauer $T$
+
+Die Periodendauer ist die Zeit die die Schwingung von einer Auslenkung wieder in die gleiche Auslenkung (Bewegungsrichtung muss auch gleich sein) benötigt. Messbar am einfachsten von Hochpunkt zu Hochpunkt.
+
+Die Frequenz ist wie oft sich die Schwingung innerhalb einer Sekunde wiederholt. (Wenn in Hertz angegeben)
+
+$$T = \frac{1}{f}$$
+
+## Zeigerdarstellung
+
+Jeder Auslenkung einer Schwingung wird ein Winkel bzw. Zeiger zugesprochen, der diese Auslenkung repräsentiert.
+
+Meist ist der Hochpunkt 90° und Tiefpunkt 270°, während die Nullstellen bei 0°, 180°, 360°, ... sind. Mit jeder Periode steigt der Winkel um 360°.
 
 ## mathematische Beschreibung der zeitabhängigen Größen der harmonischen Schwingung als Funktionsgleichung (Sinus und Kosinus ohne Nullphasenwinkel)
 
-TODO
+Eine harmonische Schwingung kann mit dem Sinus oder Kosinus beschrieben werden.
 
-## Zusammenhang zwischen Frequenz und Periodendauer
+## Federpendel
 
-TODO
+Ein Federpendel besteht aus einem Körper, der an einer Feder hängt. Der Ruhezustand befindet sich dort, wo $F_{Gravitation} = F_{Federpendel}$ ist.
 
-## Federpendel, insbesondere Abhängigkeit der Periodendauer von systembeschreibenden Größen
+### Abhängigkeit der Periodendauer von systembeschreibenden Größen
 
-TODO
+Tafelwerk: $T = 2 \pi \sqrt{\frac{D}{m}}$ mit $D = \text{Federkonstante}$ und $m = \text{Masse des Körpers}$
 
-## elektromagnetischer Schwingkreis (qualitativ)
+TODO Kontrolle ob im Tafelwerk
+
+=> Die Schwingungsdauer ist unabhängig von der Amplitude.
+
+## Aufbau eines elektromagnetischen Schwingkreises
 
 TODO
