@@ -34,8 +34,8 @@ TODO (Studyflix Video)
 ### Limitationen
 
 - kann nicht zwischen Strahlung unterscheiden
-- Todzeit zwischen den Messungen
-  - ist ein Kanal erstmal erstellt führt eine weitere Ionisierung zu keinem Unterscheid
+- Totzeit zwischen den Messungen
+  - ist ein Kanal erstmals erstellt führt eine weitere Ionisierung zu keinem Unterschied
   - erst wenn der Kanal wieder zusammenbricht kann neue Strahlung wahrgenommen werden
 
 ### Vorteile Geiger-Müller-Zähler
@@ -47,11 +47,41 @@ TODO (Studyflix Video)
 
 ## Halbleiterdetektoren
 
-- Messung der Energie, da Energie proportional zur gemessenen Spannung
-- Art der Strahlung aus Energieniveau
-- Sehr empfindlich
+Ermöglicht Energiemessung von alpha- (hauptsächlich) und Betastrahlung (nur sehr hochenergetisch)
 
-- Diode wird in Sperrrichtung geschaltet
-- Gelegentliche Spannungsimpulse, da einzelne Atome ionisiert werden und Elektronen frei werden
+- zwei Schichten: p-Halbleiter und n-Halbleiter
+- Dioden besitzen eine Durchlassrichtung und eine Sperrrichtung
+- Liegt der Pluspol an der p-Schicht, so ist die Diode in Durchlassrichtung geschaltet
 
-TODO ausführlicher
+### Leiter, Nichtleiter, Halbleiter
+
+Aufgeteilt in zwei "Bänder", die die Elektronen halten:
+
+- Valenzband mit den gebundenen Elektronen in den Atomen
+- Leitungsband mit freien Elektronen, die nicht an ein spezifisches Atom gebunden sind
+
+  - Nichtleiter: keine freien Elektronen
+  - Leiter: freie Elektronen
+  - Halbleiter: Valenzband voll, Leitungsband leer, aber Elektronen können durch Energie in das Leitungsband übergehen
+
+### Funktionsweise
+
+Dotierung des Halbleiters mit bestimmten Elementen, die entweder ein Elektron / Proton Zuviel (n-Dotierung) oder Zuwenig (p-Dotierung) haben. Diese gehen eine Bindung ein und fügen ein Elektron zu dem Leitungsband hinzu.
+
+Die P- und n- Platten sind nebeneinander. Überschüssige Elektronen der n-Platte werden bei Sperrrichtung (- an p-Platte) an die Spannungsquelle, weg von der n-Platte gezogen, gleiches bei der n-platte, da angezogen durch +
+
+1. Ionisierung von einem Atom
+2. Ion geht zu p-Platte, wegen minus-Pol auf der Seite
+3. Freies Elektron zu n-Platte, wegen dem plus-Pol
+4. Strom fließt kurz, kann gemessen werden, Stromspannung
+
+### Vorteile
+
+- Jeder spannungsimpuls wird gemessen
+- Keine Totzeit
+- Energie von Strahlung kann gemessen werden (nicht wie Geiger-Müller)
+
+### Nachteile
+
+- nur alpha und hochenergetische Betastrahlung, weil man viel Energie für das Lösen der Elektronen benötigt
+- keine bis kaum Gammastrahlung, wegen der diskreten Energieabgabe der Photonen (außer super energetisch und passend)
