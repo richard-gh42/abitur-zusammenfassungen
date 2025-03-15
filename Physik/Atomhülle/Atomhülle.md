@@ -16,6 +16,10 @@ TODO
 
 TODO
 
+### Zusammenhang zwischen Orbitalen und Nachweiswahrscheinlichkeiten für Elektronen
+
+TODO
+
 ## Leuchterscheinungen (Fluoreszenz)
 
 TODO
