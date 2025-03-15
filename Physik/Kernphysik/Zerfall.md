@@ -20,6 +20,12 @@ Radioaktive Kerne zerfallen bei zu großer Masse, bei ungünstigen Verhältnis z
 - Wird in Becquerel gemessen ($1 Bq := \frac{1}{s}$).
 - Für die Aktivität $A$ zum Zeitpunkt $t$ gilt $A(t) = A_0 \cdot e^{-\lambda t} = \lambda \cdot N_0 \cdot e^{- \lambda t}$.
 
+Die Aktivität lässt keine Aussage über die Strahlungsart und damit Gefährlichkeit zu.
+
+### spezifische Aktivität
+
+Das Verhältnis von Aktivität zu Masse (Bq/kg)
+
 ## Zerfallsreihen
 
 - Es gibt nur 4 natürliche Zerfallsreihen, auf denen jedes Isotop liegt
