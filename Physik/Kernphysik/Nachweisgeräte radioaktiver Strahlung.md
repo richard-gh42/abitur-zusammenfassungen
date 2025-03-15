@@ -6,8 +6,6 @@ Strahlung, die Elektronen aus einem Atom lösen kann.
 
 ## Geiger-Müller-Zählrohr
 
-TODO (Studyflix Video)
-
 - ein robustes Nachweisgerät für ionisierende Strahlung
 - besonders gut für den Nachweis von Alpha- und Betastrahlung, Gammastrahlung kann nur zu einem kleinen Teil registriert werden
 - meist an einen Digitalzähler oder einen Lautsprecher angeschlossen
