@@ -1,6 +1,10 @@
 # Energiebetrachtungen von Körpern in homogenen elektrischen Feldern
 
-## potentielle Energie einer Probeladung im homogenen elektrischen Feld
+## Energiebilanz
+
+TODO Heydecke: was gehört noch dazu?
+
+### potentielle Energie einer Probeladung im homogenen elektrischen Feld
 
 Die potentielle Energie einer Ladung im homogenen elektrischen Feld bezeichnet das Potential der Ladung, das in kinetische Energie übertragen werden kann.
 
@@ -11,6 +15,10 @@ Wenn man von potentieller Energie spricht benötigt man eine **Nulllage** - wo d
 Allgemein ist die Änderung der potentiellen Energie gleich der **neagitven Feldarbeit** (Feldarbeit ist die Arbeit, die bei der Bewegung einer Ladung verrichtet wurde) - also $\Delta E_{pot} = - W_{Feld}$.
 
 > Alle Punkte mit gleichem Potential liegen auf sogenannten **Äquipotentiallinien**.
+
+### Berechnung der Geschwindigkeit mithilfe der Energiebilanz
+
+TODO Formelsammlung / Heydecke?
 
 ## kinetische Energie und Geschwindigkeit geladener Teilchen im elektrischen Längsfeld in Abhängigkeit von der Beschleunigungsspannung (quantitativ)
 
