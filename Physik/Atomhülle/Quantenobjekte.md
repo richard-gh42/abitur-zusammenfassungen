@@ -44,3 +44,27 @@ Tafelwerk: $E = h \cdot f$
 - Interferenzmuster und Unterscheidbarkeit der klassischen denkbaren Möglichkeiten schließen sich aus (Komplementarität).
 
 Durch eine Ortsmessung zwingst du das Elektron sich für einen der beiden Spalte zu entscheiden, wodurch das Entstehen eines Interferenzmusters Verhinderst.
+
+## De-BROGLIE-Wellenlänge
+
+Die De-BROGLIE-Wellenlänge besagt, dass jedes Objekt mit Masse und Geschwindigkeit auch eine Wellenlänge hat.
+
+Es werden die Eigenschaften von Photonen auf Objekte mit Ruhemasse, z.B. Elektronen übertragen.
+
+TODO Tafelwerk Wellenlängenberechnung
+
+### plancksches Wirkungsquantum
+
+Das **plancksche Wirkungsquantum** ($h \approx 6{,}626 \cdot 10^{-34} \, \text{Js}$) ist eine fundamentale Konstante der Quantenmechanik. Es beschreibt die Energie eines Photons in Abhängigkeit von seiner Frequenz: $E = h \cdot f$.
+
+### De-BROGLIE-Wellenlänge bei makroskopischen Objekten
+
+Die De-BROGLIE-Wellenlänge hängt von der Masse und Geschwindigkeit ab. Wenn die Masse so groß wie bei einem makroskopischen Objekt ist, muss die Geschwindigkeit unglaublich langsam sein, um eine Wellenlänge wie beispielsweise eines Elektrons zu haben. Daher ist die De-BROGLIE-Wellenlänge bei makroskopischen Objekten praktisch nicht erkennbar.
+
+## experimentelle Bestimmung von h
+
+TODO Heydecke Welches Experiment? mit LEDs und ihrer Funktion als Energiewandler
+
+### Deutung mithilfe des Photonenmodells
+
+TODO Heydecke

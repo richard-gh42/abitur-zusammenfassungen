@@ -52,19 +52,3 @@ Der Glühelektrische Effekt besagt, dass eine durch Hitze in einem Leiter Elektr
 
 - Wenn man einen Magneten neben den Elektronenstrahl hält, wird dieser abgelenkt und man findet keine Leuchterscheinung auf dem Schirm.
 - Da Elektronen von einem Magnetfeld abgelenkt werden, handelt es sich bei der Ursache des Interferenzmuster um die Interferenz von Elektronen.
-
-## De-BROGLIE-Wellenlänge
-
-Die De-BROGLIE-Wellenlänge besagt, dass jedes Objekt mit Masse und Geschwindigkeit auch eine Wellenlänge hat.
-
-Es werden die Eigenschaften von Photonen auf Objekte mit Ruhemasse, z.B. Elektronen übertragen.
-
-TODO Tafelwerk Wellenlängenberechnung
-
-### plancksches Wirkungsquantum
-
-Das **plancksche Wirkungsquantum** ($h \approx 6{,}626 \cdot 10^{-34} \, \text{Js}$) ist eine fundamentale Konstante der Quantenmechanik. Es beschreibt die Energie eines Photons in Abhängigkeit von seiner Frequenz: $E = h \cdot f$.
-
-### De-BROGLIE-Wellenlänge bei makroskopischen Objekten
-
-Die De-BROGLIE-Wellenlänge hängt von der Masse und Geschwindigkeit ab. Wenn die Masse so groß wie bei einem makroskopischen Objekt ist, muss die Geschwindigkeit unglaublich langsam sein, um eine Wellenlänge wie beispielsweise eines Elektrons zu haben. Daher ist die De-BROGLIE-Wellenlänge bei makroskopischen Objekten praktisch nicht erkennbar.
