@@ -5,6 +5,12 @@
 - Entweder gesamte Energie abgeben oder keine (elastischer Stoß)
 - Welleneigenschaften und Teilcheneigenschaften
 
+### Energie, Frequenz und Wellenlänge eines Photons
+
+Tafelwerk: $E = h \cdot f$
+
+Über die Formel $\lambda = c \cdot T$ kann die Wellenlänge anhand der Frequenz berechnet werden.
+
 ## wichtige Begriffe zu Quantenobjekten
 
 - **Realität**: durch Messung beeinflusst
