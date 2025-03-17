@@ -120,3 +120,7 @@ In einem Interferometer wird Licht durch einen Strahlteiler auf zwei verschieden
 ### technische Verwendung
 
 Da das Michelson-Interferometer so präzise Weglängenänderungen misst, kann es auch verwendet werden, um die Stabilität von optischen Aufbauten wie z. B. Teleskopen oder Mikroskopen zu prüfen.
+
+## Zeigerdarstellung zur Beschreibung und Deutung von Interferenzexperimenten
+
+TODO Heydecke
