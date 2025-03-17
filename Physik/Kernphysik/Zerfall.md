@@ -32,6 +32,12 @@ Das Verhältnis von Aktivität zu Masse (Bq/kg)
   - liegt an dem Alpha-Zerfall, mit ihren -2 Neutronen / -2 Protonen schritten
   - Die Plutonium-Neptunium-Reihe ist künstlich, da kein Plutonium mehr existiert und erzeugt werden muss
 
+### Interpretation von $\alpha$-Spektren (Energie-Häufigkeits-Diagramm) anhand von Zerfallsreihen
+
+1. Energie-Peaks bestimmen (**Feinstruktur** beachten)
+2. Zerfälle diesen Energieniveaus zuordnen (Nuklidkarte)
+3. Zerfallsreihe heraussuchen und überprüfen
+
 ## Alpha-Zerfall
 
 - Alpha-Strahlung besteht aus einem Heliumkern (2 Proton, 2 Neutron)
