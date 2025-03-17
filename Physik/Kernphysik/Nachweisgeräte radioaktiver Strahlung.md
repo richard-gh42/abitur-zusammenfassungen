@@ -43,16 +43,6 @@ Strahlung, die Elektronen aus einem Atom lösen kann.
 - Universell (alpha / beta Strahlung) gemessen
 - Kostengünstig
 
-### Die Nullrate
-
-TODO nur für gaiger-müller?
-
-Die Nullrate ist die mit einem Messgerät registrierte Anzahl von Impulsen pro Zeiteinheit - meist eine Sekunde -, die auch ohne Vorhandenseins eines radioaktiven Präparates angezeigt werden.
-
-#### Wie entsteht die Nullrate?
-
-TODO
-
 ## Halbleiterdetektoren
 
 Ermöglicht Energiemessung von alpha- (hauptsächlich) und Betastrahlung (nur sehr hochenergetisch)
@@ -93,3 +83,13 @@ Die P- und n- Platten sind nebeneinander. Überschüssige Elektronen der n-Platt
 
 - nur alpha und hochenergetische Betastrahlung, weil man viel Energie für das Lösen der Elektronen benötigt
 - keine bis kaum Gammastrahlung, wegen der diskreten Energieabgabe der Photonen (außer super energetisch und passend)
+
+## Die Nullrate
+
+Die Nullrate ist die mit einem Messgerät registrierte Anzahl von Impulsen pro Zeiteinheit - meist eine Sekunde -, die auch ohne Vorhandenseins eines radioaktiven Präparates angezeigt werden.
+
+### Wie entsteht die Nullrate?
+
+- unvermeidliche Eigenschaften der Messgeräte
+- Strahlung aus der Erde (Radon) oder Lebewesen (C-14)
+- kosmische Strahlung
