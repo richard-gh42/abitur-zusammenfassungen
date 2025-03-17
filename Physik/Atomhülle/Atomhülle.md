@@ -6,6 +6,10 @@
 - Das Anregen von Elektronen geschieht nur innerhalb dieser Energieniveaus.
 - Dementsprechend kann die Atomhülle auch nur innerhalb der Energieniveaus Energie abgeben.
 
+### Gesamtenergie eines Elektrons nach diesem Modell
+
+TODO Heydecke was gemeint? / Formel
+
 ### Elektronen im unendlich hohen Potenzialtopf
 
 Ein Modell, um diskrete Energieniveaus zu erklären, stellt sich Elektronen mit ihrem Wellenverhalten in einem eindimensionalen Topf vor.
