@@ -74,7 +74,7 @@ Das Verhältnis von Aktivität zu Masse (Bq/kg)
   - E-Felder und B-Felder beeinflussen
 - Neutron wandelt sich in ein Proton um
   - Dabei entsteht ein Elektron und ein Neutrino, die den Kern verlassen
-- - Siehe Problem und Lösung
+  - Siehe Problem und Lösung
 - Auch leicht abschirmbar (geringe Reichweite)
 
 ### Problem

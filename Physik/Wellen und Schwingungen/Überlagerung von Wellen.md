@@ -24,7 +24,7 @@ Stehende Wellen sind eigentlich keine richtigen Wellen mehr, da sie keine Energi
 
 ### Wellenlängenbestimmung mittels einer durch Reflexion erzeugten stehenden Welle
 
-TODO Heydecke: Der Abstand zwischen zwei Knoten bzw. Bäuchen beträgt $\frac{\lambda}{2}$ der sich überlagernden Wellen.
+Der Abstand zwischen zwei Knoten bzw. Bäuchen beträgt $\frac{\lambda}{2}$ der sich überlagernden Wellen.
 
 #### Reflexionstypen bei der Stehenden Welle
 

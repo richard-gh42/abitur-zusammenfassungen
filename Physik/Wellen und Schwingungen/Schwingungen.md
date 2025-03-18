@@ -46,6 +46,8 @@ Meist ist der Hochpunkt 90° und Tiefpunkt 270°, während die Nullstellen bei 0
 
 Eine harmonische Schwingung kann mit dem Sinus oder Kosinus beschrieben werden.
 
+TODO was ist ein Nullphasenwinkel?
+
 ## Federpendel
 
 Ein Federpendel besteht aus einem Körper, der an einer Feder hängt. Der Ruhezustand befindet sich dort, wo $F_{Gravitation} = F_{Federpendel}$ ist.
@@ -53,8 +55,6 @@ Ein Federpendel besteht aus einem Körper, der an einer Feder hängt. Der Ruhezu
 ### Abhängigkeit der Periodendauer von systembeschreibenden Größen
 
 Tafelwerk: $T = 2 \pi \sqrt{\frac{D}{m}}$ mit $D = \text{Federkonstante}$ und $m = \text{Masse des Körpers}$
-
-TODO Kontrolle ob im Tafelwerk
 
 => Die Schwingungsdauer ist unabhängig von der Amplitude.
 

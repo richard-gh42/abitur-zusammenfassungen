@@ -51,7 +51,7 @@ Die De-BROGLIE-Wellenlänge besagt, dass jedes Objekt mit Masse und Geschwindigk
 
 Es werden die Eigenschaften von Photonen auf Objekte mit Ruhemasse, z.B. Elektronen übertragen.
 
-TODO Tafelwerk Wellenlängenberechnung
+Tafelwerk: $\lambda = \frac{h}{m \cdot v}$
 
 ### plancksches Wirkungsquantum
 
