@@ -22,7 +22,7 @@ Die Kapazität ist das Speichervermögen eines Kondensators, also wie viele Ladu
 - Wird in Farad angegeben
 - Proportional zu dem Flächeninhalt, der Dielektrizitätszahl und umgekehrt zu dem Abstand der Platten
 
-TODO Formel (geometrische Abmessungen und Kapazität) / Formel und Experiment zur Bestimmung der Kapazität
+TODO Experiment zur Bestimmung der Kapazität
 
 ## Flächenladungsdichte
 
