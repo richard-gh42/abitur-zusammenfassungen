@@ -7,4 +7,4 @@
 
 ## Berechnung vom B-Feld mithilfe einer Hallsonde
 
-TODO Tafelwerk
+Tafelwerk für B umstellen
