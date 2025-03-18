@@ -42,11 +42,9 @@ Jeder Auslenkung einer Schwingung wird ein Winkel bzw. Zeiger zugesprochen, der 
 
 Meist ist der Hochpunkt 90° und Tiefpunkt 270°, während die Nullstellen bei 0°, 180°, 360°, ... sind. Mit jeder Periode steigt der Winkel um 360°.
 
-## mathematische Beschreibung der zeitabhängigen Größen der harmonischen Schwingung als Funktionsgleichung (Sinus und Kosinus ohne Nullphasenwinkel)
+## mathematische Beschreibung der zeitabhängigen Größen der harmonischen Schwingung als Funktionsgleichung (Sinus und Kosinus)
 
 Eine harmonische Schwingung kann mit dem Sinus oder Kosinus beschrieben werden.
-
-TODO was ist ein Nullphasenwinkel?
 
 ## Federpendel
 
