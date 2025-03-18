@@ -36,10 +36,22 @@ TODO Heydecke Was ist gemeint?
 
 TODO Heydecke Was ist gemeint?
 
-## Leuchterscheinungen (Fluoreszenz)
+## Leuchterscheinungen
 
-TODO
+### Phosphoreszenz
+
+Durch Anregung mit einem "UV-Photon" gelangt das Atom in den **kurzlebigen Anregungszustand** der Energie $E_3$.
+Nach dem **strahlungslosen Übergang** nach $E_2$ (langlebiger - **metastabiler** - Zustand) geht das Atom unter Emission eines sichtbaren Photons in den Ausgangszustand über. Die Zeit, nach welcher dieser Übergang erfolgt, liegt im Bereich von **Millisekunden bis Stunden**.
+
+- Beispiel: Leuchtsterne
+
+### Fluoreszenz
+
+Durch Anregung mit einem "UV-Photon" gelangt das Atom in den kurzlebigen Anregungszustand der Energie $E_3$.
+Nach dem **strahlungslosen Übergang** nach $E_2$, geht das Atom unter Emission eines **sichtbaren Photons** innerhalb von ca. $10^{-7}$ s in den **Ausgangszustand** über.
 
 ### Bedeutung von Fluoreszenz in Leuchtstoffröhren und "weißen" LEDs
 
-TODO
+In Leuchtstoffröhren wird ultraviolettes Licht, das durch Gasentladung in der mit Quecksilberdampf gefüllten Röhre erzeugt wird, in sichtbares Licht umgewandelt.
+
+In weißen Leuchtdioden (LED) wandelt ein Fluoreszenzfarbstoff das blaue Licht, das ein Halbleiterkristall erzeugt, in weißes Licht um.
