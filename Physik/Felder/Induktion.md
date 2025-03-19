@@ -12,11 +12,11 @@ Der magnetische Fluss hängt von drei Faktoren ab:
 
 $$\Phi = B \cdot A \cdot cos(\phi)$$
 
-## Experimente zur Erzeugung einer Indunktionsspannung
+## Experimente zur Erzeugung einer Induktionsspannung
 
 Die Veränderung des magnetischen Flusses führt zu einer Spannung.
 
-TODO Wo läuft der Strom?
+TODO Wo läuft der Strom? / Strom negativ / positiv
 
 Um Induktionsspannung nachzuweisen muss man eine der Größen verändern.
 
