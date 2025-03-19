@@ -103,6 +103,17 @@ Das Schirmbild hinter zeigt Beugungs- und Interferenzerscheinungen. Es bilden si
 
 Ein Gitter wird genutzt um schärfere Maxima zu erhalten, ohne die Position der Maxima zu verändern.
 
+## Wellenlängenberechnung am Gitter
+
+### monochromatisches Licht
+
+Tafelwerk
+
+### weißes Licht
+
+1. Farbe aussuchen
+2. Tafelwerk
+
 ## Michelson-Morley Interferometer
 
 [Leifi](https://www.leifiphysik.de/relativitaetstheorie/spezielle-relativitaetstheorie/versuche/michelson-morley-experiment)
