@@ -4,6 +4,6 @@
 
 TODO
 
-## Crane Brinton
+## Klaus von Beyme
 
 TODO
