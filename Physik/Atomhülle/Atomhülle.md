@@ -8,7 +8,7 @@
 
 ### Gesamtenergie eines Elektrons nach diesem Modell
 
-TODO Heydecke was gemeint? / Formel
+Die Gesamtenergie ist die Energie, die benötigt wird, um das Elektron aus dem Atom zu schießen - also die **Ionisierungsenergie**.
 
 ### Elektronen im unendlich hohen Potenzialtopf
 
@@ -28,13 +28,11 @@ Ein Modell, um diskrete Energieniveaus zu erklären, stellt sich Elektronen mit 
 - Spin der Elektronen ausgelassen.
 - Benötigt viele Annahmen wie unendlich hohe Wände (allerdings auch nur ein Modell)
 
-## Beschreibung der Orbitale des Wasserstoffatoms bis $n = 2$
-
-TODO Heydecke Was ist gemeint?
-
 ### Zusammenhang zwischen Orbitalen und Nachweiswahrscheinlichkeiten für Elektronen
 
-TODO Heydecke Was ist gemeint?
+Die Orbitale der Elektronen beschreiben den Ort, wo sich das Elektron befinden kann. Elektronen sind jedoch Quantenobjekte. Diese haben keinen festen Ort, sondern nur eine **Aufenthaltswahrscheinlichkeit**. Also beschreiben die Orbitale der Elektronen, wo sich das Elektron in dem Raum befinden kann.
+
+Beispiel: mit einer Wahrscheinlichkeit von 100% befindet sich das Elektron in diesem Raum, man kann jedoch nicht sagen, wo genau in diesem Raum.
 
 ## Leuchterscheinungen
 

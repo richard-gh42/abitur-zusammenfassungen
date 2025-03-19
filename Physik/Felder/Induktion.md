@@ -24,4 +24,5 @@ Am einfachsten ist B zu verändern, da es von der Stromstärke der Spule abhäng
 
 ## Technische Anwendung für Induktion
 
-TODO Heydecke
+- Spannungsumwandlung
+- Herd (der Induktionsstrom erzeugt Hitze)

@@ -61,8 +61,6 @@ Tafelwerk: $T = 2 \pi \sqrt{\frac{D}{m}}$ mit $D = \text{Federkonstante}$ und $m
 - Ein elektromagnetischer Schwingkreis besteht aus einem Kondensator und einer Spule.
 - Der Kondensator speichert elektrische Energie in Form eines elektrischen Feldes, während die Spule Energie in Form eines magnetischen Feldes speichert.
 
-TODO Heydecke Schwingkreis und Selbstinduktion?
-
 1. Wenn der Schwingkreis angeregt wird, z. B. durch eine anfängliche Ladung des Kondensators, beginnt ein periodischer Energieaustausch zwischen Kondensator und Spule über Selbstinduktion.
 2. Dieser Wechsel zwischen elektrischer und magnetischer Energie erzeugt eine Schwingung im Schwingkreis mit einer natürlichen Frequenz.
 
