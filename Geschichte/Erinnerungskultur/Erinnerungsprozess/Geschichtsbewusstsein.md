@@ -1,5 +1,7 @@
 # Geschichtsbewusstsein / Sinnbildung von Geschichte
 
+TODO Bild von gesamten Erinnerungsprozess von Herr Hain
+
 > Das Geschichtsbewusstsein gibt der Geschichte einen Sinn und überträgt sie so in das kulturelle Gedächtnis
 
 - Geschichtsbewusstsein ist ist der **Zusammenhang von Vergangenheit, Gegenwartsverständnis und Zukunftsperspektive**
