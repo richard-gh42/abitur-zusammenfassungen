@@ -6,7 +6,7 @@ TODO
 
 ## Veränderungen von Denkmalen
 
-- Demkmäler können, mit der Veränderung der Gesellschaft, umgedeutet und verändert werden.
+- Denkmäler können, mit der Veränderung der Gesellschaft, umgedeutet und verändert werden.
   - Denkmäler aus dem Deutschen Reich werden durch Infotafeln und Einordnungen ergänzt.
   - Umgestaltung / Neuinterpretation von Denkmälern
 

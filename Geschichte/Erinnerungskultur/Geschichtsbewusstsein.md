@@ -1,6 +1,6 @@
 # Geschichtsbewusstsein / Sinnbildung von Geschichte
 
-> Das Geschichtsbewusstsein gibt der Geschichte einen Sinn und überträgt sie so in das kulturelle Gedächnis
+> Das Geschichtsbewusstsein gibt der Geschichte einen Sinn und überträgt sie so in das kulturelle Gedächtnis
 
 - Geschichtsbewusstsein ist ist der **Zusammenhang von Vergangenheit, Gegenwartsverständnis und Zukunftsperspektive**
   - Geschichte wird in der Gegenwart einen Sinn gegeben, auf der Basis, wie die Zukunft aussehen soll
@@ -11,7 +11,7 @@
 
 ## Formen historischer Sinnbildung (Jörn Rüsen)
 
-> Sinnbildung überträgt Erinnerung aus dem kommunikativen Gedächnis in das kulturelle Gedächnis.
+> Sinnbildung überträgt Erinnerung aus dem kommunikativen Gedächtnis in das kulturelle Gedächtnis.
 
 Es werden aus der Vergangenheit Narrative (Roter Faden hinter welchem Geschichte gedeutet wird) gebildet, an denen die Geschichte konstruiert wird: z. B. Narrative wie Deutscher Sonderweg, Modernisierung, ... hinter welchen Geschichte gedeutet wird und Zusammenhänge erstellt werden.
 
@@ -21,7 +21,7 @@ Es werden aus der Vergangenheit Narrative (Roter Faden hinter welchem Geschichte
   - z. B. Einführung des Grundgesetzes 1949 als Grundlage für unsere Demokratie
 - legitimiert Kontinuität im Leben durch Rückbezüge u. a. auf prägende Ereignisse
 - schließt daraus auch Verpflichtungen für die Zukunft
-- z. B. Gestaltung von Feitertagen, wie Tag der deutschen Einheit
+- z. B. Gestaltung von Feiertagen, wie Tag der deutschen Einheit
 
 ### exemplarische Sinnbildung
 

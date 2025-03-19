@@ -9,7 +9,7 @@
   - erinnern zur Identitätsbildung und Selbstverständnis einer Kultur
 - Nachteile:
   - "übermächtiges" Erbe: aus der Geschichte können schlechte Beziehungen / Probleme entstehen
-    - z. B. NS-Verbrechen: Nachkommen fühlen sich als eingeschrenkt in ihren Handelsmöglichkeiten
+    - z. B. NS-Verbrechen: Nachkommen fühlen sich als eingeschränkt in ihren Handelsmöglichkeiten
 
 ## Geschichte als kulturelle Schöpfung
 
@@ -44,7 +44,7 @@ Es wird mehr vergessen als erinnert wird, aber Vergessenes kann in anderer Zeit 
 - nicht für den Alltag zu gebrauchen
 - nicht auf das Individuum, sondern Gesellschaft bezogen
 - bestimmt die **kulturelle Identität**
-  - Nation und/oder Geselschaft sind durch kollektives Gedächtnis geprägt / gestützt / aufgebaut
+  - Nation und/oder Gesellschaft sind durch kollektives Gedächtnis geprägt / gestützt / aufgebaut
 - wird über Feste, Rituale, ... übertragen
 - Zweck: **Sicherung und Kontinuierung** einer **sozialen Identität**
 

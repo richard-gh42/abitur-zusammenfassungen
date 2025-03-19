@@ -24,7 +24,7 @@ Alle Dimensionen überlappen und vermischen sich ständig. Dennoch bilden sie ei
   - behält trotzdem bei seriösen Formen der Geschichtsdarstellung eine wesentliche Bedeutung
     - wenn der Versuch besteht die Vergangenheit möglichst genau darzustellen
 - Alle Darstellungen von Geschichte unterliegen den Prinzipien der Gestaltung
-  - auch wenn das Ziel nicht umbedingt Unterhaltung / Wirkungs sein muss
+  - auch wenn das Ziel nicht unbedingt Unterhaltung / Wirkung sein muss
   - z. B. wissenschaftlicher Text hat auch einen Gestaltungsaspekt (der Wissenschaftler möchte auch, dass sein Text gelesen wird)
 
 ### politische Dimension
@@ -33,7 +33,7 @@ Alle Dimensionen überlappen und vermischen sich ständig. Dennoch bilden sie ei
 
 - jede Form von Herrschaft bedarf einer gewissen Zustimmung und Legitimität
 - entsteht u. a. (in hohem Maße) durch historische Erinnerung
-  - augenblicklich existierende Ordnung, die in übergreifende Zusammenhänge (historie) eingefügt wird, um Legitimität zu erhalten
+  - augenblicklich existierende Ordnung, die in übergreifende Zusammenhänge (Historie) eingefügt wird, um Legitimität zu erhalten
   - z. B. Feiern zu großen Jubiläen, wie zur Erinnerung an revolutionäre oder heldenhafte Taten.
 
 ### kognitive Dimension

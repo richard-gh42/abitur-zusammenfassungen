@@ -62,7 +62,7 @@ Mythen haben über die Gesellschaft eine gewisse Macht, die die Gesellschaft pr�
   - **allegorische Deutung**
     - unterscheidung zwischen dem Wortlaut und einem verborgenen "tieferen" Sinn
     - Frage nach dem geschichtlichen oder moralischen Kern der Erzählungen
-    - Suche nach einer Funktion (Sinn) in wissenschaftlich wiederlegten Mythen
+    - Suche nach einer Funktion (Sinn) in wissenschaftlich widerlegten Mythen
 
 ## moderne Mythen (Martin Dehli)
 
@@ -76,10 +76,10 @@ Mythen haben über die Gesellschaft eine gewisse Macht, die die Gesellschaft pr�
 
 ## Vergleich antiker und moderner Mythen
 
-| | antike Mythen | moderne Mythen |
-|---|---|---|
-| Ausdrucksform | vorwiegend Götter und Heldengeschichten | näher an der Wissenschaft (Realistischer) |
-| Wirkung | symbolisch-emotional | symbolisch-emotional |
-| Intention | erklärung rätselhafter Dinge; Identität schaffen; Unterhaltung | Identität schafffen; Unterhaltung |
-| Übertragung | vorwiegend mündlich, später niedergeschrieben | vorwiegend auf Datenträgern |
-| Geltungsanspruch | universell | eher spezifisch in einer Gruppe |
+|                  | antike Mythen                                                  | moderne Mythen                            |
+| ---------------- | -------------------------------------------------------------- | ----------------------------------------- |
+| Ausdrucksform    | vorwiegend Götter und Heldengeschichten                        | näher an der Wissenschaft (Realistischer) |
+| Wirkung          | symbolisch-emotional                                           | symbolisch-emotional                      |
+| Intention        | Erklärung rätselhafter Dinge; Identität schaffen; Unterhaltung | Identität schaffen; Unterhaltung          |
+| Übertragung      | vorwiegend mündlich, später niedergeschrieben                  | vorwiegend auf Datenträgern               |
+| Geltungsanspruch | universell                                                     | eher spezifisch in einer Gruppe           |
