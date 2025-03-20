@@ -18,7 +18,7 @@ Licht einer Natrium-Lampe wird durch Natrium-Gas geschickt und dahinter gemessen
 
 ## Quecksilber-Lampe und Natrium-Gas
 
-TODO
+Licht einer Quecksilber-Lampe wird durch Natrium-Gas geschickt und dahinter gemessen. Das diskrete Licht der Quecksilber-Lampe hat nicht die richtige Energie, um das Natrium-Gas anzuregen. Daher wird das Quecksilber-Licht hinter dem Natrium-Gas genau so, wie ohne Gas, gemessen.
 
 ## Spektrallinien und Energieniveauschemata
 
