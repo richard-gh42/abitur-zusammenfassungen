@@ -1,9 +1,13 @@
 # Revolutionstheorien
 
+## Alexis de Tocqueville
+
+TODO
+
 ## Hannah Arendt
 
 TODO
 
-## Klaus von Beyme
+## Karl Marx und Friedrich Engels
 
-TODO
+TODO Levi
