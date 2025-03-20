@@ -61,10 +61,23 @@ Das **plancksche Wirkungsquantum** ($h \approx 6{,}626 \cdot 10^{-34} \text{Js}$
 
 Die De-BROGLIE-Wellenlänge hängt von der **Masse und Geschwindigkeit** ab. Wenn die Masse so groß wie bei einem makroskopischen Objekt ist, muss die Geschwindigkeit unglaublich langsam sein, um eine Wellenlänge wie beispielsweise eines Elektrons zu haben. Daher ist die De-BROGLIE-Wellenlänge bei makroskopischen Objekten praktisch nicht erkennbar.
 
-## experimentelle Bestimmung von h (über LEDs)
+## experimentelle Bestimmung von h (Photoelektrischer Effekt)
 
-TODO
+### Photoelektrischer Effekt
 
-### Deutung mithilfe des Photonenmodells
+- **Versuchsaufbau**:
+  - **Lichtquelle**: Diese Komponente erzeugt Licht, das auf die Metallplatte gerichtet wird. Die Lichtquelle kann verschiedene Wellenlängen und Intensitäten des Lichts erzeugen, um den photoelektrischen Effekt zu untersuchen.
+  - **Metallplatte**: Diese Platte besteht aus einem Material, das Elektronen freisetzen kann, wenn es mit Licht bestrahlt wird. Die Metallplatte ist der Ort, an dem der photoelektrische Effekt auftritt.
+  - **Vakuum**: Das Vakuum um die Metallplatte verhindert, dass die freigesetzten Elektronen mit Luftmolekülen kollidieren und dadurch ihre Energie verlieren. Es sorgt dafür, dass die Elektronen ungehindert zum Amperemeter gelangen können.
+  - **Stromkreis mit Amperemeter**: Der Stromkreis ist so aufgebaut, dass die freigesetzten Elektronen einen Strom erzeugen, der vom Amperemeter gemessen wird. Das Amperemeter misst die Stärke des elektrischen Stroms, der durch die freigesetzten Elektronen verursacht wird, und gibt Aufschluss über die Anzahl der freigesetzten Elektronen.
+- **Beobachtung**: Beim Bestrahlen der Metallplatte mit Licht werden Elektronen freigesetzt (Photoelektronen).
+- **Messung**: Der Stromkreis misst den Strom, der durch die freigesetzten Elektronen verursacht wird.
+- **Abhängigkeit von der Wellenlänge**: Elektronen werden nur freigesetzt, wenn die Wellenlänge des Lichts über einer bestimmten Schwelle liegt (Grenzwellenlänge).
+- **Unabhängigkeit von der Intensität**: Die Anzahl der freigesetzten Elektronen hängt von der Lichtintensität ab, aber die Energie der Elektronen hängt nur von der Lichtfrequenz ab.
 
-TODO Heydecke
+### Erklärung durch Photonenmodell
+
+- Licht besteht aus Photonen, jedes Photon hat die Energie $E = h \cdot f$.
+- Ein Photon kann seine gesamte Energie auf ein Elektron übertragen.
+- Wenn die Energie des Photons groß genug ist, um die Bindungsenergie des Elektrons zu überwinden, wird das Elektron freigesetzt.
+- Überschüssige Energie wird in kinetische Energie des Elektrons umgewandelt.
