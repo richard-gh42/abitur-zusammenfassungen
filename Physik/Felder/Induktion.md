@@ -16,7 +16,7 @@ $$\Phi = B \cdot A \cdot cos(\phi)$$
 
 Die Veränderung des magnetischen Flusses führt zu einer Spannung.
 
-TODO Wo läuft der Strom? / Strom negativ / positiv
+Den Fluss des Stroms kann man sich irgendwie über die Lorentz-Kraft und Linke-Hand-Regel erklären.
 
 Um Induktionsspannung nachzuweisen muss man eine der Größen verändern.
 
