@@ -63,8 +63,6 @@ Die De-BROGLIE-Wellenlänge hängt von der **Masse und Geschwindigkeit** ab. Wen
 
 ## experimentelle Bestimmung von h (Photoelektrischer Effekt)
 
-### Photoelektrischer Effekt
-
 - **Versuchsaufbau**:
   - **Lichtquelle**: Diese Komponente erzeugt Licht, das auf die Metallplatte gerichtet wird. Die Lichtquelle kann verschiedene Wellenlängen und Intensitäten des Lichts erzeugen, um den photoelektrischen Effekt zu untersuchen.
   - **Metallplatte**: Diese Platte besteht aus einem Material, das Elektronen freisetzen kann, wenn es mit Licht bestrahlt wird. Die Metallplatte ist der Ort, an dem der photoelektrische Effekt auftritt.
