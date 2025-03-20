@@ -86,7 +86,7 @@ Tafelwerk: $\lambda = c \cdot T$
 
 ### Longitudinalwellen / Längswellen
 
-Longitudinalwellen sind Wellen, wo die **Schwingungsrichtung gleich der Ausbreitungsrichtung** ist. Ein Beispiel währe eine Schallwelle. Alle Longitudinalwellen sind polarisiert.
+Longitudinalwellen sind Wellen, wo die **Schwingungsrichtung gleich der Ausbreitungsrichtung** ist. Ein Beispiel wäre eine Schallwelle. Alle Longitudinalwellen sind polarisiert.
 
 ### Transversalwellen / Querwellen
 
@@ -149,16 +149,16 @@ Dieser Link beschreibt das Huygenssche Prinzip sehr anschaulich: [Leifi](https:/
 
 ### Brechung von Wellen (Huygenssches Prinzip)
 
-- Transmission der Welle von einem Medium in ein anderes
-  - Veränderung der Ausbreitungsgeschwindigkeit der Welle
-- Reflexion der Welle an dem Übergang zum anderen Medium
+- Transmission der Welle von **einem Medium in ein anderes**
+  - Veränderung der **Ausbreitungsgeschwindigkeit der Welle** und damit auch **Wellenlänge**
+- **Reflexion** der Welle an dem Übergang zum anderen Medium
 - Weiterlaufen der neuen Welle mit einem anderen Winkel
   - Der Winkel kann über die Elementarwellen herausgefunden werden
 
 ### Beugung von Wellen (Huygenssches Prinzip)
 
 - Eine Welle geht an einem Hindernis vorbei / durch einen Spalt in einem Hindernis
-- Bedingung: Wellenlänge muss in der Größenordnung der Lücke sein
+- Bedingung: **Wellenlänge muss in der Größenordnung der Lücke sein**
   - Grund für Schall um die Ecke und Licht nicht
 
 ## Spektrum elektromagnetischer Wellen

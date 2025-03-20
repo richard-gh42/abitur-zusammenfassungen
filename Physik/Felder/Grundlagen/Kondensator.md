@@ -91,5 +91,5 @@ $$t_H = R \cdot C \cdot ln(2)$$
 
 - Spannungsquelle angeschlossen zum Aufladen
 - Spannungsquelle wird getrennt
-- Ein Widerstand ist angeschlossen, damit es einen Verbraucher gibt, der den Stromkreis schließt
+- Ein Widerstand ist angeschlossen, damit es einen Verbraucher gibt, der den Stromkreis schließt und die Entladung langsamer voranschreitet
 - Über das Messgerät kann die Entladungskurve gemessen werden

@@ -11,9 +11,9 @@
 
 Das Feldlinienmodell ist eine Möglichkeit ein Feld zu visualisieren. Die Feldlinien veranschaulichen modellhaft die Struktur des E-Feldes. Je dichter die Feldlinien sind, desto stärker ist das E-Feld.
 
-- Elektrisches Feld: Plus zu Minus
-  - Elektrische Feldlinien zeigen immer in die Richtung der Kraft auf einen positiv geladenen Probekörper.
-- Magnetisches Feld: Nord zu Süd
+- Elektrisches Feld: **Plus zu Minus**
+  - Elektrische Feldlinien zeigen immer in die **Richtung der Kraft** auf einen **positiv geladenen Probekörper**.
+- Magnetisches Feld: **Nord zu Süd**
 
 ### grundlegende elektrische Feldlinienbilder
 

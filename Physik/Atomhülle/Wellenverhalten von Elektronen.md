@@ -29,10 +29,9 @@ Außerdem stellt man fest, dass bei höherer Beschleunigugsspannung das Muster n
 Bei einem Wehneltzylinder handelt es sich um einen Metallkörper, der die Glühelektrode umgibt. Seine Aufgabe ist es, die freien Elektronen zu einem **Elektronenstrahl** zu bündeln.
 
 - Dafür wird an ihm eine, bezüglich der Glühelektrode, negative Spannung angelegt.
-- Die **freigewordenen Elektronen** werden daher von den Wänden des Metallkörpers abgestoßen und in der **Mitte des Wehneltzylinders gebündelt**.
-- Je größer die an ihm angelegte negative Spannung, desto stärker werden die Elektronen gebündelt und desto heller wird der spätere Punkt auf dem Bildschirm.
-- Durch Änderung der Spannung kann also die Intensität des Elektronenstrahls gesteuert werden.
-- Dort, wo die Elektronen heraus kommen sollen, ist eine Platte, mit positiver Ladung. Durch das E-Feld zwischen Platte um die Glühelektrode und diese Platte werden die Elektronen beschleunigt.
+- Die **freigewordenen Elektronen** werden daher von den Wänden des Metallkörpers abgestoßen und in der **Mitte des Wehneltzylinders gebündelt** (**elektronischer Trichter**).
+- Je größer die an ihm angelegte negative Spannung, desto stärker werden die Elektronen gebündelt.
+- Dort, wo die Elektronen heraus kommen sollen, ist eine Platte, mit positiver Ladung. Durch das E-Feld zwischen Platte um die Glühelektrode und diese Platte werden die **Elektronen beschleunigt**.
   - Zuletzt besitzt der Zylinder ein Loch, durch welches die Elektronen ihn verlassen können.
 
 #### Glühelektrischer Effekt
