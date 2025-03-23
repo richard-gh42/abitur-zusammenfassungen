@@ -46,9 +46,27 @@ Es befinden sich zwei Aspekte in der „selbst verschuldeten Unmündigkeit“: d
 
 ### gesellschaftliche Folgen
 
+- **Urbanisierung**, Mobilität und **Beschleunigung**
+- Entstehung einer **individualistische Massengesellschaft**
+- schlechte Arbeitsbedingungen mit sozialen Problemen (**Soziale Frage**)
+  - **Ablenken von inneren Spannungen** durch **Imperialismus**
+
 ### wirtschaftliche Folgen
 
+- **Kapitalismus**: freier Markt, Angebot / Nachfrage
+- **Klassengesellschaft**:
+  - **Unternehmer**: Kapital (Maschinen, Arbeiter und Geld)
+  - **Arbeiter**: abhängige Lohnarbeiter ohne eigenes Kapital
+- wirtschaftliche **Konkurrenz** der europäischen Staaten
+  - Versuch, **weltweite Märkte zu erschließen und dominieren**
+
 ### politische Folgen
+
+- **Unternehmer beeinflussen** die Politik
+  - Forderung nach **Kolonien**, Flottenbau und Teilnahme am Welthandel
+- sozialistische bzw. **sozialdemokratische Parteien** kommen auf
+  - **Arbeiterparteien**
+  - Forderung nach **Sozialpolitik** (Arbeitsschutz, höhere Löhne, Wohnraum und Bildung)
 
 ## Osterhammel über Europa im 19. Jahrhundert
 
@@ -59,13 +77,3 @@ Es befinden sich zwei Aspekte in der „selbst verschuldeten Unmündigkeit“: d
   - **Macht** (oft gewaltsam)
   - **Einfluss** (kapitalistische Expansion)
   - **Vorbildwirkung** (oft entgegengenommen)
-
-## Imperialismus und Rassismus (z. B. Deutschland)
-
-TODO ausführen
-
-Rassismus ist ein Teil des Imperialismus und u. a. die Rechtfertigung des Kolonialismus
-
-- Das sieht man daran, dass die Indigenen in u. a. Afrika nicht als gleichwertig bezeichnet wurden.
-  - Gleichstellung von Indigenen mit Tieren („Völkerschau“ M6)
-- „Die Notwendigkeit, zu einer Klasse von Dienstboten in Lohn und Brot der Weißen zu werden, schafft aber für die Eingeborenen erst, weltgeschichtlich betrachtet, ein dauerndes Existenzrecht.“ (M7)
