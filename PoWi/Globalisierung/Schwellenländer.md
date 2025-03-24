@@ -47,8 +47,8 @@ Messwert für Soziale Ungleichheit [siehe hier](../Soziale%20Marktwirtschaft/Soz
 | **BIP** pro Kopf            | 12.600 USD        | 54.300 USD        |
 | **BNE** pro Kopf            | 24.360 KKP-Dollar | 73.180 KKP-Dollar |
 | **GINI** (kleiner gleicher) | 0,35              | 0,3               |
-| **HDI** (größer besser)     | 0,78              | 0,95              |
-| **HPI** (größer besser)     | 41.9              | 45,7              |
+| **HDI**                     | Rang 75           | Rang 7            |
+| **HPI** (größer besser)     | Rang 94           | Rang 29           |
 
 ### Integration von China in ökonomische Globalisierungsprozesse
 
