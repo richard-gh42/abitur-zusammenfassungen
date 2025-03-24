@@ -49,7 +49,6 @@ Messwert für Soziale Ungleichheit [siehe hier](../Soziale%20Marktwirtschaft/Soz
 | **GINI** (kleiner gleicher) | 0,35              | 0,3               |
 | **HDI** (größer besser)     | 0,78              | 0,95              |
 | **HPI** (größer besser)     | 41.9              | 45,7              |
-| **ISEW**                    | TODO              | TODO              |
 
 ### Integration von China in ökonomische Globalisierungsprozesse
 
@@ -125,3 +124,5 @@ chinesischer Sicht ein Problem. Bereits in ihrem 2015 verabschiedeten industriep
 Chinas wachsende Abschottung wird sein Wirtschaftswachstum mittelfristig weiter 15 abbremsen, da sie unweigerlich mit Effizi-enzverlusten einhergehen wird. Schon in diesem Jahr [2022] wird die Volksrepublik das von Peking ausgegebene Wachstumsziel von etwa 5,5 Prozent weit verfehlen. So 120 erwartet die Weltbank [...] ein Wachstum von nur 2,8 Prozent. Besonders problematisch dürfte für Peking sein, dass sich die strauchelnde Wirtschaft auf den Arbeitsmarkt auswirkt.
 
 ## Elfenbeinküste
+
+TODO
