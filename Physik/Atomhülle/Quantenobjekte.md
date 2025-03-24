@@ -100,3 +100,11 @@ Die De-BROGLIE-Wellenlänge hängt von der **Masse und Geschwindigkeit** ab. Wen
 - Wenn man $f$ über die Lichtquelle weiß kann man eine Funktion aufstellen
   - $E_{kin}$ und $f$ Diagramm
   - Da $E_{kin} = f \cdot h$ ist (Austrittsenergie bestimmt nur den Startpunkt und ist daher irrelevant), kann h als Steigung der $f$ - $E_{kin}$ Gerade gemessen werden.
+
+## experimentelle Bestimmung von h über LEDs
+
+- $h$ kann über LEDs bestimmt werden, indem man LEDs unterschiedlicher Farben verwendet.
+- Diese werden an eine Spannung angeschlossen, die solange erhöht wird, bis die LEDs anfangen zu leuchten.
+- Die Energie des Lichts erhält man über $E = e \cdot U$.
+- $e \cdot U = h \cdot f$
+- Wenn man die Frequenz bzw. Wellenlänge hat kann man für h umstellen: $h = \frac{e \cdot U}{f}$
