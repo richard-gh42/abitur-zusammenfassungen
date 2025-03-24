@@ -1,1 +1,3 @@
 # Merkmale rechtspopulistischer Sprache
+
+TODO

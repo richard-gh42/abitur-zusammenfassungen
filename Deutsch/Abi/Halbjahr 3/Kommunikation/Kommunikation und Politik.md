@@ -31,7 +31,7 @@
   - Jeder möchte sich als Wahrheit darstellen. Das führt dazu, dass diese vielen “Transparenzen” zu Unübersichtlichkeit und konträren “Wahrheiten” führen. So weiß man als Empfänger nicht, wer die Wahrheit sagt und wer Lügt.
 - **Kommunikationsfehler:** Die Kodierung von Nachrichten ist nicht nachvollziehbar und daher schwierig zu dekodieren.
 
-## Strategien in der politischen Kommunikation (Frau Wehling)
+## Strategien in der politischen Kommunikation (besonderer Fokus auf Framing) (Frau Wehling)
 
 ### Bewegung der politischen Mitte
 

@@ -8,6 +8,10 @@ TODO
 
 TODO
 
+## Veränderung im journalistischen Bereich und die sich daraus ergebenden Herausforderungen
+
+TODO
+
 ## „Öffentlichkeit“
 
 TODO
