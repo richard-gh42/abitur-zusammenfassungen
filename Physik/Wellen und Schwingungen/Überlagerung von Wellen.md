@@ -111,6 +111,8 @@ Tafelwerk
 
 ### weißes Licht
 
+> Das 0te Maxima ist weiß (da alle an der gleichen Stelle ein Maxima haben), sonst je nach Wellenlänge
+
 1. Farbe aussuchen
 2. Tafelwerk
 
