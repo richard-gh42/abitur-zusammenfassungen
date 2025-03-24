@@ -61,7 +61,7 @@ Das **plancksche Wirkungsquantum** ($h \approx 6{,}626 \cdot 10^{-34} \text{Js}$
 
 Die De-BROGLIE-Wellenlänge hängt von der **Masse und Geschwindigkeit** ab. Wenn die Masse so groß wie bei einem makroskopischen Objekt ist, muss die Geschwindigkeit unglaublich langsam sein, um eine Wellenlänge wie beispielsweise eines Elektrons zu haben. Daher ist die De-BROGLIE-Wellenlänge bei makroskopischen Objekten praktisch nicht erkennbar.
 
-## experimentelle Bestimmung von h (Photoelektrischer Effekt)
+## Photoelektrischer Effekt
 
 - **Versuchsaufbau**:
   - **Lichtquelle**: Diese Komponente erzeugt Licht, das auf die Metallplatte gerichtet wird. Die Lichtquelle kann verschiedene Wellenlängen und Intensitäten des Lichts erzeugen, um den photoelektrischen Effekt zu untersuchen.
@@ -79,3 +79,24 @@ Die De-BROGLIE-Wellenlänge hängt von der **Masse und Geschwindigkeit** ab. Wen
 - Ein Photon kann seine gesamte Energie auf ein Elektron übertragen.
 - Wenn die Energie des Photons groß genug ist, um die Bindungsenergie des Elektrons zu überwinden, wird das Elektron freigesetzt.
 - Überschüssige Energie wird in kinetische Energie des Elektrons umgewandelt.
+
+### experimentelle Bestimmung von h
+
+#### Aufbau
+
+- Stromkreis zwischen Platte (positiv) und Schirm (negativ)
+  - Spannung ansetzten und **Stromstärkemessgerät**
+  - Dieser Stromkreis ist nur zur Stromstärkemessung (Elektronen, die auf den Schirm treffen)
+- Stromkreis zwischen Platte (positiv) und Schirm (negativ)
+  - **Gegenfeld**
+  - Stromspannung veränderbar
+
+#### Funktion
+
+- Spannung hochdrehen, bis keine Elektronen mehr auf den Schirm treffen
+  - Über die Spannung die kinetische Energie berechnen $E_{kin} = e \cdot U$
+- Die Energie des Lichts ist $E_{kin} + E_{Austrittsenergie}$
+  - $f \cdot h = E_{kin} + E_{Austrittsenergie}$
+- Wenn man $f$ über die Lichtquelle weiß kann man eine Funktion aufstellen
+  - $E_{kin}$ und $f$ Diagramm
+  - Da $E_{kin} = f \cdot h$ ist (Austrittsenergie bestimmt nur den Startpunkt und ist daher irrelevant), kann h als Steigung der $f$ - $E_{kin}$ Gerade gemessen werden.
