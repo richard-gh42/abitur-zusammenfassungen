@@ -4,6 +4,13 @@
 
 TODO
 
+- Buchdruck
+- Massenmedien: Radio und so
+- Soziale Medien
+- KI
+
+TODO (Probleme und Euphorie bei Medienrevolutionen)
+
 ## Merkmale der aktuellen Medienlandschaft
 
 - **Informationsflut**: Milliarden von Informationen werden ständig produziert, interpretiert und kommentiert.

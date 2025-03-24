@@ -80,6 +80,10 @@
 - Trump inszeniert sich als "Familienvater" und nutzt Framing als Möglichkeit der Selbstinszenierung
 - Fakten überzeugen Wähler weniger als Framing
 
-## Lösungen für die Herausforderungen der politischen Kommunikation
+### Lösungen für die Herausforderungen der politischen Kommunikation
 
 - Abschied nehmen von der Annahme, man könne faktisch Denken und Entscheiden
+
+### Sprache - Denken - Wirklichkeit
+
+TODO WICHTIG!!!!
