@@ -108,3 +108,14 @@ Die De-BROGLIE-Wellenlänge hängt von der **Masse und Geschwindigkeit** ab. Wen
 - Die Energie des Lichts erhält man über $E = e \cdot U$.
 - $e \cdot U = h \cdot f$
 - Wenn man die Frequenz bzw. Wellenlänge hat kann man für h umstellen: $h = \frac{e \cdot U}{f}$
+
+### Funktionsweise einer LED
+
+1. 2 Platten (p- und n-Platte)
+2. Halbleiter (**Valenzband voll**, **Leitungsband leer**, aber Elektronen können durch Energie in das Leitungsband **übergehen**)
+3. Es werden durch **Dotierungen** (Elemente mit 1 Elektron mehr (n) / weniger (p)) in die Platten gesetzt.
+4. Die überschüssigen Elektronen gehen aus dem Valenzband in das Leitungsband
+5. Wenn eine Spannung (**plus bei der p-Platte** und **minus bei der n-Platte**) angelegt wird befindet sich der Halbleiter in **Sperrrichtung**. Die Dotierungen werden zum jeweiligen Ende gezogen und entfernen sich - die **Raumladungszone** (Zone ohne freie Ladungsträger oder Löcher) erweitert sich.
+6. Wenn eine Spannung (**minus bei der p-Platte** und **plus bei der n-Platte**) angelegt wird werden die Dotierungen zueinander gedrückt - die **Raumladungszone** verkleinert sich oder fällt weg.
+7. Jetzt **treffen die p- und n-Dotierungen aufeinander** und die **überschüssigen Elektronen** der n-Platte **füllen die Löcher** in der p-Platte.
+8. Dabei geht Energie frei, die als **Licht ausgestrahlt** wird.
