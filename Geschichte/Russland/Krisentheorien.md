@@ -18,9 +18,9 @@ Mögliche Gefahren:
 
 Schema zur untersuchung von Autounfällen:
 
-1. Der Eintritt der Gefahr. Ins schleudern geraten.
-2. Bemerken, dass man in den Graben fährt
-3. Falls zu spät bemerkt: Moment der Ausweglosigkeit, „the moment of no escape". Unfall unvermeidbar.
+1. Der **Eintritt** der Gefahr. Ins schleudern geraten.
+2. **Bemerken**, dass man in den Graben fährt
+3. Falls zu spät bemerkt: Moment der Ausweglosigkeit, „**the moment of no escape**". Unfall unvermeidbar.
 
 ### Übertragung auf Krisen
 
