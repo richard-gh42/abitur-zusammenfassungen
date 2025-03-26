@@ -13,7 +13,7 @@ Globalisierung ist ein Prozess der internationalen Verpflechtung durch neue Tech
   - somit auch internationale Institutionen zur Durchsetzung
 - **die ökonomische Globalisierung**
   - globale Produktionsketten und -netzwerke
-  - globaler Güter-, Arbeits- und Finazmärkte
+  - globaler Güter-, Arbeits- und Finanzmärkte
 
 # Ökonomische Globalisierung
 
@@ -39,7 +39,7 @@ Die ökonomische Globalisierung kann einerseits als Chance für eine stärkere W
 ### Was sind Wertschöpfungsketten?
 
 - Aufschlüsselung aller unternehmerischer Aktivitäten bis zur Bereitstellung eines Produkts
-- Kann Effizienz(defizite) in einem Produkt auffällig machen
+- Kann Effizienz(-defizite) in einem Produkt auffällig machen
 
 ### Wie ist ökonomische Globalisierung möglich?
 
@@ -70,7 +70,7 @@ Die ökonomische Globalisierung kann einerseits als Chance für eine stärkere W
 
 ## Indikatoren für ökonomische Globalisierung
 
-### Welthandelsvolumen - Güter- und Dienstleistungenhandel (M4-M6)
+### Welthandelsvolumen - Güter- und Dienstleistungshandel (M4-M6)
 
 > Das Welthandelsvolumen bezieht sich auf die Gesamtmenge an Waren und Dienstleistungen, die weltweit zwischen Ländern gehandelt werden.
 
@@ -135,12 +135,12 @@ Die ökonomische Globalisierung kann einerseits als Chance für eine stärkere W
 - Ausnutzung der Schwankungen im Wechselkurshandel ermöglichen die Erzielung von Gewinnen.
 - Der Handel findet dezentral zwischen Finanzinstituten und nicht an einer zentralen Börse statt.
 
-#### Was ist das Devisen-Karusell?
+#### Was ist das Devisen-Karussell?
 
 - durchschnittlicher Tagesumsatz im Devisenhandel nach Währungen
   - Summe des Tauschhandels der Währungen (in beide Richtungen)
 
-#### Was sagt das Devisen-Karusell?
+#### Was sagt das Devisen-Karussell?
 
 > Stand 2019
 
@@ -184,13 +184,13 @@ Auf Länder bezogen bedeuten Opportunitätskosten, dass wenn sich ein Land auf e
 ## interindustrieller Handel
 
 - Handel von unterschiedlichen Güterklassen zwischen Ländern
-  - z. B. deutsche Maschienen gegen südamerikanische Bananen
+  - z. B. deutsche Maschinen gegen südamerikanische Bananen
 - passiert bei komparativen Kostenvorteil
 
 ## intraindustrieller Handel (Hanno Beck)
 
 - Handel von gleichen Güterklassen zwischen Ländern
-  - z. B. deutsche Maschienen gegen amerikanische Maschienen
+  - z. B. deutsche Maschinen gegen amerikanische Maschinen
 - mit traditionellen Handelstheorien (wie Ricardo) nicht zu erklären
 - Wird mit dem Grubel-Lloyd-Index gemessen
   - 0 = 100 Exporte auf 0 Importe
@@ -203,7 +203,7 @@ Auf Länder bezogen bedeuten Opportunitätskosten, dass wenn sich ein Land auf e
 - Abgabe von Produktionsstätten an die Privatwirtschaft
 - Ziele
   - Staatsmonopole beseitigen
-  - Staatsunternehmen profitabeler machen
+  - Staatsunternehmen profitabler machen
   - neue Märkte erschließen, die höhere Gewinne versprechen
 
 ### Liberalisierung
@@ -221,7 +221,7 @@ Auf Länder bezogen bedeuten Opportunitätskosten, dass wenn sich ein Land auf e
 - Hindernisse: Kultur, Sprache
 - Vorteile von Liberalisierung
   - leichterer Zugang zu Arbeitskräften, Technologie, Kapital, Kunden, ...
-  - in oder auslänische Investoren erhalten besseren Zugang zu neuen Märkten, Spezialisierungen, Größenvorteile (pro Produkt Kosten fallen bei höherer Stückzahl)
+  - in oder ausländische Investoren erhalten besseren Zugang zu neuen Märkten, Spezialisierungen, Größenvorteile (pro Produkt Kosten fallen bei höherer Stückzahl)
   - neue Technologien werden zu attraktiven Konditionen ins Land geholt
   - strukturelle Erneuerungsprozesse werden beschleunigt und Arbeitsmigration erleichtert
 
