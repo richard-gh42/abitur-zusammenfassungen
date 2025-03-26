@@ -47,7 +47,7 @@ Schema zur untersuchung von Autounfällen:
 
 ### Nutzen im Abi
 
-- Definition der Krise
+- Definition der Krise / Handelt es sich um eine Krise?
 - Gefahren die eine Krise wirkt
 - Verlauf einer Krise (Autounfall-Analogie)
 - Sicht auf Menschen, statt dem Staat bei Krisen
