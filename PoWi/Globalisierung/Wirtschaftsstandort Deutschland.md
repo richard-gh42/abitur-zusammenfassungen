@@ -23,9 +23,9 @@ Standortfaktoren können in zwei Kategorien unterschieden Werden:
 - Treiber der deutschen Wirtschaft sind hochspezialisierte Industriefirmen aus dem Mittelstand bei welchen vorallem die Qualität entscheidend sind
 - Auch relevant sind die sogennanten "Hidden Champions" unbekannte stark spezialisierte Unternehmen welche in ihrer Branche führend sind
 
-#Quellen:
+# Quellen:
 
-##Deutsche Wirtschaft:
+## Deutsche Wirtschaft:
 
 - Politikbuch S. 178
   
