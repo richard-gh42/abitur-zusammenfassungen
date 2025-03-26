@@ -44,3 +44,12 @@ Schema zur untersuchung von Autounfällen:
 
 - **Mittel der Repression**: also Unterdrückung oder Isolierung, die der Regierung zur Verfügung stehen. Falls sich zeigt, dass eine Gruppe auf eine Gefahr aufmerksam macht, kann man sie zum Schweigen bringen, unterdrücken, einsperren, oder man kann die unangenehme Gesellschaft loswerden, indem man sie aus dem Lande schickt oder sogar das Land zerteilt.
 - **Strukturänderung**: Die andere Stabilisierungsmöglichkeit besteht in der Systemänderung, in der Strukturänderung, in der Selbstumwandlung des Systems. Ein System kann nämlich eine Krise auch dadurch bewältigen, dass es sich verändert.
+
+### Nutzen im Abi
+
+- Definition der Krise
+- Gefahren die eine Krise wirkt
+- Verlauf einer Krise (Autounfall-Analogie)
+- Sicht auf Menschen, statt dem Staat bei Krisen
+- Worauf muss man gucken, bei der Krisenforschung
+- Wie eine Krise abgewendet werden kann (Kontrolle wichtiger als Stabilität)
