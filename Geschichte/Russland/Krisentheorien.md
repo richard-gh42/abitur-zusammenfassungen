@@ -2,7 +2,24 @@
 
 ## Jacob Burckhardt
 
+TODO Krisendefinition (text vorher) und Geschichtliche Krisen
+
+### Krisendefinition
+
+- Veränderungen / **Prozesse**, die **extrem beschleunigt und sprunghaft** erfolgen
+  - aber nicht durch ein Ereignis / Moment
+- über **längere Zeit aufgebaut**
+- beschleunigte Form des Wandels
+  - Altes **abgeschafft** und Neues **aufgebaut**
+  - sorgen für **Fortschritt**
+
+### Geschichtliche Krisen
+
 TODO
+
+### Nutzen im Abi
+
+- Ist etwas eine Krise?
 
 ## Karl W. Deutsch
 
@@ -14,7 +31,7 @@ Mögliche Gefahren:
 - Spaltung und Zerschlagung des Systems
 - schwerer, weitverbreiteter Verlust von Leben, Eigentum und anderen Werten
 
-### Analogie zu Autounfällen
+### Krisenablauf: Analogie zu Autounfällen
 
 Schema zur untersuchung von Autounfällen:
 
@@ -22,7 +39,7 @@ Schema zur untersuchung von Autounfällen:
 2. **Bemerken**, dass man in den Graben fährt
 3. Falls zu spät bemerkt: Moment der Ausweglosigkeit, „**the moment of no escape**". Unfall unvermeidbar.
 
-### Übertragung auf Krisen
+### Krisenforschung
 
 > Erweiterung des Krisenbegriffs von bloßer Instabilität der Regierung auf die Erhaltung des Systems der lebenden Menschen
 
