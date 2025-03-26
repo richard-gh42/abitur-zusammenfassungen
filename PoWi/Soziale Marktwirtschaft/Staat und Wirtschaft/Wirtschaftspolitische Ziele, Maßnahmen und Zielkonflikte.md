@@ -1,5 +1,9 @@
 # Wirtschaftspolitische Ziele, Maßnahmen und Zielkonflikte
 
+## Ziele der Wirtschaftspolitik (S. 180f)
+
+TODO (Konflikte hinzufügen)
+
 ## Ordnungs-, Struktur- und Prozesspolitik
 
 ### Zielsetzung
