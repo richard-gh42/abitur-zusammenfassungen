@@ -8,12 +8,23 @@
 
 Es entsteht ein homogenes E-Feld zwischen den Platten.
 
+## Einsatzmöglichkeiten von Kondensatoren in technischen Systemen
+
+Alles, wo für kurze Zeit Strom gespeichert werden muss.
+
+- Smartphones
+- Standlicht bei Fahrrad-LED (hohe Kapazität)
+
 ## Definition der Kapazität
 
 Die Kapazität ist das Speichervermögen eines Kondensators, also wie viele Ladungen gespeichert werden können.
 
 - Wird in Farad angegeben
 - Proportional zu dem Flächeninhalt, der Dielektrizitätszahl und umgekehrt zu dem Abstand der Platten
+
+### Experimentelle Bestimmung der Kapazität
+
+Kann über die Formeln hergeleitet werden.
 
 ## Flächenladungsdichte
 
@@ -64,6 +75,10 @@ Die Halbwertszeit ist proportional zum Wiederstand und der Kapazität. Daher dau
 
 $$t_H = R \cdot C \cdot ln(2)$$
 
+### Schaltplan und Messung der Aufladungskurve
+
+![Schaltplan Kondensator Aufladevorgang](../../../images/Physik/Kondensator-Aufladevorgang.jpeg)
+
 ## zeitlicher Verlauf der Stromstärke beim Entladungsvorgang
 
 exponentielle Senkung der Stromstärke
@@ -76,5 +91,5 @@ $$t_H = R \cdot C \cdot ln(2)$$
 
 - Spannungsquelle angeschlossen zum Aufladen
 - Spannungsquelle wird getrennt
-- Ein Widerstand ist angeschlossen, damit es einen Verbraucher gibt, der den Stromkreis schließt
+- Ein Widerstand ist angeschlossen, damit es einen Verbraucher gibt, der den Stromkreis schließt und die Entladung langsamer voranschreitet
 - Über das Messgerät kann die Entladungskurve gemessen werden

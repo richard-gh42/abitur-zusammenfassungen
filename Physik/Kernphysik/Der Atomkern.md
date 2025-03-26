@@ -28,14 +28,14 @@
 
 Grund dafür, dass der Atomkern nicht auseinanderfällt.
 
-- Ladungsunabhängig
-- Kurze Distanz
-- stoßt ab (geringe Distanz) und zieht an (höhere Distanz)
+- **Ladungsunabhängig**
+- **Kurze Distanz**
+- **stößt ab** (geringe Distanz) und **zieht an** (höhere (wenn auch trotzdem sehr gering) Distanz)
 - bei zunehmender Protonenzahl müssen mehr Neutronen sich im Kern befinden, um die kurze Distanz der starken Wechselwirkung auszugleichen, so dass die COULOMB-Kraft ausgeglichen wird
 
 ![Stabilität von Kernen](../../images/Physik/Stabilität%20von%20Elementen.png)
 
-## Potentialtopf im Kern
+## Potentialtopf des Kerns
 
 - Die Nukleonen im Kern sind Quantenobjekte.
 - Die Protonen und Neutronen haben ihren jeweiligen Potentialtopf mit unterschiedlichen diskreten Energieniveaus wie bei der Atomhülle

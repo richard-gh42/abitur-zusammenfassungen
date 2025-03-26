@@ -24,7 +24,7 @@ Stehende Wellen sind eigentlich keine richtigen Wellen mehr, da sie keine Energi
 
 ### Wellenlängenbestimmung mittels einer durch Reflexion erzeugten stehenden Welle
 
-TODO Heydecke: Der Abstand zwischen zwei Knoten bzw. Bäuchen beträgt $\frac{\lambda}{2}$ der sich überlagernden Wellen.
+Der Abstand zwischen zwei Knoten bzw. Bäuchen beträgt $\frac{\lambda}{2}$ der sich überlagernden Wellen.
 
 #### Reflexionstypen bei der Stehenden Welle
 
@@ -94,14 +94,6 @@ Das Schirmbild hinter zeigt Beugungs- und Interferenzerscheinungen. Es bilden si
 - Spaltbreite
   - Einfluss auf die Intensität der Maxima, jedoch nicht auf das Interferenzmuster
 
-## Wellenlängenbestimmung von monochromatischem Licht
-
-TODO
-
-## Entstehung des Spektrums von weißem Licht beim Doppelspalt
-
-TODO
-
 ## Interferenz am Gitter (Licht)
 
 - mehr Spalte => kein Einfluss auf den Abstand der Hauptmaxima
@@ -110,3 +102,34 @@ TODO
   - Die Anzahl der Nebenmaxima entspricht der Anzahl der Spalte minus 2.
 
 Ein Gitter wird genutzt um schärfere Maxima zu erhalten, ohne die Position der Maxima zu verändern.
+
+## Wellenlängenberechnung am Gitter
+
+### monochromatisches Licht
+
+Tafelwerk
+
+### weißes Licht
+
+> Das 0te Maxima ist weiß (da alle an der gleichen Stelle ein Maxima haben), sonst je nach Wellenlänge
+
+1. Farbe aussuchen
+2. Tafelwerk
+
+## Michelson-Morley Interferometer
+
+[Leifi](https://www.leifiphysik.de/relativitaetstheorie/spezielle-relativitaetstheorie/versuche/michelson-morley-experiment)
+
+[Iserv](https://igsff-bs.de/iserv/fs/file/local/Groups/Klasse%2013.4/Physik/02-%20Wellen/09-Michelson-Interferomerter.pdf)
+
+In einem Interferometer wird Licht durch einen Strahlteiler auf zwei verschiedenen Wegen durch das Instrument geschickt. Die Anordnung ist insgesamt so gewählt, dass sich das Licht, das verschiedene Wege durchlaufen hat, überlagert. Das kann mit verschiedenen Bauformen realisiert werden. Geringste Veränderungen der Lichtwege führen zu einer Veränderung des Interferenzmusters. Interferometer lassen sich daher zur Messung sehr kleiner Längenänderungen nutzen.
+
+### Erklärung
+
+- Aus der Lichtquelle kommt ein paralleles Bündel Strahlen (ebene Welle). Dieses wird durch eine Linsenanordnung „ausgeweitet" und verläuft danach divergent (auseinandergehend) mit einem neuen gedachten Ursprungspunkt (Kugelwelle), der im Bereich der Linsenanordnung liegt.
+- Verschiebung des Spiegels -> Nun im Zentrum Maximum statt Minimum
+- Im Michelson-Interferometer interferieren Teilwellen. Liegt auf dem Schirm ein Maximum vor, so führt eine Verschiebung eines Spiegels um Vielfache von $\frac{\lambda}{2}$ erneut zu einem Maximum.
+
+### technische Verwendung
+
+Da das Michelson-Interferometer so präzise Weglängenänderungen misst, kann es auch verwendet werden, um die Stabilität von optischen Aufbauten wie z. B. Teleskopen oder Mikroskopen zu prüfen.

@@ -1,6 +1,10 @@
 # Energiebetrachtungen von Körpern in homogenen elektrischen Feldern
 
-## potentielle Energie einer Probeladung im homogenen elektrischen Feld
+## Energiebilanz
+
+Die Energiebilanz ist die Kombination einer Ladung aus kinetischer und potentieller Energie.
+
+### potentielle Energie einer Probeladung im homogenen elektrischen Feld
 
 Die potentielle Energie einer Ladung im homogenen elektrischen Feld bezeichnet das Potential der Ladung, das in kinetische Energie übertragen werden kann.
 
@@ -18,9 +22,7 @@ Tafelwerk: $E_{kin} = Q \cdot U$ nach Beschleunigung im E-Feld
 
 ### Geschwindigkeitsberechnung über kinetische Energie einer Ladung nach der Beschleunigung in einem elektrischen Feld
 
+> Nützlich für Wehneltzylinder / Elektronenstrahlröhre / Franck-Hertz-Versuch
+
 - $\frac{1}{2} m v^2$ gleich der kinetischen Energie der Ladung nach Beschleunigung gleichsetzen
 - Zu v umstellen
-
-## Elektronenvolt (eV) als Einheit
-
-TODO

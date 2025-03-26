@@ -12,37 +12,38 @@ Dafür wird eine **Elektronenbeugungsröhre** verwendet. Die Elektronenbeugungsr
 - Folie aus polykristallinem Graphit
 - Fluoreszenzschirm
 
-### Funktionsweise der Elektronenbeugungsröhre
+## Funktionsweise der Elektronenbeugungsröhre
 
-1. Die Elektronen schießen gebündelt aus dem Wehneltzylinder heraus
-2. Die Elektronen gehen durch die Folie aus polykristallinem Graphit hindurch
-3. Die Folie sorgt dafür, dass die Elektronen, wegen ihrem Wellenverhalten, mehrere "neue" kohärente Wellen bilden
-4. Diese Wellen interferieren
-5. Zuletzt treffen die Elektronen auf den Fluoreszenzschirm
-6. Es lassen sich Kreise beobachten
-7. Diese Kreise lassen sich auf die Interferenz der Elektronen zurückführen
+1. Die Elektronen schießen **gebündelt** aus dem **Wehneltzylinder** heraus
+2. Die Elektronen gehen durch die Folie aus **polykristallinem Graphit** hindurch
+3. Die Folie sorgt dafür, dass die Elektronen, wegen ihrem Wellenverhalten, mehrere "neue" **kohärente Wellen** bilden
+4. Diese Wellen **interferieren**
+5. Zuletzt treffen die Elektronen auf den **Fluoreszenzschirm**
+6. Es lassen sich **Kreise beobachten**
+7. Diese Kreise lassen sich auf die **Interferenz der Elektronen** zurückführen
 
-Außerdem stellt man fest, dass bei höherer Beschleunigugsspannung das Muster näher zueinander rückt. Daher gilt für das Elektron: je schneller, desto kleiner die Wellenlänge.
+Außerdem stellt man fest, dass bei höherer Beschleunigugsspannung das Muster näher zueinander rückt. Daher gilt für das Elektron: **je schneller, desto kleiner die Wellenlänge**.
 
 ### Wehneltzylinder (Elektronenbündelung)
-
-### Glühelektrischer Effekt
-
-Der Glühelektrische Effekt besagt, dass eine durch Hitze in einem Leiter Elektronen ausgelöst werden und sich aus dem Leiter lösen.
 
 Bei einem Wehneltzylinder handelt es sich um einen Metallkörper, der die Glühelektrode umgibt. Seine Aufgabe ist es, die freien Elektronen zu einem **Elektronenstrahl** zu bündeln.
 
 - Dafür wird an ihm eine, bezüglich der Glühelektrode, negative Spannung angelegt.
-- Die freigewordenen Elektronen werden daher von den Wänden des Metallkörpers abgestoßen und in der Mitte des Wehneltzylinders gebündelt.
-- Je größer die an ihm angelegte negative Spannung, desto stärker werden die Elektronen gebündelt und desto heller wird der spätere Punkt auf dem Bildschirm.
-- Durch Änderung der Spannung kann also die Intensität des Elektronenstrahls gesteuert werden.
-- Außerdem besitzt der Zylinder ein Loch, durch welches die Elektronen ihn verlassen können.
+- Die **freigewordenen Elektronen** werden daher von den Wänden des Metallkörpers abgestoßen und in der **Mitte des Wehneltzylinders gebündelt** (**elektronischer Trichter**).
+- Je größer die an ihm angelegte negative Spannung, desto stärker werden die Elektronen gebündelt.
+- Dort, wo die Elektronen heraus kommen sollen, ist eine Platte, mit positiver Ladung. Durch das E-Feld zwischen Platte um die Glühelektrode und diese Platte werden die **Elektronen beschleunigt**.
+  - Zuletzt besitzt der Zylinder ein Loch, durch welches die Elektronen ihn verlassen können.
+
+#### Glühelektrischer Effekt
+
+Der Glühelektrische Effekt besagt, dass eine durch Hitze in einem Leiter Elektronen ausgelöst werden und sich aus dem Leiter lösen.
 
 ### Folie aus polykristallinem Graphit
 
-- besteht aus vielen Einzelkristallen, die in zufälligen Richtungen zueinander liegen
+- besteht aus **vielen Einzelkristallen**, die in zufälligen Richtungen zueinander liegen
 - fungiert als Gitter, an welchem Beugungserscheinungen bei durchschreiten Elektronen erscheinen
-- Dabei kann man sich das Interferenzmuster (Kreise) wie bei einem rotierenden Gitter vorgestellt werden.
+  - Analogie zum **Transmissionsgitter** (Gitter, welches an bestimmten Stellen Licht durchlässt und sonst das Licht Reflektiert)
+- Dabei kann man sich das **Interferenzmuster** (Kreise) wie bei einem **rotierenden Gitter** vorgestellt werden.
   - Bei einem Gitter entstehen Punkte als Maxima, welche zu Kreisen durch Rotation werden.
   - Bei der Folie sind die Kristalle zufällig ausgerichtet, was mit dem Rotierten Gitter verglichen werden kann.
 
@@ -50,17 +51,3 @@ Bei einem Wehneltzylinder handelt es sich um einen Metallkörper, der die Glühe
 
 - Wenn man einen Magneten neben den Elektronenstrahl hält, wird dieser abgelenkt und man findet keine Leuchterscheinung auf dem Schirm.
 - Da Elektronen von einem Magnetfeld abgelenkt werden, handelt es sich bei der Ursache des Interferenzmuster um die Interferenz von Elektronen.
-
-## De-BROGLIE-Wellenlänge
-
-Die De-BROGLIE-Wellenlänge besagt, dass jedes Objekt mit Masse und Geschwindigkeit auch eine Wellenlänge hat.
-
-Es werden die Eigenschaften von Photonen auf Objekte mit Ruhemasse, z.B. Elektronen übertragen.
-
-## plancksches Wirkungsquantum
-
-Das **plancksche Wirkungsquantum** ($h \approx 6{,}626 \cdot 10^{-34} \, \text{Js}$) ist eine fundamentale Konstante der Quantenmechanik. Es beschreibt die Energie eines Photons in Abhängigkeit von seiner Frequenz: $E = h \cdot f$.
-
-## De-BROGLIE-Wellenlänge bei makroskopischen Objekten
-
-Die De-BROGLIE-Wellenlänge hängt von der Masse und Geschwindigkeit ab. Wenn die Masse so groß wie bei einem makroskopischen Objekt ist, muss die Geschwindigkeit unglaublich langsam sein, um eine Wellenlänge wie beispielsweise eines Elektrons zu haben. Daher ist die De-BROGLIE-Wellenlänge bei makroskopischen Objekten praktisch nicht erkennbar.

@@ -16,30 +16,54 @@ Das bedeutet, dass es eine **Ruhelage** (auch Gleichgewichtslage genannt) gibt. 
 
 Beispiel: Federpendel, elektromagnetischer Schwingkreis
 
-### Schwingungsebene
-
-TODO
-
 ### Auslenkung
 
-TODO
+Die Auslenkung ist die momentane Entfernung des Körpers von der Ruhelage.
+
+### Schwingungsebene
+
+Die Schwingungsebene bezeichnet die Ebene, in welcher die Schwingung stattfindet - also die Richtung der Auslenkung.
 
 ### Amplitude
 
-TODO
+Die Amplitude bezeichnet die maximale Auslenkung der Schwingung.
 
-## mathematische Beschreibung der zeitabhängigen Größen der harmonischen Schwingung als Funktionsgleichung (Sinus und Kosinus ohne Nullphasenwinkel)
+### Frequenz $f$ und Periodendauer $T$
 
-TODO
+Die Periodendauer ist die Zeit die die Schwingung von einer Auslenkung wieder in die gleiche Auslenkung (Bewegungsrichtung muss auch gleich sein) benötigt. Messbar am einfachsten von Hochpunkt zu Hochpunkt.
 
-## Zusammenhang zwischen Frequenz und Periodendauer
+Die Frequenz ist wie oft sich die Schwingung innerhalb einer Sekunde wiederholt. (Wenn in Hertz angegeben)
 
-TODO
+$$T = \frac{1}{f}$$
 
-## Federpendel, insbesondere Abhängigkeit der Periodendauer von systembeschreibenden Größen
+## Zeigerdarstellung
 
-TODO
+Jeder Auslenkung einer Schwingung wird ein Winkel bzw. Zeiger zugesprochen, der diese Auslenkung repräsentiert.
 
-## elektromagnetischer Schwingkreis (qualitativ)
+Meist ist der Hochpunkt 90° und Tiefpunkt 270°, während die Nullstellen bei 0°, 180°, 360°, ... sind. Mit jeder Periode steigt der Winkel um 360°.
 
-TODO
+## mathematische Beschreibung der zeitabhängigen Größen der harmonischen Schwingung als Funktionsgleichung (Sinus und Kosinus)
+
+Eine harmonische Schwingung kann mit dem Sinus oder Kosinus beschrieben werden.
+
+## Federpendel
+
+Ein Federpendel besteht aus einem Körper, der an einer Feder hängt. Der Ruhezustand befindet sich dort, wo $F_{Gravitation} = F_{Federpendel}$ ist.
+
+### Abhängigkeit der Periodendauer von systembeschreibenden Größen
+
+Tafelwerk: $T = 2 \pi \sqrt{\frac{D}{m}}$ mit $D = \text{Federkonstante}$ und $m = \text{Masse des Körpers}$
+
+=> Die Schwingungsdauer ist unabhängig von der Amplitude.
+
+## Aufbau eines elektromagnetischen Schwingkreises
+
+- Ein elektromagnetischer Schwingkreis besteht aus einem Kondensator und einer Spule.
+- Der Kondensator speichert elektrische Energie in Form eines elektrischen Feldes, während die Spule Energie in Form eines magnetischen Feldes speichert.
+
+1. Wenn der Schwingkreis angeregt wird, z. B. durch eine anfängliche Ladung des Kondensators, beginnt ein periodischer Energieaustausch zwischen Kondensator und Spule über **Selbstinduktion**.
+2. Dieser Wechsel zwischen elektrischer und magnetischer Energie erzeugt eine Schwingung im Schwingkreis mit einer natürlichen Frequenz.
+
+### THOMSONsche Schwingungsgleichung
+
+Beschreibt die Periodendauer / Frequenz des elektromagnetischen Schwingkreises in Abhängigkeit von Induktivität und Kapazität.

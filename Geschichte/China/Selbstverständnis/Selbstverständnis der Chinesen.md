@@ -1,21 +1,55 @@
 # Selbstverständnis der Chinesen
 
-China sieht sich selbst als ein einheitliches Reich, trotz vieler unterschiedlicher koexistierenden Kulturen und Phasen des Zerfalls und Einheit des Staates in China. Dabei beruht das Selbstverständnis der Chinesen grundlegend auf drei Philosophien – „die drei Lehren“: dem Konfuzianismus, Buddhismus und Daoismus.
+## Wandel Chinas im Laufe der Jahrhunderte
 
-Der Konfuzianismus kann als Staatsphilosophie von China bezeichnet werden, da alle Beamten nach dem Konfuzianismus ausgebildet werden und er als Legitimation des Staates gesehen werden kann. Im Konfuzianismus wird das Bild vom Kaiser definiert und es werden Verhaltensnormen festgelegt. Der Kaiser sei der Sohn des Himmels mit dem Mandat des Himmels. Dabei herrschte er über alles unter dem Himmel – die Menschen, aber auch Naturgeschehnisse. Deshalb können Naturgeschehnisse auf die Herrschaft des Kaisers zurückgeführt werden und das Mandat des Himmels ihm entzogen werden. Mit der Herrschaft über alles unter dem Himmel geht auch ein Selbstverständnis als Herrscher über alle Länder einher. Dabei ist nach einem sinozentrischen Weltbild China im Zentrum der Welt und von „Barbaren“ mit untergeordneter Kultur umgeben, die durch Expansion in die chinesische Kultur eingegliedert werden müssten. Die Verhaltensnormen des Konfuzianismus umfassen unter anderem Loyalität, Handeln nach Gemeinwohl und Respekt vor der Weisheit und dem Wissen der Älteren.
-
-Der Buddhismus bezeichnet, neben seinen philosophischen Ansichten, die größte religiöse Strömung in China. Dabei ist es aber nicht vorgeschrieben, dass Jeder nach dem Buddhismus lebt. Im Buddhismus geht es darum, dass das Leben leiden ist und man ein „gutes“ Leben leben sollte, um ins Nirvana zu kommen.
-
-Der Daoismus bedeutet „Lehre des Wegs“ und besteht aus einem philosophischen und religiösen Teil. Diese haben teils gewichtige Unterschiede, letztlich sind die beiden aber nicht scharf voneinander abzugrenzen. In dem philosophischen Teil geht es darum, das Leben mit Gelassenheit und Achtsamkeit zu leben. Der religiöse Teil beschäftigt sich mit dem Weg, glücklich und erfolgreich zu werden.
-
-## Konfuzianismus
-
-TODO
+- China als frühe Hochkultur mit großer innerer Vielfalt (vielzahl an Volksgruppen)
+- größte Ausdehnung Chinas im 18. Jahrhundert unter der **Qing-Dynastie**
+  - **Vereinheitlichung** Chinas
+  - Fortschritte in **Landwirtschaft und Handel**
+- 19. Jahrhundert als "**Jahrhundert der Schande**" wegen politischer und wirtschaftlicher **Dominanz fremder Mächte** (Europa, USA, Japan)
+  - aber teilweise auch **zunehmende Begeisterung** für westliche Ideen und Technologie
+- 19./20. Jahrhundert: Wandel des Selbstverständnisses von **Kulturalismus** (Orientierung an **eigener Kultur**) zu **Nationalismus** (Orientierung an eigener Nation in **Abgrenzung zu anderen**)
+  - Anlehnung an Japan und Europa (Nationalismus)
 
 ## "Reich der Mitte"
 
-TODO
+zwei Bedeutungsebenen:
 
-## Der chinesische Kaiser
+- **räumlich-geografische Lage** Chinas
+- Vorstellung vom chinesischen Kaiserreich als dem **einzig zivilisierten Reich** der Welt
+  - **umgeben von Barbaren**
 
-TODO
+### sinozentrisches Weltbild (China in der **Mitte**)
+
+- Europäer als **fremd** und anfangs **unterlegen**
+- **Europäischer Überlegenheitsanspruch** als **heuchlerisch**
+- **imperialistische Interessen Chinas** (Vergleich mit Kaiser als **Sohn des Himmels** / **Mandat des Himmels**)
+  - Schock über den Aufstieg Japans
+  - Sinozentrismus-Konzept umstritten (Imperialismus sei nur eine Reaktion auf Bedrängnisse)
+
+## Konfuzianismus
+
+> philosophische, politische und religiöse Ideen, die auf **Konfuzius** (6./5. Jhr. v. Chr.) zurückgehen
+
+- Entstanden aufgrund vieler **Einzelstaaten** in China - Ziele:
+  - **Ordnung** herstellen
+  - **Wege** zu **gelungenem Leben** im Chaos aufzeigen
+- Konfuzianismus als **Moral- und Staatsphilosophie**
+  - klare **Hierarchie** im Staat - **Aufrechterhaltung des Staats**
+  - Grundlage der **Ausbildung kaiserlicher Beamten**
+    - **Loyalität**, aber starres Festhalten an Traditionen - **Reformen schwer umsetzbar**
+- Unterstützung von **Bildung und Forschung**
+  - aber starke **Zensur**
+- Konkurrierende bzw. **Koexistierende Philosophien** bzw. Religionen
+  - **Daoismus**: Schwerpunkt auf **Privatleben** des Einzelnen und **Einbindung des Individuums in natürliche Einheit** der Welt
+  - **Buddhismus**: Weltreligion mit dem Ziel, zur **geistigen Erleuchtung** zu gelangen
+
+## Herrschaftsvorstellungen
+
+- Kaiser als "**Sohn des Himmels**"
+  - "**Mandat des Himmels**" - befähigt ihn zur Herrschaft, kann aber wieder genommen werden
+  - **Naturkatastrophen** sind auf den Kaiser zurückzuführen
+  - Verpflichtung zu **weiser und kluger Herrschaft** und Aufrechterhaltung der **Ordnung**
+  - Art **autoritäres Familienoberhaupt**
+    - soll Untertanen umsorgen und erziehen -> Gewährleistung von **Stabilität und Ordnung**
+- **Verwaltung des Reichs durch Beamte** - **strenge Auswahlverfahren** und
