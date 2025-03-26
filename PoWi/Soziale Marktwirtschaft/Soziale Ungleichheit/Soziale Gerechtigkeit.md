@@ -1,4 +1,6 @@
-# Soziale Gerechtigkeit
+# Konzepte sozialer Gerechtigkeit (S. 232f / 237)
+
+TODO lesen
 
 ## Chancengerechtigkeit
 

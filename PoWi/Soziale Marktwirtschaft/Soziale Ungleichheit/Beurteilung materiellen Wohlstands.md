@@ -31,7 +31,7 @@ Umrechnung des Haushaltseinkommens auf die Zahl der Personen; Einkommen, welches
 
 - Berechnung: Summe aller Einkommen des Haushalts und Gewichtung aufgrund einer Äquivalenzskala (erstes erwachsenes Haushaltsmitglied: 1; weiteres erwachsenes Haushalts-mitglied: 0,5; Kind ab 14 Jahre: 0,5; Kind bis 13 Jahre: 0,3), z. B.: Vater (40 000 €), Mutter (15 000 €), 2 Kinder (12/15 Jahre) -> 55 000 € : 2,3 = ca. 24 000 €
 
-#### Gini-Koeffizient
+#### Gini-Koeffizient (S. 225)
 
 - **Maß für Ungleichverteilung**: Zeigt die Einkommens- oder Vermögensungleichheit innerhalb einer Gesellschaft.
 - **Skala von 0 bis 1**:
