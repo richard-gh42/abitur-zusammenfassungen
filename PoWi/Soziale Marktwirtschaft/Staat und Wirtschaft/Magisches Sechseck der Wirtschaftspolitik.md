@@ -1,4 +1,4 @@
-# Das magische Sechseck der Wirtschaftspolitik in Deutschland
+# Das magische Sechseck der Wirtschaftspolitik in Deutschland (S. 214)
 
 ## Außenwirtschaftliches Gleichgewicht
 

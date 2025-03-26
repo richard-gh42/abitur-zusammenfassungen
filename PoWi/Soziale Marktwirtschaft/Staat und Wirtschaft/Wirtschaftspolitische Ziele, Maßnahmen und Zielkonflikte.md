@@ -1,6 +1,8 @@
 # Wirtschaftspolitische Ziele, Maßnahmen und Zielkonflikte
 
-## Ziele der Wirtschaftspolitik (S. 180f)
+## Ziele der Wirtschaftspolitik (S. 180f / S. 195)
+
+TODO Freiheit, Gerechtigkeit, Sicherheit
 
 TODO (Konflikte hinzufügen)
 
@@ -35,3 +37,8 @@ TODO (Konflikte hinzufügen)
 - **Ordnungspolitik**: Beeinflusst die Spielregeln des Marktes und die Verteilung von Ressourcen.
 - **Prozesspolitik**: Verbessert die Effizienz und Innovationsfähigkeit von Unternehmen und trägt so zur Steigerung der Produktivität bei.
 - **Strukturpolitik**: Kann die langfristige Wettbewerbsfähigkeit einer Volkswirtschaft beeinflussen und regionale Ungleichheiten verringern.
+
+TODO Konjunkturzyklus (S. 209f)
+TODO Bundeskartellamt (S. 205)
+TODO Grafik (S. 215)
+TODO Konflikte (S. 215)

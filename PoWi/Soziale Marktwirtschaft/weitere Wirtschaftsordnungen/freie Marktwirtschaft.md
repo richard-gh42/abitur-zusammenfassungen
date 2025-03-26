@@ -1,5 +1,7 @@
 # freie Marktwirtschaft
 
+TODO S. 195
+
 ## Was ist freie Marktwirtschaft? - Adam Smith (S. 184)
 
 TODO
