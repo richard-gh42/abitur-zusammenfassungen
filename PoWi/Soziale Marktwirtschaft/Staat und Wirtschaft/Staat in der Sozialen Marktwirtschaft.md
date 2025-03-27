@@ -34,6 +34,16 @@
 
 - Staat greift nur ein, wenn der Markt oder private Akteure Aufgaben nicht erfüllen
 
+## Wettbewerbssicherung
+
+TODO
+
+## soziale Sicherung
+
+TODO
+
+---
+
 TODO zusammenführen
 
 ## Die Rolle des Staates
