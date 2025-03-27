@@ -51,3 +51,13 @@ Umrechnung des Haushaltseinkommens auf die Zahl der Personen; Einkommen, welches
 - Armutsbegriffe:
   - **absolute (extreme) Armut:** weniger als 1,90 US-$ pro Tag (Umrechnung in lokale Kaufkraft)
   - **relative Armut:** bemisst sich an der Fähigkeit zur Teilhabe am gesellschaftlichen Leben; in Deutschland: Median des Nettoäquivalenzeinkommens -> wer weniger als 60 % dieses Wertes hat, gilt als armutsgefährdet
+
+## Bildung
+
+- in Industrienationen und Dienstleistungsgesellschaften: Bildung als **Schlüsselfaktor** zur **Armutsvermeidung**
+- Forderungen: **Durchlässigkeit des Schulsystems** und **ganztägige Bildungsangebote**
+- Kernziel von Maßnahmen im Bereich Bildung: **Ungleichheiten vermeiden**, die **nicht aufgrund der eigenen Leistung**, sondern beispielsweise aufgrund der **Herkunft**, des **Berufs der Eltern**, der **finanziellen Möglichkeiten** usw. bestehen
+
+## Macht
+
+**Politische und gesellschaftliche Macht** kann auch in Demokratien ungleich verteilt sein. Dabei hängt diese u. a. stark von dem **materiellen Wohlstand** und sozialem Status ab.
