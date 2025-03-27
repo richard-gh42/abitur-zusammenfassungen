@@ -9,18 +9,18 @@
 
 - Einkommensungleichheit erzeugt ungleiche Möglichkeiten des Vermögensaufbaus.
 - Vermögen erzeugt Rendite etc. und vermehrt sich so.
-- Erbschafften verstärken und festigen über mehrere Generationen Ungleichheit.
+- Erbschaften verstärken und festigen über mehrere Generationen Ungleichheit.
 
 ## Geschlechterungleichheit
 
 [BPB](https://www.bpb.de/themen/arbeit/arbeitsmarktpolitik/318555/geschlechterungleichheiten-gender-pay-gap/) | [archive](https://archive.ph/bzgu9)
 
 - **Segregation**
-  - Überwiegend von Frauen gewählte Berufe werden niedriger entlohnt als Überwigend von Männern gewählte Berufe.
+  - Überwiegend von Frauen gewählte Berufe werden niedriger entlohnt als überwiegend von Männern gewählte Berufe.
   - Wird häufig durch Wahrnehmung der Berufe erzeugt. Überwiegend von Frauen ausgeführte Berufe werden häufig als minderwertig angesehen.
 - **Berufswahl und Karriereverhalten**
   - Geschlechtsstereotypen erzeugen unterschiedliche Berufswahl, ermöglicht "Segregation"
-  - Unternehmen erschweren teils Aufstieg von Frauen da sie diese als weniger leistungsfahig ansehen.
+  - Unternehmen erschweren teils Aufstieg von Frauen da sie diese als weniger leistungsfähig ansehen.
 - **Erwerbsunterbrechungen und Vereinbarkeit von Familie und Beruf**
   - Frauen übernehmen statistisch deutlich größeren Anteil der Kindeserziehung.
   - Dies hindert Aufstieg und führt zu wegfall von Einkommen.
