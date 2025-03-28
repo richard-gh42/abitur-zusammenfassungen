@@ -2,9 +2,9 @@
 
 ## Parteien
 
-        GG Art. 21
+> GG Art. 21
 
-### Aufgaben und Funktionen
+### Aufgaben und Funktionen (S. 62-63)
 
 - **Auswahlfunktion:**
   - Rekrutierung der poltischen Elite
@@ -32,9 +32,9 @@
 - Teilnahme an Parteiversammlungen und internen Wahlen
 - Teilnahme an Diskussionsforen und Veranstaltungen
 
-## Interessenverbände
+## Interessenverbände (S.83ff)
 
-        GG Art. 9 (Vereinigungsfreiheit)
+> GG Art. 9 (Vereinigungsfreiheit)
 
 - Vertretung von Interessen bestimmter gesellschaftlicher Gruppen (z. B. Gewerkschaften)
 - Einfluss auf politische Entscheidungen durch Lobbyarbeit
@@ -75,9 +75,9 @@
 - Mitgliedschaft, Teilnahme an Verbandstreffen, Engagement in Arbeitsgruppen
 - Weiterbildungsmöglichkeiten und politisches Networking
 
-## Bürgerinitiativen
+## Bürgerinitiativen (S. 92f)
 
-        GG Art. 9: Vereinigungsfreiheit
+> GG Art. 9: Vereinigungsfreiheit
 
 - Entstehen bei spezifischen politischen, sozialen oder ökologischen Problemen
 - Setzen sich für lokale oder konkrete Anliegen ein, üben öffentlichen Druck aus
@@ -100,11 +100,11 @@
 - Einfluss durch Mobilisierung und Meinungsbildung, keine formelle Macht
 - Einbringung in Organisation und Planung, Nutzung der Meinungs- und Pressefreiheit
 
-## Soziale Bewegungen
+## Soziale Bewegungen (S. 96f / 99)
 
-        GG Art. 5 (Meinungsfreiheit), 8 (Versammlungsfreiheit), 20 (Wiederstandrecht)
+> GG Art. 5 (Meinungsfreiheit), 8 (Versammlungsfreiheit), 20 (Wiederstandrecht)
 
-        z. B. Fridays-For-Future
+z. B. Fridays-For-Future
 
 - Heterogene Gruppen, die gesellschaftliche Veränderungen fordern
 - Keine zentrale Organisationsstruktur, sondern (unorganisierter) Zusammenschluss aus vielen Gruppen und Personen
@@ -142,9 +142,9 @@
 - **Rechtsstaatlichkeit und Rechtsfolgen**
   - Wer sich entscheidet, Gesetze zu brechen, muss in der Regel mit rechtlichen Konsequenzen rechnen. In der Praxis können dies Geldstrafen, Verhaftungen oder andere rechtliche Schritte sein, auch wenn die Handlung friedlich und gewaltfrei war.
 
-## Wahlen / Wahlverhalten (u. a. Cleavage-Theorie)
+## Wahlen / Wahlverhalten (u. a. Cleavage-Theorie) (S. 100ff)
 
-        GG Art. 20, 38
+> GG Art. 20, 38
 
 ### Funktionen von Wahlen
 
@@ -169,7 +169,7 @@
   - **gleich:** jede Stimme zählt gleich (Einschränkung: 5 %-Klausel -> „Gefahr verlorener Stimmen")
   - **geheim:** die Wahlentscheidung ist anonym
 
-### Wahlverhalten nach der Cleavage-Theorie
+### Wahlverhalten nach der Cleavage-Theorie (S. 65f)
 
 Die Cleavage Theorie besagt, dass die Gesellschaft an verschiedenen Konfliktlinien (Cleavages) geteilt ist und sich Leute, die sich ähnlich positionieren zu Parteien zusammenschließen
 

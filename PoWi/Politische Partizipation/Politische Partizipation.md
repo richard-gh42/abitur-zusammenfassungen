@@ -1,4 +1,4 @@
-# Politische Partizipation und Grundlagen für politische Partizipation
+# Politische Partizipation und Grundlagen für politische Partizipation (S. 60)
 
 ## Freiheitliche Demokratische Grundordnung (FDGO)
 

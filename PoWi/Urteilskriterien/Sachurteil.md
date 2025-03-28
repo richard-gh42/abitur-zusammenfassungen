@@ -1,3 +1,0 @@
-# Urteilskriterien im Sachurteil
-
-TODO
