@@ -7,7 +7,7 @@
 - **Anreizwirkung:** Wie stark das Instrument Unternehmen und Bürger motiviert, umweltfreundliches Verhalten zu zeigen.
 - **Politische Durchsetzbarkeit:** Wie einfach oder schwierig es ist, das Instrument politisch zu implementieren und durchzusetzen.
 
-## Rechtliche Instrumente
+## Rechtliche Instrumente (Ge- und Verbote)
 
 Rechtliche Instrumente setzen verbindliche Vorgaben, die Unternehmen und Bürger einhalten müssen. Diese Vorschriften sind oft in Form von Gesetzen, Verordnungen oder Grenzwerten formuliert.
 
@@ -29,11 +29,9 @@ Rechtliche Instrumente setzen verbindliche Vorgaben, die Unternehmen und Bürger
 
 ## Ökonomische Instrumente
 
-Ökonomische Instrumente beeinflussen das Verhalten durch finanzielle Anreize und Kosten, die auf umweltschädliches Verhalten erhoben werden. Sie setzen darauf, dass Marktakteure auf Preisänderungen reagieren.
+Ökonomische Instrumente beeinflussen das Verhalten durch finanzielle Anreize und Kosten, die auf umweltschädliches Verhalten erhoben werden. Sie setzen darauf, dass Marktakteure auf Preisänderungen reagieren. Dabei können ökonomische Instrumente in finanzpolitische und marktförmige Instrumente unterteilt werden.
 
-TODO
-
-### Finanzpolitische Instrumente
+### Finanzpolitische Instrumente (Steuern, Abgaben)
 
 Diese Instrumente erheben Abgaben auf umweltschädliche Aktivitäten, wodurch deren Kosten steigen und die Nachfrage sinkt.
 
@@ -47,7 +45,7 @@ Diese Instrumente erheben Abgaben auf umweltschädliche Aktivitäten, wodurch de
 - **Politische Durchsetzbarkeit:**
   - Schwierig, da Umweltsteuern oft unpopulär sind und als zusätzliche finanzielle Belastung wahrgenommen werden. Politische Akzeptanz steigt, wenn die Einnahmen zweckgebunden für Umweltprojekte genutzt werden.
 
-### Marktförmige Instrumente
+### Marktförmige Instrumente (Zertifikate)
 
 Hier erhalten Unternehmen Zertifikate für bestimmte Emissionsmengen. Wer weniger emittiert, kann überschüssige Zertifikate verkaufen.
 
@@ -61,7 +59,7 @@ Hier erhalten Unternehmen Zertifikate für bestimmte Emissionsmengen. Wer wenige
 - **Politische Durchsetzbarkeit:**
   - Relativ hoch, da Unternehmen durch Handel Flexibilität gewinnen. Allerdings ist das System komplex und erfordert sorgfältige Regulierung, um Marktmanipulationen zu vermeiden.
 
-## Weitere verhaltenssteuernde Instrumente
+## Weitere verhaltenssteuernde Instrumente (Anreizsysteme)
 
 Diese Instrumente setzen auf Bewusstseinsbildung und freiwillige Maßnahmen ohne Zwang oder finanzielle Strafen.
 

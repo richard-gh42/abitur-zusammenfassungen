@@ -1,4 +1,4 @@
-# Einkommens- und Verteilungsgerechtigkeit
+# Einkommensverteilung
 
 ## Grundsätze der Einkommensverteilung
 
@@ -13,3 +13,11 @@ Verbindung mehrerer Prinzipien in der Sozialen Marktwirtschaft
 
 - Umwandlung von **Sozialversicherungsbeiträgen und Steuern** in Versicherungs- und Transferleistungen (z. B. Kindergeld)
 - **Steuerprogression** (,Besserverdiener" werden stärker belastet)
+
+## Einkommensverteilung und die Grundwerte der sozialen Marktwirtschaft
+
+TODO
+
+## politische Positionen zur gerechten Einkommens- und Vermögensverteilung
+
+TODO
