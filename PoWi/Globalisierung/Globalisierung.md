@@ -167,19 +167,21 @@ Die ökonomische Globalisierung kann einerseits als Chance für eine stärkere W
 
 # ökonomische Erklärungsansätze für internationalen Handel
 
-## absoluter Kostenvorteil
+## absoluter Kostenvorteil (Adam Smith)
 
-Ein absoluter Kostenvorteil liegt vor, menn Unterschiede in den Produktionsmöglichkeiten von Ländern vorliegen. Demnach ist es billiger ein Produkt in einem Land zu produzieren als in einem anderen. Deswegen spezialisieren sich Länder auf die Güter, in denen sie effizienter sind - einen absoluten Kostenvorteil haben.
+Ein absoluter Kostenvorteil liegt vor, man **Unterschiede in den Produktionsmöglichkeiten** von Ländern vorliegen. Demnach ist es billiger ein Produkt in einem Land zu produzieren als in einem anderen. Deswegen **spezialisieren** sich Länder auf die Güter, in denen sie **effizienter** sind - einen **absoluten Kostenvorteil** haben.
 
-## komparativer Kostenvorteil (Ricardo)
+## komparativer Kostenvorteil (David Ricardo)
 
-Ein komparativer Kostenvorteil entsteht, bei dem Vergleich zweier Länder. Dabei hat ein Land billigere Produktion und absolute Kostenvorteile. Allerdings profitiert dieses Land davon sich auf das Produkt mit den geringsten Kosten im Vergleich zum Preis zu spezialisieren und andere Produkte dem zweiten Land zu überlassen. Dabei hat das erste Land einen absoluten Kostenvorteil bei den anderen Produkten, doch überlässt sie dem zweiten Land, da es mit anderen Produkten mehr Geld machen kann. So entsteht ein komparativer (im Vergleich beider Länder) Kostenvorteil.
+Ein komparativer Kostenvorteil entsteht, bei dem **Vergleich zweier Länder**. Dabei hat ein Land **billigere Produktion und absolute Kostenvorteile**. Allerdings profitiert dieses Land davon sich auf das **Produkt** mit den **geringsten Kosten** im Vergleich zum Preis zu **spezialisieren** und **andere Produkte dem zweiten Land zu überlassen**. Dabei hat das **erste Land einen absoluten Kostenvorteil** bei den anderen Produkten, **doch überlässt sie dem zweiten Land**, da es **mit anderen Produkten mehr Geld machen** kann. So entsteht ein komparativer (im Vergleich beider Länder) Kostenvorteil.
+
+Der komparative Kostenvorteil lässt sich auch über die **Opportunitätskosten** erklären. Sind die Opportunitätskosten sich auf ein Produkt zu spezialisieren im Vergleich **zu hoch** wird das Produkt **einem anderen Land überlassen**.
 
 ## Opportunitätskosten
 
-> Opportunitätskosten sind die Kosten die entstehen eine Opportunität nicht zu nutzen. Also z. B. wenn man die Möglichkeit hat sein Geld anzulegen, aber stattdessen es nur auf dem Konto liegen lässt, ist der Gewinn, der, wegen dem nicht nutzen, nicht gemacht wird die Opportunitätskosten.
+> Opportunitätskosten sind die Kosten die entstehen eine **Opportunität nicht zu nutzen**. Also z. B. wenn man die Möglichkeit hat sein Geld anzulegen, aber stattdessen es nur auf dem Konto liegen lässt, ist der **Gewinn, der, wegen dem nicht nutzen, nicht gemacht wird** die Opportunitätskosten.
 
-Auf Länder bezogen bedeuten Opportunitätskosten, dass wenn sich ein Land auf eine Produktion spezialisiert und dabei eine andere vernachlässigt, diese vernachlässigte Opportunität weniger Umsatz - die Opportunitätskosten - macht. Demnach entsthen bei Spezialisierung Oppornitätskosten in den vernachlässigten Sektoren.
+Auf Länder bezogen bedeuten Opportunitätskosten, dass wenn sich **ein Land auf eine Produktion spezialisiert** und dabei eine **andere vernachlässigt**, diese **vernachlässigte Opportunität weniger Umsatz** - die Opportunitätskosten - macht. Demnach entstehen bei **Spezialisierung Opportunitätskosten in den vernachlässigten Sektoren**.
 
 ## interindustrieller Handel
 
@@ -200,33 +202,41 @@ Auf Länder bezogen bedeuten Opportunitätskosten, dass wenn sich ein Land auf e
 
 ### Privatisierung
 
-- Abgabe von Produktionsstätten an die Privatwirtschaft
+- **Abgabe** von **Produktionsstätten** an die Privatwirtschaft
 - Ziele
-  - Staatsmonopole beseitigen
-  - Staatsunternehmen profitabler machen
-  - neue Märkte erschließen, die höhere Gewinne versprechen
+  - **Staatsmonopole** beseitigen
+  - **Staatsunternehmen profitabler** machen
+  - **neue Märkte** erschließen, die **höhere Gewinne** versprechen
+    - Oft handelt es sich um **wenig wirtschaftlich erschlossene Domänen**, welche dadurch **hohe Gewinne** versprechen.
 
 ### Liberalisierung
 
-- Vier Freiheiten
-  - Freiheit des Waren- und Dienstleistungsverkehr
-  - Freier Kapitalverkehr
-  - Freizügigkeit der Person
-  - Niederlassungsfreiheit für Unternehmen und Freiberufler
-- Abbau von Protektionistischen Maßnahmen am wichtigsten für Globalisierung
-  - Abbau von Handelsbeschränkungen wie Zöllen, Regulierungen des Außenhandels
-  - Reduzierung der Devisen und Kapitalverkehrsvorschriften
-  - Zugang zu neuen Finanzierungsmöglichkeiten über ausländische Direktinvestitionen (FDIs)
-- Freihandel wurde mit 1990 durch die EU eingeführt - Schengen-Raum
+- **Vier Freiheiten**
+  - Freiheit des **Waren- und Dienstleistungsverkehr**
+  - Freier **Kapitalverkehr**
+  - **Freizügigkeit** der Person
+  - **Niederlassungsfreiheit** für Unternehmen und Freiberufler
+- **Abbau** von **protektionistischen Maßnahmen** => am wichtigsten für **Globalisierung**
+  - Abbau von **Handelsbeschränkungen** wie Zöllen, Regulierungen des Außenhandels
+  - Reduzierung der **Devisen und Kapitalverkehrsvorschriften**
+  - Zugang zu neuen **Finanzierungsmöglichkeiten** über **ausländische Direktinvestitionen** (FDIs)
+- Freihandel wurde mit 1990 durch die EU eingeführt - **Schengen-Raum**
 - Hindernisse: Kultur, Sprache
-- Vorteile von Liberalisierung
-  - leichterer Zugang zu Arbeitskräften, Technologie, Kapital, Kunden, ...
-  - in oder ausländische Investoren erhalten besseren Zugang zu neuen Märkten, Spezialisierungen, Größenvorteile (pro Produkt Kosten fallen bei höherer Stückzahl)
-  - neue Technologien werden zu attraktiven Konditionen ins Land geholt
-  - strukturelle Erneuerungsprozesse werden beschleunigt und Arbeitsmigration erleichtert
+
+#### Vorteile von Liberalisierung
+
+- **leichterer Zugang** zu Arbeitskräften, Technologie, Kapital, Kunden, ...
+- in- oder ausländische **Investoren** erhalten **besseren Zugang** zu neuen Märkten, Spezialisierungen, Größenvorteile (pro Produkt Kosten fallen bei höherer Stückzahl)
+- **neue Technologien** werden zu attraktiven Konditionen **ins Land** geholt
+- **strukturelle Erneuerungsprozesse** werden **beschleunigt** und **Arbeitsmigration** erleichtert
 
 ### Deregulierung
 
-TODO ausweiten
+- die **Aufhebung** oder zumindest **Abschwächung** **wirtschafts-** und **wettbewerbshemmender** gesetzlicher **Regelungen**
+- bestehende nationale Gesetze, Vorschriften und Regelungen werden als **überflüssig** erachtet und abgebaut
+  - oft auf **Bürokratie** bezogen
+- Hindernisse für Marktkräfte abbauen => **Standort attraktiver** machen
 
-- die Aufhebung oder zumindest Abschwächung wirtschafts- und wettbewerbshemmender gesetzlicher Regelungen
+#### Kritik
+
+Übermäßige Deregulierung sorgt dafür, dass dem Staat **nötige Instrumente fehlen** den **Markt zu steuern**, was zu **Wirtschafts- und Finanzkrisen** führen kann.
