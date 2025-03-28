@@ -29,6 +29,8 @@ TODO
 
 ## aktuelle Entwicklungen auf Medienmärkten
 
+TODO merkbar machen
+
 ### Rückgang der Printauflagen und Umstellung auf digitale Abonnements
 
 Mit dem sinkenden Interesse an gedruckten Medien reagieren Unternehmen, indem sie verstärkt digitale Formate anbieten. Diese Entwicklung verdeutlicht den Wandel in der Medienlandschaft aufgrund veränderter Nachfrage.
