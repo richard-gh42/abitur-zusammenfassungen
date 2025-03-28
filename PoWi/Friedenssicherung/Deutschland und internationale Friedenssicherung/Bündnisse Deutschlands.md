@@ -1,6 +1,6 @@
 # Außen- und Sicherheitspolitik Deutschlands als Teil internationaler Bündnisse zur Friedenssicherung und Systeme kollektiver Sicherheit (u. a. NATO, EU)
 
-## NATO
+## NATO (S. 24ff)
 
 ### Gründung
 
@@ -81,14 +81,14 @@ TODO Bild zu Text
 
 #### Hard Power / Soft Power
 
-Möglichkeiten andere Äkteure zu beeinflussen
+Möglichkeiten andere Akteure zu beeinflussen
 
 - **Hard Power**:
   - militärische Stärke
-  - wirtschafliche Stärke
+  - wirtschaftliche Stärke
 - **Soft Power**:
   - nicht-militärisch Stärke
-  - Vorbildsfunktion
+  - Vorbildfunktion
   - Attraktivität
   - Vermittlung von Werten und Normen
 

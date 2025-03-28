@@ -1,4 +1,4 @@
-# Humanitäre Schutzverantwortung (Responsibility 2 Protect)
+# Humanitäre Schutzverantwortung (Responsibility 2 Protect) (S. 52ff und auf IServ)
 
 ## Grundidee
 
@@ -47,9 +47,9 @@
   - Die humanitäre Schutzverantwortung kann für Interessen einzelner Staaten / Staatengruppen ausgenutzt werden.
     - **Intervention nach Interessen:** Zentralafrikanische Republik Peacekeeping-Mission nimmt Truppen zum großen Teil als Pakistan und Bangladesch – Interesse die muslimische Bevölkerung zu unterstützen (kulturelle / religiöse Interessen)
 
-## Handlungsmöglichkeiten der UNO hinsichtlich internationaler Friedenssicherung und Konfliktbewältigung
+## Handlungsmöglichkeiten der UNO hinsichtlich internationaler Friedenssicherung und Konfliktbewältigung (S. 44)
 
-    Möglichkeiten des UN-Sicherheitsrats zur Friedenssicherung und Konfliktbewältigung
+> Möglichkeiten des UN-Sicherheitsrats zur Friedenssicherung und Konfliktbewältigung
 
 - **Verurteilung von Kampfhandlungen und Eingriff:**
   Der UN-Sicherheitsrat kann Kampfhandlungen verurteilen und Gegenmaßnahmen legitimieren.
@@ -66,7 +66,7 @@
 
 - Ohne den Sicherheitsrat hat die UNO deutlich weniger Möglichkeiten, um Konflikte zu beenden. Die Generalversammlung kann beispielsweise auch gegen den UN-Sicherheitsrat Peacekeeping-Missionen starten.
 
-## Reformationsvorschläge des UN-Sicherheitsrats
+## Reformationsvorschläge des UN-Sicherheitsrats (S. 49f)
 
 - **Unterscheidung zwischen ständigen und nicht-ständigen Mitgliedern:** Es bleibt eine klare Differenzierung zwischen diesen beiden Gruppen bestehen.
 - **Gleichheit der regionalen Verteilungskriterien:** Regionale Verteilungsprinzipien bleiben unverändert, um alle Regionen gerecht zu vertreten.
