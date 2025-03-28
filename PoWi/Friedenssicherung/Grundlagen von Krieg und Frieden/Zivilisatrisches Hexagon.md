@@ -1,8 +1,6 @@
-# Zivilisatorisches Hexagon (Dieter Senghaas)
+# Zivilisatorisches Hexagon (Dieter Senghaas) (S. 152-154)
 
-```plaintext
-Welche Bedingungen gibt es, damit Staaten bzw. Gesellschaften, als friedlich und stabil gelten?
-```
+> Welche Bedingungen gibt es, damit Staaten bzw. Gesellschaften, als friedlich und stabil gelten?
 
 Damit ein Staat als friedlich und stabil gilt müssen viele Aspekte gegeben sein. Das Zivilisatorische Hexagon ist eine Theorie, um die Friedlichkeit und Stabilität eines Staates greifbar zu machen.
 
@@ -24,7 +22,7 @@ Ziel: die Sicherung der Rechtsgemeinschaft
 Ein Gewaltmonopol wird erst durch Rechtstaatlichkeit legitim
 
 - keine Willkür in der Regierung
-- ohne dies währe ein Gewaltmonopol nicht mehr als eine Diktatur
+- ohne dies wäre ein Gewaltmonopol nicht mehr als eine Diktatur
 - Spielregeln des politischen Meinung- und Willenbildungsprozesses und der Rechtsdurchsetzung
 - verrechtlichende Prinzipien
   - Schutz der Grundfreiheit
@@ -43,7 +41,7 @@ Ein Gewaltmonopol wird erst durch Rechtstaatlichkeit legitim
 
 ## demokratische Partizipation
 
-Vorraussetzung für friedliche Konfliktbearbeitung
+Voraussetzung für friedliche Konfliktbearbeitung
 
 - es entsteht “Rechtsunruhe”, wenn sich Menschen nicht in öffentliches Geschehen einmischen
 - Gründe wie rechtliche oder sonstige Diskriminierung
@@ -67,7 +65,7 @@ Benötigt für eine konstruktive Konfliktkultur
 Das Gewaltmonopol, die Rechtsstaatlichkeit und die Demokratie verankern sich in der politischen Kultur
 
 - faire Chancen für die Artikulation von Identitäten und den Ausgleich von unterschiedlichen Interessen
-- kompromissorientierte Konflikfähigkeit in der Bevölkerung schaffen
+- kompromissorientierte Konfliktfähigkeit in der Bevölkerung schaffen
 - Erfordert Toleranz als selbstverständliche Orientierung politischen Handelns
 - Emotionale Grundlage des Gemeinwesens
-  - Fähigkeit, im Hinblich auf eine weit größere Zahl von Menschen als diejenigen, die einem unmittelbar nahestehen, empatisch zu denken und zu handeln
+  - Fähigkeit, im Hinblick auf eine weit größere Zahl von Menschen als diejenigen, die einem unmittelbar nahestehen, empathisch zu denken und zu handeln

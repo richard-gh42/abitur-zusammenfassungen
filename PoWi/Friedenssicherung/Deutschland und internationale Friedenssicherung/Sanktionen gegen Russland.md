@@ -2,7 +2,7 @@
 
 ![Sanktionen gegen Russland](../../../images/PoWi/EUSanktionenGegenRussland.jpg)
 
-## Folgen und Probleme mit den Sanktionen gegen Russland
+## Folgen und Probleme mit den Sanktionen gegen Russland (S. 79f + Karikatur)
 
 - Sanktionen im Finanzsektor führen zu weniger Zugang zu Geld im Ausland
   - russische Firmen haben gleiches Problem

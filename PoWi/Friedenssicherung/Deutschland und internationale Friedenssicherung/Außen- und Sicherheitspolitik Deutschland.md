@@ -2,7 +2,7 @@
 
 ## verfassungsrechtliche Grundlagen für die Einbindung Deutschlands in Systeme kollektiver Sicherheit
 
-### Auslandseinsätze
+### Auslandseinsätze (S. 71)
 
 - **GG Art. 1: Menschenrechte**
   - Schutz aller Menschen / Menschenrechte
@@ -61,6 +61,18 @@
 
 ## deutsche und europäische Sicherheitspolitik und die Rolle der Bundeswehr in transnationalen und internationalen Zusammenhängen
 
-### Die Rolle der Bundeswehr
+### Die Rolle der Bundeswehr (S.70)
+
+TODO
+
+### Zeitenwende (S. 60ff)
+
+TODO
+
+#### Waffenlieferungen
+
+TODO
+
+### Sicherheitsbedrohungen (S. 62-66)
 
 TODO

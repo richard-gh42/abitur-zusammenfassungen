@@ -49,7 +49,7 @@ Die Finanzierung der NATO erfolgt durch **Beiträge der Mitgliedstaaten**. Diese
 
 ### GASP (Gemeinsame Außen- und Sicherheitspolitik)
 
-#### Strategischer Kompass der GASP
+#### Strategischer Kompass der GASP (S. 81-85)
 
 > seid 2022
 
@@ -63,13 +63,12 @@ Die Finanzierung der NATO erfolgt durch **Beiträge der Mitgliedstaaten**. Diese
   - Verteidigungsausgaben erhöhen
   - technologische Abhängigkeiten verringern
 - **Mit Partnern:** kooperieren bei gemeinsamen Bedrohungen und Herausforderungen
-
   - Kooperation mit NATO, UNO und regionalen Partnern (u. a. Afrikatische Union)
   - bilaterale Zusammenarbeit (z. B. mit den USA, Japan, Großbritannien)
 
 #### Entscheidungsprozess in der EU
 
-    Der Entscheidungsprozess in der EU ist intergovernmental.
+> Der Entscheidungsprozess in der EU ist intergovernmental.
 
 - Intergovernmental: beschreibt die Art und Weise, wie Entscheidungen im Rahmen der GASP der Europäischen Union getroffen werden. Er steht im Gegensatz zu einem supranationalen Ansatz
   - u. a. Souveränität der Mitgliedstaaten, Einstimmigkeitsprinzip, keine bindenden Verordnungen
@@ -122,7 +121,7 @@ Größtenteils Diplomatische Instrumente
 - Handlungsfähigkeit der EU eingeschränkt
   - viele nationale Interessen
 
-## Kooperation der NATO und EU
+## Kooperation der NATO und EU (S. 86)
 
 1. Zusammenarbeit beruht auf gemeinsamen Werte und Friedenssicherung
 2. Russland und der Angriffskrieg sind eine schwere Bedrohung für den euro-atlantischen Raum
