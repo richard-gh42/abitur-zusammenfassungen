@@ -1,6 +1,6 @@
 # Frieden
 
-## Positiver / Negativer Frieden (Johan Galtung)
+## Positiver / Negativer Frieden (Johan Galtung) (S.16)
 
 ## Negativer Frieden
 
@@ -21,7 +21,7 @@ Positiver Frieden ist ein utopisches Ideal und beschreibt deshalb eher einen Pro
 - Abbau von Ungleichheiten
 - Förderung von sozialer Gerechtigkeit und Menschenrechten
 
-## Sicherheitsdilemma (Theorie von John Herz)
+## Sicherheitsdilemma (Theorie von John Herz) (S. 17)
 
 Alle potenziellen Kriegsparteien (meist Staaten) haben Angst von einer Unterlegenheit gegenüber den anderen Parteien.
 
@@ -46,7 +46,7 @@ Ein Lösungsansatz des Sicherheitsdilemma ist das Einführen eines Organs, das �
 
 internationale Sicherheit vor militärischen Bedrohungen durch andere Staaten
 
-## Erweiterter Sicherheitsbegriff
+## Erweiterter Sicherheitsbegriff (S. 150f)
 
 Der Erweiterte Sicherheitsbegriff versucht den Begriff der Sicherheit auf die heutige Welt zu übertragen. Er besteht aus vier Dimensionen: Raum-, Sach-, Gefährdungs- und Referenzdimension.
 
@@ -76,15 +76,17 @@ Der Erweiterte Sicherheitsbegriff versucht den Begriff der Sicherheit auf die he
 - Gesellschaft: Schutz der Gesellschaft (z. B. Völkermord)
 - Individuum: Sicherheit einzelner Menschen vor Gewalt, Diskriminierung, Hunger, …
 
-## Pazifismus
+## Pazifismus (S. 155-157)
+
+TODO name
 
 - Grundhaltung, die jegliche Form von Gewalt und Krieg ablehnt
 - Selbst bei Angriff keine militärische Verteidigung
 - Gewaltloser Widerstand
-- Beispiel: Ghandi, BSW (Waffenlieferungen an die Ukraine kategorisch abgelehnt)
+- Beispiel: Gandhi, BSW (Waffenlieferungen an die Ukraine kategorisch abgelehnt)
 - Seit den 1970er Jahren
 
-## Selenskis „Siegesplan“
+## Selenskijs „Siegesplan“
 
 Präsident Wolodymyr Selenskyj hat vor dem ukrainischen Parlament in Kiew seinen "Siegesplan" präsentiert, der eine umfassende Strategie zur Beendigung des Krieges und zur zukünftigen Stabilität des Landes beinhaltet. Der Plan umfasst fünf Punkte, von denen drei geheime Anhänge enthalten, die nur für westliche Partner zugänglich sind. Während Selenskyj seine Vision darlegte, gab es jedoch deutliche Kritik und Proteste – sowohl von der Opposition als auch von Angehörigen vermisster Soldaten.
 
@@ -108,9 +110,9 @@ Vor dem Parlament forderten Hunderte von Demonstranten Informationen über ihre 
 - Opposition: Der Oppositionspolitiker Oleksii Hontscharenko kritisierte den Plan als zu stark auf die Partner der Ukraine fokussiert. Es fehle an Maßnahmen, die die Ukraine selbst ergreifen müsse, etwa im Bereich der Korruptionsbekämpfung oder institutionellen Reformen.
 - Internationale Skepsis: Der NATO-Generalsekretär Mark Rutte lobte den Plan als Signal, äußerte jedoch, dass einige Punkte weiterer Klärung bedürfen.
 
-## Post-War Herausforderungen
+## Post-War Herausforderungen (S. 36f)
 
-- aumgehender Schutz der Bevölkerung (Triage-Phase)
+- Schutz der Bevölkerung (Triage-Phase)
   - Sicherung von sauberem Wasser
   - Ausreichend Stromversorgung
   - medizinische Versorgung

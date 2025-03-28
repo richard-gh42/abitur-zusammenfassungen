@@ -36,7 +36,7 @@ Weitere Informationen zur Friedlichkeit in einem Staat: zivilisatorisches Hexago
 - hohes Maß politischer Freiheiten (Vereinigungs-, Versammlungsfreiheit, …)
 - allgemeine, unmittelbare, freie, gleiche und geheime Wahlen
 
-## Fragile Staatlichkeit
+## Fragile Staatlichkeit (S. 140ff)
 
 ### schwache Staaten (weak states)
 

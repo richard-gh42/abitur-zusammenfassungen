@@ -1,6 +1,6 @@
 # Kriege
 
-## Definition nach der AKUF (Arbeitsgemeinschaft Kriegsursachenforschung)
+## Definition nach der AKUF (Arbeitsgemeinschaft Kriegsursachenforschung) (S.16)
 
 ### Kriterien
 
@@ -32,21 +32,21 @@ Kriege, um Unabhängigkeit / Abspaltung von einem Staat zu erlangen
 
 viele Kriege sind nicht klar zuzuordnen, da Mischtypen existieren oder sich der Kriegstyp im Laufe des Konfliktes ändern kann.
 
-## Neue- / Alte Kriege (Herfried Münkler)
+## Neue- / Alte Kriege (Herfried Münkler) (S. 143f)
 
 || Akteure | Ziele Kriegsende | Intensität | Dauer |
 ||---------|------------------|------------|-------|
 “Alte Kriege” Staaten (Völkerrechtssubjekt) Überwindung des Gegners eindeutig (Kapitulation, Friedensvertrag) hoch (z. B. Schlachten) eher kurz
-“Neue Kriege” Entstaatlichung, Autonomisierung, völkerrechtliche Asymmetrie Destabilisierung / Schwächung des Gegeners; private Akteure: weiterführung des Kriesges => finanzieller Gewinn uneindeutig, kein ofizielles Ende variierend eher lang
+“Neue Kriege” Entstaatlichung, Autonomisierung, völkerrechtliche Asymmetrie Destabilisierung / Schwächung des Gegners; private Akteure: weiterführung des Krieges => finanzieller Gewinn uneindeutig, kein offizielles Ende variierend eher lang
 
 Finanzierung Kriegsrecht Kriegsführung vornehmliche Opfergruppen
 “Alte Kriege” staatlich (Steuern, Kriegsanleihen) gültig für alle Parteien Armeen, schwere Waffen Soldaten
 “Neue Kriege” privat (teilweise selbstreproduktiv durch Menschenhandel, etc.) gültig für staatliche Parteien => kriegsrechtliche Asymmetrie teilweise Armeen, teilweise flexible leicht bewaffnete private Kämpfer Zivilisten
 
-|               | Akteure                                                       | Ziele                                                                                                          | Kriegsende                                | Intensität              | Dauer     | Finanzierung                                                    | Kriegsrecht                                                   | Kriegsführung                                                          | vornehmliche Opfergruppen |
-| ------------- | ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ----------------------- | --------- | --------------------------------------------------------------- | ------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------- |
-| “Alte Kriege” | Staaten (Völkerrechtssubjekt)                                 | Überwindung des Gegners                                                                                        | eindeutig (Kapitulation, Friedensvertrag) | hoch (z. B. Schlachten) | eher kurz | staatlich (Steuern, Kriegsanleihen)                             | gültig für alle Parteien                                      | Armeen, schwere Waffen                                                 | Soldaten                  |
-| “Neue Kriege” | Entstaatlichung, Autonomisierung, völkerrechtliche Asymmetrie | Destabilisierung / Schwächung des Gegeners, private Akteure: weiterführung des Kriesges => finanzieller Gewinn | uneindeutig                               | variierend, eher gering | eher lang | privat (teilweise selbstreproduktiv durch Menschenhandel, etc.) | gültig für staatliche Parteien => kriegsrechtliche Asymmetrie | teilweise Armeen, teilweise flexible leicht bewaffnete private Kämpfer | Zivilisten                |
+|               | Akteure                                                       | Ziele                                                                                                        | Kriegsende                                | Intensität              | Dauer     | Finanzierung                                                    | Kriegsrecht                                                   | Kriegsführung                                                          | vornehmliche Opfergruppen |
+| ------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ----------------------------------------- | ----------------------- | --------- | --------------------------------------------------------------- | ------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------- |
+| “Alte Kriege” | Staaten (Völkerrechtssubjekt)                                 | Überwindung des Gegners                                                                                      | eindeutig (Kapitulation, Friedensvertrag) | hoch (z. B. Schlachten) | eher kurz | staatlich (Steuern, Kriegsanleihen)                             | gültig für alle Parteien                                      | Armeen, schwere Waffen                                                 | Soldaten                  |
+| “Neue Kriege” | Entstaatlichung, Autonomisierung, völkerrechtliche Asymmetrie | Destabilisierung / Schwächung des Gegners, private Akteure: weiterführung des Krieges => finanzieller Gewinn | uneindeutig                               | variierend, eher gering | eher lang | privat (teilweise selbstreproduktiv durch Menschenhandel, etc.) | gültig für staatliche Parteien => kriegsrechtliche Asymmetrie | teilweise Armeen, teilweise flexible leicht bewaffnete private Kämpfer | Zivilisten                |
 
 ### Kritik an der Theorie
 
@@ -56,7 +56,7 @@ Finanzierung Kriegsrecht Kriegsführung vornehmliche Opfergruppen
 - **Vage Definition:** Der Begriff „neue Kriege“ ist unscharf und wird auf verschiedene Konflikte angewendet, was die analytische Präzision schwächt.
 - **Risiko der Stigmatisierung:** Die Beschreibung als „chaotisch“ und „gesetzlos“ kann als Legitimation für externe Interventionen dienen, die Konflikte verschärfen könnten.
 
-## Hybride Kriegsführung
+## Hybride Kriegsführung (S. 145-148)
 
 Hybride Kriegsführung ist eine Form der Kriegsführung, die traditionelle militärische Mittel mit nicht-militärischen, verdeckten Taktiken kombiniert. Ziel ist es u. a., die Stabilität von Staaten zu untergraben und politische Prozesse zu beeinflussen, ohne dabei eine formelle Kriegserklärung abzugeben.
 Allgemeine Merkmale
