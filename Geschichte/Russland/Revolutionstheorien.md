@@ -10,8 +10,8 @@ Revolutionen sind nicht der Grund für eine Veränderung. Die Veränderung passi
 
 ### Definition der Revolution
 
-- beschleunigter Prozess, abrupter Übergang
-- klarer Bruch mit vorherigen Verhältnissen
+- beschleunigter Prozess
+- ohne Übergang, ohne Warnung
 - Anstrengung (muss nicht gewaltsam sein)
 
 ### Kritik an der franz. Revolution
@@ -23,7 +23,7 @@ Daher ist die Sicht auf die Auswirkungen der franz. Revolution deutlich überhö
 ### Nutzen im Abi
 
 - Kontrolle, ob seine Kritik an der französischen Revolution auch für die vorliegende Revolution übertragbar ist
-- Kontrolle, ob es sich um eine Revolution handelt
+- Kontrolle, ob es sich um eine Revolution nach Tocqueville handelt
 
 ## Revolutionsbegriff von Hannah Arendt
 
