@@ -40,6 +40,8 @@ Tafelwerk: $E = h \cdot f$
 
 ### Komplementarität
 
+Ortseigenschaft und Interferenzmuster sind nicht gleichzeitig realisierbar, sondern schließen sich gegenseitig aus. Dies ist ein Spezialfall eines allgemeinen Prinzips, das man nach Niels Bohr Komplementarität nennt.
+
 - Bei einer Ortsmessung auf Höhe der Spalte bildet sich beim Doppelspaltexperiment kein Interferenzmuster auf dem Schirm aus.
 - Interferenzmuster und Unterscheidbarkeit der klassischen denkbaren Möglichkeiten schließen sich aus (Komplementarität).
 
