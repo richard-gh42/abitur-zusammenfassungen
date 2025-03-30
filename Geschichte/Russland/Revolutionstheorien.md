@@ -2,8 +2,6 @@
 
 ## Alexis de Tocqueville
 
-TODO lesen
-
 ### Hauptthese
 
 Revolutionen sind nicht der Grund für eine Veränderung. Die Veränderung passiert auch ohne eine Revolution - die Revolution beschleunigt die Veränderung lediglich.
@@ -27,11 +25,10 @@ Daher ist die Sicht auf die Auswirkungen der franz. Revolution deutlich überhö
 
 ## Revolutionsbegriff von Hannah Arendt
 
-TODO lesen
-
 ### Revolutionen
 
 - **Freiheit** (Freiheit von Zwangsherrschaft / Unterdrückung) muss das **Hauptziel** sein
+  - Freiheit für alle
 - ohne Freiheit als Ziel keine Revolution
 
 #### zeitlicher Ursprung
