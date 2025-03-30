@@ -63,3 +63,12 @@ Ein Krieg ist nur dann Teil einer Revolution, wenn Freiheit Ziel (nicht nur Vorw
 ## Karl Marx und Friedrich Engels
 
 TODO Levi
+
+## James C. Davies (J-Kurve)
+
+Revolutionen können über den Vergleich der **erwarteten Bedürfnisbefriedigung** und **tatsächlichen Bedürfnisbefriedigung** einer Gesellschaft erklärt werden.
+
+1. Die erwartete Bedürfnisbefriedigung und tatsächliche Bedürfnisbefriedigung **steigen mit der Zeit**.
+2. Die tatsächliche Bedürfnisbefriedigung ist **geringer** als die erwartete.
+3. Die Lücke zwischen den beiden ist **tolerierbar**, wenn keine Revolution stattfindet.
+4. Wenn die **tatsächliche** Bedürfnisbefriedigung **fällt (J-Kurve)**, während die **erwartete weiterhin steigt** entsteht eine **nicht-tolerierbare Lücke**, beginnt eine **Revolution**.
