@@ -14,6 +14,8 @@ Wenn man von potentieller Energie spricht benötigt man eine **Nulllage** - wo d
 
 Allgemein ist die Änderung der potentiellen Energie gleich der **neagitven Feldarbeit** (Feldarbeit ist die Arbeit, die bei der Bewegung einer Ladung verrichtet wurde) - also $\Delta E_{pot} = - W_{Feld}$.
 
+Die Potentialdifferenz zwischen zwei Punkten A und B ist die Spannung U.
+
 > Alle Punkte mit gleichem Potential liegen auf sogenannten **Äquipotentiallinien**.
 
 ## kinetische Energie und Geschwindigkeit geladener Teilchen im elektrischen Längsfeld in Abhängigkeit von der Beschleunigungsspannung (quantitativ)
