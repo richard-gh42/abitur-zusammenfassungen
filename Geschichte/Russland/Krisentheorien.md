@@ -1,10 +1,12 @@
 # Krisentheorien
 
-## Jacob Burckhardt
+## Jacob Burckhardt (S. 97)
 
 TODO Krisendefinition (text vorher) und Geschichtliche Krisen
 
 ### Krisendefinition
+
+> Krisen als "**Entwicklungsknoten**"
 
 - Veränderungen / **Prozesse**, die **extrem beschleunigt und sprunghaft** erfolgen
   - aber nicht durch ein Ereignis / Moment
@@ -12,16 +14,17 @@ TODO Krisendefinition (text vorher) und Geschichtliche Krisen
 - beschleunigte Form des Wandels
   - Altes **abgeschafft** und Neues **aufgebaut**
   - sorgen für **Fortschritt**
+- Unter **Zeitdruck**
 
 ### Geschichtliche Krisen
 
-TODO
+- haben einen **Auslöser**
 
 ### Nutzen im Abi
 
 - Ist etwas eine Krise?
 
-## Karl W. Deutsch
+## Karl W. Deutsch (S. 98f)
 
 > Eine Krise besteht dann, **wenn ein Entscheidungsprozess unter Zeitdruck eingeleitet werden muss**, um eine **wachsende Gefahr** vor dem Augenblick der **Ausweglosigkeit aufzuhalten**.
 
@@ -52,7 +55,7 @@ Schema zur untersuchung von Autounfällen:
 - wie schnell eine Verhaltensänderung nötig ist
 - welche Gruppen und Individuen in der Lage sind, die Notwendigkeit der Verhaltensänderung zu erkennen.
 
-### Abwendung einer Krise
+### Abwendung einer Krise (Stabilisierungsmöglichkeiten)
 
 - Kontrolle ist in einer Krise wichtiger als Stabilität
   - "Es ist mehr als ein Land gründlich daran zugrunde gegangen, dass eine Regierung zu stabil war und dass der Stabilisierung der Dummheit kein Einhalt geboten wurde."

@@ -1,6 +1,6 @@
 # Revolutionstheorien
 
-## Alexis de Tocqueville
+## Alexis de Tocqueville (S. 99f)
 
 ### Hauptthese
 
@@ -23,7 +23,7 @@ Daher ist die Sicht auf die Auswirkungen der franz. Revolution deutlich überhö
 - Kontrolle, ob seine Kritik an der französischen Revolution auch für die vorliegende Revolution übertragbar ist
 - Kontrolle, ob es sich um eine Revolution nach Tocqueville handelt
 
-## Revolutionsbegriff von Hannah Arendt
+## Revolutionsbegriff von Hannah Arendt (S. 103)
 
 ### Revolutionen
 
@@ -57,11 +57,11 @@ Ein Krieg ist nur dann Teil einer Revolution, wenn Freiheit Ziel (nicht nur Vorw
 - Hatte die vorliegende Revolution das Ziel der Freiheit?
 - Ist ein Krieg Mittel der Revolution?
 
-## Karl Marx und Friedrich Engels
+## Karl Marx und Friedrich Engels (S. 101f)
 
 TODO Levi
 
-## James C. Davies (J-Kurve)
+## James C. Davies (J-Kurve) (S. 102)
 
 Revolutionen können über den Vergleich der **erwarteten Bedürfnisbefriedigung** und **tatsächlichen Bedürfnisbefriedigung** einer Gesellschaft erklärt werden.
 
@@ -69,3 +69,9 @@ Revolutionen können über den Vergleich der **erwarteten Bedürfnisbefriedigung
 2. Die tatsächliche Bedürfnisbefriedigung ist **geringer** als die erwartete.
 3. Die Lücke zwischen den beiden ist **tolerierbar**, wenn keine Revolution stattfindet.
 4. Wenn die **tatsächliche** Bedürfnisbefriedigung **fällt (J-Kurve)**, während die **erwartete weiterhin steigt** entsteht eine **nicht-tolerierbare Lücke**, beginnt eine **Revolution**.
+
+### Nutzen im Abi
+
+- Einstieg zu anderen Theorien
+- Wenn mit Krisen verbunden erklären, dass die Theorie für Revolutionen gedacht ist, jedoch übertragen werden kann
+  - Bezug zu Vergleich von Krisen und Revolutionen
