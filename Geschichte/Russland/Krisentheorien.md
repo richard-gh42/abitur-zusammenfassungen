@@ -2,7 +2,7 @@
 
 ## Jacob Burckhardt (S. 97)
 
-TODO Krisendefinition (text vorher) und Geschichtliche Krisen
+TODO
 
 ### Krisendefinition
 
@@ -16,9 +16,39 @@ TODO Krisendefinition (text vorher) und Geschichtliche Krisen
   - sorgen für **Fortschritt**
 - Unter **Zeitdruck**
 
-### Geschichtliche Krisen
+### Ursachen
 
-- haben einen **Auslöser**
+- Krisen entstehen in komplexen Zuständen, wo Staat, Religion und Kultur übereinander geschichtet sind.
+- Ein Element erreicht übermäßige Macht und wird missbraucht.
+- Andere Elemente werden eingeschränkt.
+- Unterdrückte Kräfte können ihre Elastizität steigern oder verlieren.
+
+### Verlauf
+
+- Öffentliche Ordnung wird gestört.
+- Kann unterdrückt werden oder zu einer umfassenden Krise führen.
+- Weltprozess beschleunigt sich drastisch (Entwicklungen in Wochen/Monaten statt Jahrhunderten).
+
+### Anfangsphase
+
+- Negative Seite: Protest gegen Vergangenes, Angst vor Unbekanntem.
+- Blinde Koalition aller, die Veränderung wollen, ermöglicht Umsturz alter Zustände.
+
+### Positive Seite
+
+- Emporstrebende verleihen der Krise idealen Glanz.
+- Hoffnung und glänzende Zukunftsvisionen dominieren.
+
+### Wirkung
+
+- Krisen räumen mit überholten Lebensformen und Pseudo-Organismen auf.
+- Beseitigen Angst vor Störungen.
+- Fördern frische, mächtige Individuen.
+
+### Krisen als „Entwicklungsknoten“
+
+- Geistige Entwicklungen erfolgen sprung- und stoßweise.
+- Fortschritt durch Abschaffung des Alten und Aufbau des Neuen.
 
 ### Nutzen im Abi
 
