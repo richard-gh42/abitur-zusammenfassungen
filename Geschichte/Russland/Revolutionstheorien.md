@@ -59,7 +59,52 @@ Ein Krieg ist nur dann Teil einer Revolution, wenn Freiheit Ziel (nicht nur Vorw
 
 ## Karl Marx und Friedrich Engels (S. 101f)
 
-TODO Levi
+### Produktivkräfte (eines Landes)
+
+- Arbeitskräfte
+- Produktionsmittel (Maschinen)
+- Bildung (Know-How)
+- Rohstoffe
+
+### Produktionsverhältnisse
+
+die gesellschaftlichen Beziehungen, die die Menschen bei der Produktion, beim Austausch, bei der Verteilung und beim Verbrauch von Produkten eingehen
+
+- gesellschaftliche **Strukturen** bei denen die Menschen durch die Produktion eingebunden sind
+  - **unfreiwillig** vom Willen der Menschen
+- Entsprechen der **Entwicklungsstufe** der materiellen **Produktivkräfte**.
+  - z. B. Agrargesellschaft ist anders als Industriegesellschaft aufgebaut
+
+### ökonomische Basis und Überbau
+
+- Die **Produktionsverhältnisse** bilden die **ökonomische Struktur** einer Gesellschaft.
+- Auf die ökonomische Struktur baut der **juristische und politische Überbau** auf.
+- Die **materiellen Verhältnisse** bestimmen das **gesellschaftliche Bewusstsein**, nicht umgekehrt.
+
+### Widerspruch und Revolution
+
+- Materielle **Produktivkräfte** geraten in **Widerspruch** zu **Produktions- und Eigentumsverhältnissen**.
+- **Produktionsverhältnisse** werden zu **Fesseln der Produktivkräfte** - also die gesellschaftlichen Beziehungen beschränken die Produktivkräfte.
+- Führt zu **gesellschaftlichen Konflikten**
+  - Kann münden in: **soziale Revolution** und Umwälzung des Überbaus
+
+### Bewusstsein und Konflikt
+
+- Ideologische Formen (z. B. juristisch, politisch, religiös) **spiegeln den Konflikt** lediglich wieder.
+- Bewusstsein muss aus den **Widersprüchen des materiellen Lebens** erklärt werden.
+
+### Veränderung der ökonomischen Grundlage
+
+- Die **ökonomische Basis bildet die Gesellschaft**.
+  - Wenn sich die **Basis verändert** verändert sich auch die **Gesellschaft**.
+  - **Gesellschaftliche Strukturen** wandeln sich mit **veränderten Produktionskräften**.
+- **Neue Produktionsverhältnisse** entstehen erst, wenn ihre **materiellen Bedingungen** in der **alten Gesellschaft entwickelt** wurden.
+
+### Aufgaben der Menschheit
+
+- **Menschheit** stellt sich nur **lösbare Aufgaben**.
+  - Aufgaben entstehen erst, wenn die **materiellen Bedingungen ihrer Lösung vorhanden** oder im Entstehen begriffen sind.
+  - gesellschaftliche Veränderung entsteht **nicht zufällig**
 
 ## James C. Davies (J-Kurve) (S. 102)
 
