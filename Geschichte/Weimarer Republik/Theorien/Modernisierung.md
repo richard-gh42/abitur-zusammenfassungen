@@ -1,11 +1,15 @@
 # Modernisierung
 
+TODO Dokument Edumap
+
 ## Was ist Modernisierung?
 
 - Erneuern / Wiederherstellen
 - Verbessern
 
 ### Alte Modernisierungstheorie
+
+Alte Modernisierung bezeichnet den allgemeinen Begriff der Modernisierung, der sich stark an der Entwicklung der USA orientiert. Dabei wird davon ausgegangen, dass die USA als "Königsweg" Vorbild für andere Länder ist.
 
 #### Kritik
 
