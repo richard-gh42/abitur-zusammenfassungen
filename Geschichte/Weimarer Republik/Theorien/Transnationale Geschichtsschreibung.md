@@ -14,8 +14,10 @@ Transnationale Geschichtsschreibung ist der Blick auf mehrere Länder und Prozes
 - Wissenschaftler studierten Sprachen, Bräuche und Religionen
 - Es gab transnationale Bewegungen wie Friedensaktivismus
 - Weltgeschichte war trotzdem eine Minderheitsperspektive
+- Weltgeschichte zu schreiben ist auch ein Versuch, dem Spezialistentum der kleinteilig arbeitenden Fachhistorie ein wenig öffentliche Deutungskompetenz abzuringen.
+  - also statt kleinteilig Ereignisse in einem Land zu behandeln die größeren Verhältnisse, die auch andere Länder betreffen, behandeln
 
-> "Dennoch: Weltgeschichte zu schreiben ist auch ein Versuch, dem Spezialistentum der kleinteilig arbeitenden Fachhistorie ein wenig öffentliche Deutungskompetenz abzuringen. Weltgeschichte ist eine Möglichkeit der Geschichtsschreibung, ein Register, das gelegentlich ausprobiert werden sollte."
+> "Dennoch: [...] Weltgeschichte ist eine Möglichkeit der Geschichtsschreibung, ein Register, das gelegentlich ausprobiert werden sollte."
 
 <!-- ## Klaus Patel zur transnationalen Geschichtsschreibung -->
 
