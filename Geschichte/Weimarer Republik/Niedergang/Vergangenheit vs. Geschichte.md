@@ -1,5 +1,7 @@
 # Vergangenheit vs. Geschichte und Historikerurteile
 
+TODO was habe ich mir dabei gedacht?
+
 ## Beziehung von Vergangenheit und Geschichte
 
 Bei Vergangenheit handelt es sich um das konkrete Geschehene, während Geschichte eine uneindeutige, analytische, perspektivisch geprägte Konstruktion der Vergangenheit ist.
