@@ -1,5 +1,7 @@
 # Open Door Policy
 
+TODO Zeit
+
 ## Hintergrund und Anlass
 
 - **Deutsche Kontrolle über Jiaozhou**: Deutschland hatte den Hafen von Jiaozhou (heute Qingdao) und das angrenzende Gebiet in der Provinz Shandong von China gepachtet. Die deutsche Regierung hatte den USA zugesichert, dass die Rechte und Privilegien der US-Bürger in diesem Gebiet nicht beeinträchtigt würden.
