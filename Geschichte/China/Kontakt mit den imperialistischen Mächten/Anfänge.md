@@ -29,6 +29,4 @@ diplomatische Mission Großbritanniens zur Vereinbarung besserer Handelsbedingun
 
 **Zurückweisung** der britischen Vorschläge durch chinesischen Kaiser
 
-- Großbritannien als Barbaren
-
-TODO Richtig?
+- Großbritannien als Barbaren bezeichnet
