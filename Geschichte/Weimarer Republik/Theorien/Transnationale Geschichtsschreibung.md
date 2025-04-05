@@ -18,7 +18,3 @@ Transnationale Geschichtsschreibung ist der Blick auf mehrere Länder und Prozes
   - also statt kleinteilig Ereignisse in einem Land zu behandeln die größeren Verhältnisse, die auch andere Länder betreffen, behandeln
 
 > "Dennoch: [...] Weltgeschichte ist eine Möglichkeit der Geschichtsschreibung, ein Register, das gelegentlich ausprobiert werden sollte."
-
-<!-- ## Klaus Patel zur transnationalen Geschichtsschreibung -->
-
-<!-- TODO -->
