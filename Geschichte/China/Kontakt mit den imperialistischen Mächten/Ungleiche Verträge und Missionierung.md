@@ -37,3 +37,5 @@
 Missionierung als Teil des Kolonialisierungsprozesses: **Rechtfertigung** mit **„Zivilisierung**" der chinesischen Bevölkerung durch **Christentum**
 
 ABER Ausbau des europäischen Einflusses als eigentliches Ziel
+
+TODO genauer
