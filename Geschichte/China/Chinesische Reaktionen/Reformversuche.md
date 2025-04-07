@@ -1,24 +1,18 @@
 # Reformen in China
 
-## Qing-Dynastie regiert seit 1635
+## Selbststärkungsbewegung ab ca. 1860
 
-### Kaiserliches Edikt zur Reform der Qing-Regierung 1901
+TODO
 
-- Bestimmte Prinzipien der Moral (changqing) unabänderlich
-- Regierungsmethoden (zhifa) abänderlich, wenn nötig
-- Wiederbelebung Chinas widmen, das Beste aus Chinesisch und Fremdem vereinen
-- Wurzel der Schwäche:
-  - Schädliche Gewohnheiten verankert in zu eng gefasste Vorschriften und Regeln
-  - Unausgebildete / mangelhafte Beamte
-  - Korruption
-  - Übermäßige Bürokratie
-  - „Dienstaltersystem“ was Talent-Förderung verhindert
-- Man braucht neue Systeme, um das alte korrupte System zu retten
-- Wichtiger als ein gutes System sind gute fähige Männer, da ohne diese es auch keinen Erfolg gibt
+## Hundert-Tage-Reform 1898
+
+TODO
+
+### Scheitern und Übernahme der Macht durch Cixi
+
+TODO
 
 ## Reformen unter Cixi
-
-TODO (100-Tage-Reform?)
 
 - Schwere Demütigung Chinas nach dem, durch internationale Streitkräfte zurückgeschlagenen, fremdenfeindlichen Boxeraufstand
   - Boxerprotokoll nach der Niederschlagung des Boxeraufstandes
@@ -37,3 +31,25 @@ TODO (100-Tage-Reform?)
     - Ausbau diplomatischer Dienste
 - Aufstände gegen den neuen Kurs
   - wegen Feindlichkeit gegen die als ausländisch, nicht-chinesisch empfundene Mandschu-Dynastie (Qing-Dynastie), nicht genereller Reformfeindlichkeit
+
+## Kaiserliches Edikt zur Reform der Qing-Regierung 1901
+
+> Qing-Dynastie regiert seit 1635
+
+- Bestimmte Prinzipien der Moral (changqing) unabänderlich
+- Regierungsmethoden (zhifa) abänderlich, wenn nötig
+- Wiederbelebung Chinas widmen, das Beste aus Chinesisch und Fremdem vereinen
+- Wurzel der Schwäche:
+  - Schädliche Gewohnheiten verankert in zu eng gefasste Vorschriften und Regeln
+  - Unausgebildete / mangelhafte Beamte
+  - Korruption
+  - Übermäßige Bürokratie
+  - „Dienstaltersystem“ was Talent-Förderung verhindert
+- Man braucht neue Systeme, um das alte korrupte System zu retten
+- Wichtiger als ein gutes System sind gute fähige Männer, da ohne diese es auch keinen Erfolg gibt
+
+## Konflikt zwischen Machterhaltung und Reform
+
+Zentraler Konflikt der Chinesischen Regierung
+
+TODO Machterhaltung durch Tradition vs. Reformen, um das Land zu stärken
