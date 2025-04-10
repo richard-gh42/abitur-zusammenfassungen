@@ -3,6 +3,7 @@
 ## Beschreibung
 
 Eine Umkehrfunktion ist eine Funktion die aus dem Wert von $f(x)$ den Wert von $x$ ergibt.
+
 $$
 x = f^{-1}(f(x))
 $$

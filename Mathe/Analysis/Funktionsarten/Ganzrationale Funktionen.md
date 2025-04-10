@@ -7,9 +7,11 @@
 > — Wikipedia
 
 Eine ganzrationale Funktion kann also wie folgt dargestellt werden:
+
 $$
 f(x) = a_{n}x^{n} + a_{n-1}x^{n-1} + \dots + a_{2}x^{2} + a–{1}x + a_{0}
 $$
+
 Hierbei gilt:
 
 - $n \in \mathbb{N}$ und wird als Grad der Funktion bezeichnet.
@@ -37,9 +39,11 @@ Eine Nullstelle ist $x_0$ in der Gleichung $f(x_0)=0$.
 Die höchst mögliche Anzahl von Nullstellen die eine ganzrationale Funktion haben kann, entspricht ihrem Grad. Eine ganzrationale Funktion $n$-ten Grades kann also $n$ Nullstellen haben.
 
 Eine ganzrationale Funktion kann auch als Produkt von Linearfaktoren vorliegen. Das sieht so aus:
+
 $$
 f(x) = (x-x_1)^{k_1} \cdot (x-x_2)^{k_2} \cdots (x-x_m)^{k_m} \cdot g(x)
 $$
+
 Dabei gilt:
 
 - $x_{1 \dots m}$ sind die Nullstellen.
@@ -47,9 +51,11 @@ Dabei gilt:
 - $g$ ist eine ganzrationale Funktion ohne Nullstelle
 
 Ein Bespiel:
+
 $$
 f(x) = (x-3) \cdot (x+1)^2 \cdot (x+4)^3
 $$
+
 Die Nullstellen sind hier $3$, $-1$ und $-4$
 
 Ganzrationale Funktionen haben 3 Gruppen von Nullstellen.

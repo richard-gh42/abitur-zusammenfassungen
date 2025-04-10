@@ -7,9 +7,11 @@
 > — Wikipedia
 
 Eine Logarithmusfunktion ist damit die Umkehrfunktion der entsprechenden Exponetialfunktion. Eine Logarithmusfunktion wird wie folgt dargestellt:
+
 $$
 f(x) = log_b(x)
 $$
+
 Hier gilt:
 
 - $b$ ist die Basis
@@ -28,4 +30,4 @@ Bei $f(x) = log_b(x)$ gilt:
 
 ## Sonderfall Natürlicher Logarithmus
 
-Der Natürliche Logarithmus ist der Logharitmus der Eulerschenzahl $e$. Er wird statt als $log_e$ häufig als $ln$ oder $log$ ohne $_b$-Wert dargestellt.
+Der Natürliche Logarithmus ist der Logharitmus der Eulerschenzahl $e$. Er wird statt als $log_e$ häufig als $ln$ oder $log$ ohne $b$-Wert dargestellt.

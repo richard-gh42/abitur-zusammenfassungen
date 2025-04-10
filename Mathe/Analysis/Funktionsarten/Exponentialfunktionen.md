@@ -7,9 +7,11 @@
 > — Wikipedia
 
 In seiner simpelsten Form sieht eine Exponentialfunktion also so aus:
+
 $$
 f(x) = b^x
 $$
+
 Hier Gilt:
 
 - $b$ wird als Basis bezeichnet.
@@ -30,10 +32,13 @@ Bei $f(x) = b^x$ gilt:
 ## Sonderfall $e$-Funktion
 
 Eine $e$-Funktion, auch natürliche Exponentialfunktion gennant, ist eine Exponentialfunktion mit der Eulerschenzahl $e$ als Basis. Also:
+
 $$
 e^x
 $$
+
 Sie ist besonders, da sie ihre eigene Ableitung ist. Und, da jede Exponetielle Funktion in eine Variation der $e$-Funktion umgestellt werden kann, macht sie das Arbeiten mit Eponentialfunktionen deutlich einfacher.
+
 $$
 e \approx 2.718281
 $$
