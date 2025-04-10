@@ -10,7 +10,8 @@ $$
 
 Hier gilt:
 
-- $n \in \{\mathbb{N} \geq 1\}$
+- $n \in \mathbb{N}$
+- $n \geq 1$
 - Die Definitionsmenge ist $\mathbb{D_f} = \mathbb{R^+_0}$
 - Die Wertemenge ist $\mathbb{W_f} = \mathbb{R^+_0}$
 - In dieser Form hat die Funktion eine Nullstelle im Ursprung.
