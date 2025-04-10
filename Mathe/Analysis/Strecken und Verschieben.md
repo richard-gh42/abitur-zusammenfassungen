@@ -2,7 +2,7 @@
 
 Der Graph einer Funktion kann sowohl auf der $x$-Achse als auch auf der $y$-Achse verschoben und gestreckt bzw. gestaucht werden.
 $$
-g(x) = a \cdot f( b \cdot (x - c)) + d
+g(x) = a \cdot f( b \cdot x - c) + d
 $$
 Hier gilt:
 
