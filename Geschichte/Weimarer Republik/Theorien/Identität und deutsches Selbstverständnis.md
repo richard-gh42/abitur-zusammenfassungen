@@ -41,7 +41,9 @@ Die Nation als zentraler Aspekt hat sich im 19. Jahrhundert entwickelt und hält
   - kritische Auseinandersetzung mit dem Weg Deutschlands in den Nationalsozialismus
 - Verständnis der Bundesrepublik / die Brüche mit dem 20. Jahrhundert spielen eine große Rolle
 - Aktuell zugleich national und europäisch
-  Schwierigkeiten der Deutschen mit der Neueren Geschichte
+
+### Schwierigkeiten der Deutschen mit der Neueren Geschichte
+
 - Verbrechen des NS-Regimes
 - 2 Weltkriege
 - politische Brüche
