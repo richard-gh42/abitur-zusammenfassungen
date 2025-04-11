@@ -40,5 +40,9 @@ $$
 Sie ist besonders, da sie ihre eigene Ableitung ist. Und, da jede Exponetielle Funktion in eine Variation der $e$-Funktion umgestellt werden kann, macht sie das Arbeiten mit Eponentialfunktionen deutlich einfacher.
 
 $$
+f(x) = a \cdot b^x = a \cdot e^{x \cdot ln(b)}
+$$
+
+$$
 e \approx 2.718281
 $$
