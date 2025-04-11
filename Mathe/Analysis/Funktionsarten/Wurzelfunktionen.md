@@ -1,6 +1,6 @@
 # Wurzelfunktionen
 
-## Definition
+## Beschreibung
 
 Eine Wurzelfunktion ist die Umkehrfunktion einer entsprechenden Potenzfunktion. Eine Wurzelfunktion sieht wie folgt aus:
 

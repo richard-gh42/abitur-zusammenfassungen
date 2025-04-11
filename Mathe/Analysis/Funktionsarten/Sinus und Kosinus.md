@@ -1,6 +1,6 @@
 # Sinus und Kosinus
 
-## Definition
+## Beschreibung
 
 Der Sinus eines Winkels ist in einem rechtwinkilgen Dreieck das Verhältniss der Gegenkathete zur Hypotenuse, der Kosinus das zwischen Ankathete und Hypotenuse.
 

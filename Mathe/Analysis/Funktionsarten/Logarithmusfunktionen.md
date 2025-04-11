@@ -1,6 +1,6 @@
 # Loagarithmusfunktionen
 
-## Definition
+## Beschreibung
 
 > Als Logarithmus einer Zahl bezeichnet man den Exponenten, mit dem eine vorher festgelegte Zahl, die Basis, potenziert werden muss, um die gegebene Zahl, den Numerus, zu erhalten.
 >

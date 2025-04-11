@@ -1,6 +1,6 @@
 # Ganzrationale Funktionen
 
-## Definition
+## Beschreibung
 
 > Eine **ganzrationale Funktion** oder **Polynomfunktion** ist in der Mathematik eine Funktion, die als Summe von Potenzfunktionen mit natürlichen Exponenten beschrieben werden kann.
 >

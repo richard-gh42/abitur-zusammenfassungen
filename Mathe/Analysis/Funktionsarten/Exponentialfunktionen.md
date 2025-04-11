@@ -1,6 +1,6 @@
 # Exponentialfunktionen
 
-## Definition
+## Breschreibung
 
 > In der Mathematik bezeichnet man als Exponentialfunktion eine Funktion der Form $x ↦ a^x$ mit einer reellen Zahl $a > 0$ und $a \neq 1$ als Basis (Grundzahl).
 >
