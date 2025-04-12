@@ -63,11 +63,13 @@ $$
 
 ## Beispiele
 
-**TODO**
-
 ### E-Funktion
 
-Gegeben ist $f(x) = a \cdot e^{x \cdot b}$ um die Ableitung $f'$ zu finden Teilen wir $f$ zunächst in innere und äußere Funktion, anschließend wenden wir die Kettenregel an.
+Gegeben ist $f(x) = a \cdot e^{x \cdot b}$. Um die Ableitung $f'$ zu finden Teilen wir $f$ zunächst in innere und äußere Funktion, anschließend wenden wir die Kettenregel an.
+
+$$
+f(x) = a \cdot e^{x \cdot b} = f_1(f_2(x))
+$$
 
 $$
 f_1(x) = a \cdot e^x
@@ -75,10 +77,6 @@ $$
 
 $$
 f_2(x) = x \cdot b
-$$
-
-$$
-f(x) = f_1(f_2(x))
 $$
 
 $$
