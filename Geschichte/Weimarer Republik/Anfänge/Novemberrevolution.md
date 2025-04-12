@@ -4,6 +4,8 @@ Die Novemberrevolution in Deutschland begann im November 1918, als Arbeiter und 
 
 ## Theodor Wolff (S. 290 M7) beschreibt die Revolution
 
+> Journalist in Weimar (am 10. November 1918 geschrieben)
+
 - Dynamischer Eindruck
 - plötzlicher Machtwechsel
 - Bedeutung der Revolution für Wolff wird durch Beschreibung des Machtapparats verdeutlicht
