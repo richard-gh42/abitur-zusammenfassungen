@@ -1,4 +1,8 @@
-# Ab- und Aufleitung
+# Ableitung
+
+## Beschreibung
+
+Die Ableitung einer Funktion ist die Funktion welche an jeder Stelle der Tangentensteigung ihrer Grundfunktion entspricht.
 
 ## Grundfunktionen
 
