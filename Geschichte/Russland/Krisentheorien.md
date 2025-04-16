@@ -2,57 +2,50 @@
 
 ## Jacob Burckhardt (S. 97)
 
-TODO
+### Gründe für Krisen
+
+- **komplexe Verhältnisse**: Staat, Religion, Kultur
+  - dabei hat meist ein Element **übermäßige Ausdehnung oder Macht**
+  - während andere Elemente eine **übermäßige Einschränkung** erleiden müssen
+- ohne Krisen würden **alte Institutionen** bis zum Verfall des Staats **erhalten bleiben**
 
 ### Krisendefinition
 
-> Krisen als "**Entwicklungsknoten**"
+- Weltprozess gerät **plötzlich** in **furchtbare Schnelligkeit**
+  - **sonst Jahrhunderte**
+  - in Monaten und Wochen vorüber
+  - **damit erledigt**
+- aber nicht nur durch ein Ereignis / Moment
+- sprung- und stoßweise
 
-- Veränderungen / **Prozesse**, die **extrem beschleunigt und sprunghaft** erfolgen
-  - aber nicht durch ein Ereignis / Moment
-- über **längere Zeit aufgebaut**
-- beschleunigte Form des Wandels
-  - Altes **abgeschafft** und Neues **aufgebaut**
-  - sorgen für **Fortschritt**
-- Unter **Zeitdruck**
+### Negative Seite der Anfänge
 
-### Ursachen
+- negative, anklagende Seite
+  - angesammelter Protest gegen das Vergangene
+- **Blindheit** der Teilnehmenden
+  - **Alles schlechte** wird dem **bisherigen Zustand zugesprochen**.
+- nicht homogene Masse, daher nur einig, dass das bisherige weg soll
+  - allerdings nur durch den Zusammenschluss aller wird es möglich etwas zu ändern
 
-- Krisen entstehen in komplexen Zuständen, wo Staat, Religion und Kultur übereinander geschichtet sind.
-- Ein Element erreicht übermäßige Macht und wird missbraucht.
-- Andere Elemente werden eingeschränkt.
-- Unterdrückte Kräfte können ihre Elastizität steigern oder verlieren.
+### Positive Seite der Anfänge
 
-### Verlauf
+- nicht die Elendsten, sondern die **Emporstrebenden** machen den eigentlichen Anfang
+  - **verleihen** der beginnenden Krisis den **idealen Glanz**
+- **Hoffnung** für große Schichten des Volkes
+  - **Vermischung** des **Protests** gegen das Vergangene mit einem **glänzenden Phantasiebild** der Zukunft
 
-- Öffentliche Ordnung wird gestört.
-- Kann unterdrückt werden oder zu einer umfassenden Krise führen.
-- Weltprozess beschleunigt sich drastisch (Entwicklungen in Wochen/Monaten statt Jahrhunderten).
+### Krise als ein neuer Entwicklungsknoten
 
-### Anfangsphase
-
-- Negative Seite: Protest gegen Vergangenes, Angst vor Unbekanntem.
-- Blinde Koalition aller, die Veränderung wollen, ermöglicht Umsturz alter Zustände.
-
-### Positive Seite
-
-- Emporstrebende verleihen der Krise idealen Glanz.
-- Hoffnung und glänzende Zukunftsvisionen dominieren.
-
-### Wirkung
-
-- Krisen räumen mit überholten Lebensformen und Pseudo-Organismen auf.
-- Beseitigen Angst vor Störungen.
-- Fördern frische, mächtige Individuen.
-
-### Krisen als „Entwicklungsknoten“
-
-- Geistige Entwicklungen erfolgen sprung- und stoßweise.
-- Fortschritt durch Abschaffung des Alten und Aufbau des Neuen.
+- Die Krisen **räumen auf** mit Personen und Intuitionen,
+  - die nur durch **historisches Recht erhalten** bleiben und **überfällig** sind
+  - die **nie ein Recht auf Macht** hatten, sich jedoch trotzdem etablierten
+- Beseitigung der angewachsenen **Angst** vor einer **Störung**
+- Hervorbringung von **neuen mächtigen Individuen**
 
 ### Nutzen im Abi
 
-- Ist etwas eine Krise?
+- Ist etwas eine Krise / Revolution?
+- Positiv vs. Negativ
 
 ## Karl W. Deutsch (S. 98f)
 

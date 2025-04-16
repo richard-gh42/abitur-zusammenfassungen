@@ -21,7 +21,7 @@ Erinnerung an die Vergangenheit und Konstruktion der Geschichte ist individuell 
 
 Es wird mehr vergessen als erinnert wird, aber Vergessenes kann in anderer Zeit wieder als Erinnerungswürdig bewertet werden.
 
-## kollektives Gedächtnis (Jan Assmann)
+## kollektives Gedächtnis (Aleida und Jan Assmann)
 
 ![kommunikatives, kollektives und kulturelles Gedächtnis](../../images/Geschichte/Gedaechtnisformen-Uebersicht.jpeg)
 
