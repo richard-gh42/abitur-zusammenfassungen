@@ -1,7 +1,5 @@
 # Konzepte sozialer Gerechtigkeit (S. 232f / 237)
 
-TODO lesen
-
 ## Chancengerechtigkeit
 
 - "**gleiche Chancen für alle**"

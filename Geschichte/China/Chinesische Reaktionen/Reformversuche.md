@@ -6,6 +6,10 @@
 
 ### Ziele
 
+1. Lernen von Westen
+2. Gleichstellung mit Westen
+3. Übertreffen von Westen
+
 - Herrschaftssicherung der Qing-Dynastie
 - Stärkung des Landes gegenüber Einflussnahme von außen
 - Erhaltung chinesischer Traditionen
