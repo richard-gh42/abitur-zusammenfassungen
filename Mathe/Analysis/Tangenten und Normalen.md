@@ -11,7 +11,7 @@ Eine **Normale** ist eine Grade, die einen Graphen an einer stelle schneidet. Si
 Da Steigung $\frac{\Delta y}{\Delta x}$ ist, und $\Delta x$ in einem Punkt $0$ ist, kann die Steigung in einem Punkt nicht errechnet werden. Es kann sich ihr jedoch angenähert werden.\
 Wenn $\Delta x$ gegen $0$ geht und $\frac{\Delta y}{\Delta x}$ gegen eine Zahl geht handelt es sich bei dieser um die Steigung im Punkt.
 
-
+Diese Form der Rechnung nent sich Infinitesimalrachnung. Um dies zu singalisieren wird $\Delta$ durch $d$ ersetzt. Die Tangentensteigung in dem Punkt ist also $\frac{dy}{dx}$.
 
 ## Funktionen
 
