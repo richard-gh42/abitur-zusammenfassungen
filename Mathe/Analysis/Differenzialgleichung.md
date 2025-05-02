@@ -1,3 +1,0 @@
-# Differenzialgleichung
-
-**TODO**
