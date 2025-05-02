@@ -2,7 +2,7 @@
 
 ## Beschreibung
 
-Der Sinus eines Winkels ist in einem rechtwinkilgen Dreieck das Verhältniss der Gegenkathete zur Hypotenuse, der Kosinus das zwischen Ankathete und Hypotenuse.
+Der Sinus eines Winkels ist in einem rechtwinkligen Dreieck das Verhältnis der Gegenkathete zur Hypotenuse, der Kosinus, das zwischen Ankathete und Hypotenuse.
 
 $$
 Sinus(\alpha) = \frac{Gegenkathete}{Hypotenuse}

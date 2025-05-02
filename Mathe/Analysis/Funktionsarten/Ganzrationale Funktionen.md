@@ -20,7 +20,7 @@ Hierbei gilt:
 
 ## Grenzverhalten
 
-Wie sich der Graph einer ganzrationalen Funktion verhält wenn $x$ gegen $\infty$ oder $-\infty$ geht, hängt davon ab, ob $a_n$ größer oder kleiner $0$ ist und ob $n$ grade oder ungrade ist.\
+Wie sich der Graph einer ganzrationalen Funktion verhält, wenn $x$ gegen $\infty$ oder $-\infty$ geht, hängt davon ab, ob $a_n$ größer oder kleiner $0$ ist und ob $n$ grade oder ungrade ist.  
 Es besteht folgender Zusammenhang:
 
 |         | $n$ ist grade                             | $n$ ist ungrade                                                                 |
@@ -30,13 +30,13 @@ Es besteht folgender Zusammenhang:
 
 ## Symmetrie
 
-Der Graph einer ganzrationalen Funktion ist Achsen symetrisch um die $y$-Achse wenn allle Exponenten grade sind. Er ist um den Nulpunkt punktsymetrisch, wenn alle Exponenten ungrade sind.
+Der Graph einer ganzrationalen Funktion ist Achsen symetrisch um die $y$-Achse wenn, allle Exponenten grade sind. Er ist um den Nullpunkt punktsymmetrisch, wenn alle Exponenten ungrade sind.
 
 ## Nullstellen
 
 Eine Nullstelle ist $x_0$ in der Gleichung $f(x_0)=0$.
 
-Die höchst mögliche Anzahl von Nullstellen die eine ganzrationale Funktion haben kann, entspricht ihrem Grad. Eine ganzrationale Funktion $n$-ten Grades kann also $n$ Nullstellen haben.
+Die höchst mögliche Anzahl von Nullstellen, die eine ganzrationale Funktion haben kann, entspricht ihrem Grad. Eine ganzrationale Funktion $n$-ten Grades kann also $n$ Nullstellen haben.
 
 Eine ganzrationale Funktion kann auch als Produkt von Linearfaktoren vorliegen. Das sieht so aus:
 
