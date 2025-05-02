@@ -5,7 +5,7 @@
 Wachstum ist linear wenn es konstant ist. Der Funktionswert ist proportianal zu $x$. Der Graph einer linearen Funktion ist dem entsprechend eine Grade.
 
 $$
-f(x) = k \cdot x \cdot f(0)
+f(x) = k \cdot x + f(0)
 $$
 
 ## Exponetieles Wachstum
