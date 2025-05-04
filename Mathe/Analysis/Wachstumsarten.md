@@ -10,7 +10,7 @@ $$
 
 ## Exponentielles Wachstum
 
-Wachstum ist exponentiell, wenn es vom aktuellen Funktionswert abhängt. Es ist proportional zum Funktionswert. Der Graph bildet eine Kurve, die sich $0$ oder $\infty$ annähert.
+Wachstum ist exponentiell, wenn es vom aktuellen Funktionswert abhängt. Es ist proportional zum Funktionswert. Der Graph bildet eine Kurve, die gegen $0$ oder $\infty$ geht.
 
 $$
 f'(x) = k \cdot f(x)
@@ -24,10 +24,44 @@ $$
 f'(x) = k \cdot (S-f(x))
 $$
 
+Funktionen mit begrenztem Wachstum, haben folgende Form:
+
+$$
+f(x) = S-(S-f(0))e^{-k \cdot x}
+$$
+
+Hier gilt:
+
+- $S$ ist der Sättigungswert
+- $f(0)$ ist der Startwert
+- $k$ ist die Proportionalitätskonstante zwischen Funktionswert und Steigung
+
 ## Logistisches Wachstum
 
-Das logistische Wachstum ist proportional zu sowohl dem Funktionswert als auch der Differenz zum Sättigungswert. Der Graph nähert sich bei $x \to -\infty$ $0$ und bei $x \to \infty$ dem Sättigungswert.
+Das logistische Wachstum ist proportional zu sowohl dem Funktionswert als auch der Differenz zum Grenzwert. Der Graph nähert sich bei $x \to -\infty$ $0$ und bei $x \to \infty$ dem Grenzwert.
 
 $$
-f'(x) = k \cdot f(x) \cdot (S-f(x))
+f'(x) = k \cdot f(x) \cdot (G-f(x))
 $$
+
+Funktionen mit logistischem Wachstum, haben folgende Form:
+
+$$
+f(x) = G \cdot
+\frac{1}{
+    1 + e^{ - k \cdot G \cdot x } ( \frac{ G }{ f(0) } - 1)
+}
+$$
+
+$$
+f(x) =
+G \cdot
+\frac{1}{
+    1 + e^{-kGx}\frac{G}{f(0)} - e^{-kGx}
+}
+$$
+
+Hier gilt:
+
+- $G$ ist der Grenzwert
+- $f(0)$ ist der Startwert
