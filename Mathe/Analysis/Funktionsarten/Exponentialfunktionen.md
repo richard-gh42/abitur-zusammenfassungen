@@ -1,6 +1,6 @@
 # Exponentialfunktionen
 
-## Breschreibung
+## Beschreibung
 
 > In der Mathematik bezeichnet man als Exponentialfunktion eine Funktion der Form $x ↦ a^x$ mit einer reellen Zahl $a > 0$ und $a \neq 1$ als Basis (Grundzahl).
 >
@@ -12,7 +12,7 @@ $$
 f(x) = b^x
 $$
 
-Hier Gilt:
+Hier gilt:
 
 - $b$ wird als Basis bezeichnet.
 - $x$ ist der Exponent.
@@ -31,13 +31,13 @@ Bei $f(x) = b^x$ gilt:
 
 ## Sonderfall $e$-Funktion
 
-Eine $e$-Funktion, auch natürliche Exponentialfunktion gennant, ist eine Exponentialfunktion mit der Eulerschenzahl $e$ als Basis. Also:
+Eine $e$-Funktion, auch natürliche Exponentialfunktion genannt, ist eine Exponentialfunktion mit der Eulerschen Zahl $e$ als Basis. Also:
 
 $$
 e^x
 $$
 
-Sie ist besonders, da sie ihre eigene Ableitung ist. Und, da jede Exponetielle Funktion in eine Variation der $e$-Funktion umgestellt werden kann, macht sie das Arbeiten mit Eponentialfunktionen deutlich einfacher.
+Sie ist besonders, da sie ihre eigene Ableitung ist. Und da jede exponentielle Funktion in eine Variation der $e$-Funktion umgestellt werden kann, macht sie das Arbeiten mit Exponentialfunktionen deutlich einfacher.
 
 $$
 f(x) = a \cdot b^x = a \cdot e^{x \cdot ln(b)}

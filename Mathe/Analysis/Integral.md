@@ -1,5 +1,6 @@
 # Integral
 
+<<<<<<< HEAD
 Die Integration ist die Umkehrung der Ableitung und dient der Berechnung von, von Funktionsgraphen eingeschloßenen Flächen.
 
 ## Herleitung
@@ -7,6 +8,15 @@ Die Integration ist die Umkehrung der Ableitung und dient der Berechnung von, vo
 Um sich dieser Fläche zu nähern kann die Funktion $f$ in Abschnitte geteilt werden. Nun kann die Differenz $x$ mit dem Wert von $f$ in der Mitte des Abschnitts multipliziert werden. Um die gewünschte Näherung zu erhalten, müssen noch alle Abschnitte aufsummiert werden. Um die Präzision zu erhöhen, muss lediglich die Anzahl der Abschnitte im Verhältnis zur Größe des Intervals vergrößert werden.
 
 Für die größt mögliche Genauigkeit muss $\Delta x$ unendlich klein werden. Integralrechnung ist also auch [infinitesimal](Tangenten%20und%20Normalen.md#diferenzierung).
+=======
+Die Integration ist die Umkehrung der Ableitung und dient der Berechnung von von Funktionsgraphen eingeschlossenen Flächen.
+
+## Herleitung
+
+Um sich dieser Fläche zu nähern, kann die Funktion $f$ in Abschnitte geteilt werden. Nun kann die Differenz $x$ mit dem Wert von $f$ in der Mitte des Abschnitts multipliziert werden. Um die gewünschte Näherung zu erhalten, müssen noch alle Abschnitte aufsummiert werden. Um die Präzision zu erhöhen, muss lediglich die Anzahl der Abschnitte im Verhältnis zur Größe des Intervalls vergrößert werden.
+
+Für die größt mögliche Genauigkeit muss $\Delta x$ unendlich klein werden. Integralrechnung ist also auch [infinitesimal](Tangenten%20und%20Normalen.md#differenzierung).
+>>>>>>> 36fd12aa1e8f514094ef939cfb52d3f7e9ec320a
 
 ## Darstellung
 
@@ -24,11 +34,19 @@ $$
 
 Ein relativ einfacher Weg einen Integral zu errechnen ist mittels einer Stammfunktion des Integranten. Eine Stammfunktion einer Funktion ist eine Funktion, deren erste Ableitung die Funktion ist, deren Stammfunktion gesucht wird.
 
+<<<<<<< HEAD
 Eine Stammfunktion einer Funktion wird häufig mit dem zur Funktion passenden Großbuchstaben gekennzeicnet. Eine Stammfunktion von $f$ wäre also $F$.
 
 Um an eine Stammfunktion zu gelangen werden die [Ableitungsregeln](Ableitung.md) (sofern möglich) umgekehrt.
 
 $f(x) = c \to f'(x) = 0$ ist nicht umkehrbar weshalb $c$ nicht bekannt ist. $c$ ist jedoch für das Ausrechnen von Flächen nicht relevant, da es sich in der Berechnung selbst eliminiert.
+=======
+Eine Stammfunktion einer Funktion wird häufig mit dem zur Funktion passenden Großbuchstaben gekennzeichnet. Eine Stammfunktion von $f$ wäre also $F$.
+
+Um an eine Stammfunktion zu gelangen werden die [Ableitungsregeln](Ableitung.md) (sofern möglich) umgekehrt.
+
+$f(x) = c \to f'(x) = 0$ ist nicht umkehrbar, weshalb $c$ nicht bekannt ist. $c$ ist jedoch für das Ausrechnen von Flächen nicht relevant, da es sich in der Berechnung selbst eliminiert.
+>>>>>>> 36fd12aa1e8f514094ef939cfb52d3f7e9ec320a
 
 ## Berechnung mittels Stammfunktion
 
@@ -47,7 +65,11 @@ $$
 
 ### Integral zwischen Funktionen
 
+<<<<<<< HEAD
 Ist die Fläche zwischen zwei Funktionsgraphen ($f$ & $g$) gefragt antelle der Fläche zwischen einem Funktionsgraphen und der $x$-Achse, wird etwas vorbereitung gebraucht.  
+=======
+Ist die Fläche zwischen zwei Funktionsgraphen ($f$ & $g$) gefragt anstelle der Fläche zwischen einem Funktionsgraphen und der $x$-Achse, wird etwas Vorbereitung gebraucht.  
+>>>>>>> 36fd12aa1e8f514094ef939cfb52d3f7e9ec320a
 Es gilt:
 
 $$
@@ -64,6 +86,12 @@ Von hier kann mit der Berechnung wie üblich verfahren werden.
 
 ### Beachtung von Nullstellen
 
+<<<<<<< HEAD
 Ist in der Aufgabe die zwischen zwei Graphen (oder Achsen) eingeschloßene Fläche gefragt muss beachtet werden, dass Flächen, welche unter $0$ liegen von den positiven Fläche Abgezogen werden.
 
 Um dies zu vermeiden kann das Intervall an den Nullstellen der Funktion weiter geteilt werden, und anschließend die Beträge der einzelnen Integrale summiert werden.
+=======
+Ist in der Aufgabe die zwischen zwei Graphen (oder Achsen) eingeschlossene Fläche gefragt, muss beachtet werden, dass Flächen, welche unter $0$ liegen, von den positiven Flächen abgezogen werden.
+
+Um dies zu vermeiden, kann das Intervall an den Nullstellen der Funktion weiter geteilt werden und anschließend die Beträge der einzelnen Integrale summiert werden.
+>>>>>>> 36fd12aa1e8f514094ef939cfb52d3f7e9ec320a
