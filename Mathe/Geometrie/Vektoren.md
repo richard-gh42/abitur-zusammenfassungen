@@ -7,8 +7,7 @@ Vektoren haben eine Länge und eine Richtung. Sie werden haüfig als Pfeil darge
 Ein Vektor wird meist mit einem Kleinbuchstaben (häufig $u$, $v$, $w$) unter einem Pfeil bennant und wie Folgt dargestellt:
 
 $$
-\overrightarrow{v}
-=
+\overrightarrow{v} =
 \begin{pmatrix}
     x_1 \\ x_2 \\ \vdots \\ x_n
 \end{pmatrix}
@@ -22,14 +21,12 @@ Vektoren die vom Nullpunkt auf einen Punkt $A$ zeigen heißen Ortsvektoren und w
 Die Länge oder der Betrag eines Vektors wird wie folgt ermittelt:
 
 $$
-|\overrightarrow{v}|
-=
+|\overrightarrow{v}| =
 \begin{vmatrix}
 \begin{pmatrix}
     x_1 \\ x_2 \\ \vdots \\ x_n
 \end{pmatrix}
-\end{vmatrix}
-=
+\end{vmatrix} =
 \sqrt{(x_1)^2+(x_2)^2+\dots+(x_n)^2}
 $$
 
@@ -41,33 +38,26 @@ Vektoren können zu einander addiert und Subtrahiert werden. Dabei werden die ei
 
 $$
 \begin{matrix}
-\overrightarrow{v} + \overrightarrow{w}
-=
+\overrightarrow{v} + \overrightarrow{w} =
 \begin{pmatrix}
     v_1 \\ v_2 \\ \vdots \\ v_n
-\end{pmatrix}
-+
+\end{pmatrix} +
 \begin{pmatrix}
     w_1 \\ w_2 \\ \vdots \\ w_n
-\end{pmatrix}
-=
+\end{pmatrix} =
 \begin{pmatrix}
     v_1 + w_1 \\
     v_2 + w_2 \\
     \vdots \\
     v_n + w_n
-\end{pmatrix}
-&&
-\overrightarrow{v} - \overrightarrow{w}
-=
+\end{pmatrix} &&
+\overrightarrow{v} - \overrightarrow{w} =
 \begin{pmatrix}
     v_1 \\ v_2 \\ \vdots \\ v_n
-\end{pmatrix}
--
+\end{pmatrix} -
 \begin{pmatrix}
     w_1 \\ w_2 \\ \vdots \\ w_n
-\end{pmatrix}
-=
+\end{pmatrix} =
 \begin{pmatrix}
     v_1 - w_1 \\
     v_2 - w_2 \\
@@ -85,13 +75,11 @@ Vektoren nur mit Vektoren addiert oder subtrahiert werden.
 Ein Vektor kann um einen Skalar multipliziert werden. Hierbei werden die Einzelnen Dimensionen des Vektors um den Skalar multipliziert.
 
 $$
-s \cdot \overrightarrow{v}
-=
+s \cdot \overrightarrow{v} =
 s \cdot
 \begin{pmatrix}
     v_1 \\ v_2 \\ \vdots \\ v_n
-\end{pmatrix}
-=
+\end{pmatrix} =
 \begin{pmatrix}
     s \cdot v_1 \\
     s \cdot v_2 \\
@@ -115,8 +103,7 @@ $$
 \circ
 \begin{pmatrix}
     b_1 \\ b_2 \\ \vdots \\ b_n
-\end{pmatrix}
-=
+\end{pmatrix} =
 a_1 \cdot b_1 + a_2 \cdot b_2 + \dots + a_n \cdot b_n
 $$
 
@@ -125,8 +112,7 @@ Sind die Vektoren orthogonal (im rechten winkel zu einander), ist das Skalarprod
 $$
 \overrightarrow{a} \bot \overrightarrow{b}
 \Leftrightarrow
-\overrightarrow{a} \circ \overrightarrow{b}
-= 0
+\overrightarrow{a} \circ \overrightarrow{b} = 0
 $$
 
 Um andernfals denn Winkel $\varphi$ zwischen den Vektoren zu ermitteln gilt:
