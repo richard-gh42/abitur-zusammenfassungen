@@ -65,3 +65,4 @@ Hier gilt:
 
 - $G$ ist der Grenzwert
 - $f(0)$ ist der Startwert
+- $k$ ist die Proportionalitätskonstante zwischen Funktionswert und Steigung
