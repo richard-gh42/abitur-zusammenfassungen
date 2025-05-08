@@ -1,13 +1,5 @@
 # Wachstumsarten
 
-## Lineares Wachstum
-
-Wachstum ist linear, wenn es konstant ist. Der Funktionswert ist proportional zu $x$. Der Graph einer linearen Funktion ist dem entsprechend eine Grade.
-
-$$
-f(x) = k \cdot x + f(0)
-$$
-
 ## Exponentielles Wachstum
 
 Wachstum ist exponentiell, wenn es vom aktuellen Funktionswert abhängt. Es ist proportional zum Funktionswert. Der Graph bildet eine Kurve, die gegen $0$ oder $\infty$ geht.
@@ -15,6 +7,14 @@ Wachstum ist exponentiell, wenn es vom aktuellen Funktionswert abhängt. Es ist 
 $$
 f'(x) = k \cdot f(x)
 $$
+
+$$
+f(x) = f(0) \cdot e^{k \cdot x}
+$$
+
+### Halbwertszeit / Verdopplungszeit
+
+Die Halbwerts zeit, ist die Zeit (Strecke auf der $x$-Achse) die eine Expotenzielle Abnahme braucht, um ihren Wert zu halbieren. Die Verdopplungszeit ist das Gegenstück für expotentialle Zunahmen, hier ist es die Zeit bis sich der Wert verdppelt hat.
 
 ## Begrentztes Wachstum
 
