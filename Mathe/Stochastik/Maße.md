@@ -80,5 +80,3 @@ $$
 $$
 
 Die Standartabweichung ist nicht die mittlere absolute Abweichung.
-
-**TODO**
