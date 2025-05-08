@@ -115,7 +115,7 @@ $$
 \overrightarrow{a} \circ \overrightarrow{b} = 0
 $$
 
-Um andernfals denn Winkel $\varphi$ zwischen den Vektoren zu ermitteln gilt:
+Um andernfals den Winkel $\varphi$ zwischen den Vektoren zu ermitteln gilt:
 
 $$
 \begin{matrix}
@@ -132,3 +132,50 @@ cos(\varphi) = \frac
 \end{pmatrix}
 \end{matrix}
 $$
+
+### Kreuzprodukt
+
+Das Kreuzprodukt wird durch $\times$ dargestellt. Das Kreuzprodukt zweier Vektoren ist ein Vektor der im orthogonal zu beiden Vektoren ist.  
+In einem dreidimensionalen Koordinatensystem gilt:
+
+$$
+\overrightarrow{a} \times \overrightarrow{b} =
+\begin{pmatrix}
+    a_1 \\ a_2 \\ a_3
+\end{pmatrix}
+\times
+\begin{pmatrix}
+    b_1 \\ b_2 \\ b_3
+\end{pmatrix} =
+\begin{pmatrix}
+    a_2 \cdot b_3 - a_3 \cdot b_2 \\
+    a_3 \cdot b_1 - a_1 \cdot b_3 \\
+    a_1 \cdot b_2 - a_2 \cdot b_1
+\end{pmatrix}
+$$
+
+Das Kreuzprodukt ist nütlich um Normalen von Ebenen zu erzeugen.
+
+## Lineare Abhängigkeit
+
+Zwei Vektoren sind linear abhägig von einander, wenn sie als produkt skalarer multiplikation des anderen Vektors dargestellt werden können.
+
+$$
+\overrightarrow{a} =
+s \cdot \overrightarrow{b}
+\Leftrightarrow
+\overrightarrow{a} \parallel \overrightarrow{b}
+$$
+
+Wobei gilt: $s \in \mathbb{R}$
+
+Umgekehrt sind Vektoren linear unabhängig von einander wenn dies nicht der Fall ist.
+
+$$
+\overrightarrow{a} \neq
+s \cdot \overrightarrow{b}
+\Leftrightarrow
+\overrightarrow{a} \nparallel \overrightarrow{b}
+$$
+
+Lineare abhägigkeit bedeutet, die Richtung der Vektoren ist identisch.
