@@ -108,7 +108,7 @@ $$
 \end{matrix}
 $$
 
-Dieses hat Unendlich viele Lösungen es wird nur eine benötigt.
+Dieses hat Unendlich viele Lösungen es wird nur eine benötigt. Wobei $n \neq 0$ gilt.
 
 Der Stützvektor kann einfach übernommen werden.
 
@@ -134,6 +134,36 @@ $$
 
 gilt. Es mus lediglich darauf geachtet werden, dass die Vektoren nicht linear abhängig sind.
 
-## Lage zu einander
+## Lage
 
-**TODO**
+### Lage zu Graden
+
+$$
+\overrightarrow{a} + s_g \cdot \overrightarrow{v} = \overrightarrow{b} + s_e \cdot \overrightarrow{w} + r \cdot \overrightarrow{u}
+$$
+
+Gibt es hier für
+
+- genau eine Lösung, scheiden sich Grade und Ebene
+- keine Lösung, sind Grade und Ebene parallel
+- unendlich viele Lösungen, liegt die grade in der Flache.
+
+#### Schnittwinkel Grade
+
+Der Schnittwinkel zwischen einer Grade und einer Ebene, entspricht $90°$/$\frac{1}{2}\pi$ minus dem Winkel zwischen der Normale der Fläche und dem Richtungs Vektors der Grade.
+
+### Lage zu einander
+
+$$
+\overrightarrow{a}_1 + s_1 \cdot \overrightarrow{v}_1 + r_1 \cdot \overrightarrow{w}_1 = \overrightarrow{a}_2 + s_2 \cdot \overrightarrow{v}_2 + r_2 \cdot \overrightarrow{w}_2
+$$
+
+Hat diese Gleichung
+
+- unendlich viele Lösungen ohne jedoch frei wählbaren Parameter zu haben, schneiden sich die ebenen in eier Schnittgrade.
+- keine Lösung, dann sind die Graden Parallel.
+- unendlich viele Lösungen mit frei wählbaren Parametern, sind die Flächen identisch.
+
+#### Schnittwinkel Ebene
+
+Der Schnittwinkel zwischen zwei Flächen entspricht dem Winkel zwischen ihren Normalen.
